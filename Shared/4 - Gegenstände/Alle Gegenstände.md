@@ -130,7 +130,7 @@ Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.|
 > **1. Wasser-Elementar beschwören**
 - **Dickes Buch. Weißlicher Einband mit Silber.** 
 >[!dialogue2]- **Malduk:** 
->Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [<5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [<50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:
+>Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:
 > 1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber]  
 > 2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK]  
 > 3. Mananetz [SG-0, Macht 0, Hauszauber, keine MK]  
