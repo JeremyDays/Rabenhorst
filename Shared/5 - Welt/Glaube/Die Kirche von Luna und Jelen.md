@@ -1,0 +1,3 @@
+Die Kirche verbot irgendwann die menschliche Abbildung, aber man munkelt, dass es in den goldenen Kammern der Kirche noch menschliche Abbilder der Götter gibt.
+
+Die Kirche verbietet es, aber außerdem werden in der Gegend mächtige Feen und Naturgeister angebetet. Allen voran die drei [[Erzfeen]], die man leichthin nur die [[Herrinnen]] nennt. Im Volksglauben sind sie die Kinder [[Luna]] und [[Jelen]]s.
