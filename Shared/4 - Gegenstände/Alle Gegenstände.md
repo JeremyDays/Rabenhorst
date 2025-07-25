@@ -1,10 +1,10 @@
-#### Währung
+### Währung
 
 | Nickel (Eisen) | Heller  (Kupfer) | **Pfennig (Silber)** | Kreuzer | Groschen | Batzen | Mark    | Taler   |
 | -------------- | ---------------- | -------------------- | ------- | -------- | ------ | ------- | ------- |
 | 0.1 Pf.        | 0.5 Pf.          | **1 Pf.**            | 5 Pf.   | 10 Pf.   | 15 Pf. | 250 Pf. | 500 Pf. |
 
-#### **Heinard**
+### **Heinard**
 
 - **Silberpfennige:** 9
 - **"Hoffnungsschimmer" Streitkolben.** Silbernes Metall. 1W6+1 Schaden.  
@@ -29,7 +29,7 @@ Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.|
 - **~~RIPpy.~~** ~~Ein kleiner Fuchs.~~
 - **~~Alchimistenfeuer.~~** ~~Schwarze Flasche mit Flammensymbol.~~
 
-#### **Michal**
+### **Michal**
 
 - **Silberpfennige:** 0
 - **Riesenfigur**
@@ -84,7 +84,7 @@ Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.|
 - Ausrüstung von Bilrath.
 - Verpflegung von Bilrath.
 
-#### **Malduk**
+### **Malduk**
 
 - **Silberpfennige:** 525
 - **Silber-Medaillon**
@@ -194,7 +194,7 @@ Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.|
 - **Silberne Haarbürste.** Am Lederbändchen.
 - **~~Bernsteinmedaillon.~~** ~~Blüte in Harz.~~
 
-#### **Ireena**
+### **Ireena**
 
 - **Hirsch-Medaillon.** Band der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.
 >[!dialogue2]- **Malduk:** 
@@ -207,11 +207,11 @@ Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.|
 - **Puderdose.**
 - **Haarbürste Elfenbein.** Silberne Borsten.
 
-#### **Pferd "Erna"**
+### **Pferd "Erna"**
 
 Kutschpferd aus [[Barovia]].
 
-#### **Wagen**
+### **Wagen**
 
 Kutschwagen + 2-rädriger Karren mit Deichsel.  
 Größe des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch.  
