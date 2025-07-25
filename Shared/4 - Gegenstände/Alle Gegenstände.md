@@ -1,8 +1,8 @@
 #### Währung
 
-| Nickel  <br>(Eisen) | Heller  <br>(Kupfer) | **Pfennig  <br>(Silber)** | Kreuzer | Groschen | Batzen | Mark    | Taler   |
-| ------------------- | -------------------- | ------------------------- | ------- | -------- | ------ | ------- | ------- |
-| 0.1 Pf.             | 0.5 Pf.              | **1 Pf.**                 | 5 Pf.   | 10 Pf.   | 15 Pf. | 250 Pf. | 500 Pf. |
+| Nickel (Eisen) | Heller  (Kupfer) | **Pfennig (Silber)** | Kreuzer | Groschen | Batzen | Mark    | Taler   |
+| -------------- | ---------------- | -------------------- | ------- | -------- | ------ | ------- | ------- |
+| 0.1 Pf.        | 0.5 Pf.          | **1 Pf.**            | 5 Pf.   | 10 Pf.   | 15 Pf. | 250 Pf. | 500 Pf. |
 
 #### **Heinard**
 
