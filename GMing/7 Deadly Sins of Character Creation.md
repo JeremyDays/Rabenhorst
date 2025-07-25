@@ -1,3 +1,7 @@
+---
+publish: "false"
+---
+
 By Edariad
 https://www.youtube.com/watch?v=R-PGQxzms38&t=2s&ab_channel=Edariad
 
