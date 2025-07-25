@@ -39,7 +39,7 @@ SOZIAL
 Beredsamkeit | 15 Savoir Faire | 15 Schauspielern | 12 Aushorchen u. Verhören | 10 Bestechen | 10 Darstellen u. Vortragen | 10 Mit Tieren umgehen | 10 Verführen | 10 Verkleiden | 10 
 
 Zauber 
-Essenzmagie wirken | 19 Hauptarkanazugriff (INT+WIL<37): 0 Meta, 1 Elemente, 2 Tod 
+Essenzmagie wirken | 19 Hauptarkanazugriff (INT+WIL kleiner 37): 0 Meta, 1 Elemente, 2 Tod 
 **WASSER** | Rang 4 | 21 | Macht -2 
 Flüssigkeit spüren | 20 | 0 -> 20 | 0 
 Isolationsschicht | 20 | 0 -> 20 | 0 
