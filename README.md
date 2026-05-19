@@ -1,5 +1,20 @@
+---
+title: Rabenhorst
+---
+
 # Rabenhorst
 
-<p>Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere Land Ravenloft wie ein unheilvolles Mahnmal. Der Mond scheint blass und blutig, ein unheiliges Licht, das die verfallenen Zinnen von Schloss Ravenloft streift, während dunkle Wolken die Sterne verschlingen. Hier ist jeder Atemzug schwer von der Fäulnis vergangener Hoffnungen, und die Schatten flüstern die Schreie derer, die einst wagten, das Land zu durchqueren.</p>
-<p>Dies ist eine Welt, in der die Dunkelheit allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht. Die Menschen von Barovia leben in ständiger Angst, während ihr geflüstertes Gebet gegen die eisige Umarmung des Vampirfürsten Strahd von Zarovich verhallt. Er thront über allem, ein Schatten unter Schatten, der die Zeit selbst in Fesseln legt, um sich an endlosem Leid zu laben.</p>
-<p>Dies ist eine Welt, in der die Dunkelheit allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht. Die Menschen von Barovia leben in ständiger Angst, während ihr geflüstertes Gebet gegen die eisige Umarmung des Vampirfürsten Strahd von Zarovich verhallt. Er thront über allem, ein Schatten unter Schatten, der die Zeit selbst in Fesseln legt, um sich an endlosem Leid zu laben.</p>
+<p>
+  <a href="https://jeremydays.github.io/Rabenhorst/" target="_blank" rel="noreferrer">
+    Rabenhorst-Dashboard in einem neuen Tab öffnen
+  </a>
+</p>
+
+<iframe
+  src="https://jeremydays.github.io/Rabenhorst/"
+  title="Rabenhorst Dashboard"
+  width="100%"
+  height="900"
+  frameBorder="0"
+  allowFullScreen
+/>
