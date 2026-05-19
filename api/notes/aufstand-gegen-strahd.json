@@ -1,0 +1,45 @@
+{
+  "title": "Aufstand gegen Strahd",
+  "slug": "aufstand-gegen-strahd",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Aufstand gegen Strahd.md",
+  "url": "notes/aufstand-gegen-strahd.html",
+  "apiUrl": "api/notes/aufstand-gegen-strahd.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Mart 754 (vor 1 Jahr) Von Meister Hadrian geleitet und gescheitert. Dabei starb angeblich Meister Hadrian gegen Graf Strahd. Dabei starben viele Bürger Barovias. Dabei starb Doru D",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "Meister Hadrian",
+      "label": "Meister Hadrian",
+      "slug": "meister-hadrian"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Doru Donavich",
+      "label": "Doru Donavich",
+      "slug": "doru-donavich"
+    },
+    {
+      "target": "Vampire",
+      "label": "Vampir",
+      "slug": "vampire"
+    }
+  ],
+  "markdown": "\n**Mart 754** (vor 1 Jahr)\n\nVon [[Meister Hadrian]] geleitet und gescheitert.\n- Dabei starb angeblich [[Meister Hadrian]] gegen [[Graf Strahd]].\n- Dabei starben viele Bürger [[Barovia]]s.\n- Dabei starb [[Doru Donavich]] und kam als [[Vampire|Vampir]] zurück.\n- \n\n"
+}

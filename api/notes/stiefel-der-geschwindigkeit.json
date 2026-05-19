@@ -1,0 +1,19 @@
+{
+  "title": "Stiefel der Geschwindigkeit",
+  "slug": "stiefel-der-geschwindigkeit",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Gegenstände/Stiefel der Geschwindigkeit.md",
+  "url": "notes/stiefel-der-geschwindigkeit.html",
+  "apiUrl": "api/notes/stiefel-der-geschwindigkeit.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo gefunden: ==Weiß ich nicht mehr== Malduk: Magisch. Stiefel der Geschwindigkeit. Doppelte Bewegung für 5min. Bis sich die Machtpunkte wieder regenerieren. 12m/s = 48m/Rd = 60km/h",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Wo gefunden:** ==Weiß ich nicht mehr==\n\n>***Malduk:** Magisch. Stiefel der Geschwindigkeit. Doppelte Bewegung für 5min. Bis sich die Machtpunkte wieder regenerieren. 12m/s = 48m/Rd = 60km/h.*\n\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kiste von Graf Strahd",
+  "slug": "kiste-von-graf-strahd",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Kiste von Graf Strahd.md",
+  "url": "notes/kiste-von-graf-strahd.html",
+  "apiUrl": "api/notes/kiste-von-graf-strahd.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Zerstört Eine verfluchte Kiste, in der ein Spinnen Monster war.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Zerstört**\n\nEine verfluchte Kiste, in der ein Spinnen-Monster war.\n"
+}

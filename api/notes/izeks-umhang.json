@@ -1,0 +1,25 @@
+{
+  "title": "Izeks Umhang",
+  "slug": "izeks-umhang",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Izeks Umhang.md",
+  "url": "notes/izeks-umhang.html",
+  "apiUrl": "api/notes/izeks-umhang.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Izek Strazni Schutzmagie",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    }
+  ],
+  "markdown": "\n**Wo:** [[Izek Strazni]]\nSchutzmagie\n"
+}

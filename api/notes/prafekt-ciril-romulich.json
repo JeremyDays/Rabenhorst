@@ -1,0 +1,55 @@
+{
+  "title": "Präfekt Ciril Romulich",
+  "slug": "prafekt-ciril-romulich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Präfekt Ciril Romulich.md",
+  "url": "notes/prafekt-ciril-romulich.html",
+  "apiUrl": "api/notes/prafekt-ciril-romulich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hohepriester des Allerheiligsten OrdensAllerheiligster Orden Ciril Romulich diente König Barov und sollte die Hochzeit von Prinz Sergei und der Dame Tatyana vollziehen. Als die hei",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Allerheiligster Orden",
+      "label": "Allerheiligsten Ordens",
+      "slug": "allerheiligster-orden"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinz Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "heilige Markovia",
+      "slug": "sankt-markovia"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexer",
+      "slug": "hexen"
+    }
+  ],
+  "markdown": "\nHohepriester des [[Allerheiligster Orden|Allerheiligsten Ordens]]\n\n- Ciril Romulich diente [[König Barov]] und sollte die Hochzeit von [[Prinz Sergei]] und der Dame [[Tatyana]] vollziehen. \n- Als die [[Sankt Markovia|heilige Markovia]] verstorben war, nahm Ciril Romulich die Beisetzung in [[Schloss Rabenhorst]] vor. \n- Manche glauben, er sei ein Schattenpriester, der dunkle Kräfte besitzt, vielleicht sogar ein [[Hexen|Hexer]].\n"
+}

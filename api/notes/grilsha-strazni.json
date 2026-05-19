@@ -1,0 +1,40 @@
+{
+  "title": "Grilsha Strazni",
+  "slug": "grilsha-strazni",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Opfer/Grilsha Strazni.md",
+  "url": "notes/grilsha-strazni.html",
+  "apiUrl": "api/notes/grilsha-strazni.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Grilsha Strazni wurde in Haus Alkir geopfert. Sie erstickte, nachdem sie die Zunge abbiss. Stock! Familie Strazni Malduk: Ist sie verwandt mit Izek Strazni? Izek Strazni: Ja!",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Grilsha Strazni",
+      "label": "Grilsha Strazni",
+      "slug": "grilsha-strazni"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Familie Strazni",
+      "label": "Familie Strazni",
+      "slug": "familie-strazni"
+    },
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    }
+  ],
+  "markdown": "\n[[Grilsha Strazni]] wurde in [[Haus Alkir]] geopfert. Sie erstickte, nachdem sie die Zunge abbiss. Stock!\n\n[[Familie Strazni]]\n\n>***Malduk:** Ist sie verwandt mit [[Izek Strazni]]?*\n\n[[Izek Strazni]]: Ja!"
+}

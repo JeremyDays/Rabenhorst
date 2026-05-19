@@ -1,0 +1,19 @@
+{
+  "title": "Schwarzes Buch",
+  "slug": "schwarzes-buch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Bücher/Schwarzes Buch.md",
+  "url": "notes/schwarzes-buch.html",
+  "apiUrl": "api/notes/schwarzes-buch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Dickes Buch. Schwarz. Leer. Malduk: Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiv",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nDickes Buch. Schwarz. Leer.  \n\n>***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*\n\n"
+}

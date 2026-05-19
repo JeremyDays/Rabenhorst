@@ -1,0 +1,50 @@
+{
+  "title": "Schlacht am Rabenfluss",
+  "slug": "schlacht-am-rabenfluss",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Schlacht am Rabenfluss.md",
+  "url": "notes/schlacht-am-rabenfluss.html",
+  "apiUrl": "api/notes/schlacht-am-rabenfluss.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Eine Schlacht des Großen KriegGroßer Kriegs nach der Schlacht von Berez, nachdem Argynvostholt von den Terg und der Armee von Prinz StrahdGraf Strahd belagert wurde. Dort fiel Lugd",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "Großer Krieg",
+      "label": "Großen Krieg",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Schlacht von Berez",
+      "label": "Schlacht von Berez",
+      "slug": "schlacht-von-berez"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Prinz Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    }
+  ],
+  "markdown": "\n- Eine Schlacht des [[Großer Krieg|Großen Krieg]]s nach der [[Schlacht von Berez]], nachdem [[Argynvostholt]] von den [[Terg]] und der Armee von [[Graf Strahd|Prinz Strahd]] belagert wurde.\n- Dort fiel [[Lugdana Argynvost]].\n\n\n>***Malduk:** Wann war das?*\n"
+}

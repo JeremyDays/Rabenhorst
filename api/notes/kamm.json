@@ -1,0 +1,25 @@
+{
+  "title": "Kamm",
+  "slug": "kamm",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Ireena/Sonstiges/Kamm.md",
+  "url": "notes/kamm.html",
+  "apiUrl": "api/notes/kamm.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Haus Alkir",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Haus Alkir]]\n\n"
+}

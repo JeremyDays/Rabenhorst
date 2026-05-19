@@ -1,0 +1,33 @@
+{
+  "title": "Bildrath Cantemir",
+  "slug": "bildrath-cantemir",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Bildrath Cantemir.md",
+  "url": "notes/bildrath-cantemir.html",
+  "apiUrl": "api/notes/bildrath-cantemir.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Besitzer des Alten HandelshausesAltes Handelshaus. Verdient noch Geld. Gierig. Onkel von Parriwimpel.",
+  "frontmatter": {
+    "aliases": [
+      "Bildrath"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Altes Handelshaus",
+      "label": "Alten Handelshauses",
+      "slug": "altes-handelshaus"
+    },
+    {
+      "target": "Parriwimpel",
+      "label": "Parriwimpel",
+      "slug": "parriwimpel"
+    }
+  ],
+  "markdown": "Besitzer des [[Altes Handelshaus|Alten Handelshauses]]. \nVerdient noch Geld. Gierig. Onkel von [[Parriwimpel]].\n\n![[Bildrath Cantemir.png]]\n\n"
+}

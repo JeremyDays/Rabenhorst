@@ -1,0 +1,55 @@
+{
+  "title": "Sir Godfrey",
+  "slug": "sir-godfrey",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Argynvost/Sir Godfrey.md",
+  "url": "notes/sir-godfrey.html",
+  "apiUrl": "api/notes/sir-godfrey.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ritter des Silbernen Drachen von Argynvost Der einzige Überlebende der Paladin Ritter des Ordens des Silbernen DrachensRitter des Silbernen Drachen von Graf Argynvost, der der Absc",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ordens des Silbernen Drachens",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Abtei St. Martikov",
+      "label": "Abtei St. Martikov",
+      "slug": "abtei-st-martikov"
+    }
+  ],
+  "markdown": "\n[[Ritter des Silbernen Drachen]] von [[Argynvost]]\n\n- Der einzige Überlebende der Paladin-Ritter des [[Ritter des Silbernen Drachen|Ordens des Silbernen Drachens]] von [[Graf Argynvost]], der der Abschlachterei durch die Truppen [[Graf Strahd]]s entgangen war, als dieser [[Argynvostholt]] direkt angegriffen hat.\n\n- Er floh zur [[Abtei St. Martikov]].\n"
+}

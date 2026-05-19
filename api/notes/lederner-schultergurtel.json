@@ -1,0 +1,35 @@
+{
+  "title": "Lederner Schultergürtel",
+  "slug": "lederner-schultergurtel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Sonstiges/Lederner Schultergürtel.md",
+  "url": "notes/lederner-schultergurtel.html",
+  "apiUrl": "api/notes/lederner-schultergurtel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Heinard in Haus Alkir. Ruheraum 4 Schlaufen mit 4 widerstandsfähigen Fläschchen aus silbernem Metall und Schraubverschlüssen 1. Leeres Fläschchen 2. ~~Jelenkraut (angeneh",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Ruheraum\n\n4 Schlaufen mit 4 widerstandsfähigen Fläschchen aus silbernem Metall und Schraubverschlüssen\n\n1. Leeres Fläschchen\n2. ~~[[Jelen]]kraut (angenehmer Geruch; Heiltrank, 8 LP)~~\n3. ~~Messwein (Geruch nach reifen Trauben)~~\n4. Bitterwurz (Geruch nach scharfem Jägermeister; Antidot gegen Gift)\n\n"
+}

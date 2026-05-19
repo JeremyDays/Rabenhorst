@@ -1,0 +1,31 @@
+{
+  "title": "Heiltrank der Hexen",
+  "slug": "heiltrank-der-hexen",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Magische Gegenstände/Heiltrank der Hexen.md",
+  "url": "notes/heiltrank-der-hexen.html",
+  "apiUrl": "api/notes/heiltrank-der-hexen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Heinard. Hexenmühle 2/2 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP].",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ],
+    "aliases": ""
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Heinard]]. [[Hexenmühle]]\n2/2 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n"
+}

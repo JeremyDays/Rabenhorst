@@ -1,0 +1,250 @@
+{
+  "title": "S19 - Die Blauen Vistani",
+  "slug": "s19-die-blauen-vistani",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc04 - Vistani/S19 - Die Blauen Vistani.md",
+  "url": "notes/s19-die-blauen-vistani.html",
+  "apiUrl": "api/notes/s19-die-blauen-vistani.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "21. Fivral 755 EB (25.08.2022) Schwierigkeit: 3 [!dialogue2] Szene 1 Am Scheideweg ==Kurz vor Mittag, aber es fühlt sich nach Abend an== Ivlis Kreuzung F: Licht & Schatten ==Was he",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "21. Fivral 755 EB",
+      "label": "21. Fivral 755 EB",
+      "slug": "21-fivral-755-eb"
+    },
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Untote",
+      "label": "Untote",
+      "slug": "untote"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Zombie-Teile",
+      "label": "Zombie-Teile",
+      "slug": "zombie-teile"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Rote Vistani",
+      "label": "Rote Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Ausgestoßene Vistani",
+      "label": "Ausgestoßene Vistani",
+      "slug": "ausgesto-ene-vistani"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Aufstand gegen Strahd",
+      "label": "Aufstand gegen Strahd",
+      "slug": "aufstand-gegen-strahd"
+    },
+    {
+      "target": "Meister Hadrian",
+      "label": "Zauberer",
+      "slug": "meister-hadrian"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Teufel Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Vampire",
+      "label": "Vampir",
+      "slug": "vampire"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Meister Hadrian",
+      "label": "Zauberers",
+      "slug": "meister-hadrian"
+    },
+    {
+      "target": "Ivlis-Fluss",
+      "label": "Ivlis-Fluss",
+      "slug": "ivlis-fluss"
+    },
+    {
+      "target": "Meister Hadrian",
+      "label": "Meister Hadrian",
+      "slug": "meister-hadrian"
+    },
+    {
+      "target": "Magus von Baratok",
+      "label": "Magus von Baratok",
+      "slug": "magus-von-baratok"
+    },
+    {
+      "target": "Meister Hadrian",
+      "label": "Magier",
+      "slug": "meister-hadrian"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Uralte Eiche",
+      "label": "Uralte Eiche",
+      "slug": "uralte-eiche"
+    },
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarischen Imperium",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo Dilisyana",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Silva Dilisyana",
+      "label": "Silva Dilisyana",
+      "slug": "silva-dilisyana"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo der Löwe",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinz Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo dem Löwen",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Arigall",
+      "label": "Arigall",
+      "slug": "arigall"
+    },
+    {
+      "target": "Lager der Roten Vistani",
+      "label": "Lager",
+      "slug": "lager-der-roten-vistani"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Königin Ravenovia",
+      "label": "Königin Ravenovia",
+      "slug": "konigin-ravenovia"
+    }
+  ],
+  "markdown": "\n[[21. Fivral 755 EB]] (25.08.2022)\nSchwierigkeit: 3\n\n>[!dialogue2] Szene 1 - Am Scheideweg\n- ==Kurz vor Mittag, aber es fühlt sich nach Abend an==\n- [[Ivlis-Kreuzung]]\n- F: Licht & Schatten ==Was heißt das? Bezieht sich das auf [[Heinard]]? Oder auf ein Bild, das uns der SL gezeigt hat?==\n- [[Michal]]: Beim Übergang in dieses Land: Er erwartet Antworten zu seiner Vergangenheit.\n- [[Ireena]] duftet nach [[Cataryma]], nach Rosenwasser.\n- Die [[Untote]] hier sind weit verwest, Monate bis Jahre alt. Sie haben Überreste von Kleidung an, aber der Sand und die Erde sind frisch an den Gräbern\n- [[Malduk]] sammelt [[Zombie-Teile]] ein, Fingernägel, Haar, Haut (+)\n- [[Malduk]] sammelt Loot ein (+) ==Was war das konkret??==\n- [[Ireena]] ist davon angewidert und zeigt [[Malduk]] gegenüber Abscheu\n- Eine Kreuzung ist ein Kreuzweg. Er sorgt dafür, dass Seelen niemals den rechten Weg finden!\n- \"Ihr haltet wohl alles für Humbug!\"\n- [[Madame Eva]]: Mittel ==Wie war das gemeint?==\n\n>[!dialogue2] Szene 2 - Tser-Teich\n- ==12:05==\n- [[Tser-Teich]]\n- F: Wasseroberfläche\n- Schlammig\n- [[Lager der Blauen Vistani]]\n- Weg Richtung Norden. \n- Wir finden das [[Lager der Blauen Vistani]]\n- 8 Pferde stehen da einfach so rum. Aber sie sind wohl nicht besorgt. Sie haben 6 Bulldoggen-Hunde als Wachen.\n- [[Petra]]: \"Seid willkommen, Georgios!\"\n\t- Kinnbart, Oberlippenbart, athletisch, helle, bunte Kleider, blaues Tuch um den Hals (wie die anderen), 1,75m groß.\n- Wir hatten [[Vistani]] mit roten Tüchern vor [[Barovia (Dorf)]] getroffen: [[Rote Vistani]].\n- Wir hatten [[Vistani]] ohne Tücher in [[Barovia (Dorf)]] getroffen: [[Ausgestoßene Vistani]]\n- Töpfe und Ballen im Zelt\n- 1 Leithund bleibt stehen und leckt über [[Ireena]]s Hand. Die anderen weichen eher zurück.\n- Wir haben das Pferd und den Wagen weggestellt.\n- [[Vistani]] verzeihen und vergessen nie.\n\n>[!dialogue2] Szene 3 - Musik mit den Vistani\n- **Wir fragen nach [[Madame Eva]]:**\n- Niemand geht ohne Aufforderung zum Zelt von [[Madame Eva]]\n- Starke Aura von [[Magie]]. Aber untrainiert. Auf der Basis von Gefühl.\n- [[Malduk]] spürt eine Welle der Kraft aus dem Zelt von [[Madame Eva]].\n- Auf der [[Ivlis-Kreuzung]] hat sie ihren ersten Blick auf [[Heinard]] gerichtet.\n- [[Heinard]]: Auf Anhöhe ==Was heißt das?==\n- [[Michal]] ist ein **Georgio**, ein Nicht-Vistani, der zu einem **Gigotto** wird, ein Freund der [[Vistani]], ein Ehren-Vistani.\n- [[Madame Eva]] erwartet uns, aber sie ruht. Der Wind hat zu ihr gesprochen.\n- [[Michal]] spielt die Leier!\n- 2 Frauen singen zum Musikspiel\n- [[Petra]] spielt die Gitarre\n- 2 Frauen tanzen\n\n>[!dialogue2] Szene 4 - Petra erzählt über den Aufstand gegen Strahd\n- [[Petra]] erzählt eine Geschichte über den Kampf von Titanen ([[Aufstand gegen Strahd]]): \n\t- Vor 12 Monaten kam ein mächtiger [[Meister Hadrian|Zauberer]] in das Land. Er war charismatisch. \n\t- Er hat die Bevölkerung angestachelt gegen den [[Graf Strahd|Teufel Strahd]].\n\t- Viele der Söhne des Glaubens gingen mit ihm. \n\t- Aber der [[Vampire|Vampir]] [[Graf Strahd|Strahd]] war froh über das Bauernheer. Nur wenige hielten ihm stand. \n\t- Und dann war es der [[Meister Hadrian|Zauberer]] gegen [[Graf Strahd]].\n\t- [[Petra]] hat alles mit eigenen Augen gesehen.\n\t- Felsen stürzten herab.\n\t- Blitze schossen von [[Graf Strahd]] aus auf den [[Meister Hadrian|Zauberer]].\n\t- Aber Schnelligkeit und Wildheit...\n\t- Beide fielen in den Abgrund. \n\t- Die Leiche des [[Meister Hadrian|Zauberers]] ist nie gefunden worden.\n\t- Der [[Ivlis-Fluss]] hatte ihn fortgetragen.\n\t- [[Petra]] erinnert sich nicht an den Namen des [[Meister Hadrian|Zauberers]]\n\n>***Malduk:** Wir hätten ihn fragen sollen, wie der Zauberer aussah. Dann könnte ich sicher sagen, ob es wirklich [[Meister Hadrian]] war.*\n>***Malduk:** Laut [[Petra]] ist der [[Meister Hadrian|Zauberer]] nicht tot, sondern wurde vom [[Ivlis-Fluss]] fortgetragen. Ist er vielleicht der [[Magus von Baratok]]?*\n\n- Der [[Meister Hadrian|Magier]] gehörte zum Zirkel der Sieben. Jenseits des Erwachens des [[Nebel]]s. Nur von dort, wo [[Uralte Eiche]]n stehen.\n\n>***Malduk:** Es gibt 7 Großmeister der 7 Arkana im [[Velarisches Imperium|Velarischen Imperium]]. Der Großmeister des Arkanum Elemente war [[Meister Hadrian]], aber er ist vor mehr als 2 Wintern verschwunden. Er beherrschte jedes der Elemente gleich gut. Er sei in Experimenten verschwunden.*\n\n- [[Madame Eva]] ist die Anführerin und [[Petra]] ist auch ein Anführer.\n\n>[!dialogue2] Szene 5 - Petra erzählt über die Loyalität der Vistani\n- Die [[Vistani]] sind die Nachkommen von [[Leo der Löwe|Leo Dilisyana]], dem Halbbruder von [[Graf Strahd]]. Er ist vom gleichen Blut wie [[Graf Strahd]] (über seinen Vater, [[König Barov]]).\n- Seine Mutter war [[Silva Dilisyana]], die eine Liebschaft mit [[König Barov]], dem Vater von [[Graf Strahd]] hatte.\n- [[Leo der Löwe]] war tapfer, aber er starb beim Jagen. Ein Jagdunfall, sagt man. \n- Er war ein guter Freund von [[Prinz Sergei]], dem Bruder von [[Graf Strahd]].\n- [[Quest]]: Falls wir Beweise finden für einen Mord an [[Leo der Löwe|Leo dem Löwen]], dann stehen die [[Vistani]] hinter uns gegen [[Graf Strahd]].\n\n>[!dialogue2] Szene 6 - Das 1x1 des Vistanischen\n- Die [[Blaue Vistani|Blauen Vistani]] leben am [[Tser-Teich]] immer fort\n- Die [[Rote Vistani|Roten Vistani]] werden auch die [[Vallaki]]-Vistani genannt. Sie leben bei [[Vallaki]] und sind eher Diener [[Graf Strahd]]s. Ihr Anführer heißt [[Arigall]] und ihr [[Lager der Roten Vistani|Lager]] ist bei [[Vallaki]]\n- Die [[Vistani]] ohne Halstuch sind **Rimanio**. Sie haben die Sippe verlassen. Das ist wie eine Beerdigung feiern.\n- **Vani** sind Zurückkehrer. Auferstandene.\n- **Mortu** sind Verstoßene. Sie haben einen Schnitt unter dem linken Auge. Sie haben einen Pakt mit den Wesen der Nacht gemacht oder ein Versprechen gebrochen oder ein Verbrechen wie Diebstahl oder Mord begangen.\n- [[Vistani]] heißt \"das Volk\"\n- [[Vistani]] haben einen Codex. Sie arbeiten zwar für [[Graf Strahd]], aber auf Augenhöhe. Auch die [[Vallaki]]-Vistani, die [[Rote Vistani|Roten Vistani]] würden nicht die Tser-Vistani, die [[Blaue Vistani|Blauen Vistani]] verraten.\n\n>[!dialogue2] Szene 7 - Michal trägt vor\n- [[Michal]] erzählt und spielt musikalisch und schauspielerisch die Geschichte des [[Haus Alkir]] vor.\n\n- [[Graf Strahd]]s Vater war [[König Barov]], seine Mutter [[Königin Ravenovia]]\n- [[Graf Strahd]] beherrscht die [[Magie]] der Elemente.\n- ==16:00==\n\n---\n**To Do:** \n- Wir gehen zu [[Madame Eva]]\n"
+}

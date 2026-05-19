@@ -1,0 +1,43 @@
+{
+  "title": "Offilia",
+  "slug": "offilia",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Hexenmühle/Offilia.md",
+  "url": "notes/offilia.html",
+  "apiUrl": "api/notes/offilia.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "HexeHexen der Hexenmühle Wo getroffen: Hexenmühle Beziehungen: Tochter von Morganta und Schwester von Bella Macht Puppen. Lässt ihre Puppen überall liegen.",
+  "frontmatter": {
+    "aliases": [
+      "Offilia Wurmschwanz"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hexen",
+      "label": "Hexe",
+      "slug": "hexen"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Morganta",
+      "label": "Morganta",
+      "slug": "morganta"
+    },
+    {
+      "target": "Bella",
+      "label": "Bella",
+      "slug": "bella"
+    }
+  ],
+  "markdown": "\n[[Hexen|Hexe]] der [[Hexenmühle]]\n\n![[Offilia.png]]\n\n**Wo getroffen:** [[Hexenmühle]]\n\n**Beziehungen:**\n- Tochter von [[Morganta]] und Schwester von [[Bella]]\n\n- Macht Puppen. Lässt ihre Puppen überall liegen.\n- "
+}

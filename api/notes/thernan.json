@@ -1,0 +1,25 @@
+{
+  "title": "Thernan",
+  "slug": "thernan",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Die Blauen Rosen/Thernan.md",
+  "url": "notes/thernan.html",
+  "apiUrl": "api/notes/thernan.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Gehört zur ehemaligen Abenteurergruppe von Malduk. Thernan – Der Kriegspriester ohne Gott Herkunft : Aus den Salzwiesen der Südklippen, Sohn eines Salzhändlers. Kriegserfahrung : A",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\nGehört zur ehemaligen Abenteurergruppe von [[Malduk]].\n\n### **Thernan – Der Kriegspriester ohne Gott**\n\n- **Herkunft**: Aus den Salzwiesen der Südklippen, Sohn eines Salzhändlers.\n    \n- **Kriegserfahrung**: Als junger Mann freiwillig zu den Grenzmilizen – sein Bruder starb im Eisenkrieg. Thernan überlebte das Massaker von Dryss.\n    \n- **Verlust**: Sein gesamter Trupp wurde geopfert, um einen Hügel zu halten, der drei Tage später wieder aufgegeben wurde.\n    \n- **Motivation**: Thernan glaubt an _Taten_, nicht an Dogmen. Er verachtet die Akademie, aber er verachtet auch die Bauern, die sich alles gefallen lassen.  \n    _„Wer sich nicht wehrt, wird von der Geschichte gefressen.“_\n    \n- **Beziehung zu Cataryma**: Eine Art alter Bruder – er schützt sie, folgt ihr, zankt mit ihr. Aber insgeheim bewundert er ihren Mut.\n\n"
+}

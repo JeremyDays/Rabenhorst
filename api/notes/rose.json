@@ -1,0 +1,49 @@
+{
+  "title": "Rose",
+  "slug": "rose",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Rose.md",
+  "url": "notes/rose.html",
+  "apiUrl": "api/notes/rose.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Tochter der Familie Alkir Echter Name: Rosavalda Alkir Tot. Beziehungen: Tochter von Gustav Alkir und Elisabeth Alkir. Schwester von Dorn und Walter",
+  "frontmatter": {
+    "aliases": [
+      "Rose Alkir",
+      "Rosavalda Alkir"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Elisabeth Alkir",
+      "label": "Elisabeth Alkir",
+      "slug": "elisabeth-alkir"
+    },
+    {
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
+    },
+    {
+      "target": "Walter",
+      "label": "Walter",
+      "slug": "walter"
+    }
+  ],
+  "markdown": "Tochter der [[Familie Alkir]]\n**Echter Name:** Rosavalda Alkir\n\n![[Rose.png]]\n\nTot.\n\n\n**Beziehungen:**\n- Tochter von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Schwester von [[Dorn]] und [[Walter]]\n\n"
+}

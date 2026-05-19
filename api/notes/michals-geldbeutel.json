@@ -1,0 +1,19 @@
+{
+  "title": "Michals Geldbeutel",
+  "slug": "michals-geldbeutel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Michals Geldbeutel.md",
+  "url": "notes/michals-geldbeutel.html",
+  "apiUrl": "api/notes/michals-geldbeutel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Inhalt: 0 Pf.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Inhalt:** 0 Pf.\n\n"
+}

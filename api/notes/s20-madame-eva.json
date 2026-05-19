@@ -1,0 +1,285 @@
+{
+  "title": "S20 - Madame Eva",
+  "slug": "s20-madame-eva",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc04 - Vistani/S20 - Madame Eva.md",
+  "url": "notes/s20-madame-eva.html",
+  "apiUrl": "api/notes/s20-madame-eva.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "21. Fivral 755 EB 16:00 (30.08.2022) Schwierigkeit: 3 [!dialogue2] Szene 1 Ein Handel mit Petra Petra hat 1 2 magische Gegenstände zum Verkauf? Quest: Petra will ein Fass Wein der ",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "21. Fivral 755 EB",
+      "label": "21. Fivral 755 EB",
+      "slug": "21-fivral-755-eb"
+    },
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Champagner de Sol",
+      "label": "Wein der Zauberer",
+      "slug": null
+    },
+    {
+      "target": "Zauberer der Weine",
+      "label": "Zauberern der Weine",
+      "slug": "zauberer-der-weine"
+    },
+    {
+      "target": "Champagner de Sol",
+      "label": "Champagner de Sol",
+      "slug": null
+    },
+    {
+      "target": "Fliegender Teppich",
+      "label": "Fliegenden Teppich",
+      "slug": "fliegender-teppich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Alte Windmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Parriwimpel",
+      "label": "Parriwimpel",
+      "slug": "parriwimpel"
+    },
+    {
+      "target": "Geschnitzter Rabe",
+      "label": "geschnitzten Raben",
+      "slug": "geschnitzter-rabe"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Mutter des Waldes",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Tarokka",
+      "label": "Tarokka",
+      "slug": "tarokka"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Vasili von Holtz",
+      "label": "Vasili von Holtz",
+      "slug": "vasili-von-holtz"
+    },
+    {
+      "target": "Rictavio",
+      "label": "Rictavio",
+      "slug": "rictavio"
+    },
+    {
+      "target": "Rictavios Buch",
+      "label": "Buch",
+      "slug": "rictavios-buch"
+    },
+    {
+      "target": "Klinge des Sonnenlichts",
+      "label": "Klinge des Sonnenlichts",
+      "slug": "klinge-des-sonnenlichts"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Drache",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Einsame Vistana",
+      "label": "Einsame Vistana",
+      "slug": "einsame-vistana"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Turm des Zauberers",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Abtei der Heiligen Markovia",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Raben",
+      "label": "Rabe",
+      "slug": "raben"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Fey von Barovia",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Edelsteine der Fey",
+      "label": "Edelsteine der Fey",
+      "slug": "edelsteine-der-fey"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Einsamen Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Sumpffee",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Moloch",
+      "label": "Moloch",
+      "slug": "moloch"
+    },
+    {
+      "target": "Herz des Kummers",
+      "label": "Herz des Bösen",
+      "slug": "herz-des-kummers"
+    },
+    {
+      "target": "Bârgau",
+      "label": "Bârgau",
+      "slug": "bargau"
+    },
+    {
+      "target": "Kala",
+      "label": "Kala",
+      "slug": "kala"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo dem Löwen",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Elda",
+      "label": "Elda",
+      "slug": "elda"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "22. Fivral 755 EB",
+      "label": "22. Fivral 755 EB",
+      "slug": "22-fivral-755-eb"
+    },
+    {
+      "target": "Rote Vistani",
+      "label": "Rote Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo der Löwe",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo Dilisyana",
+      "slug": "leo-der-lowe"
+    }
+  ],
+  "markdown": "\n[[21. Fivral 755 EB]] 16:00 (30.08.2022)\nSchwierigkeit: 3\n\n>[!dialogue2] Szene 1 - Ein Handel mit Petra\n- [[Petra]] hat 1-2 magische Gegenstände zum Verkauf?\n- [[Quest]]: [[Petra]] will ein Fass [[Champagner de Sol|Wein der Zauberer]]. Für 1 Flasche von den [[Zauberer der Weine|Zauberern der Weine]] \"[[Champagner de Sol]]\" bietet er 500 Pf. und einen [[Fliegender Teppich|Fliegenden Teppich]] oder so. Wir bekämen ihn in [[Vallaki]].\n- Für wieviel wird er normalerweise gehandelt?\n- Wer besitzt diesen Wein? Er ist nie zum Verkauf. Es gab schon mehrere Diebstahlversuche.\n\n**Über den Weg:**\n- [[Petra]] warnt, dass wir die [[Hexenmühle|Alte Windmühle]] meiden sollen. Sie liegt auf dem Weg zu [[Vallaki]].\n- Die [[Ivlis-Kreuzung]]: Der Kreuzweg: Seelen sollen nicht in den Himmel kommen. Der Galgen ist von den [[Vistani]] verflucht.\n- [[Parriwimpel]] ist ein [[Vistani]]-Freund. Ein **Gigotto**. Er handelt fair mit ihnen.\n- Er gibt uns einen [[Geschnitzter Rabe|geschnitzten Raben]]: Die [[Waldfey|Mutter des Waldes]] soll über uns wachen.\n\n>[!dialogue2] Szene 2 - Madame Eva\n- [[Madame Eva]]: Eine alte Frau, gebückt, weiße blinde Augen, eine Stimme nach vertrocknetem Unkraut, keine Zähne, ein Atem nach Tabak, Wein und Knoblauch.\n- Sie ist blind, aber sie sagt: \"Ich sehe dich.\"\n- Sie ließt uns die [[Tarokka]]-Karten **<-- hier die (nicht) ganze Prophezeiung!**\n\n**Persönliches Prophezeiungen:**\n\n[[Michal]]\n- Feuer, Flamme, Asche, Tod, Leben verbrennt, Angst, Krieg ist nicht vorbei, Kleiner Junge\n\n[[Heinard]]\n- Junge hat Angst im Wald, allein, verlassen, [[Dunkelheit]], Schreie des Verlorenen, Frieden nur wenn du dich der Vergangenheit stellst. Du musst den Einen retten, der seinen Geist verloren hat.\n\n[[Malduk]]\n- Etwas über Liebe gestellt, alles zerstört, Schuld frisst dich auf. Hier kannst du die Schuld tilgen. Du wirst den Ort des Wissens finden müssen und die Seele befreien.\n\n- Zu mächtige Magie: Meta - Hellsicht.\n\n\n**Tarokka-Prophezeiungen:**\n1. Scharlatan: Geschichte. Ein junger Adliger strebt nach Macht und Anerkennung. Das Buch ist nützlich. Sucht ihn in [[Vallaki]].\n\n>***Malduk:** Das beschreibt einerseits [[Vasili von Holtz]] als den Adligen, der nach Macht und Anerkennung strebt, andererseits [[Rictavio]] mit seinem [[Rictavios Buch|Buch]].*\n\n2. Heiler: Ein schneebedecktes Grab bei einem heiligen Ort. Es wird alles offenbar. Das Gute. Symbol.\n3. Rächer: Macht und Stärke. [[Klinge des Sonnenlichts]]. Gefallenes Haus, steinerner [[Argynvost|Drache]], Blick zum höchsten Gipfel.\n4. Säbelrassler: Glücksritter. Licht der Sonne. [[Einsame Vistana]], die allein durch das Land reist. Sie ist auf der Suche nach einem Mentor. Suche sie im [[Khazans Turm|Turm des Zauberers]] oder in der [[Alte Abtei|Abtei der Heiligen Markovia]] in der Nähe der [[Nebel]].\n5. Paladin: Held. Dem Dunklen entgegenstehend. Findet ihn dort, wo der einzige Mann, den [[Graf Strahd]] je beneidet hat, seine letzte Ruhe fand.\n\n**Über die Fey:**\n- Die Feen sind der Schlüssel.\n1. [[Raben|Rabe]]. In einem Buch ([[Fey von Barovia]]) gelesen, dass wir die [[Edelsteine der Fey]] finden müssen. Um [[Barovia]] zu verlassen, müssen wir die [[Fey]] zurückholen.\n   Grün: [[Waldfey]]. Geister der Tiere und Vögel.\n   Spricht der Rabe nimmermehr von der anderen Seite des Flusses.\n2. Meister der Sterne. Rot: [[Bergfey]]. Großer Zauberer. Sucht den [[Khazans Turm|Einsamen Turm]], um herauszufinden, wo er ist.\n3. Bestie. Blau: [[Wasserfey|Sumpffee]]. Verloren. Auf einem Weg, auf dem du niemals ruhst. Ein Frosch in der Größe wie ein [[Moloch]]. Er weiß nicht, was er gegessen hat. Um das [[Herz des Kummers|Herz des Bösen]] zu zerstören. Gesang dagegen.\n\n**Über unsere Aufgaben:**\n[[Heinard]]\n- Elementarist. Macht der Essenz. Gefallener Geist strebt nach Licht. Die Waage muss ausgeglichen werden. Ein Verbündeter. Schäumendes Wasser, ein Eisberg im Norden.\n\n[[Malduk]]\n- Missionar. Auf dem Weg. Gut oder Schlecht? Eiferer? Oder demütig? Ort des Bösen bannte. Wissen ist Macht. Von Männern und Frauen bewacht.\n\n>***Malduk:** Das ist ein Verweis auf [[Bârgau]]. Tränen der Trauer?*\n\n[[Michal]]\n- Held. Du sträubst dich dagegen. Wehrst dich. Aber du/es muss passieren. Was ist ein Held? Ritter? Bauer? Großmutter? Frau? Deine Herausforderung. Bist du ein Held? Prüfung. Urängsten stellen. Versagen ist Brennen.\n\n>[!dialogue2] Szene 3 - Wieder außerhalb des Zelts\n- [[Madame Eva]] weint Blut. Sie ist sehr erschöpft.\n- [[Kala]] hat Augen auf [[Heinard]] geworfen.\n- [[Michal]] nimmt Kissen mit.\n- [[Ireena]] hat auch neue Eindrücke von [[Madame Eva]] erhalten. ==Hat sie uns nie gesagt, oder?==\n\n[[Heinard]]: Fluch des Versagens. Stell dich dem Versagen. Nimm es an. Bring uns etwas. Leib unserer Vorfahren zurückbringen. Aber du musst es schwören. Wenn du ihm ansichtig wirst. Es ist eine starke Kraft der Beherrschung, die in ihn eindringt. [Arkanum Geist]\n\n>***Malduk:** Der Fluch auf [[Heinard]] wird also nur gehoben, wenn er den Leib von [[Leo der Löwe|Leo dem Löwen]] zu den [[Blaue Vistani|Blauen Vistani]] zurückbringt? Wir wissen nicht, wo sein Grab ist, nur dass er in einem Wald gestorben sein soll. Seine Leiche würde doch sicher schon verfallen sein? Wie lange ist das her? Oder wurde sie vielleicht zu seiner Mutter zurückgebracht?*\n\n[[Ireena]]\n- Sie wird nicht wie [[Graf Strahd]]. Aber auf ihr liegt der Fluch der Nacht. Wie andere Frauen wie sie. Sie darf kein Blut trinken!\n- Nur eins hilft: Die [[Fey]]\n\n- Die Freundin von [[Kala]] ist [[Elda]] und sie ist groß und hat ein Auge auf [[Michal]] geworfen.\n\n---\nWir übernachten im [[Lager der Blauen Vistani]]\n\n---\n>[!dialogue2] Szene 4 - Der Gehängte\n- [[22. Fivral 755 EB]]\n- [[Michal]] gibt [[Malduk]] sein Geld\n- [[Quest]]: Über den Gehängten müssen wir in [[Vallaki]] fragen.\n- Bestattungsritual\n- Rotes Halstuch ([[Rote Vistani]])\n- Die Seele nach [[Vallaki]] weiterschicken\n- Der Körper wird nicht dem Feuer übergeben, Asche in Wasser, Boden, Wind.\n\n>***Malduk:** Das erinnert an die [[Herrinnen]].*\n\n- Als Geist unterwegs -> Überreste finden ==War das eine [[Quest]]?==\n\n- [[Leo der Löwe]] ist der Halbbruder von [[Graf Strahd]]\n- Wurde er von ihm getötet? Wenn wir einen Beweis finden, dann werden uns die [[Blaue Vistani|Blauen Vistani]] helfen.\n\n>***Malduk:** Warum hätte [[Graf Strahd]] [[Leo der Löwe|Leo Dilisyana]] töten sollen? Was war die Motivation?*\n\n"
+}

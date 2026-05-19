@@ -1,0 +1,30 @@
+{
+  "title": "Zintori",
+  "slug": "zintori",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Roten Vistani/Zintori.md",
+  "url": "notes/zintori.html",
+  "apiUrl": "api/notes/zintori.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Wo getroffen: Tor von Barovia Ruhiger Zigeuner Hat der Gruppe wertvolle Gegenstände und Geld geraubt",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Tor von Barovia",
+      "label": "Tor von Barovia",
+      "slug": "tor-von-barovia"
+    }
+  ],
+  "markdown": "\nMitglied der [[Rote Vistani|Roten Vistani]]\n\n**Wo getroffen:** [[Tor von Barovia]]\n\nRuhiger Zigeuner\n\n- Hat der Gruppe wertvolle Gegenstände und Geld geraubt\n"
+}

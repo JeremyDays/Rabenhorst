@@ -1,0 +1,35 @@
+{
+  "title": "Grigor",
+  "slug": "grigor",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Werwölfe/Grigor.md",
+  "url": "notes/grigor.html",
+  "apiUrl": "api/notes/grigor.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mann von Danika Surana und Vater von Mira Ein WerwolfWerwölfe Er ist groß und hat eine Axt mit braunen Flecken",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Danika Surana",
+      "label": "Danika Surana",
+      "slug": "danika-surana"
+    },
+    {
+      "target": "Mira",
+      "label": "Mira",
+      "slug": "mira"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwolf",
+      "slug": "werwolfe"
+    }
+  ],
+  "markdown": "\n- Mann von [[Danika Surana]] und Vater von [[Mira]]\n- Ein [[Werwölfe|Werwolf]]\n\n- Er ist groß und hat eine Axt mit braunen Flecken"
+}

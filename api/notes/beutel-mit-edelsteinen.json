@@ -1,0 +1,19 @@
+{
+  "title": "Beutel mit Edelsteinen",
+  "slug": "beutel-mit-edelsteinen",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Geld/Beutel mit Edelsteinen.md",
+  "url": "notes/beutel-mit-edelsteinen.html",
+  "apiUrl": "api/notes/beutel-mit-edelsteinen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kleiner Beutel Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein== Inhalt: 12 Edelsteine Wert: Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nKleiner Beutel\n**Woher:** ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein==\n\n**Inhalt:** 12 Edelsteine\n**Wert:** Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf."
+}

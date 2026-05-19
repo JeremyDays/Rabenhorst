@@ -1,0 +1,39 @@
+{
+  "title": "Steinbogen",
+  "slug": "steinbogen",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Steinbogen.md",
+  "url": "notes/steinbogen.html",
+  "apiUrl": "api/notes/steinbogen.json",
+  "tags": [],
+  "excerpt": "EIn verunstalteter Steinbogen mit Statuen davor bei einer Kreuzung zwischen den Tser FällenTser Fälle nach Osten und der Fledermaus Höhle und Schloss Rabenhorst im Norden, und die ",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fällen",
+      "slug": "tser-falle"
+    },
+    {
+      "target": "Fledermaus-Höhle",
+      "label": "Fledermaus-Höhle",
+      "slug": "fledermaus-hohle"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "EIn verunstalteter Steinbogen mit Statuen davor bei einer Kreuzung zwischen den [[Tser-Fälle|Tser-Fällen]] nach Osten und der [[Fledermaus-Höhle]] und [[Schloss Rabenhorst]] im Norden, und die [[Hexenmühle]] und [[Vallaki]] im Westen.\n\n"
+}

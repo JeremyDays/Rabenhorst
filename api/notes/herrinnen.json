@@ -1,0 +1,55 @@
+{
+  "title": "Herrinnen",
+  "slug": "herrinnen",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Herrinnen bzw. Fey/Herrinnen.md",
+  "url": "notes/herrinnen.html",
+  "apiUrl": "api/notes/herrinnen.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Die drei realen Fey werden im Glauben als Herrinnen verehrt. Es gibt die folgenden Herrinnen: Herrin des Waldes Herrin des Sumpfes Herrin des Berges Weißer Hirsch: Ursprüngliches S",
+  "frontmatter": {
+    "aliases": [
+      "Erzfeen",
+      "Fey",
+      "Herrinnen"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Herrin des Waldes",
+      "label": "Herrin des Waldes",
+      "slug": "herrin-des-waldes"
+    },
+    {
+      "target": "Herrin des Sumpfes",
+      "label": "Herrin des Sumpfes",
+      "slug": "herrin-des-sumpfes"
+    },
+    {
+      "target": "Herrin des Berges",
+      "label": "Herrin des Berges",
+      "slug": "herrin-des-berges"
+    },
+    {
+      "target": "Weißer Hirsch",
+      "label": "Weißer Hirsch",
+      "slug": "wei-er-hirsch"
+    }
+  ],
+  "markdown": "Die drei realen [[Fey]] werden im Glauben als Herrinnen verehrt.\nEs gibt die folgenden [[Herrinnen]]:\n\n- [[Herrin des Waldes]]\n- [[Herrin des Sumpfes]]\n- [[Herrin des Berges]]\n\n[[Weißer Hirsch]]: Ursprüngliches Symbol der Herrinnen\n\n![[Symbol Die Drei Herrinen.png]]\n\n\n- Kräfte der natürlichen Elemente. Neutral.\n\n"
+}

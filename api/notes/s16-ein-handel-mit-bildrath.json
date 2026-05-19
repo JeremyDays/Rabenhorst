@@ -1,0 +1,155 @@
+{
+  "title": "S16 - Ein Handel mit Bildrath",
+  "slug": "s16-ein-handel-mit-bildrath",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc03 - Barovia/S16 - Ein Handel mit Bildrath.md",
+  "url": "notes/s16-ein-handel-mit-bildrath.html",
+  "apiUrl": "api/notes/s16-ein-handel-mit-bildrath.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "20. Fivral 755 EB 10:26 (07.07.2022) Schwierigkeit: 2 Barovia (Dorf) [!dialogue2] Szene 1 Bildraths Laden Altes Handelshaus Bildrath Cantemir spielt viel mit dem Bart, hat Schweißp",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "20. Fivral 755 EB",
+      "label": "20. Fivral 755 EB",
+      "slug": "20-fivral-755-eb"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Altes Handelshaus",
+      "label": "Altes Handelshaus",
+      "slug": "altes-handelshaus"
+    },
+    {
+      "target": "Bildrath Cantemir",
+      "label": "Bildrath Cantemir",
+      "slug": "bildrath-cantemir"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Eigentumsurkunde Haus Alkir",
+      "label": "Eigentumsurkunde Haus Alkir",
+      "slug": null
+    },
+    {
+      "target": "Sagen & Gedichte",
+      "label": "Sagen & Gedichte",
+      "slug": "sagen-gedichte"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Kampf am Tsolenka Pass",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Legende von Lugdana",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Kirche von Barovia",
+      "label": "Kirche von Barovia",
+      "slug": "kirche-von-barovia"
+    },
+    {
+      "target": "Altes Handelshaus",
+      "label": "Alten Handelshaus",
+      "slug": "altes-handelshaus"
+    },
+    {
+      "target": "Parriwimpel",
+      "label": "Parriwimpel",
+      "slug": "parriwimpel"
+    },
+    {
+      "target": "Tilda",
+      "label": "Tilda",
+      "slug": "tilda"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "RIPpy",
+      "label": "RIPpy",
+      "slug": "rippy"
+    },
+    {
+      "target": "Gasthaus zur blutigen Rebe",
+      "label": "Gasthaus zur blutigen Rebe",
+      "slug": "gasthaus-zur-blutigen-rebe"
+    },
+    {
+      "target": "Vater Donavich",
+      "label": "Vater Donavich",
+      "slug": "vater-donavich"
+    },
+    {
+      "target": "Kutschwagen der Drascoi",
+      "label": "Kutschwagen der Drascoi",
+      "slug": "kutschwagen-der-drascoi"
+    },
+    {
+      "target": "Erna",
+      "label": "Erna",
+      "slug": "erna"
+    },
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Wölfe",
+      "label": "Wölfe",
+      "slug": "wolfe"
+    },
+    {
+      "target": "Zombies",
+      "label": "Zombies",
+      "slug": "zombies"
+    },
+    {
+      "target": "Barovia",
+      "label": "Landes",
+      "slug": "barovia"
+    }
+  ],
+  "markdown": "\n[[20. Fivral 755 EB]] 10:26 (07.07.2022)\nSchwierigkeit: 2\n[[Barovia (Dorf)]]\n\n>[!dialogue2] Szene 1 - Bildraths Laden\n- [[Altes Handelshaus]]\n- [[Bildrath Cantemir]] spielt viel mit dem Bart, hat Schweißperlen auf der Stirn.\n- [[Malduk]] handelt mit [[Bildrath Cantemir]] (kritisch!)\n\t- [[Malduk]] verkauft die [[Eigentumsurkunde Haus Alkir]]\n\t- [[Malduk]] erhält dafür (+):\n\t\t- [[Sagen & Gedichte]]: Dunkel, düster, über die Schrecken der Nacht\n\t\t- [[Kampf am Tsolenka Pass]]: Über den Orden von Frauen, Valkyren. 100 Pf. Wert.\n\t\t- [[Die Legende von Lugdana]]: Über einen weiblichen Paladin, Mit Schlacht und Taktik, eine Heldin von [[Barovia]]. 100 Pf. Wert.\n\t\t- 200 Pf. in die Kasse der [[Kirche von Barovia]]\n\t\t- 1.000 Pf. Kreditrahmen für Ausrüstung vom [[Altes Handelshaus|Alten Handelshaus]]\n\n>[!dialogue2] Szene 2 - Schmiede\n- Gesang\n- [[Parriwimpel]]: \"Irgendwann ist gut. Irgendwann neue Schuhe. Ist lange her. Irgendwann war Onkel [[Bildrath Cantemir]] in der [[Kirche von Barovia]].\"\n- Er will einen kleinen Ring machen. Für [[Tilda]].\n- [[Heinard]]: [[RIPpy]] geht zu [[Parriwimpel]]. Sie werden Freunde.\n- [[Parriwimpel]]s Mutter hatte damals einen Anhänger der Herrinnen. Daher will Onkel [[Bildrath Cantemir]] nicht in die [[Kirche von Barovia]].\n- [[Parriwimpel]]: \"Heute bin ich glücklich.\" (er sagte es, als wäre er nicht dumm.)\n\n>[!dialogue2] Szene 3 - Gasthaus zur blutigen Rebe\n- ==12 Uhr==\n- [[Gasthaus zur blutigen Rebe]]\n- Jedem wird erzählt, dass es eine Messe geben wird. Bei [[Vater Donavich]].\n- Kartoffeln, Knoblauch, wenig Sonnenlicht, Brei, Steckrüben, überwürzt, Wolfsfleisch\n- Wir hören Gerüchte: ... ==Die brauchen wir wohl noch einmal hier==\n\n>[!dialogue2] Szene 4 - Kutschwagen der Drascoi\n- Im Wald finden wir den [[Kutschwagen der Drascoi]] und das Zugpferd [[Erna]].\n\n>[!dialogue2] Szene 5 - Angriff auf das Haus des Burgomeisters\n- ==21 Uhr==\n- **Schwierigkeit:** 4\n- [[Haus des Burgomeisters]]\n- [[Michal]] bekommt einen Kuss von [[Ireena]].\n- Jemand dämpft [[Malduk]]s Magie!\n- Ein Klatschen von [[Graf Strahd]]?\n- [[Wölfe]]!!\n- Skelettale Klauen, Kraft\n- Ehemalige Menschen: [[Zombies]]\n- Eislabyrinth, Eissplitter\n- [[Graf Strahd]] will [[Ireena]]. Nein!\n- Der Herr des [[Barovia|Landes]].\n- Er ist weg. Alle Zauber aufgelöst. Er hat [[Malduk]]s Aura untersucht. Nichts mitbekommen.\n- ==18:40 - 21:00==\n\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Heiligtum der Bergfey",
+  "slug": "heiligtum-der-bergfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Heiligtum der Bergfey.md",
+  "url": "notes/heiligtum-der-bergfey.html",
+  "apiUrl": "api/notes/heiligtum-der-bergfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In Bârgau. Ein Tempel für die Bergfey. Er wurde von den Truppen von Graf Strahd zerstört.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Bârgau",
+      "label": "Bârgau",
+      "slug": "bargau"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nIn [[Bârgau]].\n\n- Ein Tempel für die [[Bergfey]].\n- Er wurde von den Truppen von [[Graf Strahd]] zerstört.\n\n"
+}

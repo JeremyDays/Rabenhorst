@@ -1,0 +1,25 @@
+{
+  "title": "Karte von Barovia",
+  "slug": "karte-von-barovia",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Barovia/Karte von Barovia.md",
+  "url": "notes/karte-von-barovia.html",
+  "apiUrl": "api/notes/karte-von-barovia.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Karte von Barovia (bis Vallaki).jpg",
+      "label": "Karte von Barovia (bis Vallaki).jpg",
+      "slug": null
+    }
+  ],
+  "markdown": "\n```leaflet  \nid: BaroviaMap ### Must be unique with no spaces  \nimage: [[Karte von Barovia (bis Vallaki).jpg]] ### Link to the map image file. Do not add a ! in front of the image  \nbounds: [[0,0], [883, 1196]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  \nheight: 100% ### Size of the leaflet embed in px on your screen  \nwidth: 95% ### Size of the leaflet embed in your note  \nlat: 341 ### To center the map, make this half of the map height.  \nlong: 498 ### To center the map, make this half of the map width.  \nminZoom: -1 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  \nmaxZoom: 2 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  \ndefaultZoom: 1 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  \nzoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  \nunit: km ### The value displayed when measuring so you know what type of unit is being measure.  \nscale: 0.1866 ### Real units/px (resolution) of your map  \nrecenter: false  \ndarkmode: false ### marker\n```\n\n\n\n![[Karte von Barovia (bis Vallaki).jpg|1000]]"
+}

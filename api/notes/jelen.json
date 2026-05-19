@@ -1,0 +1,35 @@
+{
+  "title": "Jelen",
+  "slug": "jelen",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Jelen.md",
+  "url": "notes/jelen.html",
+  "apiUrl": "api/notes/jelen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Gott des Tages, des Beständigen, der Erhaltung, der Emotionen, des Lebens, der Energie und der Einheit. Sein tierisches Abbild ist ein weißer Hirsch mir einem mächtigem Geweih. Er ",
+  "frontmatter": {
+    "aliases": [
+      "Morgenlord",
+      "Morgenfürst",
+      "der Herr des Morgens"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Weißer Hirsch",
+      "label": "Weiße Hirsch",
+      "slug": "wei-er-hirsch"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    }
+  ],
+  "markdown": "\nGott des Tages, des Beständigen, der Erhaltung, der Emotionen, des Lebens, der Energie und der Einheit.\n\n- Sein tierisches Abbild ist ein weißer Hirsch mir einem mächtigem Geweih. \n- Er wird oft stolz auf einer Lichtung stehend dargestellt, auf die weite Lichtstrahlen einfallen.\nSein literarischer Name ist \"Morgenfürst\".\n\n>***Malduk:** War der [[Weißer Hirsch|Weiße Hirsch]] direkt der Gott [[Jelen]]??*\n\n"
+}

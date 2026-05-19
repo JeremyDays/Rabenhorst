@@ -1,0 +1,33 @@
+{
+  "title": "Schwester Constance",
+  "slug": "schwester-constance",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Krezk/Schwester Constance.md",
+  "url": "notes/schwester-constance.html",
+  "apiUrl": "api/notes/schwester-constance.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "In Wahrheit: Engel, der über Kranke wacht. Hatte Kontakt mit Lugdana Argynvost. Hatte Lugdana Argynvost das \"Heilige Symbol der SonneHeiliges Symbol der Sonne\" (Amulett) gegeben. [",
+  "frontmatter": {
+    "aliases": [
+      "Engel"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Heiliges Symbol der Sonne",
+      "label": "Heilige Symbol der Sonne",
+      "slug": "heiliges-symbol-der-sonne"
+    }
+  ],
+  "markdown": "\n- In Wahrheit: Engel, der über Kranke wacht. \n- Hatte Kontakt mit [[Lugdana Argynvost]].\n- Hatte [[Lugdana Argynvost]] das \"[[Heiliges Symbol der Sonne|Heilige Symbol der Sonne]]\" (Amulett) gegeben.\n\n\n  [Zeichnung im Buch]"
+}

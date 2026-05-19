@@ -1,0 +1,270 @@
+{
+  "title": "S25 - Hexentod",
+  "slug": "s25-hexentod",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc06 - Hexenmühle/S25 - Hexentod.md",
+  "url": "notes/s25-hexentod.html",
+  "apiUrl": "api/notes/s25-hexentod.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "22. Fivral 755 EB abends (02.02.2023) ==in den Notizen steht 23. Fivral== Schwierigkeit: 4 Ireena = Cataryma = \"Rymi\" [!dialogue2] Szene 1 Steinkreis Der SchattenengelSteinkreisdäm",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "22. Fivral 755 EB",
+      "label": "22. Fivral 755 EB",
+      "slug": "22-fivral-755-eb"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Steinkreisdämon",
+      "label": "Schattenengel",
+      "slug": "steinkreisdamon"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Steinkreis der Waldfey",
+      "label": "Steinkreis der Waldfey",
+      "slug": "steinkreis-der-waldfey"
+    },
+    {
+      "target": "Wer-Raben",
+      "label": "Wer-Rabe",
+      "slug": "wer-raben"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Fey von Barovia",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Steinkreise der Fey",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Fey-jost",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "grünen Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Herz des Kummers",
+      "label": "Herz des Kummers",
+      "slug": "herz-des-kummers"
+    },
+    {
+      "target": "Wer-Raben",
+      "label": "Wer-Raben",
+      "slug": "wer-raben"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Steinkreis der Wasserfey",
+      "label": "Steinkreis der Wasserfey",
+      "slug": "steinkreis-der-wasserfey"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Drachenschädel",
+      "label": "Drachenschädel",
+      "slug": "drachenschadel"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Sumpf-Vettel",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Baba Lysaga",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Edelstein (Blau)",
+      "label": "blauen Edelstein",
+      "slug": "edelstein-blau"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Steinkreis der Bergfey",
+      "label": "Steinkreis der Bergfey",
+      "slug": "steinkreis-der-bergfey"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Edelstein (Rot)",
+      "label": "roten Edelstein",
+      "slug": "edelstein-rot"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkle Mächte",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Prinz Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Jelen",
+      "label": "der Herr des Morgens",
+      "slug": "jelen"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Berez",
+      "label": "Berez",
+      "slug": "berez"
+    },
+    {
+      "target": "Froschmenschen",
+      "label": "Froschmenschen",
+      "slug": "froschmenschen"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexen",
+      "slug": "hexen"
+    },
+    {
+      "target": "Sumpfgeister",
+      "label": "Sumpfgeister",
+      "slug": "sumpfgeister"
+    },
+    {
+      "target": "Yasper",
+      "label": "Yasper",
+      "slug": "yasper"
+    },
+    {
+      "target": "Offilia",
+      "label": "Offilia",
+      "slug": "offilia"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexe",
+      "slug": "hexen"
+    },
+    {
+      "target": "Lichtbringer",
+      "label": "seine Axt",
+      "slug": "lichtbringer"
+    },
+    {
+      "target": "Bella",
+      "label": "Bella",
+      "slug": "bella"
+    },
+    {
+      "target": "Magieanwender",
+      "label": "Magieanwender",
+      "slug": "magieanwender"
+    },
+    {
+      "target": "Morganta",
+      "label": "Morganta",
+      "slug": "morganta"
+    },
+    {
+      "target": "Königin der Nachthexen",
+      "label": "Königin der Nachthexen",
+      "slug": "konigin-der-nachthexen"
+    }
+  ],
+  "markdown": "\n[[22. Fivral 755 EB]] abends (02.02.2023) ==in den Notizen steht 23. Fivral==\nSchwierigkeit: 4\n\n---\n[[Ireena]] = [[Cataryma]] = \"Rymi\"\n\n>[!dialogue2] Szene 1 - Steinkreis\n- Der [[Steinkreisdämon|Schattenengel]] ist besiegt\n- Stille. Kreischende Raben.\n- [[Michal]] hat eine besondere Verbindung zu Kindern!\n- Hier ist ein Makel im [[Steinkreis der Waldfey]]\n- Ein runder Steinkreis wie ein Gullideckel\n- 1 Rabe ([[Wer-Raben|Wer-Rabe]])\n- Weiße Struktur und Zähne\n- Es ist still im Kreis. Es riecht nach vermodertem Holz, totem Wald, bar jedem Lebens\n- [[Michal]] fühlt Angst\n- [[Heinard]] fühlt pervertierte Lebenskraft, urtümlicher Zorn\n- Die steinerne Kugel ist nicht aus Stein, nicht völlig rund, mit \"Gebräu\" behandelt\n- Es ist ein kleiner Schädel, wobei Augen und Mund verschlossen sind\n- [[Malduk]] überzieht den Schädel mit Wasser\n\n>[!dialogue2] Szene 2 - Malduk erzählt von der Legende der Feen\n- [[Malduk]] erzählt von dem, was er gelesen hat.\n\t- Ba Ly Saga = Die Sage der Drei ([[Fey von Barovia]])\n\t- Die [[Steinkreise der Fey]] werden [[Steinkreise der Fey|Fey-jost]] genannt.\n\t- 3 Steine für die Fey, 1 Stein mit einem Kreis drauf\n\t- Schnee = Berge, Blumen = Wald, Blätter = ..., Sonne = ...\n\t- [[Waldfey]]\n\t\t- Der [[Steinkreis der Waldfey]] sei am Waldrand\n\t\t- Die [[Waldfey]] verwandelte sich in einen Menschen und wandle in [[Vallaki]].\n\t\t- Sie sei die grüne Fey und habe einen [[Edelstein (Grün)|grünen Edelstein]]\n\t\t- 1/2 dieses Steins sei nun im [[Herz des Kummers]]. 1/2 habe die [[Waldfey]] den [[Wer-Raben]] in Verwahrung gegeben\n\t- [[Wasserfey]]\n\t\t- Der [[Steinkreis der Wasserfey]] sei an einer Flussseite\n\t\t- Die [[Wasserfey]] wäre in menschlicher Gestalt von [[Graf Strahd]] gefangen genommen worden, aber mit dem [[Drachenschädel]] von [[Argynvost]] und der Hilfe von [[Khazan]] habe sie fliehen können. Dann sei sie verflucht worden von [[Graf Strahd]] und zu einer [[Wasserfey|Sumpf-Vettel]] und schließlich zur [[Wasserfey|Baba Lysaga]] geworden.\n\t\t- Sie sei die blaue Fey und habe einen [[Edelstein (Blau)|blauen Edelstein]]\n\t\t- 1/2 dieses Steins sei nun im [[Herz des Kummers]], 1/2 habe [[Graf Strahd]] erobert\n\t- [[Bergfey]]\n\t\t- Der [[Steinkreis der Bergfey]] sei auf einem Hügel mit Blick auf die Berge\n\t\t- Die [[Bergfey]] beschützte den [[Bernsteintempel]]\n\t\t- Sie sei die rote Fey und habe einen [[Edelstein (Rot)|roten Edelstein]]\n\t\t- 1/2 dieses Steins sei nun im [[Herz des Kummers]], 1/2 habe sie [[Khazan]] in Verwahrung gegeben (bevor er im Kampf gegen [[Graf Strahd]] unterlag)\n- Dies sei der [[Steinkreis der Waldfey]]\n- Damals habe man wie folgt den Fey gehuldigt:\n\t- Gedicht und ...\n\t- Tser-Blumen\n\t- Eine kleine Traube barovianischer Weintrauben\n\t- Ein Scheffel roter barovianischer Äpfel\n\t- Ein Laib Brot aus barovianischem Weizen\n- [[Dunkelheit|Dunkle Mächte]] sind im [[Bernsteintempel]] gefangen. [[Graf Strahd|Prinz Strahd]] hat mit der [[Dunkelheit]] ein Abkommen getroffen.\n- [[Khazan]] war der erste Hüter des [[Bernsteintempel]]s. Er lehrte die [[Druiden]] und machte sie zu den ersten Magiern.\n- Und mit den ersten Königen kam ihr Gott, [[Jelen|der Herr des Morgens]]\n- Die [[Druiden]] haben sich zu einem kleinen Hain zurückgezogen\n- Und [[Jelen|der Herr des Morgens]] verbrannte den [[Nebel]] und drängte ihn zurück\n- Der [[Nebel]] schwächte die [[Magie]] der [[Fey]]. Er stammte von der [[Dunkelheit]].\n- Und [[Graf Strahd]] suchte nach den Körpern seiner verlorenen Liebe.\n- Die [[Fey]] erschufen das [[Herz des Kummers]], aber als sie sich [[Graf Strahd]] gegenüber offenbarten, plünderten seine Diener die Heiligtümer der [[Fey]] und entweihten die [[Steinkreise der Fey]]. \n- Die [[Bergfey]] und die [[Waldfey]] riefen Helden herbei.\n- Dann war die Überflutung von [[Berez]], ein Akt des Zorns von [[Graf Strahd]] gegen die entflohene [[Wasserfey]].\n- Dann schloss die korrumpierte [[Wasserfey]] einen Pakt mit der [[Dunkelheit]] im [[Bernsteintempel]] und sie wurde zur [[Wasserfey|Baba Lysaga]]. Sie erschuf [[Froschmenschen]] (Bullywugs). Ihre Spione sind [[Hexen]] und [[Sumpfgeister]].\n\n>[!dialogue2] Szene 3 - Michals Vision\n- [[Michal]] hat eine Vision / entdeckt: \n\t- Der kleine Kinderschädel ist anders.\n\t- Mühlenblätter\n\t- Fingerknöchel an Stäben.\n\t- Die Wirklichkeit verschwimmt\n\t- Mehl mit Knochen und Zahnabdrücken\n\t- Die Kissenbezüge sind Haut\n\t- Die Kekse sind mit schwarzem Gewürm\n\t- Auf der Treppe ist weißes Pulver\n\n>[!dialogue2] Szene 4 - Die Mühle\n- Wir hören einen Schrei.\n- [[Malduk]] zieht in einer Wasserwelle gegen die Mühle und zerbirst die Glasfenster im 1. OG.\n- [[Yasper]] ist bewusstlos.\n- [[Offilia]] ist eine [[Hexen|Hexe]], eine Nachthexe.\n- [[Michal]] hat [[Lichtbringer|seine Axt]] geschmiedet im Himmelsfeuer.\n- Mit einer Wassersäule steigt [[Malduk]] empor zum Fenster des 1. OG. \n- Der [[Wer-Raben|Wer-Rabe]] pickt ihre Augen\n- Dort sind 2 Kinder.\n- Die [[Hexen|Hexe]] [[Bella]] ist eine überwältigend starke [[Magieanwender]]in\n- Ein Stein bricht von [[Morganta]]s Schulter.\n- [[Malduk]] zaubert ein Eislabyrinth auf der Treppe bei [[Bella]] und [[Morganta]], ein weiteres um [[Morganta]]s Kopf\n- Flüssigkeiten gefrieren.\n- Wir haben [[Morganta]]s Kopf unter dem Mühlstein. Die [[Königin der Nachthexen]], [[Morganta]], ist nicht stark, aber hat sehr harte Haut\n- [[Michal]]s Knieknochen bricht.\n- [[Malduk]] zaubert ein Eisgefängnis. Ihre Bewegung wird verhindert, ihre Finger werden fixiert, so dass sie nicht mehr zaubern kann.\n- Ein Eisspeer trifft sie direkt in den Kopf (für 60 Schaden!). Sie ist tot! ==Ich muss wieder mehr auf Körperzonen zielen! Aber dann macht der SL es auch... das wäre sehr schlecht!==\n- Zaubernetz\n- Wir befreien 2 Kinder hinter Gitterstäben, einen Junge und ein Mädchen.\n\n---\nMalduk will dem [[Wer-Raben]] danken und ihn befragen. Sie sollen den [[Edelstein (Grün)|grünen Edelstein]] haben..."
+}

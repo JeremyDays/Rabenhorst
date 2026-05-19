@@ -1,0 +1,30 @@
+{
+  "title": "Flusssäckchen",
+  "slug": "flusssackchen",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Geld/Flusssäckchen.md",
+  "url": "notes/flusssackchen.html",
+  "apiUrl": "api/notes/flusssackchen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Aus dem Ivlis Fluss bei den Tser Fällen Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf. Inhalt: 305 Pf.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ivlis-Fluss",
+      "label": "Ivlis-Fluss",
+      "slug": "ivlis-fluss"
+    },
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    }
+  ],
+  "markdown": "\n**Wo:** Aus dem [[Ivlis-Fluss]] bei den [[Tser-Fälle]]n\nUrsprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf.\n\n**Inhalt:** 305 Pf."
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Alter Rucksack",
+  "slug": "alter-rucksack",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Alter Rucksack.md",
+  "url": "notes/alter-rucksack.html",
+  "apiUrl": "api/notes/alter-rucksack.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Dachboden im Haus des Burgomeisters Michal",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    }
+  ],
+  "markdown": "\n**Wo:** Dachboden im [[Haus des Burgomeisters]] -> [[Michal]]\n\n"
+}

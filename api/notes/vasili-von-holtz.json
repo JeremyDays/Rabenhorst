@@ -1,0 +1,25 @@
+{
+  "title": "Vasili von Holtz",
+  "slug": "vasili-von-holtz",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Vasili von Holtz.md",
+  "url": "notes/vasili-von-holtz.html",
+  "apiUrl": "api/notes/vasili-von-holtz.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Adeliger aus Vallaki ![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos battlemaps universe/beneos assets/beneos battlemaps/map assets/tokens/cos tokens/vasili van ho",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "Adeliger aus [[Vallaki]]\n\n![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneos_assets/beneos_battlemaps/map_assets/tokens/cos_tokens/vasili_van_holtz.webp)\n\n"
+}

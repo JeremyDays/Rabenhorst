@@ -1,0 +1,30 @@
+{
+  "title": "Mirabel",
+  "slug": "mirabel",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Mirabel.md",
+  "url": "notes/mirabel.html",
+  "apiUrl": "api/notes/mirabel.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Blauen VistaniBlaue Vistani Wo getroffen: Lager der Blauen Vistani",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    }
+  ],
+  "markdown": "\n\n![[Mirabel.png]]\n\nMitglied der [[Blaue Vistani|Blauen Vistani]]\n\n**Wo getroffen:** [[Lager der Blauen Vistani]]\n\n"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Szoldar Szoldarovich",
+  "slug": "szoldar-szoldarovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Szoldar Szoldarovich.md",
+  "url": "notes/szoldar-szoldarovich.html",
+  "apiUrl": "api/notes/szoldar-szoldarovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wolfsjäger von Vallaki Ist beauftragt worden von Milivoj die Kinder zu finden. Arbeitet mit Yevgeni Krushkin zusammen.",
+  "frontmatter": {
+    "aliases": [
+      "Szoldar"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Yevgeni Krushkin",
+      "label": "Yevgeni Krushkin",
+      "slug": "yevgeni-krushkin"
+    }
+  ],
+  "markdown": "\nWolfsjäger von [[Vallaki]]\n\n![[Szoldar Szoldarovich.png]]\n\n- Ist beauftragt worden von [[Milivoj]] die Kinder zu finden.\n- Arbeitet mit [[Yevgeni Krushkin]] zusammen.\n"
+}

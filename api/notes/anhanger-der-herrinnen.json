@@ -1,0 +1,35 @@
+{
+  "title": "Anhänger der Herrinnen",
+  "slug": "anhanger-der-herrinnen",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Anhänger der Herrinnen.md",
+  "url": "notes/anhanger-der-herrinnen.html",
+  "apiUrl": "api/notes/anhanger-der-herrinnen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins Gefunden: Haus Alkir bei Sergeant Zorovich Von Heinard erhalten",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Sergeant Zorovich",
+      "label": "Sergeant Zorovich",
+      "slug": "sergeant-zorovich"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    }
+  ],
+  "markdown": "\nEin kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins\n\n**Gefunden:** [[Haus Alkir]] bei [[Sergeant Zorovich]]\n\n- Von [[Heinard]] erhalten\n\n"
+}

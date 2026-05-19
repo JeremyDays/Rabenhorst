@@ -1,0 +1,35 @@
+{
+  "title": "Silber-Medaillon",
+  "slug": "silber-medaillon",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Gegenstände/Silber-Medaillon.md",
+  "url": "notes/silber-medaillon.html",
+  "apiUrl": "api/notes/silber-medaillon.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ein Medaillon von Cataryma, das Malduk nach seinem Traum in Vallaki plötzlich hatte. Beschreibung: Ein altes, ovales Medaillon aus dunklem Silber, leicht angelaufen, mit feinen Gra",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "\nEin Medaillon von [[Cataryma]], das [[Malduk]] nach seinem Traum in [[Vallaki]] plötzlich hatte.\n\n![[Silber-Medaillon.png]]\n\n**Beschreibung:**\nEin altes, ovales Medaillon aus dunklem Silber, leicht angelaufen, mit feinen Gravuren in Form einer Sonne hinter Wolken. Die Rückseite zeigt dezente Kratzer, als wäre es oft fest umklammert worden.  \nIm Inneren: ein winzig gefalteter, vergilbter Zettel, verborgen in einem kleinen Hohlraum.\n\nDie Handschrift darauf ist elegant, zart und voller Gefühl.  \n\nDie Zeile lautet:\n\n**_„Wenn Liebe Wahrheit ist, wirst du mich finden – nicht durch Macht, sondern durch Erinnerung.“_**\n\nEin Hauch von Lavendelduft haftet noch daran.\n\n\nSpieltechnisches:\n- **+3 Bonus auf alle Willenskraftwürfe**, wenn [Malduk](app://obsidian.md/Malduk) einem inneren Konflikt widersteht, der mit Macht, Rache, dunkler Magie oder emotionaler Verlockung zu tun hat.\n- **Einmal pro Spielsitzung**, wenn er sich bewusst _gegen_ den Einsatz seiner Macht entscheidet, um jemandem beizustehen oder einen empathischen Weg zu gehen, erhält er einen **+1W6 Bonuswürfel auf einen PRÄ Wurf** oder einen **Fertigkeits-Wurf, der emotionale Tiefe ausdrückt**."
+}

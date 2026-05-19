@@ -1,0 +1,78 @@
+{
+  "title": "Gasthaus zur blutigen Rebe",
+  "slug": "gasthaus-zur-blutigen-rebe",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Barovia (Dorf)/Gasthaus zur blutigen Rebe.md",
+  "url": "notes/gasthaus-zur-blutigen-rebe.html",
+  "apiUrl": "api/notes/gasthaus-zur-blutigen-rebe.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Gasthaus In: Barovia (Dorf) Besitzer: Arik Lorensk Beschreibung (außen): Im schattenreichen Dorf Barovia (Dorf) durchdringt ein einzelner Lichtstrahl den Nebel und markiert den Ein",
+  "frontmatter": {
+    "aliases": [
+      "Blutrebe"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Arik Lorensk",
+      "label": "Arik Lorensk",
+      "slug": "arik-lorensk"
+    },
+    {
+      "target": "Gasthaus zur blutigen Rebe",
+      "label": "Blutrebe",
+      "slug": "gasthaus-zur-blutigen-rebe"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark Kolyanowitsch",
+      "slug": "ismark-kolyanowitsch"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena Kolyana",
+      "slug": "ireena"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark",
+      "slug": "ismark-kolyanowitsch"
+    }
+  ],
+  "markdown": "Gasthaus\n\nIn: [[Barovia (Dorf)]]\nBesitzer: [[Arik Lorensk]]\n\n\n**Beschreibung (außen):**\n>Im schattenreichen Dorf [[Barovia (Dorf)]] durchdringt ein einzelner Lichtstrahl den Nebel und markiert den Eingang zur Taverne [[Gasthaus zur blutigen Rebe|Blutrebe]]. Die Taverne, die einst ein Ort des guten Geschmacks war, hat schon bessere Tage gesehen, und ihr Schild ist so verändert, als würde sie ihren eigenen Niedergang verspotten. Sie ist der einzige Zufluchtsort für die verängstigten Bewohner des Dorfes, die unter der ständigen Bewachung von [[Schloss Rabenhorst]] und seinem Vampirfürsten [[Graf Strahd]] leben.\n\n**Beschreibung (innen):**\n>Drinnen herrscht eine angespannte Atmosphäre. [[Arik Lorensk]], der Barkeeper, putzt Gläser, seine Stimme ist so hohl wie die Hoffnungen der Dorfbewohner. Die Taverne gehört ===gehört??=== drei [[Vistani]] und wird von [[Ismark Kolyanowitsch]], dem Sohn des Dorfvorstehers, frequentiert. Er macht sich große Sorgen um seine Schwester [[Ireena|Ireena Kolyana]], die eine beunruhigende Ähnlichkeit mit [[Graf Strahd]]s verlorener Liebe [[Tatyana]] hat. [[Graf Strahd]]s Besessenheit von [[Ireena]] ist bekannt; er beabsichtigt, sie zu seiner ewigen Braut zu machen.\n\n**Reaktion auf die SCs:**\n>Als ihr eintretet, wird geflüstert, und alle Augen richten sich auf euch. Seid ihr hier, um [[Ismark Kolyanowitsch|Ismark]] in seinem Bestreben zu unterstützen, [[Ireena]] zu beschützen, oder habt ihr andere Pläne? Wie auch immer, das \"[[Gasthaus zur blutigen Rebe|Blutrebe]]\" bietet mehr als nur Essen und Trinken; es ist ein Tor zu den Geheimnissen und Gefahren, die dieses verfluchte Dorf umhüllen.\n\n"
+}

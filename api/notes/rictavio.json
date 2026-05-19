@@ -1,0 +1,48 @@
+{
+  "title": "Rictavio",
+  "slug": "rictavio",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Blauwassertaverne/Rictavio.md",
+  "url": "notes/rictavio.html",
+  "apiUrl": "api/notes/rictavio.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wo getroffen: Vallaki Entertained in der Blauwassertaverne. Ein Trickbetrüger. Gerüchte: Ein Fremder mit spitzen Ohren hält sich in der Blauwassertaverne auf. Er ist aus einem fern",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Blauwassertaverne",
+      "label": "Blauwassertaverne",
+      "slug": "blauwassertaverne"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Tarokka",
+      "label": "Tarokka",
+      "slug": "tarokka"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Rictavios Buch",
+      "label": "Buch",
+      "slug": "rictavios-buch"
+    }
+  ],
+  "markdown": "\n![[Rictavio.png]]\n\n**Wo getroffen:** [[Vallaki]]\n\n- Entertained in der [[Blauwassertaverne]]. \n- Ein Trickbetrüger.\n\n**Gerüchte:**\n- Ein Fremder mit spitzen Ohren hält sich in der [[Blauwassertaverne]] auf. Er ist aus einem fernen Land nach [[Barovia]] gekommen und auf einem Karnevalswagen in die Stadt geritten.\n\n- Laut dem [[Tarokka]] von [[Madame Eva]] ist sein [[Rictavios Buch|Buch]] für uns nützlich."
+}

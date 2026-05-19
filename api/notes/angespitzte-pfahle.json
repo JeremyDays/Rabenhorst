@@ -1,0 +1,30 @@
+{
+  "title": "Angespitzte Pfähle",
+  "slug": "angespitzte-pfahle",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Ireena/Sonstiges/Angespitzte Pfähle.md",
+  "url": "notes/angespitzte-pfahle.html",
+  "apiUrl": "api/notes/angespitzte-pfahle.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Ireenas Rucksack im Haus des Burgomeisters Malduk: Was hatte Ireena vor?",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ireenas Rucksack",
+      "label": "Ireenas Rucksack",
+      "slug": "ireenas-rucksack"
+    },
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    }
+  ],
+  "markdown": "\n**Wo:** [[Ireenas Rucksack]] im [[Haus des Burgomeisters]]\n\n>**Malduk:** Was hatte Ireena vor?\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Familie Martikov",
+  "slug": "familie-martikov",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Familie Martikov.md",
+  "url": "notes/familie-martikov.html",
+  "apiUrl": "api/notes/familie-martikov.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

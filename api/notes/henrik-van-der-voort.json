@@ -1,0 +1,35 @@
+{
+  "title": "Henrik van der Voort",
+  "slug": "henrik-van-der-voort",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Henrik van der Voort.md",
+  "url": "notes/henrik-van-der-voort.html",
+  "apiUrl": "api/notes/henrik-van-der-voort.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sargmacher Trinkt zu viel Will nicht mehr Deprimierter Säufer. Verbringt zu viel Zeit mit den Toten. Er hat wohl die Knochen des St. Andral von Milivoj gekauft. Irgendwie waren Vam",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Kiste von Graf Strahd",
+      "label": "Kiste von Graf Strahd",
+      "slug": "kiste-von-graf-strahd"
+    }
+  ],
+  "markdown": "\n_Sargmacher_\n\n![[Henrik van der Voort.png]]\n\n- Trinkt zu viel\n- Will nicht mehr\n- Deprimierter Säufer. Verbringt zu viel Zeit mit den Toten. \n- Er hat wohl die [[Knochen des St. Andral]] von [[Milivoj]] gekauft.\n- Irgendwie waren Vampire bei ihm und die [[Kiste von Graf Strahd]]\n- "
+}

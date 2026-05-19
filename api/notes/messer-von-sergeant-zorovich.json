@@ -1,0 +1,25 @@
+{
+  "title": "Messer von Sergeant Zorovich",
+  "slug": "messer-von-sergeant-zorovich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Messer von Sergeant Zorovich.md",
+  "url": "notes/messer-von-sergeant-zorovich.html",
+  "apiUrl": "api/notes/messer-von-sergeant-zorovich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Altes Messer in Scheide. Gefunden: Haus Alkir",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\nAltes Messer in Scheide.\n\n**Gefunden:** [[Haus Alkir]]\n\n"
+}

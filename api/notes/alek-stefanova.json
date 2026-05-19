@@ -1,0 +1,30 @@
+{
+  "title": "Alek Stefanova",
+  "slug": "alek-stefanova",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Opfer/Alek Stefanova.md",
+  "url": "notes/alek-stefanova.html",
+  "apiUrl": "api/notes/alek-stefanova.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Alek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alek Stefanova",
+      "label": "Alek Stefanova",
+      "slug": "alek-stefanova"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\n[[Alek Stefanova]] wurde in [[Haus Alkir]] geopfert. Kein Sedativum.\n"
+}

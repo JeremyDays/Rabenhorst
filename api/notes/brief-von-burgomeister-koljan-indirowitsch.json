@@ -1,0 +1,55 @@
+{
+  "title": "Brief von Burgomeister Koljan Indirowitsch",
+  "slug": "brief-von-burgomeister-koljan-indirowitsch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Briefe)/Brief von Burgomeister Koljan Indirowitsch.md",
+  "url": "notes/brief-von-burgomeister-koljan-indirowitsch.html",
+  "apiUrl": "api/notes/brief-von-burgomeister-koljan-indirowitsch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Oft benutzt. Papier selten? Siegel: Stilisiertes B. Burgomeister Koljan Indirowitsch. (Bild von Ireena) An den Finder dieses Briefes – kehrt um! Betretet Barovia nicht. Unser Land ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Koljan Indirowitsch",
+      "label": "Koljan Indirowitsch",
+      "slug": "koljan-indirowitsch"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Teufel Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    }
+  ],
+  "markdown": "\nOft benutzt. Papier selten? Siegel: Stilisiertes B. \nBurgomeister [[Koljan Indirowitsch]]. \n\n(Bild von [[Ireena]])\n\n***An den Finder dieses Briefes – kehrt um!***\n***Betretet [[Barovia]] nicht. Unser Land wird vom [[Graf Strahd|Teufel Strahd]] beherrscht.***\n***Ich, [[Koljan Indirowitsch]], Burgomeister des Dorfs [[Barovia (Dorf)]], flehe euch an: Lasst uns unserem Schicksal.***\n***Meine Adoptivtochter [[Ireena]] Kolyana wurde von ihm gebissen und ist vom Übel gezeichnet.***\n***Wir haben weder Hilfe noch Hoffnung, keinen Schutz, kein Silber, das wir teilen könnten.***\n***Die [[Nebel]] verschlingen Fremde, und wer hierherkommt, ist verloren.***\n***Kehrt um und betet für uns – und für euch, dass ihr nie den Schatten von [[Schloss Rabenhorst]] erblickt.***\n***— [[Koljan Indirowitsch]], Burgomeister von [[Barovia (Dorf)]].***\n\n(datiert auf vor einer Woche)\nalso damals!\n\nIm Siegel ist ein großes B\n"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Bluto Krogarov",
+  "slug": "bluto-krogarov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Bluto Krogarov.md",
+  "url": "notes/bluto-krogarov.html",
+  "apiUrl": "api/notes/bluto-krogarov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Aus: Vallaki Bekannter Trinker und Fischer, der es wagt, am Zarovich See zu angeln.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Zarovich-See",
+      "label": "Zarovich-See",
+      "slug": "zarovich-see"
+    }
+  ],
+  "markdown": "\nAus: [[Vallaki]]\n\nBekannter Trinker und Fischer, der es wagt, am [[Zarovich-See]] zu angeln.\n\n"
+}

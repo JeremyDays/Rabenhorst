@@ -1,0 +1,60 @@
+{
+  "title": "Argynvost",
+  "slug": "argynvost",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Argynvost.md",
+  "url": "notes/argynvost.html",
+  "apiUrl": "api/notes/argynvost.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Das Reich von Argynvost hat Argynvostholt zum Zentrum. Graf Argynvost ist der Herrscher dieses Reichs. Argynvost ist der Name eines Drachens. Argynvost ist König Barov gegen die Te",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Silberdrache",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Der Fall von Argynvost",
+      "slug": "der-fall-von-argynvost"
+    }
+  ],
+  "markdown": "\n\nDas Reich von [[Argynvost]] hat [[Argynvostholt]] zum Zentrum.\n[[Graf Argynvost]] ist der Herrscher dieses Reichs.\n- [[Argynvost]] ist der Name eines Drachens.\n\n- [[Argynvost]] ist [[König Barov]] gegen die [[Terg]]-Streitkräfte nicht zu Hilfe gekommen, so dass [[König Barov]] kurz darauf in einer Falle fiel.\n\n>***Malduk:** Vermutlich ist [[Argynvost]] kein Reich gewesen, wenn es so nah an [[Vallaki]] war, sondern eine Bezeichnung für eine Kraft im Land in Form von [[Graf Argynvost]], der identisch ist mit [[Argynvost]], was vermutlich einfach [[Graf Argynvost|Silberdrache]] heißt.*\n\n\n\n---\nSiehe [[Der Fall von Argynvost]]\n\n\n\n\n\n"
+}

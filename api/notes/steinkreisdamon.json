@@ -1,0 +1,22 @@
+{
+  "title": "Steinkreisdämon",
+  "slug": "steinkreisdamon",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Dämonen/Steinkreisdämon.md",
+  "url": "notes/steinkreisdamon.html",
+  "apiUrl": "api/notes/steinkreisdamon.json",
+  "tags": [
+    "Dämon"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Schattenengel"
+    ],
+    "tags": [
+      "Dämon"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

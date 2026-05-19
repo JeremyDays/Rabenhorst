@@ -1,0 +1,25 @@
+{
+  "title": "Dorina",
+  "slug": "dorina",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Dorina.md",
+  "url": "notes/dorina.html",
+  "apiUrl": "api/notes/dorina.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Schwester von Drascha.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Drascha",
+      "label": "Drascha",
+      "slug": "drascha"
+    }
+  ],
+  "markdown": "\nSchwester von [[Drascha]].\n\n"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Tser-Fälle",
+  "slug": "tser-falle",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Tser-Fälle.md",
+  "url": "notes/tser-falle.html",
+  "apiUrl": "api/notes/tser-falle.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Wasserfall bei der Alten BrückeUralte Steinbrücke. Dort haben wir Ahab Melville, den Fischer getroffen. Beschreibung: Wenn du dich weiter in das geheimnisvolle Land Barovia wagst, ",
+  "frontmatter": {
+    "aliases": [
+      "Tser-Fällen",
+      "Wasserfall"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Uralte Steinbrücke",
+      "label": "Alten Brücke",
+      "slug": "uralte-steinbrucke"
+    },
+    {
+      "target": "Ahab Melville",
+      "label": "Ahab Melville",
+      "slug": "ahab-melville"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "uralte Steinbrücke",
+      "label": "uralte Steinbrücke",
+      "slug": "uralte-steinbrucke"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "Uralte Steinbrücke",
+      "label": "Uralte Steinbrücke",
+      "slug": "uralte-steinbrucke"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Falstan Mitrache",
+      "label": "Falstan Mitrache",
+      "slug": "falstan-mitrache"
+    },
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    }
+  ],
+  "markdown": "\nWasserfall bei der [[Uralte Steinbrücke|Alten Brücke]].\n\n- Dort haben wir [[Ahab Melville]], den Fischer getroffen.\n\n**Beschreibung:**\n>Wenn du dich weiter in das geheimnisvolle Land [[Barovia]] wagst, stehst du vor den ehrfurchtgebietenden Tser-Fällen. Der Fluss fließt in eine natürliche Schlucht, wo ein kolossaler Wasserfall in ein verhülltes Becken stürzt und einen ewigen Nebelschleier hinterlässt. Über die Schlucht spannt sich eine [[uralte Steinbrücke]], die bis zu drei Meter hoch ist.\n>\n>Ganz gleich, ob Sie sich vom [[Lager der Blauen Vistani]] am Fluss aus nähern oder die Hauptstraße nehmen, der Wasserfall besticht durch seine himmlische Schönheit. Wasserspeier, in die Umarmung der Zeit gehüllt, hocken stoisch auf den moosbewachsenen Ecken der Brücke.\n>\n>Obwohl die [[Uralte Steinbrücke]] durch die Feuchtigkeit glitschig ist, bietet sie einen sicheren Übergang. Der Pfad dahinter führt den Berghang hinunter oder durchschneidet die Berge selbst, wobei jeder Weg die Geheimnisse dieses mysteriösen Reiches enthüllt.\n>\n>Aber hüte dich vor dem gespenstischen Flüstern der Wasserfälle, denn in der Nähe lauern schaurige Untote. Die [[Vistani]], angeführt von der rätselhaften [[Madame Eva]], kämpfen mit [[Graf Strahd]]s Unwillen, die Wasserfälle von diesen Schrecken zu befreien. In ihrer Mitte sucht der Führer [[Falstan Mitrache]] nach Helden, die ihm helfen, seine untote Geliebte zur Ruhe zu bringen. Im Schatten der [[Tser-Fälle]], wo dunkle Geheimnisse auf tosendes Wasser treffen, entfaltet sich ein heimlicher Tanz.\n\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "König Falkon von Habsburg",
+  "slug": "konig-falkon-von-habsburg",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Von Habsburg/König Falkon von Habsburg.md",
+  "url": "notes/konig-falkon-von-habsburg.html",
+  "apiUrl": "api/notes/konig-falkon-von-habsburg.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ehemaliger Herrscher von Barovia. Hat um Barovia gekämpft, aber unterlag der Macht von Prinz StrahdGraf Strahd. Prinz StrahdGraf Strahd hatte es mit seinem Sieg über König Falkon v",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Prinz Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "Sankt Markovia",
+      "slug": "sankt-markovia"
+    }
+  ],
+  "markdown": "\nEhemaliger Herrscher von [[Barovia]].\n\nHat um [[Barovia]] gekämpft, aber unterlag der Macht von [[Graf Strahd|Prinz Strahd]].\n\n- [[Graf Strahd|Prinz Strahd]] hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater [[Barovia]] regierte.\n- War befreundet mit [[Sankt Markovia]].\n- "
+}

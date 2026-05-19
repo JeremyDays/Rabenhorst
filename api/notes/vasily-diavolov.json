@@ -1,0 +1,30 @@
+{
+  "title": "Vasily Diavolov",
+  "slug": "vasily-diavolov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Opfer/Vasily Diavolov.md",
+  "url": "notes/vasily-diavolov.html",
+  "apiUrl": "api/notes/vasily-diavolov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vasily Diavolov wurde in Haus Alkir geopfert. Er hielt sehr lange durch.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vasily Diavolov",
+      "label": "Vasily Diavolov",
+      "slug": "vasily-diavolov"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\n[[Vasily Diavolov]] wurde in [[Haus Alkir]] geopfert. Er hielt sehr lange durch."
+}

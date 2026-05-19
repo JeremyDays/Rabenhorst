@@ -1,0 +1,25 @@
+{
+  "title": "Bran",
+  "slug": "bran",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Weiler/Bran.md",
+  "url": "notes/bran.html",
+  "apiUrl": "api/notes/bran.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wo getroffen: Weiler Jäger des Weilers",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Weiler",
+      "label": "Weiler",
+      "slug": "weiler"
+    }
+  ],
+  "markdown": "\n**Wo getroffen:** [[Weiler]]\n\nJäger des Weilers\n\n"
+}

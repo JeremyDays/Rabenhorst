@@ -1,0 +1,53 @@
+{
+  "title": "Wer-Raben",
+  "slug": "wer-raben",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wer-Raben.md",
+  "url": "notes/wer-raben.html",
+  "apiUrl": "api/notes/wer-raben.json",
+  "tags": [],
+  "excerpt": "Diener der Fey Einer der Wer Raben hörte das Gespräch zwischen Graf Strahd und der Wasserfey und dass sie gefangen genommen wurde. Er warnte die Fey und die Druiden. Den Wer Raben ",
+  "frontmatter": {
+    "aliases": [
+      "Wer-Rabe"
+    ]
+  },
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Wer-Raben",
+      "label": "Wer-Raben",
+      "slug": "wer-raben"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "grünen Edelstein",
+      "slug": "edelstein-grun"
+    }
+  ],
+  "markdown": "Diener der [[Fey]]\n\n- Einer der [[Wer-Raben]] hörte das Gespräch zwischen [[Graf Strahd]] und der [[Wasserfey]] und dass sie gefangen genommen wurde.\n- Er warnte die [[Fey]] und die [[Druiden]].\n\n- Den [[Wer-Raben]] traute die [[Waldfey]] ihren [[Edelstein (Grün)|grünen Edelstein]] an."
+}

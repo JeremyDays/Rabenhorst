@@ -1,0 +1,35 @@
+{
+  "title": "Lager der Blauen Vistani",
+  "slug": "lager-der-blauen-vistani",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Lager der Blauen Vistani.md",
+  "url": "notes/lager-der-blauen-vistani.html",
+  "apiUrl": "api/notes/lager-der-blauen-vistani.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Das Lager der Blauen VistaniBlaue Vistani liegt am Tser Teich. Bewohner: 8 Pferde 6 Bulldoggen Hunde. Blaue Vistani",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blaue Vistani",
+      "slug": "blaue-vistani"
+    }
+  ],
+  "markdown": "\nDas Lager der [[Blaue Vistani|Blauen Vistani]] liegt am [[Tser-Teich]].\n\n**Bewohner:**\n- 8 Pferde\n- 6 Bulldoggen-Hunde. \n- [[Blaue Vistani]]\n- "
+}

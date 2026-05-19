@@ -1,0 +1,25 @@
+{
+  "title": "Dmitri Krezkov",
+  "slug": "dmitri-krezkov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Krezk/Dmitri Krezkov.md",
+  "url": "notes/dmitri-krezkov.html",
+  "apiUrl": "api/notes/dmitri-krezkov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Burgomeister von Krezk",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    }
+  ],
+  "markdown": "\nBurgomeister von [[Krezk]]\n\n"
+}

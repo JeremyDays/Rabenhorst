@@ -1,0 +1,28 @@
+{
+  "title": "Heiligtum der Waldfey",
+  "slug": "heiligtum-der-waldfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Heiligtum der Waldfey.md",
+  "url": "notes/heiligtum-der-waldfey.html",
+  "apiUrl": "api/notes/heiligtum-der-waldfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Bei der Hexenmühle. Oder war es der Berg Fey? Magisch. Erdmagie, aber auch ein wenig Wassermagie und Luftmagie.",
+  "frontmatter": {
+    "aliases": [
+      "Steinkreis"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    }
+  ],
+  "markdown": "\nBei der [[Hexenmühle]].\n\nOder war es der Berg-Fey?\n\nMagisch. Erdmagie, aber auch ein wenig Wassermagie und Luftmagie."
+}

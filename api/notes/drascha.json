@@ -1,0 +1,30 @@
+{
+  "title": "Drascha",
+  "slug": "drascha",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Drascha.md",
+  "url": "notes/drascha.html",
+  "apiUrl": "api/notes/drascha.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Frau, die freundlich zu Mütterchen GariaMorganta war. Sie hat einen Mann, der Holz bringen kann. Schwester von Dorina.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Morganta",
+      "label": "Mütterchen Garia",
+      "slug": "morganta"
+    },
+    {
+      "target": "Dorina",
+      "label": "Dorina",
+      "slug": "dorina"
+    }
+  ],
+  "markdown": "\nFrau, die freundlich zu [[Morganta|Mütterchen Garia]] war. Sie hat einen Mann, der Holz bringen kann.\nSchwester von [[Dorina]].\n\n"
+}

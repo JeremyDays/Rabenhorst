@@ -1,0 +1,35 @@
+{
+  "title": "RIPpy",
+  "slug": "rippy",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/RIPpy.md",
+  "url": "notes/rippy.html",
+  "apiUrl": "api/notes/rippy.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    }
+  ],
+  "markdown": "\nEin kleiner Fuchs, der [[Heinard]] geholfen hatte im [[Haus Alkir]].\n\n**Gefunden:** In der Gruft von [[Gustav Alkir]].\n\n"
+}

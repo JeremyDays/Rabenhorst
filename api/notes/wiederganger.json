@@ -1,0 +1,33 @@
+{
+  "title": "Wiedergänger",
+  "slug": "wiederganger",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wiedergänger.md",
+  "url": "notes/wiederganger.html",
+  "apiUrl": "api/notes/wiederganger.json",
+  "tags": [],
+  "excerpt": "Die Ritter des Silbernen Drachen kamen als Wiedergänger zurück, um Graf Strahd auch im Tod zu bekämpfen.",
+  "frontmatter": {
+    "aliases": [
+      "untoten Ritter"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Wiedergänger",
+      "label": "Wiedergänger",
+      "slug": "wiederganger"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nDie [[Ritter des Silbernen Drachen]] kamen als [[Wiedergänger]] zurück, um [[Graf Strahd]] auch im Tod zu bekämpfen."
+}

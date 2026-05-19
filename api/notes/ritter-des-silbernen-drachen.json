@@ -1,0 +1,71 @@
+{
+  "title": "Ritter des Silbernen Drachen",
+  "slug": "ritter-des-silbernen-drachen",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Ritter des Silbernen Drachen.md",
+  "url": "notes/ritter-des-silbernen-drachen.html",
+  "apiUrl": "api/notes/ritter-des-silbernen-drachen.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Die Ritter des Silbernen Drachen sind von Graf Argynvost zum Schutze des Bernsteintempels gegründet worden. Sie sind aus dem Orden des Drachen entstanden. Haben Prinz Sergei angebl",
+  "frontmatter": {
+    "aliases": [
+      "Orden des Silbernen Drachen",
+      "Ordens des Silbernen Drachens",
+      "Paladin-Ritter",
+      "Ritterin"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Orden des Drachen",
+      "label": "Orden des Drachen",
+      "slug": "orden-des-drachen"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinz Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Sir Godfrey",
+      "label": "Sir Godfrey",
+      "slug": "sir-godfrey"
+    },
+    {
+      "target": "Vladimir Horngaard",
+      "label": "Vladimir Horngaard",
+      "slug": "vladimir-horngaard"
+    }
+  ],
+  "markdown": "\n![[Ritter des Silbernen Drachen (Symbol).png]]\n\n- Die [[Ritter des Silbernen Drachen]] sind von [[Graf Argynvost]] zum Schutze des [[Bernsteintempel]]s gegründet worden. Sie sind aus dem [[Orden des Drachen]] entstanden.\n\n- Haben [[Prinz Sergei]] angeblich in der Nacht vor seiner Hochzeit mit [[Tatyana]] überfallen und getötet.\n\n>***Malduk:** Es ist sehr unwahrscheinlich, dass diese loyalen, ehrwürdigen Ritter eine Hochzeit verhindern würden!*\n\n**Bekannte Mitglieder:**\n- [[Lugdana Argynvost]]\n- [[Sir Godfrey]]\n- [[Vladimir Horngaard]]\n- \n\n"
+}

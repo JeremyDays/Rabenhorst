@@ -1,0 +1,19 @@
+{
+  "title": "Kutschwagen der Drascoi",
+  "slug": "kutschwagen-der-drascoi",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Kutschwagen der Drascoi.md",
+  "url": "notes/kutschwagen-der-drascoi.html",
+  "apiUrl": "api/notes/kutschwagen-der-drascoi.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kutschwagen + 2 rädriger Karren mit Deichsel. Größe des Wagens: 4 6 Fässer hätten Platz. 2 Fässer und wir 4 auch. Von Pferd gezogen.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nKutschwagen + 2-rädriger Karren mit Deichsel.  \nGröße des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch.  \nVon Pferd gezogen.\n"
+}

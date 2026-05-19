@@ -1,0 +1,19 @@
+{
+  "title": "Gargylen",
+  "slug": "gargylen",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Gargylen.md",
+  "url": "notes/gargylen.html",
+  "apiUrl": "api/notes/gargylen.json",
+  "tags": [],
+  "excerpt": "Sind auf der Alten BrückeUralte Steinbrücke zum Leben erwacht.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Uralte Steinbrücke",
+      "label": "Alten Brücke",
+      "slug": "uralte-steinbrucke"
+    }
+  ],
+  "markdown": "Sind auf der [[Uralte Steinbrücke|Alten Brücke]] zum Leben erwacht.\n"
+}

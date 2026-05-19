@@ -1,0 +1,45 @@
+{
+  "title": "Brief von Strahd an Alkir",
+  "slug": "brief-von-strahd-an-alkir",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Briefe)/Brief von Strahd an Alkir.md",
+  "url": "notes/brief-von-strahd-an-alkir.html",
+  "apiUrl": "api/notes/brief-von-strahd-an-alkir.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ein Pergament mit Graf Strahds Wappen. Gefunden: Malduk in Haus Alkir Mein erbärmlicher Diener, ich bin kein Messias, der von den dunklen Mächten dieses Landes zu dir geschickt wur",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Bastard",
+      "label": "Bastard",
+      "slug": "bastard"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Strahd von Zarovich",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nEin Pergament mit [[Graf Strahd]]s Wappen.\n\n**Gefunden:** [[Malduk]] in [[Haus Alkir]]\n\n\n_Mein erbärmlicher Diener,_\n\n_ich bin kein Messias, der von den dunklen Mächten dieses Landes zu dir geschickt wurde. Ich bin nicht gekommen, um dich auf einen Pfad der Unsterblichkeit zu führen. Wie viele Seelen ihr auch auf eurem versteckten Altar ausgeblutet habt, wie viele Besucher ihr auch in eurem Kerker gequält habt, wisst, dass ihr nicht diejenigen seid, die mich in dieses schöne Land gebracht haben. Ihr seid nur Würmer, die sich in meiner Erde winden._\n\n_Ihr sagt, ihr seid verflucht, euer Vermögen ist aufgebraucht. Ihr habt die Liebe dem Wahnsinn überlassen, **Trost im Schoß einer anderen Frau gesucht und einen [[Bastard]] gezeugt**. Verflucht von der Dunkelheit? Daran habe ich keinen Zweifel. Euch von Eurem Elend erlösen? Ich glaube nicht. Ihr seid mir viel lieber, so wie Ihr seid._\n\n_Euer Herr und Meister,_\n\n_[[Graf Strahd|Strahd von Zarovich]]_\n\n![[Wappen Graf Strahd.jpg]]\n\n"
+}

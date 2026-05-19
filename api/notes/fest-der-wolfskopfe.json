@@ -1,0 +1,28 @@
+{
+  "title": "Fest der Wolfsköpfe",
+  "slug": "fest-der-wolfskopfe",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Fest der Wolfsköpfe.md",
+  "url": "notes/fest-der-wolfskopfe.html",
+  "apiUrl": "api/notes/fest-der-wolfskopfe.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "7. Mart 755 EB Eine Woche vor unserer Ankunft / Weniger als eine Woche her.",
+  "frontmatter": {
+    "aliases": [
+      "Wolfskopffest"
+    ],
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "7. Mart 755 EB",
+      "label": "7. Mart 755 EB",
+      "slug": "7-mart-755-eb"
+    }
+  ],
+  "markdown": "[[7. Mart 755 EB]]\n\nEine Woche vor unserer Ankunft / Weniger als eine Woche her.\n\n\n\n"
+}

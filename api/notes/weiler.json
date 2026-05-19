@@ -1,0 +1,45 @@
+{
+  "title": "Weiler",
+  "slug": "weiler",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Weiler.md",
+  "url": "notes/weiler.html",
+  "apiUrl": "api/notes/weiler.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Zwischen Tser Teich und Vallaki. Schutzkreis vor Magie, vor Entdeckung. Einwohner: Grusha Katerina Bran",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Grusha",
+      "label": "Grusha",
+      "slug": "grusha"
+    },
+    {
+      "target": "Katerina",
+      "label": "Katerina",
+      "slug": "katerina"
+    },
+    {
+      "target": "Bran",
+      "label": "Bran",
+      "slug": "bran"
+    }
+  ],
+  "markdown": "\nZwischen [[Tser-Teich]] und [[Vallaki]].\n\n- Schutzkreis vor Magie, vor Entdeckung.\n\n**Einwohner:**\n- [[Grusha]]\n- [[Katerina]]\n- [[Bran]]\n\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Rotes Buch",
+  "slug": "rotes-buch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Bücher/Rotes Buch.md",
+  "url": "notes/rotes-buch.html",
+  "apiUrl": "api/notes/rotes-buch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Dickes Buch. Rötlich. Malduk: Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen und Lehrlings ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nDickes Buch. Rötlich.\n\n>***Malduk:** Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer.*\n\n"
+}

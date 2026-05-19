@@ -1,0 +1,35 @@
+{
+  "title": "Yeska",
+  "slug": "yeska",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Kirche/Yeska.md",
+  "url": "notes/yeska.html",
+  "apiUrl": "api/notes/yeska.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jünger der St. Andrals Kirche Hat Milivoj von den Knochen des Sankt Andral erzählt.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Sankt Andral",
+      "label": "Sankt Andral",
+      "slug": "sankt-andral"
+    }
+  ],
+  "markdown": "\nJünger der [[St. Andrals Kirche]]\n\n\n![[Yeska.png]]\n\n- Hat [[Milivoj]] von den Knochen des [[Sankt Andral]] erzählt.\n- "
+}

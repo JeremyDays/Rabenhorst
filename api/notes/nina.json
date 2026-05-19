@@ -1,0 +1,25 @@
+{
+  "title": "Nina",
+  "slug": "nina",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Nina.md",
+  "url": "notes/nina.html",
+  "apiUrl": "api/notes/nina.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 7 Jahre alt",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "\nWaisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Nina.png]]\n\n7 Jahre alt\n\n"
+}

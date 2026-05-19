@@ -1,0 +1,40 @@
+{
+  "title": "3 Vistani-Frauen",
+  "slug": "3-vistani-frauen",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vistani aus Barovia (Dorf)/3 Vistani-Frauen.md",
+  "url": "notes/3-vistani-frauen.html",
+  "apiUrl": "api/notes/3-vistani-frauen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vistani Wir haben sie kurz im Gasthaus zur blutigen Rebe in Barovia (Dorf) gesehen. Wir wissen nicht, wie sie heißen Beschreibung: Hosen, keine Kleider, hübsch. Jede hat unter dem ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Gasthaus zur blutigen Rebe",
+      "label": "Gasthaus zur blutigen Rebe",
+      "slug": "gasthaus-zur-blutigen-rebe"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Ausgestoßene Vistani",
+      "label": "Ausgestoßene Vistani",
+      "slug": "ausgesto-ene-vistani"
+    }
+  ],
+  "markdown": "\n[[Vistani]]\n\n- Wir haben sie kurz im [[Gasthaus zur blutigen Rebe]] in [[Barovia (Dorf)]] gesehen.\n- Wir wissen nicht, wie sie heißen\n\n**Beschreibung:**\n- Hosen, keine Kleider, hübsch. Jede hat unter dem rechten Auge eine weiße Narbe.\n\n- Sie trugen keine Halstücher, also nehmen wir an, sie sind [[Ausgestoßene Vistani]].\n***Mortu.*** Verstoßene Vistani. Schnitt unter dem linken Auge. Pakt mit Wesen der Nacht. Versprechen gebrochen, Verbrechen begangen (Diebstahl, Mord)."
+}

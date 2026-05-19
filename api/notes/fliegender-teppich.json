@@ -1,0 +1,30 @@
+{
+  "title": "Fliegender Teppich",
+  "slug": "fliegender-teppich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Fliegender Teppich.md",
+  "url": "notes/fliegender-teppich.html",
+  "apiUrl": "api/notes/fliegender-teppich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Angeblich hat Petra einen Fliegenden Teppich, den er uns für eine Flasche Champagner de Sol anbietet.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Champagner de Sol",
+      "label": "Champagner de Sol",
+      "slug": null
+    }
+  ],
+  "markdown": "Angeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet.\n"
+}

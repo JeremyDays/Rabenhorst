@@ -1,0 +1,30 @@
+{
+  "title": "Sven",
+  "slug": "sven",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Sven.md",
+  "url": "notes/sven.html",
+  "apiUrl": "api/notes/sven.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Leichtsinniger Sohn von Mirtsche und Mirian. Ca. 9 Jahre?",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Mirtsche",
+      "label": "Mirtsche",
+      "slug": "mirtsche"
+    },
+    {
+      "target": "Mirian",
+      "label": "Mirian",
+      "slug": "mirian"
+    }
+  ],
+  "markdown": "\nLeichtsinniger Sohn von [[Mirtsche]] und [[Mirian]]. Ca. 9 Jahre?\n"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Prinz Vernon",
+  "slug": "prinz-vernon",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Von Habsburg/Prinz Vernon.md",
+  "url": "notes/prinz-vernon.html",
+  "apiUrl": "api/notes/prinz-vernon.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Tot Beziehungen: Sohn von Graf von Habsburg und vermutlich Gräfin von Habsburg Er kämpfte mit den Schildmaiden und den Rittern des Silbernen DrachenRitter des Silbernen Drachen zus",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf von Habsburg",
+      "label": "Graf von Habsburg",
+      "slug": "graf-von-habsburg"
+    },
+    {
+      "target": "Gräfin von Habsburg",
+      "label": "Gräfin von Habsburg",
+      "slug": "grafin-von-habsburg"
+    },
+    {
+      "target": "Schildmaiden",
+      "label": "Schildmaiden",
+      "slug": "schildmaiden"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Rittern des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Toren von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Schlacht von Tsolenka",
+      "label": "Schlacht von Tsolenka",
+      "slug": "schlacht-von-tsolenka"
+    }
+  ],
+  "markdown": "\n\nTot\n\n**Beziehungen:**\n- Sohn von [[Graf von Habsburg]] und vermutlich [[Gräfin von Habsburg]]\n- Er kämpfte mit den [[Schildmaiden]] und den [[Ritter des Silbernen Drachen|Rittern des Silbernen Drachen]] zusammen gegen die Armee von [[Graf Strahd]].\n- Er fiel an den [[Tore von Tsolenka|Toren von Tsolenka]] in der [[Schlacht von Tsolenka]].\n\n"
+}

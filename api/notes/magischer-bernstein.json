@@ -1,0 +1,49 @@
+{
+  "title": "Magischer Bernstein",
+  "slug": "magischer-bernstein",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Magischer Bernstein.md",
+  "url": "notes/magischer-bernstein.html",
+  "apiUrl": "api/notes/magischer-bernstein.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Dieser Bernstein hat die magische Eigenschaft, Magie und Macht nutzbar machen zu können. Die Fey haben ihn entdeckt in einem Berg, dem Bernsteinberg. Aus ihm sind die Edelsteine de",
+  "frontmatter": {
+    "aliases": [
+      "Magischen Bernsteins",
+      "Bernsteinsplitter"
+    ],
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Bernsteinberg",
+      "label": "Bernsteinberg",
+      "slug": "bernsteinberg"
+    },
+    {
+      "target": "Edelsteine der Fey",
+      "label": "Edelsteine der Fey",
+      "slug": "edelsteine-der-fey"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    }
+  ],
+  "markdown": "- Dieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können.\n- Die [[Fey]] haben ihn entdeckt in einem Berg, dem [[Bernsteinberg]].\n- Aus ihm sind die [[Edelsteine der Fey]].\n- Dort wurde der [[Bernsteintempel]] errichtet.\n- "
+}

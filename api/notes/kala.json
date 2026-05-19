@@ -1,0 +1,35 @@
+{
+  "title": "Kala",
+  "slug": "kala",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Kala.md",
+  "url": "notes/kala.html",
+  "apiUrl": "api/notes/kala.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Blauen VistaniBlaue Vistani Wo getroffen: Lager der Blauen Vistani Hat Augen auf Heinard geworfen.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    }
+  ],
+  "markdown": "\nMitglied der [[Blaue Vistani|Blauen Vistani]]\n\n**Wo getroffen:** [[Lager der Blauen Vistani]]\n\n- Hat Augen auf [[Heinard]] geworfen.\n\n"
+}

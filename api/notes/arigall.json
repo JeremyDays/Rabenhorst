@@ -1,0 +1,25 @@
+{
+  "title": "Arigall",
+  "slug": "arigall",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Roten Vistani/Arigall.md",
+  "url": "notes/arigall.html",
+  "apiUrl": "api/notes/arigall.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Anführer der Roten VistaniRote Vistani.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    }
+  ],
+  "markdown": "\nMitglied der [[Rote Vistani|Roten Vistani]]\n\nAnführer der [[Rote Vistani|Roten Vistani]].\n\n"
+}

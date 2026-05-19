@@ -1,0 +1,40 @@
+{
+  "title": "Blaue Rosen",
+  "slug": "blaue-rosen",
+  "category": "faction",
+  "relativePath": "Shared/Valerisches Imperium/0 - Fraktionen/Blaue Rosen.md",
+  "url": "notes/blaue-rosen.html",
+  "apiUrl": "api/notes/blaue-rosen.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Die Gruppe insgesamt : Sie sind keine Söldner. Sie folgen keinem offiziellen Banner. Sie nehmen Aufträge von Informanten, alten Freunden, ehemaligen Ordensmitgliedern. Doch vieles ",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Thernan",
+      "label": "Thernan",
+      "slug": "thernan"
+    },
+    {
+      "target": "Liu",
+      "label": "Liu",
+      "slug": "liu"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\n### **Die Gruppe insgesamt**:\n\n- Sie sind keine Söldner. Sie folgen keinem offiziellen Banner.\n    \n- Sie nehmen Aufträge von Informanten, alten Freunden, ehemaligen Ordensmitgliedern. Doch vieles entscheiden sie selbst.\n    \n- Sie _wühlen_ dort, wo es gefährlich ist: Verbotene Bibliotheken, alte Schreine, verfluchte Grenzburgen.\n    \n- Sie haben das Gefühl, **etwas ist faul** in den Fundamenten des Reichs. Sie wollen keine Revolution – aber sie wollen die Wahrheit retten, bevor sie aus den Herzen der Menschen gelöscht ist.\n\n#### Mitglieder\n- [[Cataryma]]\n- [[Thernan]]\n- [[Liu]]\n- [[Malduk]]\n\n"
+}

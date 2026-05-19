@@ -1,0 +1,19 @@
+{
+  "title": "Vistani Captain",
+  "slug": "vistani-captain",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Vistani Captain.md",
+  "url": "notes/vistani-captain.html",
+  "apiUrl": "api/notes/vistani-captain.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Vistani Captain (Token).png]]"
+}

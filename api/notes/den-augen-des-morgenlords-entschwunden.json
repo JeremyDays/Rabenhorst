@@ -1,0 +1,38 @@
+{
+  "title": "Den Augen des Morgenlords entschwunden",
+  "slug": "den-augen-des-morgenlords-entschwunden",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Bücher/Den Augen des Morgenlords entschwunden.md",
+  "url": "notes/den-augen-des-morgenlords-entschwunden.html",
+  "apiUrl": "api/notes/den-augen-des-morgenlords-entschwunden.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ein dünnes Buch von Claudia Belasco. In diesem Buch werden die Grundlagen der Dämonen und der Dämonenanbetung beschrieben, einschließlich der einfachsten Grundlagen der abyssalen u",
+  "frontmatter": {
+    "aliases": [
+      "Jenseits der Sicht des Gottes des Morgens"
+    ],
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Claudia Belasco",
+      "label": "Claudia Belasco",
+      "slug": "claudia-belasco"
+    },
+    {
+      "target": "Cedrik",
+      "label": "Cedrik",
+      "slug": "cedrik"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    }
+  ],
+  "markdown": "\nEin dünnes Buch von [[Claudia Belasco]].\n\n In diesem Buch werden die Grundlagen der Dämonen und der Dämonenanbetung beschrieben, einschließlich der einfachsten Grundlagen der **abyssalen und infernalischen Sprachen**. Frau Belasco fand die Runen, die nach [[Cedrik]]s Tod in sein Bett geritzt wurden. Sie vermutet, dass sie etwas mit der Tragödie zu tun haben.\n\n(Sonnen-Symbol)\n\n- Ketzerisches Buch über Grundlagen der Dämonen und Anbetung, inklusive infernale Sprachen; [[Heinard]]s Meister nannte vieles davon Humbug.\n\n>***Malduk:** Das Buch hätte ich besser gelesen...*\n\n"
+}

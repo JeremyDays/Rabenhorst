@@ -1,0 +1,25 @@
+{
+  "title": "Marina",
+  "slug": "marina",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Marina.md",
+  "url": "notes/marina.html",
+  "apiUrl": "api/notes/marina.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 8 Jahre alt Beschreibung Das Mädchen, das anderen Kindern vorliest. Sie ist 10 11 Jahre alt, hat oben keine Schneidezähne, hat ein süßes k",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "\nWaisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Marina.png]]\n\n8 Jahre alt\n\n**Beschreibung**\nDas Mädchen, das anderen Kindern vorliest. Sie ist 10-11 Jahre alt, hat oben keine Schneidezähne, hat ein süßes kleines Gesicht, gepflegt mit dunklen Zöpfen, lispelt \n\n- Sie hat dunkelblaue Flecken auf beiden Armen. Sie hat Bisswunden unter dem Kleid. Große Kieferabdrücke ohne tiefe Bisswunden. Sie jucken. Sie kratzt sich."
+}

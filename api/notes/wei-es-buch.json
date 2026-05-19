@@ -1,0 +1,19 @@
+{
+  "title": "Weißes Buch",
+  "slug": "wei-es-buch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Bücher/Weißes Buch.md",
+  "url": "notes/wei-es-buch.html",
+  "apiUrl": "api/notes/wei-es-buch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Dickes Buch. Weißlicher Einband mit Silber. Malduk: Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwend",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nDickes Buch. Weißlicher Einband mit Silber.\n\n>***Malduk:** Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:\n\n\n1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber]\n2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK]\n3. Mananetz [SG-0, Macht 0, Hauszauber, keine MK]\n4. Magie verhüllen\n5. Flüssigkeit gefrieren [SG-2, Macht 2, Hauszauber, keine MK]\n6. Eissplittergeschosse [SG-1, Macht 1, Persönlicher Zauber]\n7. Eisspeer [SG-1, Macht 2, Hauszauber]\n8. Eislauf [SG-1, Macht 1, Anfangsstadium]\n9. Eisgefängnis [SG-1, Macht 2, Hauszauber]\n10. Eislabyrinth [SG-2, Macht 4, Hauszauber]\n11. Wettermeisterschaft [SG-2, Macht 2, Hauszauber, keine MK]\n12. Nebelform [SG-1, Macht 2, Hauszauber, keine MK]\n13. Flüssigkeit weben [SG-2, Macht 2, Persönlicher Zauber, keine MK]\n14. Flüssigkeit erhitzen [SG-1, Macht 1, Formel, keine MK]\n15. Isolationsschicht [SG-1, Macht 1, Formel, keine MK]\n16. Flüssigkeiten spüren [SG-1, Macht 1, Persönlicher Zauber, keine MK]\n17. Verfall stoppen [SG-0, Macht 0, Formel, keine MK] \n18. Lebenskraft entziehen [SG-1, Macht 2, Anfangsstadium, MK notwendig]\n19. Gruushas Ritual zur Erstellung des Hirsch-Medaillons\n\n- Spezialisierung noch nicht berücksichtigt.*"
+}

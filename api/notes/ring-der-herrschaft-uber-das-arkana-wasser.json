@@ -1,0 +1,19 @@
+{
+  "title": "Ring der Herrschaft über das Arkana Wasser",
+  "slug": "ring-der-herrschaft-uber-das-arkana-wasser",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Gegenstände/Ring der Herrschaft über das Arkana Wasser.md",
+  "url": "notes/ring-der-herrschaft-uber-das-arkana-wasser.html",
+  "apiUrl": "api/notes/ring-der-herrschaft-uber-das-arkana-wasser.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kratzer im blauen Edelstein. Muss wieder versiegelt werden. Malduk: Magisch. Sehr stark. Arkana: Wasser. Mittlerer Macht Speicher [10 Macht, die jeden Tag regenerieren]. Kräfte: Ni",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\nKratzer im blauen Edelstein. Muss wieder versiegelt werden.\n\n>***Malduk:** Magisch. Sehr stark. Arkana: Wasser. Mittlerer Macht-Speicher [10 Macht, die jeden Tag regenerieren]. \n\n**Kräfte:**\n\n###### Niedere Kräfte [Macht 1]\n\n**1. Wasser reinigen** [10 liter, sofort, Gift/Verschmutzung]  \n**2. Wasser spüren** [50m RD, 5 Rd]  \n**3. Wasser atmen** [1,5m RD, 10min]\n\n###### Mittlere Kräfte [Macht 3] - Krit. Fehlschlag 14-18\n\n**1. Auf Wasser gehen** [1,5m RD, 20min, 600 kg]  \n**2. Wasser-Faust** [100m Rw, 1 Ziel, 5 Rd nutzbar, 6W6 ntö]  \n**3. Wassertemperatur ändern** [1,5m RD, 5m³, 5 Rd Dauer, 100 Grad bis -20 Grad]\n\n###### Hohe Kräfte [Macht 5] - Nicht zugänglich ohne Reparatur\n\n**1. Luft / Wasser in Eiswand verwandeln** [10m Gestaltungsraum, 10 Leben, 8 SR ntö, 6 SR tö]\n\n- Wasser-Elementare können den Träger nicht attackieren und nicht näher als 1,5m kommen. Der Ringträger kann das aufheben. Das ist dann permanent bei diesem Wesen.\n- Wasser-nahe Kreaturen können den Träger nur erschwert attackieren.  [SG-1, Schaden-1]\n- Der Träger kann diese Wesen leichter attackieren. [TW+1, Schaden +1 tö]\n- Der Träger beherrscht die Sprache der Ebene des Wassers.\n- Der Träger ist empfindlich gegenüber Wesen anderer Elemente. [Feuer, Wasser, Erde Schaden +1]\n- Der Träger beherrscht Wasserzauber leichter. [SG-1 Wassermagie]\n\n###### Mächtigste Kraft [Macht 10] - Nicht zugänglich ohne Reparatur\n\n**1. Wasser-Elementar beschwören***"
+}

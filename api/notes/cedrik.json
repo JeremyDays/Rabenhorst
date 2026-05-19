@@ -1,0 +1,25 @@
+{
+  "title": "Cedrik",
+  "slug": "cedrik",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Cedrik.md",
+  "url": "notes/cedrik.html",
+  "apiUrl": "api/notes/cedrik.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Aus dem Fenster geworfenes Waisenkind Tot",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "\nWaisenkind aus dem [[St. Andrals Waisenhaus]]\n\n\n\n_Aus dem Fenster geworfenes Waisenkind_\n\nTot\n"
+}

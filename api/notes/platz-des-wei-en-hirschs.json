@@ -1,0 +1,50 @@
+{
+  "title": "Platz des Weißen Hirschs",
+  "slug": "platz-des-wei-en-hirschs",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Platz des Weißen Hirschs.md",
+  "url": "notes/platz-des-wei-en-hirschs.html",
+  "apiUrl": "api/notes/platz-des-wei-en-hirschs.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Ort des Rituals der Lebenskraft Grusha hat diesen Ort vorgeschlagen Beschreibung: Es ist ein kleines Stück Land umgeben von zwei Bachläufen, die zum Zarovich See führen. Dort steht",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Grusha",
+      "label": "Grusha",
+      "slug": "grusha"
+    },
+    {
+      "target": "Zarovich-See",
+      "label": "Zarovich-See",
+      "slug": "zarovich-see"
+    },
+    {
+      "target": "Weiler",
+      "label": "Weiler",
+      "slug": "weiler"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    }
+  ],
+  "markdown": "\n- Ort des Rituals der Lebenskraft\n- [[Grusha]] hat diesen Ort vorgeschlagen\n\n**Beschreibung:**\n- Es ist ein kleines Stück Land umgeben von zwei Bachläufen, die zum [[Zarovich-See]] führen. Dort steht eine Eiche.\n- Lichtung 10 Schritt Radius, zum Bach abschüssig, [[Weiler]] im Rücken\n- Bach teilt sich zum [[Zarovich-See]]. U-Förmig. Ein einzelner Baum (alte Eiche) in diesem Bereich. 20 Schritt von Ufer zu Ufer, unten 5 Schritt, 6 Schritt breite Bachläufen\n\n- Hier haben [[Malduk]], [[Heinard]] und [[Michal]] zwei Mal ein Ritual gewirkt, um [[Grusha]] abzuschirmen.\n- Beim zweiten Mal hat es gewirkt und wir haben alle Monster bekämpfen können, auch wenn wir beim ersten Mal beinahe gestorben wären (insbesondere [[Malduk]] wieder)\n\n"
+}

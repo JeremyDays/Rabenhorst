@@ -1,0 +1,25 @@
+{
+  "title": "Elke",
+  "slug": "elke",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Elke.md",
+  "url": "notes/elke.html",
+  "apiUrl": "api/notes/elke.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Erste Liebe von Heinard.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    }
+  ],
+  "markdown": "\nErste Liebe von [[Heinard]].\n\n"
+}

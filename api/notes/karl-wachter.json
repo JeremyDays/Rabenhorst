@@ -1,0 +1,55 @@
+{
+  "title": "Karl Wachter",
+  "slug": "karl-wachter",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Wachter/Karl Wachter.md",
+  "url": "notes/karl-wachter.html",
+  "apiUrl": "api/notes/karl-wachter.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Älterer Bruder der Kinder der Lady Fiona WachterLady Fiona Wachter.. Beziehungen: Familie Wachter Sohn von Lady Fiona Wachter Bruder von Nikolai Wachter Jr. und Verrückte Tochter W",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Fiona Wachter",
+      "slug": "lady-fiona-wachter"
+    },
+    {
+      "target": "Familie Wachter",
+      "label": "Familie Wachter",
+      "slug": "familie-wachter"
+    },
+    {
+      "target": "Nikolai Wachter Jr.",
+      "label": "Nikolai Wachter Jr.",
+      "slug": "nikolai-wachter-jr"
+    },
+    {
+      "target": "Verrückte Tochter Wachter",
+      "label": "Verrückte Tochter Wachter",
+      "slug": "verruckte-tochter-wachter"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Fest der Brennenden Sonne",
+      "label": "Fest der Brennenden Sonne",
+      "slug": "fest-der-brennenden-sonne"
+    },
+    {
+      "target": "Säbelzahntiger",
+      "label": "Säbelzahntiger",
+      "slug": "sabelzahntiger"
+    }
+  ],
+  "markdown": "\n_Älterer Bruder der Kinder der [[Lady Fiona Wachter|Lady Fiona Wachter]]..\n\n![[Karl Wachter.png]]\n\n**Beziehungen:**\n- [[Familie Wachter]]\n- Sohn von [[Lady Fiona Wachter]]\n- Bruder von [[Nikolai Wachter Jr.]] und [[Verrückte Tochter Wachter]]\n\n- Richtspruch erfahren von [[Heinard]] beim [[Fest der Brennenden Sonne]]\n- Hat den [[Säbelzahntiger]] befreit\n\n"
+}

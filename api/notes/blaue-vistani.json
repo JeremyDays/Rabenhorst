@@ -1,0 +1,58 @@
+{
+  "title": "Blaue Vistani",
+  "slug": "blaue-vistani",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Vistani/Blaue Vistani.md",
+  "url": "notes/blaue-vistani.html",
+  "apiUrl": "api/notes/blaue-vistani.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Sie stehen neutral zu Strahd. Die Blauen Vistani wollen den Körper von Leo dem LöwenLeo der Löwe Sie leben im Lager Lager der Blauen Vistani am Tser Teich. Mitglieder: Madame Eva P",
+  "frontmatter": {
+    "aliases": [
+      "Blauen Vistani"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo dem Löwen",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Kala",
+      "label": "Kala",
+      "slug": "kala"
+    },
+    {
+      "target": "Elda",
+      "label": "Elda",
+      "slug": "elda"
+    }
+  ],
+  "markdown": "\n- Sie stehen neutral zu Strahd.\n- Die Blauen Vistani wollen den Körper von [[Leo der Löwe|Leo dem Löwen]]\n- Sie leben im Lager [[Lager der Blauen Vistani]] am [[Tser-Teich]].\n\n**Mitglieder:**\n- [[Madame Eva]]\n- [[Petra]]\n- [[Kala]]\n- [[Elda]]\n\n\n#### Vistanisch:\n- ***Rimanio***. Haben die Sippe verlassen. Das wird wie eine Bestattung gefeiert.\n- ***Vani.*** Zurückkehrer.\n- ***Mortu.*** Verstoßene Vistani. Schnitt unter dem linken Auge. Pakt mit Wesen der Nacht. Versprechen gebrochen, Verbrechen begangen (Diebstahl, Mord).\n\n"
+}

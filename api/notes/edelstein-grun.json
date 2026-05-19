@@ -1,0 +1,70 @@
+{
+  "title": "Edelstein (Grün)",
+  "slug": "edelstein-grun",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Edelstein (Grün).md",
+  "url": "notes/edelstein-grun.html",
+  "apiUrl": "api/notes/edelstein-grun.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Einer der Edelsteine der Fey. Der Edelstein der Waldfey, der unter dem Heiligtum der Waldfey, dem Steinkreis der Waldfey vergraben wurde. Er soll (Ort?) gewesen sein. Der grüne Ede",
+  "frontmatter": {
+    "aliases": [
+      "grüner Edelstein",
+      "grünen Edelstein",
+      "Grüne Edelstein"
+    ],
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Edelsteine der Fey",
+      "label": "Edelsteine der Fey",
+      "slug": "edelsteine-der-fey"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Heiligtum der Waldfey",
+      "label": "Heiligtum der Waldfey",
+      "slug": "heiligtum-der-waldfey"
+    },
+    {
+      "target": "Steinkreis der Waldfey",
+      "label": "Steinkreis der Waldfey",
+      "slug": "steinkreis-der-waldfey"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "grüne Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Grüne Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Herz des Kummers",
+      "label": "Herz des Kummers",
+      "slug": "herz-des-kummers"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Wer-Raben",
+      "label": "Wer-Raben",
+      "slug": "wer-raben"
+    }
+  ],
+  "markdown": "Einer der [[Edelsteine der Fey]].\n\n- Der Edelstein der [[Waldfey]], der unter dem [[Heiligtum der Waldfey]], dem [[Steinkreis der Waldfey]] vergraben wurde.\n- Er soll (Ort?) gewesen sein.\n- Der [[Edelstein (Grün)|grüne Edelstein]] der lieblichen und einstmals wunderschönen [[Waldfey]] ist stark mit den Geistern der Tiere und Vögel verbunden.\n\n- Der [[Edelstein (Grün)|Grüne Edelstein]] wurde halbiert, um das [[Herz des Kummers]] zu schaffen.\n- Der (halbe) [[Edelstein (Grün)|Grüne Edelstein]] ist von der [[Waldfey]] wieder ausgegraben worden.\n- Die [[Waldfey]] vertraute ihren [[Edelstein (Grün)|Edelstein]] den [[Wer-Raben]] an."
+}

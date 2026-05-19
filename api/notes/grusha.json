@@ -1,0 +1,35 @@
+{
+  "title": "Grusha",
+  "slug": "grusha",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Weiler/Grusha.md",
+  "url": "notes/grusha.html",
+  "apiUrl": "api/notes/grusha.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "ZauberinZauberer Wo getroffen: Weiler Alte Frau des Weilers Hat ein sehr altes Buch Ist sie der Weiße HirschWeißer Hirsch?",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Zauberer",
+      "label": "Zauberin",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Weiler",
+      "label": "Weiler",
+      "slug": "weiler"
+    },
+    {
+      "target": "Weißer Hirsch",
+      "label": "Weiße Hirsch",
+      "slug": "wei-er-hirsch"
+    }
+  ],
+  "markdown": "\n[[Zauberer|Zauberin]]\n\n**Wo getroffen:** [[Weiler]]\n\n- Alte Frau des Weilers\n- Hat ein sehr altes Buch\n- Ist sie der [[Weißer Hirsch|Weiße Hirsch]]?\n\n"
+}

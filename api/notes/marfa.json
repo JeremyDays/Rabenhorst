@@ -1,0 +1,25 @@
+{
+  "title": "Marfa",
+  "slug": "marfa",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Marfa.md",
+  "url": "notes/marfa.html",
+  "apiUrl": "api/notes/marfa.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 5 Jahre",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "\nWaisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Marfa.png]]\n\n5 Jahre"
+}

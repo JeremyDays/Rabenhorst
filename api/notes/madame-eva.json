@@ -1,0 +1,38 @@
+{
+  "title": "Madame Eva",
+  "slug": "madame-eva",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Madame Eva.md",
+  "url": "notes/madame-eva.html",
+  "apiUrl": "api/notes/madame-eva.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Blauen VistaniBlaue Vistani. ZauberinZauberer Wo getroffen: Lager Lager der Blauen Vistani Anführer der Blauen VistaniBlaue Vistani. Kennt sich mit Kartenlegen und Flü",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Eva"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberin",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    }
+  ],
+  "markdown": "\nMitglied der [[Blaue Vistani|Blauen Vistani]]. [[Zauberer|Zauberin]]\n\n![[Madame Eva.png]]\n\n**Wo getroffen:** Lager [[Lager der Blauen Vistani]]\n\n- Anführer der [[Blaue Vistani|Blauen Vistani]]. \n- Kennt sich mit Kartenlegen und Flüchen aus. \n- Alte gebückte Frau. Atem nach Tabak, Wein und Knoblauch. Weißblonde Haare. Stimme nach vertrocknetem Unkraut. Keine Zähne. Blind. \n- \"Ich sehe dich.\" ===Mächtige Meta-Magie (Hellsicht)===\n- "
+}

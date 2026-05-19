@@ -1,0 +1,30 @@
+{
+  "title": "Ghakis-Berge",
+  "slug": "ghakis-berge",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Ghakis-Berge.md",
+  "url": "notes/ghakis-berge.html",
+  "apiUrl": "api/notes/ghakis-berge.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Von hier kommt der Bernstein des Bernsteintempels. Dieser Bernstein kann Magie nutzbar machen.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    }
+  ],
+  "markdown": "\n- Von hier kommt der Bernstein des [[Bernsteintempel]]s.\n- Dieser Bernstein kann [[Magie]] nutzbar machen."
+}

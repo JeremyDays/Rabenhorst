@@ -1,0 +1,30 @@
+{
+  "title": "Tor des Sonnenuntergangs",
+  "slug": "tor-des-sonnenuntergangs",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Tor des Sonnenuntergangs.md",
+  "url": "notes/tor-des-sonnenuntergangs.html",
+  "apiUrl": "api/notes/tor-des-sonnenuntergangs.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki Das Westtor wird als Tor des Sonnenuntergangs bezeichnet, obwohl kein lebender Mensch in Vallaki je einen Sonnenuntergang ohne Sonnenuntergang gesehen hat. Ein paar ver",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Tor des Sonnenuntergangs",
+      "label": "Tor des Sonnenuntergangs",
+      "slug": "tor-des-sonnenuntergangs"
+    }
+  ],
+  "markdown": "\nIn: [[Vallaki]]\n\nDas **Westtor** wird als [[Tor des Sonnenuntergangs]] bezeichnet, obwohl kein lebender Mensch in [[Vallaki]] je einen Sonnenuntergang ohne Sonnenuntergang gesehen hat. Ein paar verlassene Hütten säumen die Straße vor diesem Tor."
+}

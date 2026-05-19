@@ -1,0 +1,66 @@
+{
+  "title": "Zauberer der Weine",
+  "slug": "zauberer-der-weine",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Krezk/Zauberer der Weine.md",
+  "url": "notes/zauberer-der-weine.html",
+  "apiUrl": "api/notes/zauberer-der-weine.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Weinkellerei Westlich von Vallaki, in der Nähe von Krezk. QUEST: 1 Flasche Wein (\"Champagner de Sol\" von den Zauberern der Weine) aus Vallaki zu Petra von den Blauen VistaniBlaue V",
+  "frontmatter": {
+    "aliases": [
+      "Zauberern des Weins",
+      "Zauberern der Weine",
+      "Zauberer des Weins",
+      "Zauberer der Weine"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "QUEST",
+      "label": "QUEST",
+      "slug": "quest"
+    },
+    {
+      "target": "Champagner de Sol",
+      "label": "Champagner de Sol",
+      "slug": null
+    },
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Zauberer der Weine",
+      "label": "Zauberer der Weine",
+      "slug": "zauberer-der-weine"
+    }
+  ],
+  "markdown": "\nWeinkellerei\n\nWestlich von [[Vallaki]], in der Nähe von [[Krezk]].\n\n>**[[QUEST]]:** 1 Flasche Wein (\"[[Champagner de Sol]]\" von den Zauberern der Weine) aus [[Vallaki]] zu [[Petra]] von den [[Blaue Vistani|Blauen Vistani]] bringen. \n>Dafür 500 Pf. + Fliegender Teppich (oder so).\n\n- Wein ist das Lebenselixier von [[Barovia]] - für manche ist er der einzige Grund, weiterzuleben. Die barovianischen Tavernen beziehen ihren Wein von der Weinkellerei [[Zauberer der Weine]] bei [[Krezk]]."
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Berichte über Unruhen und Aufstände und ihre Niederschlagung",
+  "slug": "berichte-uber-unruhen-und-aufstande-und-ihre-niederschlagung",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Bücher/Berichte über Unruhen und Aufstände und ihre Niederschlagung.md",
+  "url": "notes/berichte-uber-unruhen-und-aufstande-und-ihre-niederschlagung.html",
+  "apiUrl": "api/notes/berichte-uber-unruhen-und-aufstande-und-ihre-niederschlagung.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    }
+  ],
+  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\n"
+}

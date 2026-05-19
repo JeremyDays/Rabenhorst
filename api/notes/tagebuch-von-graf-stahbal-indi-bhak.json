@@ -1,0 +1,35 @@
+{
+  "title": "Tagebuch von Graf Stahbal Indi-Bhak",
+  "slug": "tagebuch-von-graf-stahbal-indi-bhak",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Bücher/Tagebuch von Graf Stahbal Indi-Bhak.md",
+  "url": "notes/tagebuch-von-graf-stahbal-indi-bhak.html",
+  "apiUrl": "api/notes/tagebuch-von-graf-stahbal-indi-bhak.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "(noch nicht gefunden) In diesem Tagebuch habe Graf Stahbal Indi Bhak über Graf Strahd geschrieben, auch seine Geheimnisse wie seine Liebe zu Tatyana.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Stahbal Indi-Bhak",
+      "label": "Graf Stahbal Indi-Bhak",
+      "slug": "graf-stahbal-indi-bhak"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    }
+  ],
+  "markdown": "\n(noch nicht gefunden)\n\nIn diesem Tagebuch habe [[Graf Stahbal Indi-Bhak]] über [[Graf Strahd]] geschrieben, auch seine Geheimnisse wie seine Liebe zu [[Tatyana]].\n\n"
+}

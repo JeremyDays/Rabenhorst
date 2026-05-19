@@ -1,0 +1,49 @@
+{
+  "title": "Koljan Indirowitsch",
+  "slug": "koljan-indirowitsch",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Koljan Indirowitsch.md",
+  "url": "notes/koljan-indirowitsch.html",
+  "apiUrl": "api/notes/koljan-indirowitsch.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Tot Burgomeister von Barovia (Dorf). Adoptivvater von Ireena. Er hat einen Fehler gemacht Vor einiger Zeit ==(10 14T?)== kamen Fremde und haben Bürger von Barovia (Dorf) überzeugt,",
+  "frontmatter": {
+    "aliases": [
+      "Burgomeister Indirowitsch",
+      "Burgomeister Koljan Indirowitsch"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Koljan Indirowitsch",
+      "label": "Koljan Indirowitsch",
+      "slug": "koljan-indirowitsch"
+    },
+    {
+      "target": "Träume",
+      "label": "Albträume",
+      "slug": "traume"
+    }
+  ],
+  "markdown": "Tot\n\nBurgomeister von [[Barovia (Dorf)]].\nAdoptivvater von [[Ireena]].\n\n- Er hat einen Fehler gemacht\n- Vor einiger Zeit ==(10-14T?)== kamen Fremde und haben Bürger von [[Barovia (Dorf)]] überzeugt, sich gegen [[Graf Strahd]] aufzulehnen.\n- Krieger, Magier, Priester\n- Der [[Koljan Indirowitsch]] sei aber neutral geblieben\n- Starb während seiner [[Träume|Albträume]]. Entsetzen und Panik im Gesicht.\n- Niemand wollte anschließend helfen, [[Koljan Indirowitsch]] zum Friedhof zu bringen."
+}

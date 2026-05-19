@@ -1,0 +1,33 @@
+{
+  "title": "Zarovich-Tor",
+  "slug": "zarovich-tor",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Zarovich-Tor.md",
+  "url": "notes/zarovich-tor.html",
+  "apiUrl": "api/notes/zarovich-tor.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki Das Nordtor führt zum Zarovich See.",
+  "frontmatter": {
+    "aliases": [
+      "Nordtor"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Zarovich-See",
+      "label": "Zarovich-See",
+      "slug": "zarovich-see"
+    }
+  ],
+  "markdown": "In: [[Vallaki]]\n\nDas Nordtor führt zum [[Zarovich-See]].\n"
+}

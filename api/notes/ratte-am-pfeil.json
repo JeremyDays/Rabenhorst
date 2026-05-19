@@ -1,0 +1,35 @@
+{
+  "title": "Ratte am Pfeil",
+  "slug": "ratte-am-pfeil",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Paraphernalia/Ratte am Pfeil.md",
+  "url": "notes/ratte-am-pfeil.html",
+  "apiUrl": "api/notes/ratte-am-pfeil.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: In Ireenas Zimmer im Haus des Burgomeisters. Heinard hat sie eingesteckt.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    }
+  ],
+  "markdown": "\n**Wo:** In [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]. [[Heinard]] hat sie eingesteckt."
+}

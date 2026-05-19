@@ -1,0 +1,50 @@
+{
+  "title": "Maria",
+  "slug": "maria",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Maria.md",
+  "url": "notes/maria.html",
+  "apiUrl": "api/notes/maria.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Verrückte Frau aus Berez am Sumpf. Wo getroffen: Barovia Sie hat ihre Tochter ihr ganzes Leben im Stadthaus eingesperrt. Sie hatte eine Puppe von Gadof Blinski, die sie an Gertruda",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Berez",
+      "label": "Berez",
+      "slug": "berez"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Gadof Blinski",
+      "label": "Gadof Blinski",
+      "slug": "gadof-blinski"
+    },
+    {
+      "target": "Gertruda",
+      "label": "Gertruda",
+      "slug": "gertruda"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Maria",
+      "label": "Maria",
+      "slug": "maria"
+    }
+  ],
+  "markdown": "\nVerrückte Frau aus [[Berez]] am Sumpf.\n\n![[Maria.png]]\n\n**Wo getroffen:** [[Barovia]]\n\n- Sie hat ihre Tochter ihr ganzes Leben im Stadthaus eingesperrt.\n- Sie hatte eine Puppe von [[Gadof Blinski]], die sie an [[Gertruda]] weitergab. \n- Sie hat ihre Tochter [[Gertruda]] verloren.\n\n>**[[Quest]]:** [[Maria]]s Tochter [[Gertruda]] wieder finden und zurück bringen.\n"
+}

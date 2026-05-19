@@ -1,0 +1,19 @@
+{
+  "title": "Yesper",
+  "slug": "yesper",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Yesper.md",
+  "url": "notes/yesper.html",
+  "apiUrl": "api/notes/yesper.json",
+  "tags": [],
+  "excerpt": "Oft betrunken Freund von Doru Donavich",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Doru Donavich",
+      "label": "Doru Donavich",
+      "slug": "doru-donavich"
+    }
+  ],
+  "markdown": "- Oft betrunken\n- Freund von [[Doru Donavich]]\n- "
+}

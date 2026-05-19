@@ -1,0 +1,28 @@
+{
+  "title": "Barovianische Weinbrennergilde",
+  "slug": "barovianische-weinbrennergilde",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Barovianische Weinbrennergilde.md",
+  "url": "notes/barovianische-weinbrennergilde.html",
+  "apiUrl": "api/notes/barovianische-weinbrennergilde.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Artank Swilovich war der Gründer der Gilde.",
+  "frontmatter": {
+    "aliases": [
+      "Barovianischen Weinbrennergilde"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Artank Swilovich",
+      "label": "Artank Swilovich",
+      "slug": "artank-swilovich"
+    }
+  ],
+  "markdown": "[[Artank Swilovich]] war der Gründer der Gilde.\n\n"
+}

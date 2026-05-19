@@ -1,0 +1,30 @@
+{
+  "title": "Darzin Ulrich",
+  "slug": "darzin-ulrich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Opfer/Darzin Ulrich.md",
+  "url": "notes/darzin-ulrich.html",
+  "apiUrl": "api/notes/darzin-ulrich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Darzin Ulrich wurde in Haus Alkir geopfert. Ihm wurde der Brustkorb geöffnet.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Darzin Ulrich",
+      "label": "Darzin Ulrich",
+      "slug": "darzin-ulrich"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\n[[Darzin Ulrich]] wurde in [[Haus Alkir]] geopfert. Ihm wurde der Brustkorb geöffnet."
+}

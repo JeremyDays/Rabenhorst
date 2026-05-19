@@ -1,0 +1,25 @@
+{
+  "title": "Falstan Mitrache",
+  "slug": "falstan-mitrache",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Falstan Mitrache.md",
+  "url": "notes/falstan-mitrache.html",
+  "apiUrl": "api/notes/falstan-mitrache.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Führer, der Helden sucht, seine untote Geliebte bei den Tser Fällen zur Ruhe zu bringen. ==(Haben wir noch nicht getroffen)==",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    }
+  ],
+  "markdown": "\nEin Führer, der Helden sucht, seine untote Geliebte bei den [[Tser-Fälle]]n zur Ruhe zu bringen.\n\n==(Haben wir noch nicht getroffen)==\n"
+}

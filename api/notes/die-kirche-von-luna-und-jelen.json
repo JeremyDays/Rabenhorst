@@ -1,0 +1,40 @@
+{
+  "title": "Die Kirche von Luna und Jelen",
+  "slug": "die-kirche-von-luna-und-jelen",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Kirche von Luna und Jelen.md",
+  "url": "notes/die-kirche-von-luna-und-jelen.html",
+  "apiUrl": "api/notes/die-kirche-von-luna-und-jelen.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Die Kirche verbot irgendwann die menschliche Abbildung, aber man munkelt, dass es in den goldenen Kammern der Kirche noch menschliche Abbilder der Götter gibt. Die Kirche verbietet",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Erzfeen",
+      "slug": "fey"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Luna",
+      "label": "Luna",
+      "slug": "luna"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    }
+  ],
+  "markdown": "\n- Die Kirche verbot irgendwann die menschliche Abbildung, aber man munkelt, dass es in den goldenen Kammern der Kirche noch menschliche Abbilder der Götter gibt.\n\n- Die Kirche verbietet es, aber außerdem werden in der Gegend mächtige Feen und Naturgeister angebetet. \n- Allen voran die drei [[Fey|Erzfeen]], die man leichthin nur die [[Herrinnen]] nennt. \n- Im Volksglauben sind sie die Kinder [[Luna]] und [[Jelen]]s."
+}

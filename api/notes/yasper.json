@@ -1,0 +1,48 @@
+{
+  "title": "Yasper",
+  "slug": "yasper",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Yasper.md",
+  "url": "notes/yasper.html",
+  "apiUrl": "api/notes/yasper.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Alter Saufbold Kommt aus Vallaki. War ein Freund von Doru Donavich. Laut ihm sind die Roten VistaniRote Vistani nicht so nett wie die Blauen VistaniBlaue Vistani. Nennt sich selbst",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Yasper Rübenkopf"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Doru Donavich",
+      "label": "Doru Donavich",
+      "slug": "doru-donavich"
+    },
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Uralte Steinbrücke",
+      "label": "Alten Brücke",
+      "slug": "uralte-steinbrucke"
+    }
+  ],
+  "markdown": "\nAlter Saufbold\n\n- Kommt aus [[Vallaki]].\n- War ein Freund von [[Doru Donavich]].\n- Laut ihm sind die [[Rote Vistani|Roten Vistani]] nicht so nett wie die [[Blaue Vistani|Blauen Vistani]].\n\n- Nennt sich selbst schlau. \n- Wir haben ihn bei der [[Uralte Steinbrücke|Alten Brücke]] getroffen."
+}

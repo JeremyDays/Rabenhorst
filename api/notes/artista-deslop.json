@@ -1,0 +1,30 @@
+{
+  "title": "Artista DeSlop",
+  "slug": "artista-deslop",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Artista DeSlop.md",
+  "url": "notes/artista-deslop.html",
+  "apiUrl": "api/notes/artista-deslop.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hofmaler von Graf Strahd, der nach Wiederaufbau des Schloss Rabenhorst viele Decken und die Kapelle, sowie die Buntglasfenster bemalt hat.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    }
+  ],
+  "markdown": "\nHofmaler von [[Graf Strahd]], der nach Wiederaufbau des [[Schloss Rabenhorst]] viele Decken und die Kapelle, sowie die Buntglasfenster bemalt hat.\n\n"
+}

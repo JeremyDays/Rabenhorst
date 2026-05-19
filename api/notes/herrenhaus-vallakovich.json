@@ -1,0 +1,33 @@
+{
+  "title": "Herrenhaus Vallakovich",
+  "slug": "herrenhaus-vallakovich",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Herrenhaus Vallakovich.md",
+  "url": "notes/herrenhaus-vallakovich.html",
+  "apiUrl": "api/notes/herrenhaus-vallakovich.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki Hier wohnt Baron Vargas Vallakovich",
+  "frontmatter": {
+    "aliases": [
+      "Herrenhaus des Burgomeisters"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    }
+  ],
+  "markdown": "\nIn: [[Vallaki]]\n\nHier wohnt [[Baron Vargas Vallakovich]]\n\n"
+}

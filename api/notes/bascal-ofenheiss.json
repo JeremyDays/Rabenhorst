@@ -1,0 +1,25 @@
+{
+  "title": "Bascal Ofenheiss",
+  "slug": "bascal-ofenheiss",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Bascal Ofenheiss.md",
+  "url": "notes/bascal-ofenheiss.html",
+  "apiUrl": "api/notes/bascal-ofenheiss.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hofkoch der Zarovich Er war als Chef Deluxe in ganz Barovia bekannt Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt ==Lebt er noch?==",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    }
+  ],
+  "markdown": "\nHofkoch der Zarovich\n\n- Er war als Chef Deluxe in ganz [[Barovia]] bekannt\n\n- Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt\n\n- ==Lebt er noch?==\n\n"
+}

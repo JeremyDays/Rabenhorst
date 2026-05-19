@@ -1,0 +1,24 @@
+{
+  "title": "Zombie-Teile",
+  "slug": "zombie-teile",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Zombie-Teile.md",
+  "url": "notes/zombie-teile.html",
+  "apiUrl": "api/notes/zombie-teile.json",
+  "tags": [],
+  "excerpt": "Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis Kreuzung",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Zombies",
+      "label": "Zombies",
+      "slug": "zombies"
+    },
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    }
+  ],
+  "markdown": "\nFingernägel, Haar und Haut von [[Zombies]]\n\n**Gefunden:** [[Ivlis-Kreuzung]]\n\n"
+}

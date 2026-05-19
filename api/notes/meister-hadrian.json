@@ -1,0 +1,54 @@
+{
+  "title": "Meister Hadrian",
+  "slug": "meister-hadrian",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Meister Hadrian.md",
+  "url": "notes/meister-hadrian.html",
+  "apiUrl": "api/notes/meister-hadrian.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Zauberer Herkunft: Velarisches ImperiumVelarisches Imperium Großmeister der Elemente. Einer von 7 Großmeistern der 7 Arkana. Zirkel der Sieben. Von jenseits des Erwachens des Nebel",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Zauberer",
+      "Zauberers"
+    ]
+  },
+  "links": [
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarisches Imperium",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Uralte Eiche",
+      "label": "Uralte Eiche",
+      "slug": "uralte-eiche"
+    },
+    {
+      "target": "Aufstand gegen Strahd",
+      "label": "Aufstand gegen Strahd",
+      "slug": "aufstand-gegen-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Ivlis-Fluss",
+      "label": "Ivlis-Fluss",
+      "slug": "ivlis-fluss"
+    }
+  ],
+  "markdown": "\n[[Zauberer]]\n\n**Herkunft:** [[Velarisches Imperium|Velarisches Imperium]]\n\n\n- Großmeister der Elemente. \n- Einer von 7 Großmeistern der 7 Arkana. Zirkel der Sieben. \n- Von jenseits des Erwachens des Nebels. Von dort, wo die [[Uralte Eiche]] steht. \n- Er ist vor mehr als 2 Wintern (773) verschwunden und dann hier gelandet. Er beherrschte alle Elemente gleich gut.\n\n- Vor 12 Monden (Mart 774) hat er den [[Aufstand gegen Strahd]] geleitet. \n- Und er war kämpferisch auf Augenhöhe mit [[Graf Strahd]], aber starb letztendlich. Er stürzte mit [[Graf Strahd]] die Felsen herab, aber seinen Körper hat man nie gefunden. \n- Der [[Ivlis-Fluss]] habe ihn festgehalten. \n\n**Ganz faktisch:**\n- a) Meister Hadrian (Großmeister der Elemente aus dem Velarischen Reich) sei 773 verschwunden. Er beherrschte alle Elemente gleich gut.\n- b) Aus den Ländern jenseits des Nebels, von dort, wo die Uralte Eiche steht, sei ein mächtiger Magier zum Dorf Barovia gekommen. \n- c) 774 habe er den Aufstand gegen Strahd geleitet. Er war kämpferisch auf Augenhöhe mit Graf Strahd, konnte jedes Element genau wie Graf Strahd beherrschen und stürzte letztlich mit Graf Strahd den Felsen hinab. Aber seinen Körper habe man nie gefunden. Der Fluss Ivlis habe ihn festgehalten, den Körper. \n\nIhm sei Doru Donavich gefolgt (und als Vampir später nach Barovia (Dorf) zurückgekommen)\n\nHier ist Malduks Annahme, dass es sich um denselben Magier handelt, der im Velarischen Reich verschwunden und in Barovia aufgetaucht ist."
+}

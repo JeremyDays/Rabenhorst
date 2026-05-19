@@ -1,0 +1,69 @@
+{
+  "title": "Graf Argynvost",
+  "slug": "graf-argynvost",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Argynvost/Graf Argynvost.md",
+  "url": "notes/graf-argynvost.html",
+  "apiUrl": "api/notes/graf-argynvost.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Herrscher von Argynvostholt. Beziehungen: Ziehvater von Lugdana Argynvost War verbündet mit Sankt Markovia. Meister der Schlacht, der Taktik, des Schwertes und des Kampfes. Gründer",
+  "frontmatter": {
+    "aliases": [
+      "Silberdrache",
+      "Drache"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "Sankt Markovia",
+      "slug": "sankt-markovia"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ordens des Silbernen Drachens",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Der Fall von Argynvost",
+      "slug": "der-fall-von-argynvost"
+    }
+  ],
+  "markdown": "\nHerrscher von [[Argynvostholt]].\n\n![[Argynvost.png]]\n\n**Beziehungen:**\n- Ziehvater von [[Lugdana Argynvost]]\n- War verbündet mit [[Sankt Markovia]].\n\n- Meister der Schlacht, der Taktik, des Schwertes und des Kampfes. \n- Gründer des [[Ritter des Silbernen Drachen|Ordens des Silbernen Drachens]]. \n- Kam [[König Barov]] gegen die [[Terg]]-Streitkräfte nicht zu Hilfe.\n- Im Schlaf in [[Argynvostholt]] von [[Graf Strahd]] erschlagen und geschändet. \n- Sein Schädel ist auf [[Schloss Rabenhorst]].\n- Er war in Wirklichkeit ein **Silberdrache**.\n\n\n\n---\nSiehe [[Der Fall von Argynvost]]\n\n"
+}

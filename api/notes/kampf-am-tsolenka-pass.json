@@ -1,0 +1,185 @@
+{
+  "title": "Kampf am Tsolenka Pass",
+  "slug": "kampf-am-tsolenka-pass",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Bücher)/Kampf am Tsolenka Pass.md",
+  "url": "notes/kampf-am-tsolenka-pass.html",
+  "apiUrl": "api/notes/kampf-am-tsolenka-pass.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Altes Handelshaus Wert: 100 Pf. Schlacht an den Toren von TsolenkaTore von Tsolenka: Die Legende der Schildmaiden Errichtung der Tore von Tsolenka durch die Ursari Als der Groß",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Altes Handelshaus",
+      "label": "Altes Handelshaus",
+      "slug": "altes-handelshaus"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Toren von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Schildmaiden",
+      "label": "Schildmaiden",
+      "slug": "schildmaiden"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tore von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Ursari",
+      "label": "Ursari",
+      "slug": "ursari"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Große Krieg",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Barovia",
+      "label": "Land",
+      "slug": "barovia"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Graf von Habsburg",
+      "label": "Graf von Habsburg",
+      "slug": "graf-von-habsburg"
+    },
+    {
+      "target": "Ursari",
+      "label": "Ursari-Volkes",
+      "slug": "ursari"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Bârgau",
+      "label": "Bârgău",
+      "slug": "bargau"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Großen Krieges",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Dunklen Grafen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Dunkle Graf",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Bârgau",
+      "label": "Dorf",
+      "slug": "bargau"
+    },
+    {
+      "target": "Heiligtum der Bergfey",
+      "label": "Tempels der Fey",
+      "slug": "heiligtum-der-bergfey"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Pforte",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tor",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Prinz Vernon",
+      "label": "Prinz Vernon",
+      "slug": "prinz-vernon"
+    },
+    {
+      "target": "Graf von Habsburg",
+      "label": "Grafen von Habsburg",
+      "slug": "graf-von-habsburg"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Rittern von Argynvost",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Schlacht von Tsolenka",
+      "label": "Schlacht",
+      "slug": "schlacht-von-tsolenka"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tore",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter von Argynvost",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Toren",
+      "slug": "tore-von-tsolenka"
+    }
+  ],
+  "markdown": "\n**Wo:** [[Altes Handelshaus]]\n**Wert:** 100 Pf.\n\n### Schlacht an den [[Tore von Tsolenka|Toren von Tsolenka]]: Die Legende der [[Schildmaiden]]\n\n\n![[Tore von Tsolenka.png]]\n\n###### Errichtung der [[Tore von Tsolenka]] durch die [[Ursari]]\nAls der [[Großer Krieg|Große Krieg]] über das [[Barovia|Land]] hereinbrach, errichteten die [[Ursari]], die den [[Fey]] treu ergeben waren und starke Bindungen zu [[Argynvost]] hatten, die [[Tore von Tsolenka]], um sich vor Eindringlingen und möglichen Überfällen auf den [[Bernsteintempel]] zu schützen. Denn die [[Ursari]], die den [[Bernsteintempel]] errichteten, wussten, dass die Welt verloren gehen könnte, wenn die [[Dunkelheit]] freigesetzt würde.\n\n>***Malduk:** [[Graf Argynvost]] hatte den Bau des [[Bernsteintempel]]s und die [[Tore von Tsolenka]] beauftragt, nachdem die [[Terg]] ins Land einfielen und der [[Graf von Habsburg]] fiel.*\n\n###### [[Ursari]]-Männer waren Steinmetzen, [[Ursari]]-Frauen waren Soldaten, die mutigsten wurden [[Schildmaiden]]\nDie mutigsten des [[Ursari|Ursari-Volkes]] waren die weiblichen Krieger, die als [[Schildmaiden]] bekannt waren. Als die [[Ursari]]-Männer sich dem Steinmetzhandwerk zuwandten, übernahmen die Frauen des Dorfes die Rolle der Wächter, Beschützer und Soldaten.\n\n###### Die [[Schildmaiden]] schlagen die Truppen des [[Graf Strahd]] mehrfach zurück\nAls die [[Tore von Tsolenka]] fertiggestellt waren, wurden die [[Schildmaiden]] von [[Bârgau|Bârgău]] beauftragt, die [[Tore von Tsolenka]] zu bewachen. Sie verteidigten die [[Tore von Tsolenka]] während des [[Großer Krieg|Großen Krieges]], und die Truppen des [[Graf Strahd|Dunklen Grafen]] wurden wiederholt zurückgeschlagen.\n\nEinige glaubten, dass die [[Schildmaiden]] von der [[Bergfey]] mit der Kraft der Stärke ausgestattet wurden, denn bei jedem Sonnenaufgang und Sonnenuntergang beten die [[Schildmaiden]] zur [[Bergfey]].\n\n###### [[Graf Strahd]] zerstört [[Bârgau|Bârgău]]\nDer [[Graf Strahd|Dunkle Graf]] schickte seine Truppen aus, um das Dorf [[Bârgau|Bârgău]] zu zerstören und die Dorfbewohner tief in den verschneiten Bergwald zu treiben. Die [[Schildmaiden]] an den [[Tore von Tsolenka|Toren von Tsolenka]] eilten ihrem Dorf zu Hilfe, aber es war zu spät. Das [[Bârgau|Dorf]] wurde zerstört, einschließlich des [[Heiligtum der Bergfey|Tempels der Fey]]. Viele der Männer und Kinder wurden getötet oder von den Truppen des [[Graf Strahd|Dunklen Grafen]] versklavt.\n\n\n###### [[Graf Strahd]] verflucht [[Bârgau|Bârgău]] zur Unsterblichkeit\nDer [[Graf Strahd|Dunkle Graf]] verfluchte das [[Bârgau|Dorf]] und das Volk der [[Ursari]] mit der Unsterblichkeit, die im [[Bârgau|Dorf]] verankert und für die Zeit verloren war. Jeder [[Ursari]], der sich aus den Ruinen von [[Bârgau|Bârgău]] herauswagt, wird schnell altern und sterben. Die verbliebenen Dorfbewohner waren in ihrem zerstörten [[Bârgau|Dorf]] gefangen, verflucht zur Unsterblichkeit oder zum Tod, wenn sie es verließen.\n\n![[Ruinen von Bârgau.png]]\n\n###### Die [[Schildmaiden]] verlassen das Dorf, obwohl sie sterben würden\nDie [[Schildmaiden]] wussten, dass sie altern und sterben würden, wenn sie zu den [[Tore von Tsolenka|Toren von Tsolenka]] zurückkehrten, aber sie konnten die [[Tore von Tsolenka]] nicht unbewacht lassen.\n\nDie Truppen des Dunklen Grafen marschierten in einem letzten Versuch auf die [[Tore von Tsolenka|Pforte]].\n\nSie glaubten, das [[Tore von Tsolenka|Tor]] sei unbewacht oder die [[Schildmaiden]] seien zurückgekehrt und würden in ihrem Alter leicht zu besiegen sein.\n\n###### Die Bewachung der [[Tore von Tsolenka]]\nZusammen mit [[Prinz Vernon]], dem Sohn des [[Graf von Habsburg|Grafen von Habsburg]], und einigen [[Ritter des Silbernen Drachen|Rittern von Argynvost]] leisteten die [[Schildmaiden]] ein letztes Gefecht vor den [[Tore von Tsolenka|Toren von Tsolenka]]. Es war die blutigste Schlacht des [[Großer Krieg|Großen Krieges]]. Die Streitkräfte des [[Graf Strahd|Dunklen Grafen]] waren den Streitkräften der [[Schildmaiden]] zahlenmäßig hundert zu eins überlegen. Die [[Schildmaiden]] und ihre Verbündeten hielten den Truppen des [[Graf Strahd|Dunklen Grafen]] **vier Tage** lang stand. [[Prinz Vernon]] starb in der [[Schlacht von Tsolenka|Schlacht]] bei der Verteidigung der [[Tore von Tsolenka|Tore]] und viele der [[Ritter des Silbernen Drachen|Ritter von Argynvost]] fielen. Der Fluch erfasste die [[Schildmaiden]], als sie im Alter die [[Tore von Tsolenka|Tore]] bewachten und auf den Wällen Wache hielten. Im Morgengrauen und in der Abenddämmerung beteten sie zu der [[Bergfey]], dass die [[Tore von Tsolenka]] halten sollten.\n\n###### Der letzte Vorstoß und der alte [[Zauberer]]\n**Am fünften Tag** schickte der [[Graf Strahd|Dunkle Graf]] seine Truppen erneut aus, um das [[Tore von Tsolenka|Tor]] einzunehmen, es war der letzte Vorstoß. Die [[Schildmaiden]] wussten, dass sie nicht länger standhalten konnten, und riefen den Ältesten ihres Dorfes, einen alten [[Zauberer]], an, um einen Zauber zu sprechen, der die [[Tore von Tsolenka|Tore]] mit grünem Feuer schützen sollte. Der alte [[Zauberer]] sagte, dass es Stunden dauern würde, einen so mächtigen Zauber zu wirken, er würde Zeit und Schutz brauchen.\n\nDie [[Schildmaiden]] marschierten ein letztes Mal aus den [[Tore von Tsolenka|Toren von Tsolenka]] und bildeten einen Schildwall vor den [[Tore von Tsolenka|Toren]], als die Streitkräfte des [[Graf Strahd|Dunklen Grafen]] in Massen auf die [[Tore von Tsolenka|Tore]] stürzten.\n\n**Sechs Stunden** lang hielten die alternden [[Schildmaiden]] das [[Tore von Tsolenka|Tor]] und gaben dem alten [[Zauberer]] Zeit, den grünen Feuerzauber zu wirken, um das [[Tore von Tsolenka|Tor]] zu schützen. Sie wehrten die Truppen des [[Graf Strahd|Dunklen Grafen]] ab, und in der **siebten Stunde** fielen die wenigen verbliebenen [[Schildmaiden]] auf die Knie, da sie nicht mehr die Kraft hatten, ihre langen Schwerter zu schwingen oder ihre Schilde zu halten. Sie waren in ihren goldenen Jahren gealtert und sahen nun aus wie alte Frauen. Eine nach der anderen fiel langsam in den Schnee und verwandelte sich in Knochen und Staub, doch die [[Tore von Tsolenka]] hielten stand und wurden von den Truppen des [[Graf Strahd|Dunklen Grafen]] während des [[Großer Krieg|Großen Krieges]] nie durchbrochen.\n\n\n>***Malduk:** Lebte zu diesem Zeitpunkt [[Graf Argynvost]] noch?*\n\n![[Schildmaiden.png]]\n\n![[Schildmaiden (Symbol).png]]\n\n"
+}

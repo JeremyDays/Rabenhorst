@@ -1,0 +1,25 @@
+{
+  "title": "Artimus",
+  "slug": "artimus",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Artimus.md",
+  "url": "notes/artimus.html",
+  "apiUrl": "api/notes/artimus.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hat für Graf Strahd die Gruft für seine Eltern errichtet.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nHat für [[Graf Strahd]] die Gruft für seine Eltern errichtet.\n\n"
+}

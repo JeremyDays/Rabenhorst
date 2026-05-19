@@ -1,0 +1,25 @@
+{
+  "title": "Yester Hügel",
+  "slug": "yester-hugel",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Yester Hügel.md",
+  "url": "notes/yester-hugel.html",
+  "apiUrl": "api/notes/yester-hugel.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Im Südwesten. Dorthin reisten die Druiden. Malduk: Vielleicht gibt es dort noch immer Druiden?",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    }
+  ],
+  "markdown": "\nIm Südwesten.\n- Dorthin reisten die [[Druiden]].\n\n>***Malduk:** Vielleicht gibt es dort noch immer Druiden?*\n\n"
+}

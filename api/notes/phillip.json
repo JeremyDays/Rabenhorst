@@ -1,0 +1,30 @@
+{
+  "title": "Phillip",
+  "slug": "phillip",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Phillip.md",
+  "url": "notes/phillip.html",
+  "apiUrl": "api/notes/phillip.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 9 Jahre Das Kind hat Angst vor Malduk.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\nWaisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Phillip.png]]\n\n9 Jahre\n\n- Das Kind hat Angst vor [[Malduk]].\n\n"
+}

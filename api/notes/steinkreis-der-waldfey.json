@@ -1,0 +1,48 @@
+{
+  "title": "Steinkreis der Waldfey",
+  "slug": "steinkreis-der-waldfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Steinkreis der Waldfey.md",
+  "url": "notes/steinkreis-der-waldfey.html",
+  "apiUrl": "api/notes/steinkreis-der-waldfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Einer der Steinkreise der Fey. Er ist der Waldfey gewidmet und von Druiden errichtet. Der Steinkreis der Waldfey wurde am Waldrand als Tribut an die Waldfey errichtet. Er müsste id",
+  "frontmatter": {
+    "aliases": [
+      "Fey-jost der Waldfey"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Steinkreise der Fey",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Steinkreis der Waldfey",
+      "label": "Steinkreis der Waldfey",
+      "slug": "steinkreis-der-waldfey"
+    },
+    {
+      "target": "Heiligtum der Waldfey",
+      "label": "Heiligtum der Waldfey",
+      "slug": "heiligtum-der-waldfey"
+    }
+  ],
+  "markdown": "\nEiner der [[Steinkreise der Fey]].\nEr ist der [[Waldfey]] gewidmet und von [[Druiden]] errichtet.\n\n- Der [[Steinkreis der Waldfey]] wurde am Waldrand als Tribut an die [[Waldfey]] errichtet. \n- Er müsste identisch sein mit dem [[Heiligtum der Waldfey]]\n"
+}

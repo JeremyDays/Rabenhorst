@@ -1,0 +1,35 @@
+{
+  "title": "Tsolenka-Pass",
+  "slug": "tsolenka-pass",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Tsolenka-Pass.md",
+  "url": "notes/tsolenka-pass.html",
+  "apiUrl": "api/notes/tsolenka-pass.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Der Pfad soll zum Tempel mit verbotenen Lehren führen, welcher vermutlich identisch ist mit dem Bernsteintempel. Er hat sicher etwas mit den Toren von TsolenkaTore von Tsolenka zu ",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tempel mit verbotenen Lehren",
+      "label": "Tempel mit verbotenen Lehren",
+      "slug": "tempel-mit-verbotenen-lehren"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Toren von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    }
+  ],
+  "markdown": "\n- Der Pfad soll zum [[Tempel mit verbotenen Lehren]] führen, welcher vermutlich identisch ist mit dem [[Bernsteintempel]].\n- Er hat sicher etwas mit den [[Tore von Tsolenka|Toren von Tsolenka]] zu tun.\n\n"
+}

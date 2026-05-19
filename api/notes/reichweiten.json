@@ -1,0 +1,13 @@
+{
+  "title": "Reichweiten",
+  "slug": "reichweiten",
+  "category": "rules",
+  "relativePath": "Shared/Rabenhorst/6 - Regeln/Reichweiten.md",
+  "url": "notes/reichweiten.html",
+  "apiUrl": "api/notes/reichweiten.json",
+  "tags": [],
+  "excerpt": "| Reichweite | SG | | | | | 0 8m | 0 | | 9 16m | 2 | | 17 32m | 4 | | 33 64m | 6 | | 65 125m | 8 | | 126 250m | 10 |",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "\n\n| Reichweite | SG  |\n| ---------- | --- |\n| 0-8m       | 0   |\n| 9-16m      | -2  |\n| 17-32m     | -4  |\n| 33-64m     | -6  |\n| 65-125m    | -8  |\n| 126-250m   | -10 |\n"
+}

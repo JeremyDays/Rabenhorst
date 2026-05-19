@@ -1,0 +1,88 @@
+{
+  "title": "Ireena",
+  "slug": "ireena",
+  "category": "sc",
+  "relativePath": "Shared/Rabenhorst/1 - SCs/Ireena.md",
+  "url": "notes/ireena.html",
+  "apiUrl": "api/notes/ireena.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sie sieht Cataryma zum Verwechseln ähnlich. Ireena Kolyana — Sie sieht aus wie Cataryma, Malduks Frau — Adoptivtochter von Burgomeister Koljan Indirowitsch. Sie wird nicht wie Graf",
+  "frontmatter": {
+    "aliases": [
+      "Ireena Kolyana"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Koljan Indirowitsch",
+      "label": "Koljan Indirowitsch",
+      "slug": "koljan-indirowitsch"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "QUEST",
+      "label": "QUEST",
+      "slug": "quest"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark Kolyanowitsch",
+      "slug": "ismark-kolyanowitsch"
+    },
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena Kolyana",
+      "slug": "ireena"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    },
+    {
+      "target": "Vampire",
+      "label": "Vampir",
+      "slug": "vampire"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nSie sieht [[Cataryma]] zum Verwechseln ähnlich.\n\n![[Ireena.png]] ![[Cataryma Merzer.png]] ![[Ireena 01.png]] ![[Ireena 02.png]]\n Ireena Kolyana\n\n— Sie sieht aus wie [[Cataryma]], [[Malduk]]s Frau —\n\n- Adoptivtochter von Burgomeister [[Koljan Indirowitsch]].\n\n- Sie wird nicht wie [[Graf Strahd]]. Sie ist unter dem Fluch der Nacht. Sie darf kein Blut trinken. Nur eins hilft: [[Fey]].\n\n>[[QUEST]]: [[Ismark Kolyanowitsch]] bat uns, seine Schwester nach [[Krezk]] zu bringen. Da sei sie sicher. Dafür hat er 500Pf. Wegegeld mitgegeben.\n\n\n**Beschreibung:**\n- Dunkelbraune, lange Haare, die sie zum Zopf trägt\n- In Lederrüstung mit Schwert. \n- Sie bewegt sich wie eine Kämpferin oder Tänzerin. \n- Sie ist sehr hübsch und strahlt vor Lebenskraft. \n- Sie hat kleine Wunden.\n- Sie riecht nach Rosenwasser.\n\n\n\n\n## IREENA = CATARYMA\n\nDas ist eine meisterhafte Verflechtung, die du da einbaust. Mögliche Deutungsansätze:\n\n- **Reinkarnation** – Luna könnte Erinnerungen durch Wiedergeburt erhalten haben\n    \n- **Illusionszauber / Splitter der Seele** – Catarymas Stasis hat eine **magische Abspaltung erzeugt**, die in Rabenhorst eine eigene Existenz gewann\n    \n- **Verbindung durch Artefakt** – Malduk oder Cataryma haben ein Objekt zurückgelassen, das Ireena unbewusst geformt hat\n    \n- **Rabenhorst ist eine Grenzwelt**, die _Erinnerung_ zu _Materie_ macht – Ireena IST das Echo Catarymas, weil Malduk das Echo nie losgelassen hat\n    \n\nDiese Mehrdeutigkeit ist perfekt für eine Geschichte über **Schuld, Erinnerung und Erlösung**.\n\n\n## IREENA = TATYANA\n\n>Bis vor kurzem hatte [[Graf Strahd]] nächtliche Besuche bei [[Ireena|Ireena Kolyana]], der Adoptivtochter des Dorf-Burgomeisters, abgestattet. [[Ireena]] trägt die Seele von [[Graf Strahd]]s geliebter [[Tatyana]] in sich und sieht genauso aus wie sie. [[Graf Strahd]] beabsichtigt, [[Ireena]] zu seiner Braut zu machen, sie in einen [[Vampire|Vampir]] zu verwandeln und sie für alle Zeiten in den Krypten des Schlosses wegzusperren.\n>\n>**\"_Dieselbe Stimme, dasselbe Gesicht, derselbe anmutige Körper, sie war [[Tatyana]], die wieder zum Leben erwacht war. Ich war völlig sprachlos vor Erstaunen._\"**\n>\n>Ich, [[Graf Strahd|Strahd]]: Die Memoiren eines [[Vampire|Vampir]]s\n\n==Woher stammt diese Information?==\n\n"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Unsichtbarkeitstrank",
+  "slug": "unsichtbarkeitstrank",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Ireena/Magische Gegenstände/Unsichtbarkeitstrank.md",
+  "url": "notes/unsichtbarkeitstrank.html",
+  "apiUrl": "api/notes/unsichtbarkeitstrank.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Von Malduk erhalten Malduk: Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\n- Von [[Malduk]] erhalten\n\n>***Malduk:** Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.*\n\n"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Magus von Baratok",
+  "slug": "magus-von-baratok",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Argynvost/Magus von Baratok.md",
+  "url": "notes/magus-von-baratok.html",
+  "apiUrl": "api/notes/magus-von-baratok.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Zauberer und kein Freund der Vampire. Er lebt in den Ausläufern der Berge (Berg Baratok). Der \"verrückte Magus vom Berg\" in der Nähe von Vallaki In letzter Zeit wurde der verrü",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Berg Baratok",
+      "label": "Berg Baratok",
+      "slug": "berg-baratok"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Magus von Baratok",
+      "label": "verrückte Magus",
+      "slug": "magus-von-baratok"
+    },
+    {
+      "target": "Zarovich-See",
+      "label": "Zarovich-See",
+      "slug": "zarovich-see"
+    }
+  ],
+  "markdown": "\n- Ein Zauberer und kein Freund der Vampire. \n- Er lebt in den Ausläufern der Berge ([[Berg Baratok]]).\n- Der \"verrückte Magus vom Berg\" in der Nähe von [[Vallaki]]\n- In letzter Zeit wurde der [[Magus von Baratok|verrückte Magus]] vom [[Berg Baratok]] nicht mehr gesichtet. Die Leute sahen ihn am Nordufer des [[Zarovich-See]]s herumschleichen und Blitze ins Wasser schießen, um die Fische zu töten. \n\n"
+}

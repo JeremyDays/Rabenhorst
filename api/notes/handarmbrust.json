@@ -1,0 +1,30 @@
+{
+  "title": "Handarmbrust",
+  "slug": "handarmbrust",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Handarmbrust.md",
+  "url": "notes/handarmbrust.html",
+  "apiUrl": "api/notes/handarmbrust.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Ireenas Zimmer im Haus des Burgomeisters",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]\n\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Akademie von Kronenstadt",
+  "slug": "akademie-von-kronenstadt",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Kronenstadt/Akademie von Kronenstadt.md",
+  "url": "notes/akademie-von-kronenstadt.html",
+  "apiUrl": "api/notes/akademie-von-kronenstadt.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Kronenstadt Graf Strahd hat an der Akademie von Kronenstadt die Kriegskunst erlernt.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Akademie von Kronenstadt",
+      "label": "Akademie von Kronenstadt",
+      "slug": "akademie-von-kronenstadt"
+    }
+  ],
+  "markdown": "\nIn: [[Kronenstadt]]\n\n- [[Graf Strahd]] hat an der [[Akademie von Kronenstadt]] die Kriegskunst erlernt.\n\n"
+}

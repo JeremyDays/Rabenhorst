@@ -1,0 +1,28 @@
+{
+  "title": "Svalich Straße",
+  "slug": "svalich-stra-e",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Svalich Straße.md",
+  "url": "notes/svalich-stra-e.html",
+  "apiUrl": "api/notes/svalich-stra-e.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Beschreibung: Schwarze Wassertümpel stehen wie dunkle Spiegel in und um die schlammige Fahrbahn. Auf beiden Seiten der Straße ragen riesige Bäume auf, deren Äste sich in den Nebel ",
+  "frontmatter": {
+    "aliases": [
+      "Alte Svalich Straße"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Svalich-Wald",
+      "label": "Svalich-Wald",
+      "slug": "svalich-wald"
+    }
+  ],
+  "markdown": "**Beschreibung:**\n>Schwarze Wassertümpel stehen wie dunkle Spiegel in und um die schlammige Fahrbahn. Auf beiden Seiten der Straße ragen riesige Bäume auf, deren Äste sich in den Nebel krallen.  \n>Die alte Svalich Straße ist so breit, dass zwei Wagen aneinander vorbei fahren könnten. Immer wieder zweigen kleine Waldwege in den [[Svalich-Wald]] zu beiden Seiten ab.\n\n"
+}

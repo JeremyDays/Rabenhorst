@@ -1,0 +1,13 @@
+{
+  "title": "Trefferzonen",
+  "slug": "trefferzonen",
+  "category": "rules",
+  "relativePath": "Shared/Rabenhorst/6 - Regeln/Trefferzonen.md",
+  "url": "notes/trefferzonen.html",
+  "apiUrl": "api/notes/trefferzonen.json",
+  "tags": [],
+  "excerpt": "Nahkampf: | Wurf | Ort | Tö | Ntö | SG | | | | | | | | 3 5 | Kopf | x5 | x2 | 8 | | 6 | Hand | x1 | x1/2 | 6 | | 7 8 | Arme | x2 | x1/2 | 5 | | 9 | Schulter | x3 | x1 | 5 | | 10 11",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "\n\n**Nahkampf:**\n\n| Wurf  | Ort      | Tö  | Ntö  | SG  |\n| ----- | -------- | --- | ---- | --- |\n| 3-5   | Kopf     | x5  | x2   | -8  |\n| 6     | Hand     | x1  | x1/2 | -6  |\n| 7-8   | Arme     | x2  | x1/2 | -5  |\n| 9     | Schulter | x3  | x1   | -5  |\n| 10-11 | Brust    | x3  | x1   | -3  |\n| 12    | Magen    | x4  | x1   | -7  |\n| 13    | Organe   | x4  | x2   | -8  |\n| 14    | Hüfte    | x2  | x1   | -4  |\n| 15-16 | Beine    | x2  | x1/2 | -6  |\n| 17-18 | Füße     | x1  | x1/2 | -8  |\n\n**Fernkampf:**\n\n| Wurf   | Zielgerichteter Schuss  | SG  |\n| ------ | ----------------------- | --- |\n| 1W6+3  | Kopf (Kopf-Schultern)   | -4  |\n| 2W6+1  | Hoch (Kopf-Vital)       | -2  |\n| 2W6+4  | Körper (Hände-Beine)    | -1  |\n| 2W6+7  | Niedrig (Schulter-Füße) | -2  |\n| 1W6+12 | Bein (Vital-Füße)       | -4  |\n"
+}

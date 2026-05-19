@@ -1,0 +1,35 @@
+{
+  "title": "Mira",
+  "slug": "mira",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Werwölfe/Mira.md",
+  "url": "notes/mira.html",
+  "apiUrl": "api/notes/mira.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sie ist die Tochter von Grigor und Danika Surana. Es ist unklar, ob sie überhaupt existiert, da das eine Falle war. Wenn, dann ist sie auch ein WerwolfWerwölfe",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Grigor",
+      "label": "Grigor",
+      "slug": "grigor"
+    },
+    {
+      "target": "Danika Surana",
+      "label": "Danika Surana",
+      "slug": "danika-surana"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwolf",
+      "slug": "werwolfe"
+    }
+  ],
+  "markdown": "- Sie ist die Tochter von [[Grigor]] und [[Danika Surana]].\n- Es ist unklar, ob sie überhaupt existiert, da das eine Falle war.\n- Wenn, dann ist sie auch ein [[Werwölfe|Werwolf]]\n"
+}

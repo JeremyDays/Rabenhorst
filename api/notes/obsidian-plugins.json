@@ -1,0 +1,13 @@
+{
+  "title": "Obsidian Plugins",
+  "slug": "obsidian-plugins",
+  "category": "note",
+  "relativePath": "Shared/z_obsidian/Obsidian Plugins.md",
+  "url": "notes/obsidian-plugins.html",
+  "apiUrl": "api/notes/obsidian-plugins.json",
+  "tags": [],
+  "excerpt": "This is a list of Obsidian plugins I use and which I would like you to use also, so that we can all profit from the same functionalities: Suggested Admonition Advanced Tables Autom",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "This is a list of Obsidian plugins I use and which I would like you to use also, so that we can all profit from the same functionalities:\n\n**Suggested**\n- Admonition\n- Advanced Tables\n- Automatic Tags\n- Banners\n- Custom Frames\n- ~~Dangling Links~~\n- Dataview\n- ~~Dialogue~~\n- Dice Roller\n- File Explorer Note Count\n- Folder notes\n- Kanban\n- Lazy Plugin Loader\n- Leaflet\n- ~~Omnisearch~~\n- Pane Relief\n- **Relay**\n- Second Window\n- Style Settings\n- Supercharged Links\n- Various Complements\n- Vault Full Statistics\n- Waypoint\n\n**Optional / GM only necessary**\n- 3D Graph\n- Iconize\n- Inline Checkbox Groups\n- JSON/CSV Importer\n- Multi Properties\n- Templater\n- Text Generator\n- Vault Statistics\n\n**Testing Phase**\n- Calendarium\n- Edit History\n- ~~Excalidraw~~\n- Fantasy Content Generator\n- Fantasy name generator\n- Find orphaned files and broken links\n- Meta Bind\n- Note Linker\n- Pending notes\n\n**Possibly interesting plugins**\n- AI LLM\n- April's Automatic Timelines\n- Aut-O-Backups\n- Auto Embed\n- Auto Split\n- Auto Tag\n- Copilot\n- Default New Tab Page\n- Fantasy Statblocks\n- File Share\n- Force note view mode\n- Generic Initiative Tracker\n- Hierarchical Backlinks\n- Image Converter\n- Initiative Tracker\n- Link Converter\n- Regex Pipeline\n- Share Note\n- Smart Connections\n- Solo RPG Toolkit\n- Spoiler Block\n- Spoilers\n- Trash Explorer\n- Waypoint\n\n**Not suggested plugins**\n- Cypher\n- Inline Encrypter\n- Meld Encrypt\n"
+}

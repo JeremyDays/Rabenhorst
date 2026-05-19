@@ -1,0 +1,25 @@
+{
+  "title": "Acht Eichen",
+  "slug": "acht-eichen",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Acht Eichen.md",
+  "url": "notes/acht-eichen.html",
+  "apiUrl": "api/notes/acht-eichen.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Bei der Werwolfshöhle",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Werwolfshöhle",
+      "label": "Werwolfshöhle",
+      "slug": "werwolfshohle"
+    }
+  ],
+  "markdown": "Bei der [[Werwolfshöhle]]\n\n"
+}

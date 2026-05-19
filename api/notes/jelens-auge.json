@@ -1,0 +1,30 @@
+{
+  "title": "Jelens Auge",
+  "slug": "jelens-auge",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Magische Gegenstände/Jelens Auge.md",
+  "url": "notes/jelens-auge.html",
+  "apiUrl": "api/notes/jelens-auge.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Geschaffen aus Izeks rechter Arm Ein silbernes Auge mit einen Splitter von Knochen des St. Andral",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izeks rechter Arm",
+      "label": "Izeks rechter Arm",
+      "slug": "izeks-rechter-arm"
+    },
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    }
+  ],
+  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Ein silbernes Auge mit einen Splitter von [[Knochen des St. Andral]]\n\n"
+}

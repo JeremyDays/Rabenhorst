@@ -1,0 +1,25 @@
+{
+  "title": "Stefanovich und Söhne",
+  "slug": "stefanovich-und-sohne",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Stefanovich und Söhne.md",
+  "url": "notes/stefanovich-und-sohne.html",
+  "apiUrl": "api/notes/stefanovich-und-sohne.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki Eine Tränke",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "\nIn: [[Vallaki]]\n\nEine Tränke\n"
+}

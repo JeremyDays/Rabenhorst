@@ -1,0 +1,70 @@
+{
+  "title": "Kult Logbuch",
+  "slug": "kult-logbuch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Bücher)/Kult Logbuch.md",
+  "url": "notes/kult-logbuch.html",
+  "apiUrl": "api/notes/kult-logbuch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "| Vorname | Nachname | Notizen | | | | | | Alek | Stefanova | Kein Sedativum | | Dragomir | Strazni | Augenlider rausgeschnitten | | Darzin | Ulrich | Brustkorb geöffnet | | Oleg |",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alek Stefanova",
+      "label": "Alek Stefanova",
+      "slug": "alek-stefanova"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Isabella Stefanova",
+      "label": "Isabella Stefanova",
+      "slug": "isabella-stefanova"
+    },
+    {
+      "target": "Drasha Stefanova",
+      "label": "Drasha Stefanova",
+      "slug": "drasha-stefanova"
+    },
+    {
+      "target": "Dragomir Strazni",
+      "label": "Dragomir Strazni",
+      "slug": "dragomir-strazni"
+    },
+    {
+      "target": "Grilsha Strazni",
+      "label": "Grilsha Strazni",
+      "slug": "grilsha-strazni"
+    },
+    {
+      "target": "Darzin Ulrich",
+      "label": "Darzin Ulrich",
+      "slug": "darzin-ulrich"
+    },
+    {
+      "target": "Oleg Alastroi",
+      "label": "Oleg Alastroi",
+      "slug": "oleg-alastroi"
+    },
+    {
+      "target": "Vasily Diavolov",
+      "label": "Vasily Diavolov",
+      "slug": "vasily-diavolov"
+    },
+    {
+      "target": "Elisabeta Barthos",
+      "label": "Elisabeta Barthos",
+      "slug": "elisabeta-barthos"
+    }
+  ],
+  "markdown": "\n\n| Vorname   | Nachname  | Notizen                                                             |\n| --------- | --------- | ------------------------------------------------------------------- |\n| Alek      | Stefanova | Kein Sedativum                                                      |\n| Dragomir  | Strazni   | Augenlider rausgeschnitten                                          |\n| Darzin    | Ulrich    | Brustkorb geöffnet                                                  |\n| Oleg      | Alastroi  | Kämpfte Heftig                                                      |\n| Vasily    | Diavolov  | Hielt sehr lange durch                                              |\n| Elisabeta | Barthos   | Schrie bis die Stimmbänder versagten                                |\n| Isabella  | Stefanova | Floh mit ihrem Verstand in Katatonie                                |\n| Drasha    | Stefanova | Rückenmark verletzt, Spürte keinen Schmerz mehr im Ritual-->Wertlos |\n| Grilsha   | Strazni   | Erstickte nachdem sie die Zunge abbiss. Stock!                      |\n- [[Alek Stefanova]] wurde in [[Haus Alkir]] geopfert. Kein Sedativum.\n- [[Isabella Stefanova]] wurde in [[Haus Alkir]] geopfert. Sie floh mit ihrem Verstand in Katatonie.\n- [[Drasha Stefanova]] wurde in [[Haus Alkir]] geopfert. Ihr wurde das Rückenmark verletzt. Sie spürte keinen Schmerz mehr im Ritual und sei daher wertlos gewesen.\n- [[Dragomir Strazni]] wurde in [[Haus Alkir]] geopfert. Ihm wurden die Augenlider rausgeschnitten.\n- [[Grilsha Strazni]] wurde in [[Haus Alkir]] geopfert. Sie erstickte, nachdem sie die Zunge abbiss. Stock!\n- [[Darzin Ulrich]] wurde in [[Haus Alkir]] geopfert. Ihm wurde der Brustkorb geöffnet.\n- [[Oleg Alastroi]] wurde in [[Haus Alkir]] geopfert. Er kämpfte heftig.\n- [[Vasily Diavolov]] wurde in [[Haus Alkir]] geopfert. Er hielt sehr lange durch.\n- [[Elisabeta Barthos]] wurde in [[Haus Alkir]] geopfert. Sie schrie bis die Stimmbänder versagten.\n\n"
+}

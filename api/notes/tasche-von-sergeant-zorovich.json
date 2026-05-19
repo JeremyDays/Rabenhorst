@@ -1,0 +1,25 @@
+{
+  "title": "Tasche von Sergeant Zorovich",
+  "slug": "tasche-von-sergeant-zorovich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Tasche von Sergeant Zorovich.md",
+  "url": "notes/tasche-von-sergeant-zorovich.html",
+  "apiUrl": "api/notes/tasche-von-sergeant-zorovich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Haus Alkir",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Haus Alkir]]\n\n"
+}

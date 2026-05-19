@@ -1,0 +1,25 @@
+{
+  "title": "Izeks Wams",
+  "slug": "izeks-wams",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Izeks Wams.md",
+  "url": "notes/izeks-wams.html",
+  "apiUrl": "api/notes/izeks-wams.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Izek Strazni Mit Symbol auf der ledernen Brust Nekromantie",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    }
+  ],
+  "markdown": "\n**Wo:** [[Izek Strazni]]\nMit Symbol auf der ledernen Brust\nNekromantie\n"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Sankt Andral",
+  "slug": "sankt-andral",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Kirche/Sankt Andral.md",
+  "url": "notes/sankt-andral.html",
+  "apiUrl": "api/notes/sankt-andral.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Legendärer Mönch und Paladin des Kults des MorgenlordJelens Er muss vor über 400 Jahren gelebt haben. Er wird erwähnt in dem Buch \"Gesegnetes Leben von dem Heiligen Sankt Andral\" ,",
+  "frontmatter": {
+    "aliases": [
+      "St. Andral"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jelen",
+      "label": "Morgenlord",
+      "slug": "jelen"
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral",
+      "label": "Gesegnetes Leben von dem Heiligen Sankt Andral",
+      "slug": "gesegnetes-leben-von-dem-heiligen-sankt-andral"
+    },
+    {
+      "target": "Vater Lucian Petrovich",
+      "label": "Vater Lucian Petrovich",
+      "slug": "vater-lucian-petrovich"
+    },
+    {
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
+    },
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Heiliges Symbol des Sankt Andral",
+      "label": "Heiliges Symbol des Sankt Andral",
+      "slug": "heiliges-symbol-des-sankt-andral"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Jelen",
+      "label": "Morgenfürsten",
+      "slug": "jelen"
+    },
+    {
+      "target": "Sankt Andral",
+      "label": "Sankt Andral",
+      "slug": "sankt-andral"
+    }
+  ],
+  "markdown": "\nLegendärer Mönch und Paladin des Kults des [[Jelen|Morgenlord]]s\n\n![[Sankt Andral.png]]\n\n- Er muss vor über 400 Jahren gelebt haben.\n\n- Er wird erwähnt in dem Buch **\"[[Gesegnetes Leben von dem Heiligen Sankt Andral]]\"**, das wir von [[Vater Lucian Petrovich]] erhalten haben.\n\n- Nach ihm sind die [[St. Andrals Kirche]] und das [[St. Andrals Waisenhaus]] benannt.\n- Seine heiligen Knochen sind immer noch in der [[St. Andrals Kirche]].\n\n- Der Legende nach hatte sein heiliges Symbol ([[Heiliges Symbol des Sankt Andral]]) Macht vor der Dunkelheit und sah aus wie ein Rabe\n\n>  _**Malduk:**_ Das könnte nützlich sein.\n\n- [[Graf Strahd]] erließ im Jahr 348 das Patronatsedikt, das die Zahlung von Tribut von der Kirche an den Fürsten von [[Barovia]] als Gleichgestellten des [[Jelen|Morgenfürsten]] verlangte. \n- [[Sankt Andral]] weigerte sich, dies zu bezahlen, weil es blasphemisch war."
+}

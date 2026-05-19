@@ -1,0 +1,50 @@
+{
+  "title": "Krieg der Könige",
+  "slug": "krieg-der-konige",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Krieg der Könige.md",
+  "url": "notes/krieg-der-konige.html",
+  "apiUrl": "api/notes/krieg-der-konige.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Der Krieg zwischen König Barov und König Falkon von Habsburg, dem ehemaligen Herrscher von Barovia. Graf Strahd besiegte König Falkon von Habsburg und ließ seinen Vater zum Herrsch",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "König Falkon von Habsburg",
+      "label": "König Falkon von Habsburg",
+      "slug": "konig-falkon-von-habsburg"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Barovia",
+      "label": "Tal von Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Großen Krieg",
+      "slug": "gro-er-krieg"
+    }
+  ],
+  "markdown": "\nDer Krieg zwischen [[König Barov]] und [[König Falkon von Habsburg]], dem ehemaligen Herrscher von [[Barovia]]. [[Graf Strahd]] besiegte [[König Falkon von Habsburg]] und ließ seinen Vater zum Herrscher von [[Barovia]] werden.\n\n>***Malduk:** Vermutlich begann der Krieg durch die Benennung des Königs als Barov, benannt nach dem [[Barovia|Tal von Barovia]], so dass von [[König Barov]] erwartet wurde, dass er irgendwann [[Barovia]] herrschen würde.\n\n>***Malduk:** Wann war das? Vor oder nach dem [[Großer Krieg|Großen Krieg]]? Vermutlich nach dem [[Großer Krieg|Großen Krieg]].* - Ja muss so sein.\n"
+}

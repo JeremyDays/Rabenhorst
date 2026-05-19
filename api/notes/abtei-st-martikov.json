@@ -1,0 +1,70 @@
+{
+  "title": "Abtei St. Martikov",
+  "slug": "abtei-st-martikov",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Abtei St. Martikov.md",
+  "url": "notes/abtei-st-martikov.html",
+  "apiUrl": "api/notes/abtei-st-martikov.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Sir Godfrey floh nach dem Tod aller seiner Gefährten der Ritter des Silbernen Drachen und dem Fall von Argynvostholt und dem Tod von Graf Argynvost zur Abtei St. Martikov. Malduk: ",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sir Godfrey",
+      "label": "Sir Godfrey",
+      "slug": "sir-godfrey"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Abtei St. Martikov",
+      "label": "Abtei St. Martikov",
+      "slug": "abtei-st-martikov"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Drachen",
+      "label": "Drache",
+      "slug": "drachen"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Alte Abtei",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "Familie Martikov",
+      "label": "Familie Martikov",
+      "slug": "familie-martikov"
+    }
+  ],
+  "markdown": "\n- [[Sir Godfrey]] floh nach dem Tod aller seiner Gefährten der [[Ritter des Silbernen Drachen]] und dem Fall von [[Argynvostholt]] und dem Tod von [[Graf Argynvost]] zur [[Abtei St. Martikov]].\n\n>***Malduk:** Es liegt die Vermutung nahe, dass die [[Abtei St. Martikov]] irgendwie verbündet war mit [[Argynvost]] und wusste, dass [[Graf Argynvost]] ein [[Drachen|Drache]] war.*\n\n>***Malduk:** Ist das dieselbe Abtei wie die [[Alte Abtei]] in [[Krezk]]?*\n\n>***Malduk:** Was hat die [[Abtei St. Martikov]] mit der [[Familie Martikov]] zu tun?*\n\n"
+}

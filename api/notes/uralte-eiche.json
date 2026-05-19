@@ -1,0 +1,65 @@
+{
+  "title": "Uralte Eiche",
+  "slug": "uralte-eiche",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Uralte Eiche.md",
+  "url": "notes/uralte-eiche.html",
+  "apiUrl": "api/notes/uralte-eiche.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Eichenfurt Die Alte EicheUralte Eiche steht auf der östlichen Seite des DorfesEichenfurt, direkt vor dem Silvanfluss, der den Winterwald vom DorfEichenfurt trennt. Man sagt, di",
+  "frontmatter": {
+    "aliases": [
+      "Alte Eiche",
+      "Alten Eiche",
+      "Uralten Eiche"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Uralte Eiche",
+      "label": "Alte Eiche",
+      "slug": "uralte-eiche"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorfes",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Silvanfluss",
+      "label": "Silvanfluss",
+      "slug": "silvanfluss"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorf",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Uralte Eiche",
+      "label": "Eiche",
+      "slug": "uralte-eiche"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    }
+  ],
+  "markdown": "\nIn: [[Eichenfurt]]\n\nDie [[Uralte Eiche|Alte Eiche]] steht auf der östlichen Seite des [[Eichenfurt|Dorfes]], direkt vor dem [[Silvanfluss]], der den [[Winterwald]] vom [[Eichenfurt|Dorf]] trennt. \n- Man sagt, die [[Uralte Eiche|Eiche]] sei älter als das Dorf selbst. \n- Drei frische Symbole der [[Herrinnen]] sind in die Rinde geritzt.\n\n![[Symbol Die Drei Herrinen.png]]\n\n\n"
+}

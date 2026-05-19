@@ -1,0 +1,525 @@
+/* defaultimagesize.css */
+/* === Images size defaults === */
+.image-embed.image-embed img:not([width]) {
+    max-height: 250px;
+    max-width: 300px; 
+}
+
+/* foundryvtt_customcss.css */
+/* Custom CSS */
+
+
+/* JOURNAL SIDEBAR */
+
+.sheet.journal-entry 
+.journal-sidebar {
+  /*background: transparent;
+  color: var(--color-text-light-highlight);*/
+	background: transparent;
+}
+
+
+/* JOURNAL EDITOR */
+
+.prosemirror {
+
+	/*Textfarbe
+	color: #FBFBEF;*/
+
+	/*Hintergrundfarbe*/
+	
+	background: linear-gradient(to bottom, #D7C9C5 0%, #ECE5E1 50%, #D7C9C5 100%);
+
+	/*box-shadow: 3px 3px #807e76;*/
+	
+	h1 {
+	font-family: "Modesto Condensed";
+	font-size: 3em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	h2 {
+	font-family: "Modesto Condensed";
+	font-size: 2.5em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	
+	h3 {
+	font-family: "Modesto Condensed";
+	font-size: 2em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	table {
+	border-top: 1px solid #9F9275;
+	border-bottom: 1px solid #9F9275;
+	border-left: 0px solid #9F9275;
+	border-right: 0px solid #9F9275;
+	/*box-shadow: 3px 3px #807e76;*/
+	background: #F8F4F1;
+	}
+	
+	table thead {
+  	background: rgba(0, 0, 0, 0.5);
+  	color: var(--color-text-light-highlight);
+  	text-shadow: 1px 1px var(--color-shadow-dark);
+  	border-bottom: 1px solid var(--color-border-dark);
+	}
+	
+	table tr:nth-child(even) {
+  	background-color: #F1EBE8;
+  	}
+	
+	table td:first-child {
+  	border: 0px;
+	padding-left: 2px;
+	}
+
+	table td,
+	table th {
+  	vertical-align: top;
+	padding: 0.25em 0;
+	}
+}	
+	
+
+/* JOURNAL CONTENT */
+
+.sheet.journal-entry
+.journal-entry-content {
+
+	/*Textfarbe
+	color: #FBFBEF;*/
+
+	/*Hintergrundfarbe*/
+	
+	background: linear-gradient(to bottom, #D7C9C5 0%, #ECE5E1 50%, #D7C9C5 100%);
+
+	/*box-shadow: 3px 3px #807e76;*/
+	
+	h1 {
+	font-family: "Modesto Condensed";
+	font-size: 3em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	h2 {
+	font-family: "Modesto Condensed";
+	font-size: 2.5em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	
+	h3 {
+	font-family: "Modesto Condensed";
+	font-size: 2em;
+	border-bottom: 0px solid darkred;
+	}
+	
+	table {
+	border-top: 1px solid #9F9275;
+	border-bottom: 1px solid #9F9275;
+	border-left: 0px solid #9F9275;
+	border-right: 0px solid #9F9275;
+	/*box-shadow: 3px 3px #807e76;*/
+	background: #F8F4F1;
+	}
+	
+	table thead {
+  	background: rgba(0, 0, 0, 0.5);
+  	color: var(--color-text-light-highlight);
+  	text-shadow: 1px 1px var(--color-shadow-dark);
+  	border-bottom: 1px solid var(--color-border-dark);
+	}
+	
+	table tr:nth-child(even) {
+  	background-color: #F1EBE8;
+  	}
+	
+	table td:first-child {
+  	border: 0px;
+	padding-left: 2px;
+	}
+
+	table td,
+	table th {
+  	vertical-align: top;
+	padding: 0.25em 0;
+	}
+	
+	
+	
+/* LINKS */
+
+	a:link {
+	text-decoration: none;
+	color: darkred;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	border: none;
+	padding: 0px;
+	background-color: transparent;
+	}
+
+	
+	a.content-link {
+	text-decoration: none;
+	color: darkred;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	border: none;
+	padding: 0px;
+	background-color: transparent;
+	}
+
+a.content-link.broken {
+	text-decoration: none;
+	color: darkred;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	border: none;
+	padding: 0px;
+	background-color: transparent;
+	}
+
+a:visited {
+	text-decoration: none;
+	color: darkred;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	}
+
+a:hover {
+	text-decoration: underline;
+	color: red;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	}
+
+a:active {
+	text-decoration: underline;
+	color: red;
+	background-color: none;
+	text-shadow: none;
+	filter: none;
+	}
+
+	
+	
+a.content-link i.fa-file-lines{
+
+display: none;
+
+}
+
+a.content-link i.fa-book-open{
+
+display: none;
+
+}
+	
+/* Link Buttons
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}*/
+
+
+/* Text Shadow (glow)
+	li a:hover { /*use full
+  text-shadow: 2px 2px 10px #000000;
+  filter: dropshadow(color=#000000, offx=2, offy=2);
+}
+
+/* styling for the ex. 
+li a{font-size:20pt;}
+li{list-style-type:none; padding:10px; background:white; width:100px; text-transform:uppercase; text-align:center;}
+body{background:#ccc;}*/
+	
+	
+}
+
+
+/* FURTHER TEXT BOXES */
+
+.narrative {
+	border: 1px solid #392104;
+	padding: 10px;
+	margin: 10px;
+	background: linear-gradient(to bottom, #edd5b5 0%, #e6dfd5 100%);
+	box-shadow: 3px 3px #807e76;
+	color: #392104;
+}
+
+.narrative h5 {
+	padding: 0px;
+	margin: 0px;
+	font-size: var(--font-size-14);
+	border-bottom: 2px solid #392104;
+}
+
+.investigation {
+	border-left: 3px solid #303823;
+	padding: 10px;
+	margin: 10px;
+	background: linear-gradient(to right, #c3cab6 0%, #d6d4c8 100%);
+	color: #303823;
+}
+
+.investigation h5 {
+	padding: 0px;
+	margin: 0px;
+	font-size: var(--font-size-14);
+	border-bottom: 2px solid #303823;
+}
+
+
+.narrate {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+}
+ .investigate {
+     border-left: 3px solid #303823;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to right, rgba(195, 202, 182, 1) 0%, rgba(195, 202, 182, 0.2) 100%);
+     color: #303823;
+}
+ .narrate h5, .investigate h5 {
+     padding: 0px;
+     margin: 0px;
+     font-size: var(--font-size-14);
+}
+ .narrate h5 {
+     border-bottom: 2px solid #392104;
+}
+ .investigate h5 {
+     border-bottom: 2px solid #303823;
+}
+
+
+
+/* messages from first dialogue participant will have #f00 background color */
+.dialogue-plugin-message[data-participant-id="1"] {
+	background-color: #f00;
+}
+
+/* messages from second dialogue participant will have #0f0 background color */
+.dialogue-plugin-message[data-participant-id="2"] {
+	background-color: #0f0;
+}
+
+/* messages from third dialogue participant will have #00f background color */
+.dialogue-plugin-message[data-participant-id="3"] {
+	background-color: #00f;
+}
+
+.dialogue-plugin-message[data-participant-name="Cael (Björn)"] {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+}
+
+.dialogue-plugin-message[data-participant-name="Rhea (Jessica)"] {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+}
+
+.dialogue-plugin-message[data-participant-name="Edwyn (Gerald)"] {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+}
+
+.dialogue-plugin-message[data-participant-name="Nora (Ivo)"] {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+
+}
+
+.dialogue-plugin-message[data-participant-name="GM (Stephan)"] {
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+
+}
+
+.callout[data-callout="customcallout"] {
+     background: var(--background-color);
+}
+
+.callout[data-callout-metadata="Green"] {
+    --background-color: #009F8B;
+}
+
+.callout[data-callout-metadata="Purple"] {
+    --background-color: #6C19CC;
+}
+
+
+.callout[data-callout="dialogue2"]{
+     border: 1px solid #392104;
+     padding: 10px;
+     margin: 10px;
+     background: linear-gradient(to bottom, rgba(237, 213, 181, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     box-shadow: 3px 3px #807e76;
+     color: #392104;
+     icon: lucide-tree-palm;
+}
+.callout[data-callout-metadata="red"]{
+     background: linear-gradient(to bottom, rgba(240, 128, 128, 1) 0%, rgba(237, 213, 181, 0.2) 100%);
+     color: maroon;
+     callout-icon: lucide-tree-palm;
+     border-radius: 10px;
+
+}
+
+
+/* foundryvtt_customcss_for_obsidian_v01.css */
+/* WARNING: This file will be overwritten by the plugin.
+Do not edit this file directly! First copy this file and rename it if you want to edit things. */
+
+:root {
+    --38bd-5e3e-color: #E07250;
+    --38bd-5e3e-weight: initial;
+    --38bd-5e3e-before: '';
+    --38bd-5e3e-after: '';
+    --38bd-5e3e-background-color: #ffffff;
+    --38bd-5e3e-decoration: initial;
+}
+
+div[data-id="38bd-5e3e"] div.setting-item-description,
+[data-link-tags*="Item" i] {
+    color: var(--38bd-5e3e-color) !important;
+    font-weight: var(--38bd-5e3e-weight);
+}
+
+.c-38bd-5e3e-use-background div[data-id="38bd-5e3e"] div.setting-item-description,
+.c-38bd-5e3e-use-background .data-link-text[data-link-tags*="Item" i] {
+    background-color: var(--38bd-5e3e-background-color) !important;
+    border-radius: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-decoration: var(--38bd-5e3e-decoration) !important;
+}
+
+div[data-id="38bd-5e3e"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Item" i]::before {
+    content: var(--38bd-5e3e-before);
+}
+
+div[data-id="38bd-5e3e"] div.setting-item-description::after,
+.data-link-icon-after[data-link-tags*="Item" i]::after {
+    content: var(--38bd-5e3e-after);
+}
+/* @settings
+name: Supercharged Links
+id: supercharged-links
+settings:
+    - 
+        id: 38bd-5e3e
+        title: tag is Item
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 38bd-5e3e-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#E07250'
+    - 
+        id: 38bd-5e3e-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 38bd-5e3e-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 38bd-5e3e-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 38bd-5e3e-after
+        title: Append text
+        description: Add some text, such as an emoji, after the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: c-38bd-5e3e-use-background
+        title: Use background color
+        description: Adds a background color to the link. This can look buggy in live preview.
+        type: class-toggle
+    - 
+        id: 38bd-5e3e-background-color
+        title: Background color
+        type: variable-color
+        format: hex
+        default: '#ffffff'
+*/
+
+/* supercharged-links-gen.css */
+/* WARNING: This file will be overwritten by the plugin.
+Do not edit this file directly! First copy this file and rename it if you want to edit things. */
+
+:root {
+}
+/* @settings
+name: Supercharged Links
+id: supercharged-links
+settings:
+*/

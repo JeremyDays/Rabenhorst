@@ -1,0 +1,66 @@
+{
+  "title": "Waldfey",
+  "slug": "waldfey",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Herrinnen bzw. Fey/Waldfey.md",
+  "url": "notes/waldfey.html",
+  "apiUrl": "api/notes/waldfey.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Eine der drei Fey. Sie ist identisch mit der Herrin des Waldes. Ihr Seelen Edelstein ist der Grüne EdelsteinEdelstein (Grün). Die Waldfey wachte über die Pflanzen und Tiere Sie war",
+  "frontmatter": {
+    "aliases": [
+      "Fey des Waldes",
+      "Waldfey",
+      "Wald-Fey",
+      "Waldfee"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Herrin des Waldes",
+      "label": "Herrin des Waldes",
+      "slug": "herrin-des-waldes"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Grüne Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunklen Prinzen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Weißer Hirsch",
+      "label": "Weiße Hirsch",
+      "slug": "wei-er-hirsch"
+    },
+    {
+      "target": "Grusha",
+      "label": "Grusha",
+      "slug": "grusha"
+    }
+  ],
+  "markdown": "Eine der drei [[Fey]].\n\n![[Waldfey.png]]\n\nSie ist identisch mit der [[Herrin des Waldes]].\nIhr Seelen-Edelstein ist der [[Edelstein (Grün)|Grüne Edelstein]].\n\n- Die [[Waldfey]] wachte über die Pflanzen und Tiere\n- Sie war lieblich und einstmals wunderschön und stark mit den Geistern der Tiere und Vögel verbunden.\n\n- Die [[Waldfey]] verwandelte sich in einen Menschen und lebte unter den Menschen von [[Vallaki]]. Sie hielt ihre Augen und Ohren offen, um diejenigen zu beobachten, die dem [[Graf Strahd|dunklen Prinzen]] dienten, und um nach denen Ausschau zu halten, die ihr helfen konnten. \n\n>***Malduk:** Ist sie der [[Weißer Hirsch|Weiße Hirsch]]? Ist sie [[Grusha]]? \n>Nicht, wenn sie immer noch in [[Vallaki]] ist.\n\n\n"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Alte Abtei",
+  "slug": "alte-abtei",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Alte Abtei.md",
+  "url": "notes/alte-abtei.html",
+  "apiUrl": "api/notes/alte-abtei.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Hospital In: Krezk Herkunftsort der Heiligen Sankt Markovia. Oft besucht von Lugdana Argynvost. Dort wurde sie gepflegt, als sie in der Schlacht am Rabenfluss fiel. Malduk: Ob wir ",
+  "frontmatter": {
+    "aliases": [
+      "Alten Abtei",
+      "Abtei der Heiligen Markovia",
+      "Abtei in Krezk",
+      "Abtei"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "Sankt Markovia",
+      "slug": "sankt-markovia"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Schlacht am Rabenfluss",
+      "label": "Schlacht am Rabenfluss",
+      "slug": "schlacht-am-rabenfluss"
+    }
+  ],
+  "markdown": "\nHospital\n\nIn: [[Krezk]]\n\n- Herkunftsort der Heiligen [[Sankt Markovia]].\n- Oft besucht von [[Lugdana Argynvost]]. Dort wurde sie gepflegt, als sie in der [[Schlacht am Rabenfluss]] fiel.\n\n> **Malduk:** Ob wir das Heilige Symbol der Sonne (für Heinard) hier bei Schwester Constances Geist finden können? Es heißt, dass es bei Lugdanas Tod zurückkehrte.\n\n\n"
+}

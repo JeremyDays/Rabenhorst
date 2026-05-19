@@ -1,0 +1,40 @@
+{
+  "title": "Danika Dorakova",
+  "slug": "danika-dorakova",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Blauwassertaverne/Danika Dorakova.md",
+  "url": "notes/danika-dorakova.html",
+  "apiUrl": "api/notes/danika-dorakova.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Beziehungen Familie Martikov Ehefrau von Urwin Martikov Mutter von Bray Martikov und Brom Martikov",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Martikov",
+      "label": "Familie Martikov",
+      "slug": "familie-martikov"
+    },
+    {
+      "target": "Urwin Martikov",
+      "label": "Urwin Martikov",
+      "slug": "urwin-martikov"
+    },
+    {
+      "target": "Bray Martikov",
+      "label": "Bray Martikov",
+      "slug": "bray-martikov"
+    },
+    {
+      "target": "Brom Martikov",
+      "label": "Brom Martikov",
+      "slug": "brom-martikov"
+    }
+  ],
+  "markdown": "\n\n![[Danika Dorakova.png]]\n\n#### Beziehungen\n- [[Familie Martikov]]\n- Ehefrau von [[Urwin Martikov]]\n- Mutter von [[Bray Martikov]] und [[Brom Martikov]]\n\n"
+}

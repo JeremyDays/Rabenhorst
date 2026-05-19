@@ -1,0 +1,75 @@
+{
+  "title": "Notizbuch von Sergeant Zorovich",
+  "slug": "notizbuch-von-sergeant-zorovich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Notizbuch von Sergeant Zorovich.md",
+  "url": "notes/notizbuch-von-sergeant-zorovich.html",
+  "apiUrl": "api/notes/notizbuch-von-sergeant-zorovich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Michal hat es im Haus Alkir gefunden. Es ist von Sergeant Zorovich, seinem Mentor. Inhalt: Gespräche mit Rekruten, Sold, etc. Schlacht kurz nach Michals Ausbildung (vor 1",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Sergeant Zorovich",
+      "label": "Sergeant Zorovich",
+      "slug": "sergeant-zorovich"
+    },
+    {
+      "target": "Weißer Hirsch",
+      "label": "Weißen Hirsch",
+      "slug": "wei-er-hirsch"
+    },
+    {
+      "target": "Luna",
+      "label": "Luna",
+      "slug": "luna"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Wölfe",
+      "label": "Wölfen",
+      "slug": "wolfe"
+    },
+    {
+      "target": "Borosh",
+      "label": "Borosh",
+      "slug": "borosh"
+    },
+    {
+      "target": "Rote Vistani",
+      "label": "Rote Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
+    },
+    {
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
+    }
+  ],
+  "markdown": "\n**Gefunden:** [[Michal]] hat es im [[Haus Alkir]] gefunden.\n\n- Es ist von [[Sergeant Zorovich]], seinem Mentor. \n\n**Inhalt:**\n- Gespräche mit Rekruten, Sold, etc.\n- Schlacht kurz nach [[Michal]]s Ausbildung (vor 15-16 Jahren)\n- Vor 11-13 Jahren hat er folgendes beschrieben:\n\t- [[Sergeant Zorovich]] hat einen [[Weißer Hirsch|Weißen Hirsch]] in [[Luna]]s Lichte gesehen. Er war sehr schön. Der Hirsch war weiß und hatte einen 12-Ender (Geweih)\n\t- [[Nebel]] kam auf und er hörte das Heulen von [[Wölfe|Wölfen]].\n\t- Er sagte zu [[Borosh]]: \"...\"\n\t- Aufgewacht. Die Sternenkonstellationen sind anders\n\t- Sie haben einen bunten Wagen gesehen und dann Musik von der Ferne gehört. Fahrendes Volk ([[Rote Vistani]])\n\t- Sie haben dann zwei Kinder getroffen ([[Dorn]] und [[Rose]]) und sind ihnen gefolgt.\n\n"
+}

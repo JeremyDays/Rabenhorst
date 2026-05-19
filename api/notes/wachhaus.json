@@ -1,0 +1,25 @@
+{
+  "title": "Wachhaus",
+  "slug": "wachhaus",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Wachhaus.md",
+  "url": "notes/wachhaus.html",
+  "apiUrl": "api/notes/wachhaus.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki In einer Kiste werden alle Waffen aller Reisenden aufgenommen.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "\nIn: [[Vallaki]]\n\nIn einer Kiste werden alle Waffen aller Reisenden aufgenommen.\n\n"
+}

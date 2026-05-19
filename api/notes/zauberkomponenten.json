@@ -1,0 +1,19 @@
+{
+  "title": "Zauberkomponenten",
+  "slug": "zauberkomponenten",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Zauberkomponenten.md",
+  "url": "notes/zauberkomponenten.html",
+  "apiUrl": "api/notes/zauberkomponenten.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kerzenwachs viel Spinnenweben viel ...",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\n- Kerzenwachs -- viel\n- Spinnenweben -- viel\n- ..."
+}

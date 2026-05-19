@@ -1,0 +1,19 @@
+{
+  "title": "Familie Strazni",
+  "slug": "familie-strazni",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Familie Strazni.md",
+  "url": "notes/familie-strazni.html",
+  "apiUrl": "api/notes/familie-strazni.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

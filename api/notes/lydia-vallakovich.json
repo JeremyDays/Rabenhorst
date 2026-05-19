@@ -1,0 +1,44 @@
+{
+  "title": "Lydia Vallakovich",
+  "slug": "lydia-vallakovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Lydia Vallakovich.md",
+  "url": "notes/lydia-vallakovich.html",
+  "apiUrl": "api/notes/lydia-vallakovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Frau von Baron Vargas Vallakovich Eine gütige Frau. Sie gibt dem St. Andrals Waisenhaus monatlich Geld, um über die Runden zu kommen. 1.200 Pf. / Monat. Schwester von Vater Lucian ",
+  "frontmatter": {
+    "aliases": [
+      "Frau Vallakovich",
+      "Lydia Petrova"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Vater Lucian Petrovich",
+      "label": "Vater Lucian Petrovich",
+      "slug": "vater-lucian-petrovich"
+    },
+    {
+      "target": "Victor Vallakovich",
+      "label": "Victor Vallakovich",
+      "slug": "victor-vallakovich"
+    }
+  ],
+  "markdown": "\n_Frau von [[Baron Vargas Vallakovich]]_\n\n![[Lydia Vallakovich.webp|250]]\n\n- Eine gütige Frau. \n- Sie gibt dem [[St. Andrals Waisenhaus]] monatlich Geld, um über die Runden zu kommen. \n  1.200 Pf. / Monat.\n- Schwester von [[Vater Lucian Petrovich]]\n- Hat Angst vor ihrem Mann, [[Baron Vargas Vallakovich]], aber liebt ihren Sohn [[Victor Vallakovich]] noch mehr."
+}

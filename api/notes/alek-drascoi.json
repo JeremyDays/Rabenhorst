@@ -1,0 +1,40 @@
+{
+  "title": "Alek Drascoi",
+  "slug": "alek-drascoi",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Drascoi/Alek Drascoi.md",
+  "url": "notes/alek-drascoi.html",
+  "apiUrl": "api/notes/alek-drascoi.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "tot Beziehungen: Familie Drascoi Ehemann von Kala Drascoi Vater von Boris Drascoi und Ivana Drascoi. Ehemaliger Besitzer des Wagens",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Drascoi",
+      "label": "Familie Drascoi",
+      "slug": "familie-drascoi"
+    },
+    {
+      "target": "Kala Drascoi",
+      "label": "Kala Drascoi",
+      "slug": "kala-drascoi"
+    },
+    {
+      "target": "Boris Drascoi",
+      "label": "Boris Drascoi",
+      "slug": "boris-drascoi"
+    },
+    {
+      "target": "Ivana Drascoi",
+      "label": "Ivana Drascoi",
+      "slug": "ivana-drascoi"
+    }
+  ],
+  "markdown": "\ntot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Ehemann von [[Kala Drascoi]]\n- Vater von [[Boris Drascoi]] und [[Ivana Drascoi]].\n\nEhemaliger Besitzer des Wagens\n"
+}

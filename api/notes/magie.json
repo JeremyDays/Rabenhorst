@@ -1,0 +1,19 @@
+{
+  "title": "Magie",
+  "slug": "magie",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Magie.md",
+  "url": "notes/magie.html",
+  "apiUrl": "api/notes/magie.json",
+  "tags": [],
+  "excerpt": "Neutrale Kräfte, Elemente. Siehe Magieanwender.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Magieanwender",
+      "label": "Magieanwender",
+      "slug": "magieanwender"
+    }
+  ],
+  "markdown": "Neutrale Kräfte, Elemente.\n\nSiehe [[Magieanwender]].\n\n\n\n\n\n"
+}

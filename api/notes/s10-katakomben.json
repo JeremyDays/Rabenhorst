@@ -1,0 +1,180 @@
+{
+  "title": "S10 - Katakomben",
+  "slug": "s10-katakomben",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc02 - Haus Alkir/S10 - Katakomben.md",
+  "url": "notes/s10-katakomben.html",
+  "apiUrl": "api/notes/s10-katakomben.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "16. Fivral 755 EB (02.03.2022) Schwierigkeit: 4 Haus Alkir [!dialogue2] Szene 1 Kronleuchter Kerzenwachs (+), Spinnenweben (+), Essig im Krug [!dialogue2] Szene 2 Ruheraum Vergange",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "16. Fivral 755 EB",
+      "label": "16. Fivral 755 EB",
+      "slug": "16-fivral-755-eb"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Scharlachroter Umhang",
+      "label": "Scharlachroter Umhang",
+      "slug": "scharlachroter-umhang"
+    },
+    {
+      "target": "Lederner Schultergürtel",
+      "label": "Lederner Schultergürtel",
+      "slug": "lederner-schultergurtel"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Kettenhemd der Erde",
+      "label": "Kettenhemd der Erde",
+      "slug": "kettenhemd-der-erde"
+    },
+    {
+      "target": "Kleines Zauberbuch",
+      "label": "Kleines Zauberbuch",
+      "slug": null
+    },
+    {
+      "target": "Larien",
+      "label": "Larien",
+      "slug": null
+    },
+    {
+      "target": "Hoffnungsschimmer",
+      "label": "Hoffnungsschimmer",
+      "slug": "hoffnungsschimmer"
+    },
+    {
+      "target": "Alchimistenfeuer",
+      "label": "Alchimistenfeuer",
+      "slug": "alchimistenfeuer"
+    },
+    {
+      "target": "Dietriche",
+      "label": "Dietriche",
+      "slug": "dietriche"
+    },
+    {
+      "target": "Bullaugen-Laterne",
+      "label": "Bullaugen-Laterne",
+      "slug": "bullaugen-laterne"
+    },
+    {
+      "target": "Fläschchen geronnenes Blut",
+      "label": "Fläschchen geronnenes Blut",
+      "slug": "flaschchen-geronnenes-blut"
+    },
+    {
+      "target": "Haarlocke",
+      "label": "Haarlocke",
+      "slug": "haarlocke"
+    },
+    {
+      "target": "Abgetrennte Finger mit langem Fingernagel",
+      "label": "Abgetrennte Finger mit langem Fingernagel",
+      "slug": "abgetrennte-finger-mit-langem-fingernagel"
+    },
+    {
+      "target": "Weidensymbol von Jelen",
+      "label": "Weidensymbol von Jelen",
+      "slug": "weidensymbol-von-jelen"
+    },
+    {
+      "target": "Stück getrockneter Haut mit Mond-Tätowierung",
+      "label": "Stück getrockneter Haut mit Mond-Tätowierung",
+      "slug": "stuck-getrockneter-haut-mit-mond-tatowierung"
+    },
+    {
+      "target": "Fläschchen trüben Sumpfwassers ohne Korken",
+      "label": "Fläschchen trüben Sumpfwassers ohne Korken",
+      "slug": "flaschchen-truben-sumpfwassers-ohne-korken"
+    },
+    {
+      "target": "Klaue eines Raben",
+      "label": "Klaue eines Raben",
+      "slug": "klaue-eines-raben"
+    },
+    {
+      "target": "Schwarzer Zweig mit blutroten Dornen",
+      "label": "Schwarzer Zweig mit blutroten Dornen",
+      "slug": "schwarzer-zweig-mit-blutroten-dornen"
+    },
+    {
+      "target": "Riesen-Zahn",
+      "label": "Riesen-Zahn",
+      "slug": "riesen-zahn"
+    },
+    {
+      "target": "Zerfetzte Überreste von Vogelfeder",
+      "label": "Zerfetzte Überreste von Vogelfeder",
+      "slug": "zerfetzte-uberreste-von-vogelfeder"
+    },
+    {
+      "target": "Bernsteinscherbe",
+      "label": "Bernsteinscherbe",
+      "slug": "bernsteinscherbe"
+    },
+    {
+      "target": "Getrockneter Strauß Wolfsmilch",
+      "label": "Getrockneter Strauß Wolfsmilch",
+      "slug": "getrockneter-strau-wolfsmilch"
+    },
+    {
+      "target": "Vertrocknetes Spitzohr",
+      "label": "Vertrocknetes Spitzohr",
+      "slug": "vertrocknetes-spitzohr"
+    },
+    {
+      "target": "Lichtbringer",
+      "label": "Lichtbringer",
+      "slug": "lichtbringer"
+    },
+    {
+      "target": "Jelenkraut",
+      "label": "Heiltrank",
+      "slug": null
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "RIPpy",
+      "label": "RIPpy",
+      "slug": "rippy"
+    },
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    }
+  ],
+  "markdown": "\n[[16. Fivral 755 EB]] (02.03.2022)\nSchwierigkeit: 4\n[[Haus Alkir]]\n\n>[!dialogue2] Szene 1 - Kronleuchter\n- Kerzenwachs (+), Spinnenweben (+), Essig im Krug\n\n>[!dialogue2] Szene 2 - Ruheraum\n- Vergangene Boshaftigkeit\n- Verrottete Matratze, Rattenkot\n- Schrank\n\t- verschlissene Gewänder\n\t- Lederne Bänder mit Widerhaken (Geißelpeitsche)\n- 30 Kerzen, aber nur dämmriges Licht\n- Hölzerne Truhe\n\t- Angenehmer Geruch\n\t- [[Scharlachroter Umhang]]. Metamagie. Schutz gegen physische Angriffe.\n\t- [[Lederner Schultergürtel]] mit 4 Schlaufen\n\t\t- Widerstandsfähige Fläschchen aus silbernem Metall mit Schraubverschlüssen\n\t\t\t- 2x angenehm riechendes [[Jelen]]kraut (Heilkraft, 1x an [[Malduk]] verbraucht)\n\t\t\t- 1x Reife Trauben (Messwein)\n\t\t\t- 1x scharfer Jägermeister (Bitterwurz, Antidot gegen Vergiftung)\n- Tür\n\n>[!dialogue2] Szene 3 - Peitschraum\n- Verwesung, Verfall kommt von hier, zerrissene Rücken hier drinnen\n\n>[!dialogue2] Szene 4 - Betraum\n- [[Kettenhemd der Erde]]. Ein leichtes Kettenhemd der Erdelementarmagie. (+)\n- [[Kleines Zauberbuch]]. DIN A5. Ein Buch aus Leder. 5cm dick. Mit Silberschnitt-Seiten. Auf dem Lederband sind Runen. Es ist geschützt vor Verfall, Staub und Ungeziefer. Die Blätter bilden sich nach. In [[Larien]], der Magier-Sprache geschrieben. Es enthält Persönliche Zauberformeln von Nekromantie und Metamagie. (+)\n- [[Hoffnungsschimmer]]. Ein Streitkolben aus silbernem Metall. (+)\n- [[Alchimistenfeuer]]. Schwarze Flasche mit Flammensymbol (scharf) (+)\n- [[Dietriche]] (+)\n- [[Bullaugen-Laterne]] (+)\n\n>[!dialogue2] Szene 5 - Treppen\n- Gesang, mehrere Stimmen\n  \"Er ist der Uralte, er ist das Land...\"\n\n>[!dialogue2] Szene 6 - NIschenwände\n1. [[Fläschchen geronnenes Blut]] (+) -> Heinard\n2. [[Haarlocke]]. Achtsam geflochtene Locke kastanienbraunes Haar (+) -> Malduk\n3. [[Abgetrennte Finger mit langem Fingernagel]] (+)\n4. [[Weidensymbol von Jelen]] (+) -> Heinard\n5. [[Stück getrockneter Haut mit Mond-Tätowierung]] (+) -> Heinard\n6. [[Fläschchen trüben Sumpfwassers ohne Korken]] (+) -> Heinard\n7. [[Klaue eines Raben]] (+)\n8. [[Schwarzer Zweig mit blutroten Dornen]] (+)\n9. [[Riesen-Zahn]], so lang wie ein Unterarm von Malduk, umwickelt mit Silberdraht (Magisch: Leben) (+)\n10. [[Zerfetzte Überreste von Vogelfeder]] (+)\n11. [[Bernsteinscherbe]] (+)\n12. [[Getrockneter Strauß Wolfsmilch]] (+)\n13. [[Vertrocknetes Spitzohr]] (+)\n\n- Fallgitter als Fluter\n- Eingetrocknetes Blut\n- Nischen-Galerien\n\n>[!dialogue2] Szene 7 - Wassertempel\n- Schemenhafte Gestalten, keine Körper\n- \"Einer muss sterben...\"\n- Zersetzender Nebel und Gesang und Wabern\n- Wasserrampe\n- Gravuren auf Stein bewegend.\n- Wasserkuppel\n- Nebel zersetzt Stein\n- Schwärze der Fackel\n- [[Lichtbringer]] hat keinen Effekt\n- Kleine humanoide Gestalt wächst\n- Getrocknetes Blut\n- [[Malduk]] opfert sich und trinkt einen [[Jelenkraut|Heiltrank]]\n- **[[Malduk]] stirbt fast!**\n- Helles Licht [[Heinard]]\n- [[Michal]] opferte den Fuchs, [[RIPpy]], nicht.\n- Alles still\n- Schmerz, Rasierklinge\n- [[Cataryma]]\n- Lachen und Klatschen\n\n>[!dialogue2] Szene 8 - Treppe nach oben\n- Draußen dunkel\n- Wut-Schrei\n- [[Malduk]] wird von [[Michal]] getragen\n- **[[Haus Alkir]] zerfällt**\n\n- Draußen finden wir einen Picknickkorb aus Weide mit einem Tuch, einer Weinflasche, frischem Brot, Weintrauben und Käse\n\n---\n+10cp [Insgesamt: 10cp]\n"
+}

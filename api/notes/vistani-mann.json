@@ -1,0 +1,19 @@
+{
+  "title": "Vistani Mann",
+  "slug": "vistani-mann",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Vistani Mann.md",
+  "url": "notes/vistani-mann.html",
+  "apiUrl": "api/notes/vistani-mann.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Vistani Mann (Token).png]]"
+}

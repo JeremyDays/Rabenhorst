@@ -1,0 +1,35 @@
+{
+  "title": "Fledermaus-Höhle",
+  "slug": "fledermaus-hohle",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Fledermaus-Höhle.md",
+  "url": "notes/fledermaus-hohle.html",
+  "apiUrl": "api/notes/fledermaus-hohle.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Groß und über dem Weg. Zwischen Tser Teich und Vallaki. Ist sie identisch mit der Werwolfshöhle?",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Werwolfshöhle",
+      "label": "Werwolfshöhle",
+      "slug": "werwolfshohle"
+    }
+  ],
+  "markdown": "\nGroß und über dem Weg. \n\nZwischen [[Tser-Teich]] und [[Vallaki]].\n\n- Ist sie identisch mit der [[Werwolfshöhle]]?\n- \n\n"
+}

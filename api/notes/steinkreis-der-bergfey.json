@@ -1,0 +1,48 @@
+{
+  "title": "Steinkreis der Bergfey",
+  "slug": "steinkreis-der-bergfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Steinkreis der Bergfey.md",
+  "url": "notes/steinkreis-der-bergfey.html",
+  "apiUrl": "api/notes/steinkreis-der-bergfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Einer der Steinkreise der Fey. Er ist der Bergfey gewidmet und von Druiden errichtet. Der Steinkreis der Bergfey wurde auf einem Hügel mit Blick auf die großen Berge als Tribut an ",
+  "frontmatter": {
+    "aliases": [
+      "Fey-jost der Bergfey"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Steinkreise der Fey",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Steinkreis der Bergfey",
+      "label": "Steinkreis der Bergfey",
+      "slug": "steinkreis-der-bergfey"
+    },
+    {
+      "target": "Heiligtum der Bergfey",
+      "label": "Heiligtum der Bergfey",
+      "slug": "heiligtum-der-bergfey"
+    }
+  ],
+  "markdown": "Einer der [[Steinkreise der Fey]].\nEr ist der [[Bergfey]] gewidmet und von [[Druiden]] errichtet.\n\n- Der [[Steinkreis der Bergfey]] wurde auf einem Hügel mit Blick auf die großen Berge als Tribut an die [[Bergfey]] erbaut.\n- Er müsste identisch sein mit dem [[Heiligtum der Bergfey]]\n- "
+}

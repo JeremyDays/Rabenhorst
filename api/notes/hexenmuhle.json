@@ -1,0 +1,133 @@
+{
+  "title": "Hexenmühle",
+  "slug": "hexenmuhle",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Hexenmühle.md",
+  "url": "notes/hexenmuhle.html",
+  "apiUrl": "api/notes/hexenmuhle.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Eine alte Bohnenmühle. Zwischen Tser Teich und Vallaki. Zerstört Auf dem Weg nach Vallaki soll es eine Windmühle geben. Die sollen wir laut den Blauen VistaniBlaue Vistani meiden. ",
+  "frontmatter": {
+    "aliases": [
+      "Windmühle"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Morganta",
+      "label": "Morganta",
+      "slug": "morganta"
+    },
+    {
+      "target": "Bella",
+      "label": "Bella",
+      "slug": "bella"
+    },
+    {
+      "target": "Offilia",
+      "label": "Offilia",
+      "slug": "offilia"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Heiligtum der Waldfey",
+      "label": "Heiligtum der Waldfey",
+      "slug": "heiligtum-der-waldfey"
+    },
+    {
+      "target": "Bella",
+      "label": "Bella Sonnenfluch",
+      "slug": "bella"
+    },
+    {
+      "target": "Offilia",
+      "label": "Offilia Wurmschwanz",
+      "slug": "offilia"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexen",
+      "slug": "hexen"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Träume",
+      "label": "Träume",
+      "slug": "traume"
+    },
+    {
+      "target": "Königin der Nachthexen",
+      "label": "Königin der Nachthexen",
+      "slug": "konigin-der-nachthexen"
+    },
+    {
+      "target": "Heiligtum der Waldfey",
+      "label": "verdorbenem Tempel",
+      "slug": "heiligtum-der-waldfey"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Ordens des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Tempel mit verbotenen Lehren",
+      "label": "Tempel mit verbotenen Lehren",
+      "slug": "tempel-mit-verbotenen-lehren"
+    },
+    {
+      "target": "Tsolenka-Pass",
+      "label": "Tsolenka-Pass",
+      "slug": "tsolenka-pass"
+    }
+  ],
+  "markdown": "Eine alte Bohnenmühle.\nZwischen [[Tser-Teich]] und [[Vallaki]].\n\n**Zerstört**\n\n- Auf dem Weg nach [[Vallaki]] soll es eine Windmühle geben. \n- Die sollen wir laut den [[Blaue Vistani|Blauen Vistani]] meiden. \n- Dort lebt [[Morganta]] mit ihren Töchtern ([[Bella]] und [[Offilia]]). ===Lebten===\n- Die Windmühle ist auf dem Weg von [[Barovia (Dorf)]] nach [[Vallaki]].\n- Bei den alten Steinen, dem Steinkreis ([[Heiligtum der Waldfey]]).\n- Bei den Schwestern sollte man keine Pasteten essen. Es sind die Pasteten von [[Morganta]] aus [[Barovia (Dorf)]]. Sie sind magisch.\n\n- Der Raum ist von einem Herd beherrscht, eine große Arbeitsplatte, Teigrollen, gr. Sack Mehl, Gewürze, Äpfel, Zimt, Nelken, grüner Regenschirm und verrostetes Langschwert. Strohsäcke.\n\n**Beschreibung:**\n>Während du der kurvenreichen Straße folgst, verdunkelt sich der Himmel, und ein kalter Wind heult durch die gewundenen Bäume. Vor Ihnen taucht aus dem Nebel eine verfallene Windmühle auf, die einsam auf einem Hügel steht. Ihre hölzernen Flügel knarren bedrohlich, wenn sie sich langsam im Wind drehen, eine eindringliche Erinnerung an den einstigen Ruhm des Bauwerks. Die Steinmauern sind rissig und verwittert, und die mit Schmutz bedeckten Fenster geben keinen Blick auf das Innere frei. Je näher Sie kommen, desto unbehaglicher wird Ihnen zumute, und der Geruch von Verfall und Schimmel liegt in der Luft. Der alte Knochenmahler steht wie ein stummer Wächter, dessen dunkle Geschichte hinter den bröckelnden Mauern verborgen ist. Dein Instinkt warnt dich vor den Gefahren, die im Inneren lauern könnten, aber der einzige Weg, seine Geheimnisse zu lüften, ist, hineinzugehen.  \n>  \n>Einst eine Getreidemühle, die [[Vallaki]] versorgte, beherbergt diese klapprige Windmühle heute drei Nachthexen: [[Morganta]] (Hexengestalt) und ihre erbärmlichen Töchter, [[Bella|Bella Sonnenfluch]] (Hexengestalt) und [[Offilia|Offilia Wurmschwanz]] (Hexengestalt) . Die [[Hexen]] sind in [[Barovia (Dorf)]] gefangen, aber es gefällt ihnen hier. Mit ihrer [[Magie]], bei der sie sich in barovianische Frauen verwandeln - eine mürrische Mutter und ihre beiden unscheinbaren Töchter -, schnappen sich die [[Hexen]] Kinder, verschlingen sie und benutzen den Mahlstein der Windmühle, um ihre kleinen Knochen zu Pulver zu zermalmen. Dieses Pulver ist eine **wichtige Zutat** für das Traumgebäck der [[Hexen]], das sie den erwachsenen Barovianern anbieten, die verzweifelt versuchen, [[Graf Strahd]]s Reich zu entkommen.\n>  \n>Das aus den Knochen Unschuldiger hergestellte Traumgebäck der [[Hexen]] versetzt die Barovianer in eine Trance, in der sie an himmlische Orte voller Freude entkommen können. Wenn die Erwachsenen sich das Traumgebäck der [[Hexen]] nicht mehr leisten können, bieten die [[Hexen]] an, ihr Gebäck gegen die Kinder der Barovianer einzutauschen, und nutzen so den Egoismus der Erwachsenen aus, während sie sich die Zutaten beschaffen, die sie für die Herstellung von mehr Gebäck benötigen. Auf diese Weise säen die [[Hexen]] Verderbnis in [[Graf Strahd]]s Reich und nehmen sich die Kinder nicht mit Gewalt. Die [[Hexen]] sind nur an Kindern interessiert, die eine Seele haben. Sie stechen jedes Kind mit einer Nadel an; wenn das Kind weint, ist das ein Zeichen dafür, dass der Säugling eine Seele hat.\n>\n**\"_[[Träume]] sind für die Lebenden._\"**  \n>  \n>Außerdem werden die Kinder als Opfergaben für die \"[[Königin der Nachthexen]]\" genutzt.\n>Sie ist in einem [[Heiligtum der Waldfey|verdorbenem Tempel]], der mit vier altertümlichen Steinen in der Nähe der Windmühle unter einem Gebetsstein verborgen ist.\n\n\n**Informationen und Gerüchte:**\n- [[Graf Strahd]] beherrscht das Land und das Wetter, und zu seinen Spionen gehören die [[Vistani]].\n- Es gibt ein [[Vistani]]-Lager im Westen, an den Ufern des [[Tser-Teich]]s , und ein weiteres am Rande von [[Vallaki]]\n- Strahd hat untote Feinde in [[Barovia]], nämlich die gefallenen [[Ritter des Silbernen Drachen|Ritter des Ordens des Silbernen Drachen]]. Diese Wiedergänger findet man in einem verfallenen Herrenhaus westlich von [[Vallaki]] ([[Argynvostholt]]).\n- [[Graf Strahd]]s bestgehütetes Geheimnis ist ein in den Bergen versteckter [[Tempel mit verbotenen Lehren]]. Der Tempel kann über den langen und kurvenreichen [[Tsolenka-Pass]] erreicht werden"
+}

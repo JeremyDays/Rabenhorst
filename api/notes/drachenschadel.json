@@ -1,0 +1,30 @@
+{
+  "title": "Drachenschädel",
+  "slug": "drachenschadel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Drachenschädel.md",
+  "url": "notes/drachenschadel.html",
+  "apiUrl": "api/notes/drachenschadel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Der Schädel des Silberdrachen Graf Argynvost. Dieser ist nun in Schloss Rabenhorst.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    }
+  ],
+  "markdown": "\nDer Schädel des Silberdrachen [[Graf Argynvost]].\nDieser ist nun in [[Schloss Rabenhorst]].\n\n"
+}

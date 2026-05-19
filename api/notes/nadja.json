@@ -1,0 +1,35 @@
+{
+  "title": "Nadja",
+  "slug": "nadja",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Nadja.md",
+  "url": "notes/nadja.html",
+  "apiUrl": "api/notes/nadja.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Udo",
+      "label": "Udo",
+      "slug": "udo"
+    },
+    {
+      "target": "Iljan",
+      "label": "Iljan",
+      "slug": "iljan"
+    }
+  ],
+  "markdown": "\n- Dienerin von [[Baron Vargas Vallakovich]]\n- Verlobte von [[Udo]]\n- Tochter von [[Iljan]]"
+}

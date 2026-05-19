@@ -1,0 +1,19 @@
+{
+  "title": "Malduks Geldbeutel",
+  "slug": "malduks-geldbeutel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Geld/Malduks Geldbeutel.md",
+  "url": "notes/malduks-geldbeutel.html",
+  "apiUrl": "api/notes/malduks-geldbeutel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Inhalt: 515 Pf.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Inhalt:** 515 Pf.\n\n"
+}
