@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "ZauberinZauberer Wo getroffen: Weiler Alte Frau des Weilers Hat ein sehr altes Buch Ist sie der Weiße HirschWeißer Hirsch? KI Zusammenfassung Grusha ist ein NSC. Die Notiz ordnet G",
+  "excerpt": "ZauberinZauberer Wo getroffen: Weiler Alte Frau des Weilers Hat ein sehr altes Buch Ist sie der Weiße HirschWeißer Hirsch? KI Zusammenfassung Beruf / Rolle Vermutlich gehört Grusha",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -29,7 +29,12 @@
       "target": "Weißer Hirsch",
       "label": "Weiße Hirsch",
       "slug": "wei-er-hirsch"
+    },
+    {
+      "target": "Grusha",
+      "label": "Grusha",
+      "slug": "grusha"
     }
   ],
-  "markdown": "[[Zauberer|Zauberin]]\n\n**Wo getroffen:** [[Weiler]]\n\n- Alte Frau des Weilers\n- Hat ein sehr altes Buch\n- Ist sie der [[Weißer Hirsch|Weiße Hirsch]]?\n\n## KI-Zusammenfassung\n\nGrusha ist ein NSC. Die Notiz ordnet Grusha dem Bereich [[Weiler]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nWeiler.\n\n### Beziehungen und Verbindungen\n\nWo getroffen: Weiler. Ist sie der Weiße Hirsch?. Magieanwender: Grusha. Zauberer: Grusha. Iliana: Lebt in einer WG mit Grusha zusammen.\n\n### Historie / Was wir wissen\n\nAlte Frau des Weilers. Hat ein sehr altes Buch. Ist sie der Weiße Hirsch?.\n"
+  "markdown": "[[Zauberer|Zauberin]]\n\n**Wo getroffen:** [[Weiler]]\n\n- Alte Frau des Weilers\n- Hat ein sehr altes Buch\n- Ist sie der [[Weißer Hirsch|Weiße Hirsch]]?\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Grusha zur Rolle oder Machtstruktur von Weiler; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Zauberer|Zauberin]] | Verbindung\n- [[Weiler|Weiler]] | Wo getroffen\n- [[Weißer Hirsch|Weiße Hirsch]] | Ist sie der ?\n- [[Grusha|Grusha]] | Magieanwender\n- [[Grusha|Grusha]] | Zauberer\n- [[Grusha|Grusha]] | Iliana: Lebt in einer WG mit  zusammen\n\n### Historie\n\n- Alte Frau des Weilers\n- Hat ein sehr altes Buch\n- Ist sie der Weiße Hirsch?\n"
 }

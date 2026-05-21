@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Tot Familie Strazni Schwester von Izek Strazni. Sie ist im Svalich Wald verloren gegangen KI Zusammenfassung Elena Strazni ist ein NSC. Die Notiz ordnet Elena Strazni dem Bereich V",
+  "excerpt": "Tot Familie Strazni Schwester von Izek Strazni. Sie ist im Svalich Wald verloren gegangen KI Zusammenfassung Beruf / Rolle Vermutlich gehört Elena Strazni zur Rolle oder Machtstruk",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -29,17 +29,7 @@
       "target": "Svalich-Wald",
       "label": "Svalich-Wald",
       "slug": "svalich-wald"
-    },
-    {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Burgomeister",
-      "label": "Burgomeister",
-      "slug": null
     }
   ],
-  "markdown": "Tot\n\n[[Familie Strazni]]\nSchwester von [[Izek Strazni]].\nSie ist im [[Svalich-Wald]] verloren gegangen\n\n## KI-Zusammenfassung\n\nElena Strazni ist ein NSC. Die Notiz ordnet Elena Strazni dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nFamilie Strazni. Schwester von Izek Strazni. Sie ist im Svalich-Wald verloren gegangen. Izek Strazni: Sohn einer Schafsbauernfamilie 2h von Vallaki entfernt. Er hatte eine Schwester Elena Strazni, die jedoch im Wald verloren blieb. S50 - St. Andrals Kirche: - Izeks Schwester Elena Strazni. Nicht wieder gesehen.\n\n### Historie / Was wir wissen\n\nSchwester von Izek Strazni. Sie ist im Svalich-Wald verloren gegangen.\n"
+  "markdown": "Tot\n\n[[Familie Strazni]]\nSchwester von [[Izek Strazni]].\nSie ist im [[Svalich-Wald]] verloren gegangen\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Elena Strazni zur Rolle oder Machtstruktur von Burgomeister; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Familie Strazni|Familie Strazni]] | Verbindung\n- [[Izek Strazni|Izek Strazni]] | Schwester von\n- [[Svalich-Wald|Svalich-Wald]] | Sie ist im  verloren gegangen\n- Izek Strazni: Sohn einer Schafsbauernfamilie 2h von Vallaki entfernt. Er hatte eine Schwester Elena Strazni, die jedoch im Wald verloren blieb\n- S50 - St. Andrals Kirche: - Izeks Schwester Elena Strazni. Nicht wieder gesehen\n\n### Historie\n\n- Schwester von Izek Strazni\n- Sie ist im Svalich-Wald verloren gegangen\n"
 }

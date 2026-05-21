@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Diener von Baron Vargas Vallakovich Vater von Nadja KI Zusammenfassung Iljan ist ein NSC. Die Notiz ordnet Iljan dem Bereich Vallaki / Burgomeister zu. Beruf / Rolle Diener von Bar",
+  "excerpt": "Diener von Baron Vargas Vallakovich Vater von Nadja KI Zusammenfassung Beruf / Rolle Diener von Baron Vargas Vallakovich. Beschreibung Keine gesicherte textliche Beschreibung in de",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,15 +26,10 @@
       "slug": "nadja"
     },
     {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Burgomeister",
-      "label": "Burgomeister",
-      "slug": null
+      "target": "Iljan",
+      "label": "Iljan",
+      "slug": "iljan"
     }
   ],
-  "markdown": "- Diener von [[Baron Vargas Vallakovich]]\n- Vater von [[Nadja]]\n\n## KI-Zusammenfassung\n\nIljan ist ein NSC. Die Notiz ordnet Iljan dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nDiener von Baron Vargas Vallakovich.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nDiener von Baron Vargas Vallakovich. Vater von Nadja. Nadja: Tochter von Iljan. S67 - Victor, Nadja und Iljan: Nadja und Iljan. Sehen gesättigt aus und dankbar.\n\n### Historie / Was wir wissen\n\nDiener von Baron Vargas Vallakovich. Vater von Nadja.\n"
+  "markdown": "- Diener von [[Baron Vargas Vallakovich]]\n- Vater von [[Nadja]]\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nDiener von Baron Vargas Vallakovich.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Baron Vargas Vallakovich|Baron Vargas Vallakovich]] | Diener von\n- [[Nadja|Nadja]] | Vater von\n- [[Iljan|Iljan]] | Tochter von\n- S67 - Victor, Nadja und Iljan: Nadja und Iljan. Sehen gesättigt aus und dankbar\n\n### Historie\n\n- Diener von Baron Vargas Vallakovich\n- Vater von Nadja\n"
 }

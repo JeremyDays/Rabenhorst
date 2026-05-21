@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 15 Jahre KI Zusammenfassung Juri ist ein NSC. Die Notiz ordnet Juri dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder zu. Beruf ",
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 15 Jahre KI Zusammenfassung Beruf / Rolle Waisenkind aus dem St. Andrals Waisenhaus. Beschreibung Keine gesicherte textliche Beschreibung ",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,17 +19,7 @@
       "target": "St. Andrals Waisenhaus",
       "label": "St. Andrals Waisenhaus",
       "slug": "st-andrals-waisenhaus"
-    },
-    {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Waisenkinder",
-      "label": "Waisenkinder",
-      "slug": null
     }
   ],
-  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Juri.png]]\n\n15 Jahre\n\n## KI-Zusammenfassung\n\nJuri ist ein NSC. Die Notiz ordnet Juri dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beziehungen und Verbindungen\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Historie / Was wir wissen\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n"
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Juri.png]]\n\n15 Jahre\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[St. Andrals Waisenhaus|St. Andrals Waisenhaus]] | Waisenkind aus dem\n\n### Historie\n\n- Waisenkind aus dem St. Andrals Waisenhaus\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Kind, das abgehauen ist. KI Zusammenfassung Hans ist ein NSC. Die Notiz ordnet Hans dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenk",
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Kind, das abgehauen ist. KI Zusammenfassung Beruf / Rolle Waisenkind aus dem St. Andrals Waisenhaus. Kind, das abgehauen ist. Beschreibung",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,17 +19,7 @@
       "target": "St. Andrals Waisenhaus",
       "label": "St. Andrals Waisenhaus",
       "slug": "st-andrals-waisenhaus"
-    },
-    {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Waisenkinder",
-      "label": "Waisenkinder",
-      "slug": null
     }
   ],
-  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n- Kind, das abgehauen ist.\n\n## KI-Zusammenfassung\n\nHans ist ein NSC. Die Notiz ordnet Hans dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus. Kind, das abgehauen ist.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beziehungen und Verbindungen\n\nWaisenkind aus dem St. Andrals Waisenhaus. Quest: Laslo, Hans und Franz finden, die aus dem St. Andrals Waisenhaus geflohen sind. St. Andrals Waisenhaus: Seit Felix' Ankunft ist das Waisenhaus von einem Hauch von Angst umhüllt. Drei Jungen - Laslo, Hans und Franz - sind vor kurzem aus Angst vor der Direktorin aus dem Waisenhaus geflohen. Milivoj ist ernsthaft erkrankt. Der Dämon wird bald Milivojs Seele einfordern und wahrhaftig frei sein, wenn nichts dagegen unternommen wird. St. Andrals Waisenhaus: Quest: Laslo, Hans und Franz finden, die aus dem St. Andrals Waisenhaus geflohen sind.\n\n### Historie / Was wir wissen\n\nWaisenkind aus dem St. Andrals Waisenhaus. Kind, das abgehauen ist.\n"
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n- Kind, das abgehauen ist.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus. Kind, das abgehauen ist.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[St. Andrals Waisenhaus|St. Andrals Waisenhaus]] | Waisenkind aus dem\n- Quest: Laslo, Hans und Franz finden, die aus dem St. Andrals Waisenhaus geflohen sind\n- St. Andrals Waisenhaus: Seit Felix' Ankunft ist das Waisenhaus von einem Hauch von Angst umhüllt. Drei Jungen - Laslo, Hans und Franz - sind vor kurzem aus Angst vor der Direktorin aus dem Waisenhaus geflohen. Milivoj ist ernsthaft erkrankt. Der Dämon wird bald Milivojs Seele einfordern und wahrhaftig frei sein, wenn nichts dagegen unternommen wird\n- St. Andrals Waisenhaus: Quest: Laslo, Hans und Franz finden, die aus dem St. Andrals Waisenhaus geflohen sind\n\n### Historie\n\n- Waisenkind aus dem St. Andrals Waisenhaus\n- Kind, das abgehauen ist\n"
 }
