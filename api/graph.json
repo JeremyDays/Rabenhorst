@@ -12932,28 +12932,53 @@
     },
     {
       "source": "hirsch-medaillon",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "vallaki",
+      "label": "Vallaki"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "die-geschichte-der-drei-gefahrten",
-      "label": "Die Geschichte der Drei Gefährten"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "was-bisher-geschah",
-      "label": "Was bisher geschah..."
+      "target": "vasili-von-holtz",
+      "label": "Vasili von Holtz"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "s42-ankunft-in-vallaki",
-      "label": "S42 - Ankunft in Vallaki"
+      "target": "fest-der-brennenden-sonne",
+      "label": "Fest der Brennenden Sonne"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "s74-das-fest-der-brennenden-sonne",
-      "label": "S74 - Das Fest der Brennenden Sonne"
+      "target": "baron-vargas-vallakovich",
+      "label": "Baron Vargas Vallakovich"
+    },
+    {
+      "source": "hirsch-medaillon",
+      "target": "weiler",
+      "label": "Weiler"
+    },
+    {
+      "source": "hirsch-medaillon",
+      "target": "platz-des-wei-en-hirschs",
+      "label": "Platz des Weißen Hirschs"
+    },
+    {
+      "source": "hirsch-medaillon",
+      "target": "heinard",
+      "label": "Heinard"
+    },
+    {
+      "source": "hirsch-medaillon",
+      "target": "dunkelheit",
+      "label": "Dunkelheit"
+    },
+    {
+      "source": "hirsch-medaillon",
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "ring-der-geistabschirmung",

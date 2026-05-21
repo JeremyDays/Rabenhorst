@@ -15786,37 +15786,57 @@
         "slug": "vampire"
       },
       {
-        "target": "Vampir",
-        "label": "Vampir",
-        "slug": null
+        "target": "Vallaki",
+        "label": "Vallaki",
+        "slug": "vallaki"
       },
       {
-        "target": "Alle Gegenstände",
-        "label": "Alle Gegenstände",
-        "slug": "alle-gegenstande"
+        "target": "Malduk",
+        "label": "Malduk",
+        "slug": "malduk"
       },
       {
-        "target": "Die Geschichte der Drei Gefährten",
-        "label": "Die Geschichte der Drei Gefährten",
-        "slug": "die-geschichte-der-drei-gefahrten"
+        "target": "Vasili von Holtz",
+        "label": "Vasili von Holtz",
+        "slug": "vasili-von-holtz"
       },
       {
-        "target": "Was bisher geschah...",
-        "label": "Was bisher geschah...",
-        "slug": "was-bisher-geschah"
+        "target": "Fest der Brennenden Sonne",
+        "label": "Fest der Brennenden Sonne",
+        "slug": "fest-der-brennenden-sonne"
       },
       {
-        "target": "S42 - Ankunft in Vallaki",
-        "label": "S42 - Ankunft in Vallaki",
-        "slug": "s42-ankunft-in-vallaki"
+        "target": "Baron Vargas Vallakovich",
+        "label": "Baron Vargas Vallakovich",
+        "slug": "baron-vargas-vallakovich"
       },
       {
-        "target": "S74 - Das Fest der Brennenden Sonne",
-        "label": "S74 - Das Fest der Brennenden Sonne",
-        "slug": "s74-das-fest-der-brennenden-sonne"
+        "target": "Weiler",
+        "label": "Weiler",
+        "slug": "weiler"
+      },
+      {
+        "target": "Platz des Weißen Hirschs",
+        "label": "Platz des Weißen Hirschs",
+        "slug": "platz-des-wei-en-hirschs"
+      },
+      {
+        "target": "Heinard",
+        "label": "Heinard",
+        "slug": "heinard"
+      },
+      {
+        "target": "Dunkelheit",
+        "label": "Dunkelheit",
+        "slug": "dunkelheit"
+      },
+      {
+        "target": "Michal",
+        "label": "Michal",
+        "slug": "michal"
       }
     ],
-    "markdown": "Band der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n>***Malduk:** Es nimmt [[Grusha]]s Blut aus der Distanz auf und stoppt [[Ireena]]s Hunger, verhindert, dass sie zu einem [[Vampire|Vampir]] wird.*\n\n## KI-Zusammenfassung\n\nHirsch-Medaillon ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Band der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen. Malduk: Es nimmt Grushas Blut aus der Distanz auf und stoppt Ireenas Hunger, verhindert, dass sie zu einem Vampir wird. Direkte Bezüge bestehen zu [[Grusha]], [[Ireena]], [[Vampir]]. Hirsch-Medaillon wird außerdem in [[Alle Gegenstände]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]], [[S42 - Ankunft in Vallaki]], [[S74 - Das Fest der Brennenden Sonne]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+    "markdown": "Band der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n>***Malduk:** Es nimmt [[Grusha]]s Blut aus der Distanz auf und stoppt [[Ireena]]s Hunger, verhindert, dass sie zu einem [[Vampire|Vampir]] wird.*\n\n## KI-Zusammenfassung\n\n### Wo ist der Gegenstand?\n\nDas Hirsch-Medaillon gehört zur Ausrüstung der Gruppe und wird von [[Ireena]] getragen. Es ist für sie kein Schmuckstück, sondern ein Schutzgegenstand gegen ihren vampirischen Hunger. Als Ireena es später nicht bei sich trägt, fällt das sofort auf: Beim Schneider in [[Vallaki]] bemerkt [[Malduk]], dass das Medaillon fehlt, während Ireena blasser wirkt, dunklere Augen hat und wieder Zeichen von Hunger zeigt. [[Vasili von Holtz]] bringt es anschließend zurück und behauptet, er habe es draußen gefunden; am Medaillon ist Ruß, und auch Vasilis Handschuhe zeigen Rußspuren. Beim [[Fest der Brennenden Sonne]] fehlt Ireena das Medaillon erneut, als [[Baron Vargas Vallakovich]] sie auf dem Podest in seiner Gewalt hat. Ohne den Schutz wird sie bleich, zitternd und sichtbar gefährlicher; Malduk hält sie in Nebelgestalt, weil er sie ohne das Medaillon nicht gefahrlos freilassen kann.\n\n### Beschreibung\n\nDas Medaillon hängt an einem weißen, geflochtenen Lederband. Der Anhänger ist aus Gebein geschnitzt und zeigt einen sehr detaillierten Hirsch im Sprung mit hellblauen Augen. Bei der Übergabe an Ireena saugt das Medaillon einen roten Blutstropfen auf. Malduk erkennt später, dass der Gegenstand aus der Distanz [[Grusha]]s Blut aufnimmt und dadurch Ireenas Hunger stillt. Seine wichtigste bekannte Wirkung ist, Ireenas vampirischen Hunger zu stoppen und zu verhindern, dass sie zu einem [[Vampire|Vampir]] wird.\n\n### Historie\n\nDie Geschichte des Hirsch-Medaillons beginnt im [[Weiler]], nachdem [[Grusha]] erkannt hat, dass Ireena leidet. Grusha holt ihr großes Buch hervor und erklärt, dass ein Ritual nötig ist, um Ireenas Zustand aufzuhalten. Dieses Ritual muss außerhalb des Weilers stattfinden, am [[Platz des Weißen Hirschs]], und es ist gefährlich: Grusha braucht Malduks magische Unterstützung, [[Heinard]] muss die [[Dunkelheit]] ablenken, und [[Michal]] muss den Angreifern entgegentreten. Eine Störung des Rituals würde Grusha töten. Der erste Versuch scheitert, der zweite gelingt unter Angriffen und großer Gefahr. Danach ist die heilige Kraft des Weilers geschwächt, aber Ireena erhält das Hirsch-Medaillon. Als der Blutstropfen vom Medaillon aufgesaugt wird, sagt Ireena, der Hunger sei weg. Malduk sieht dabei eine Vision von Grusha: Sie trägt kurz die silberne Silhouette eines Hirschen, hat einen tiefen Schnitt am Hals, und Tropfen ihres Blutes fließen langsam heraus, um Ireenas Hunger zu stillen. Später in Vallaki zeigt sich, wie abhängig Ireenas Stabilität von diesem Gegenstand ist: Wenn das Medaillon fehlt, kehrt der Hunger zurück; beim Fest der Brennenden Sonne wird daraus eine unmittelbare Gefahr für Malduk und die Umstehenden.\n"
   },
   {
     "title": "Ring der Geistabschirmung",
