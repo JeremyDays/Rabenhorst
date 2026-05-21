@@ -6,7 +6,8 @@ async function bootSearch() {
   const notes = await fetch("api/index.json").then((response) => response.json()).catch(() => []);
   const haystack = notes.map((note) => ({
     ...note,
-    text: [note.title, note.category, note.excerpt, note.tags.join(" "), note.relativePath].join(" ").toLowerCase()
+    aliases: normalizeAliases(note.frontmatter?.aliases || note.frontmatter?.alias || []),
+    text: [note.title, ...normalizeAliases(note.frontmatter?.aliases || note.frontmatter?.alias || [])].join(" ").toLowerCase()
   }));
 
   input.addEventListener("input", () => {
@@ -16,9 +17,14 @@ async function bootSearch() {
 
     const matches = haystack.filter((note) => note.text.includes(query)).slice(0, 10);
     results.innerHTML = matches.length
-      ? matches.map((note) => '<a href="' + note.url + '"><strong>' + escapeHtml(note.title) + '</strong><span>' + escapeHtml(note.excerpt || note.category) + '</span></a>').join("")
+      ? matches.map((note) => '<a href="' + note.url + '"><strong>' + escapeHtml(note.title) + '</strong>' + (note.aliases.length ? '<span>' + escapeHtml(note.aliases.join(", ")) + '</span>' : '') + '</a>').join("")
       : '<p class="muted">Keine Treffer.</p>';
   });
+}
+
+function normalizeAliases(value) {
+  const aliases = Array.isArray(value) ? value : [value];
+  return aliases.map((item) => String(item || "").trim()).filter(Boolean);
 }
 
 function bootImageLightbox() {
