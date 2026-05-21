@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Mitglied der Roten VistaniRote Vistani Anführer der Roten VistaniRote Vistani. KI Zusammenfassung Arigall ist ein NSC. Die Notiz ordnet Arigall dem Bereich Lager der Roten Vistani ",
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Anführer der Roten VistaniRote Vistani. KI Zusammenfassung Beruf / Rolle Anführer der Roten Vistani. Beschreibung Keine gesicherte textliche ",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,12 +19,7 @@
       "target": "Rote Vistani",
       "label": "Roten Vistani",
       "slug": "rote-vistani"
-    },
-    {
-      "target": "Lager der Roten Vistani",
-      "label": "Lager der Roten Vistani",
-      "slug": "lager-der-roten-vistani"
     }
   ],
-  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\nAnführer der [[Rote Vistani|Roten Vistani]].\n\n## KI-Zusammenfassung\n\nArigall ist ein NSC. Die Notiz ordnet Arigall dem Bereich [[Lager der Roten Vistani]] zu.\n\n### Beruf / Rolle\n\nAnführer der Roten Vistani.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Lager der Roten Vistani]] zu.\n\n### Beziehungen und Verbindungen\n\nMitglied der Roten Vistani. Anführer der Roten Vistani. S19 - Die Blauen Vistani: Die Roten Vistani werden auch die Vallaki-Vistani genannt. Sie leben bei Vallaki und sind eher Diener Graf Strahds. Ihr Anführer heißt Arigall und ihr Lager ist bei Vallaki.\n\n### Historie / Was wir wissen\n\nMitglied der Roten Vistani. Anführer der Roten Vistani.\n"
+  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\nAnführer der [[Rote Vistani|Roten Vistani]].\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nAnführer der Roten Vistani.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Rote Vistani|Roten Vistani]] | Mitglied der\n- [[Rote Vistani|Roten Vistani]] | Anführer der\n- S19 - Die Blauen Vistani: Die Roten Vistani werden auch die Vallaki-Vistani genannt. Sie leben bei Vallaki und sind eher Diener Graf Strahds. Ihr Anführer heißt Arigall und ihr Lager ist bei Vallaki\n\n### Historie\n\n- Mitglied der Roten Vistani\n- Anführer der Roten Vistani\n"
 }

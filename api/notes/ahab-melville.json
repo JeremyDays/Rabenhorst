@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Fischer mit Holzbein Wo getroffen: Tser Fälle Er hat den Riesen Wels gefangen. KI Zusammenfassung Ahab Melville ist ein NSC. Beruf / Rolle Fischer mit Holzbein. Wohnort / Aufenthal",
+  "excerpt": "Fischer mit Holzbein Wo getroffen: Tser Fälle Er hat den Riesen Wels gefangen. KI Zusammenfassung Beruf / Rolle Fischer mit Holzbein. Beschreibung Keine gesicherte textliche Beschr",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,7 +19,12 @@
       "target": "Tser-Fälle",
       "label": "Tser-Fälle",
       "slug": "tser-falle"
+    },
+    {
+      "target": "Ahab Melville",
+      "label": "Ahab Melville",
+      "slug": "ahab-melville"
     }
   ],
-  "markdown": "Fischer mit Holzbein\n\n**Wo getroffen:** [[Tser-Fälle]]\n \n- Er hat den Riesen-Wels gefangen.\n\n## KI-Zusammenfassung\n\nAhab Melville ist ein NSC.\n\n### Beruf / Rolle\n\nFischer mit Holzbein.\n\n### Wohnort / Aufenthalt\n\nTser-Fälle.\n\n### Beziehungen und Verbindungen\n\nWo getroffen: Tser-Fälle. Tser-Fälle: Dort haben wir Ahab Melville, den Fischer getroffen. S21 - Tser-Fälle: Ein Fischer mit Holzbein: Ahab Melville.\n\n### Historie / Was wir wissen\n\nFischer mit Holzbein. Er hat den Riesen-Wels gefangen.\n"
+  "markdown": "Fischer mit Holzbein\n\n**Wo getroffen:** [[Tser-Fälle]]\n \n- Er hat den Riesen-Wels gefangen.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nFischer mit Holzbein.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Tser-Fälle|Tser-Fälle]] | Wo getroffen\n- [[Ahab Melville|Ahab Melville]] | Tser-Fälle: Dort haben wir , den Fischer getroffen\n- [[Ahab Melville|Ahab Melville]] | S21 - Tser-Fälle: Ein Fischer mit Holzbein\n\n### Historie\n\n- Fischer mit Holzbein\n- Er hat den Riesen-Wels gefangen\n"
 }

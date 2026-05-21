@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Hat für Graf Strahd die Gruft für seine Eltern errichtet. KI Zusammenfassung Artimus ist ein NSC. Die Notiz ordnet Artimus dem Bereich Schloss Rabenhorst zu. Beruf / Rolle Nicht au",
+  "excerpt": "Hat für Graf Strahd die Gruft für seine Eltern errichtet. KI Zusammenfassung Beruf / Rolle Vermutlich gehört Artimus zur Rolle oder Machtstruktur von Schloss Rabenhorst; das ist au",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,12 +19,7 @@
       "target": "Graf Strahd",
       "label": "Graf Strahd",
       "slug": "graf-strahd"
-    },
-    {
-      "target": "Schloss Rabenhorst",
-      "label": "Schloss Rabenhorst",
-      "slug": "schloss-rabenhorst"
     }
   ],
-  "markdown": "Hat für [[Graf Strahd]] die Gruft für seine Eltern errichtet.\n\n## KI-Zusammenfassung\n\nArtimus ist ein NSC. Die Notiz ordnet Artimus dem Bereich [[Schloss Rabenhorst]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Schloss Rabenhorst]] zu.\n\n### Beziehungen und Verbindungen\n\nHat für Graf Strahd die Gruft für seine Eltern errichtet. Graf Strahd: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt. König Barov: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt. Königin Ravenovia: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt.\n\n### Historie / Was wir wissen\n\nHat für Graf Strahd die Gruft für seine Eltern errichtet.\n"
+  "markdown": "Hat für [[Graf Strahd]] die Gruft für seine Eltern errichtet.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Artimus zur Rolle oder Machtstruktur von Schloss Rabenhorst; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Graf Strahd|Graf Strahd]] | Hat für  die Gruft für seine Eltern errichtet\n- Graf Strahd: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt\n- König Barov: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt\n- Königin Ravenovia: Nach dem Tod von König Barov und Königin Ravenovia ließ Graf Strahd von Artimus eine besondere Gruft errichten, die das Tal von Barovia überblickt\n\n### Historie\n\n- Hat für Graf Strahd die Gruft für seine Eltern errichtet\n"
 }

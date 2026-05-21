@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Sohn der Familie Alkir. Echter Name: Dornboldt Alkir Tot. Beziehungen: Sohn von Gustav Alkir und Elisabeth Alkir. Bruder von Rose und Walter KI Zusammenfassung Dorn, auch Dorn Alki",
+  "excerpt": "Sohn der Familie Alkir. Echter Name: Dornboldt Alkir Tot. Beziehungen: Sohn von Gustav Alkir und Elisabeth Alkir. Bruder von Rose und Walter KI Zusammenfassung Beruf / Rolle Vermut",
   "frontmatter": {
     "aliases": [
       "Dorn Alkir",
@@ -45,10 +45,10 @@
       "slug": "walter"
     },
     {
-      "target": "Haus Alkir",
-      "label": "Haus Alkir",
-      "slug": "haus-alkir"
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
     }
   ],
-  "markdown": "Sohn der [[Familie Alkir]].\n**Echter Name:** Dornboldt Alkir\n\n![[Dorn.png]]\n\nTot.\n\n**Beziehungen:**\n- Sohn von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Bruder von [[Rose]] und [[Walter]]\n\n## KI-Zusammenfassung\n\nDorn, auch Dorn Alkir, Dornboldt Alkir genannt, ist ein NSC. Die Notiz ordnet Dorn dem Bereich [[Haus Alkir]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Haus Alkir]] zu.\n\n### Beziehungen und Verbindungen\n\nSohn von Gustav Alkir und Elisabeth Alkir. Bruder von Rose und Walter. Sohn der Familie Alkir. Elisabeth Alkir: Mutter von Rose, Dorn und Walter. Gustav Alkir: Vater von Rose, Dorn und Walter. Gustav Alkir: Laut Dorn und den Zinn-Soldaten war er ein großer Krieger (Feldherr) in den Schlachten von Graf Strahd gewesen.\n\n### Historie / Was wir wissen\n\nSohn der Familie Alkir. Echter Name: Dornboldt Alkir. Sohn von Gustav Alkir und Elisabeth Alkir. Bruder von Rose und Walter.\n"
+  "markdown": "Sohn der [[Familie Alkir]].\n**Echter Name:** Dornboldt Alkir\n\n![[Dorn.png]]\n\nTot.\n\n**Beziehungen:**\n- Sohn von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Bruder von [[Rose]] und [[Walter]]\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Dorn zur Rolle oder Machtstruktur von Haus Alkir; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Gustav Alkir|Gustav Alkir]] | Sohn von\n- [[Elisabeth Alkir|Elisabeth Alkir]] | Sohn von\n- [[Rose|Rose]] | Bruder von\n- [[Walter|Walter]] | Bruder von\n- [[Familie Alkir|Familie Alkir]] | Sohn der\n- [[Rose|Rose]] | Mutter von\n- [[Dorn|Dorn]] | Mutter von\n- [[Walter|Walter]] | Mutter von\n- [[Rose|Rose]] | Vater von\n- [[Dorn|Dorn]] | Vater von\n- [[Walter|Walter]] | Vater von\n- Gustav Alkir: Laut Dorn und den Zinn-Soldaten war er ein großer Krieger (Feldherr) in den Schlachten von Graf Strahd gewesen\n\n### Historie\n\n- Sohn der Familie Alkir\n- Echter Name: Dornboldt Alkir\n- Sohn von Gustav Alkir und Elisabeth Alkir\n- Bruder von Rose und Walter\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Hund von Baron Vargas Vallakovich KI Zusammenfassung Brutus ist ein NSC. Die Notiz ordnet Brutus dem Bereich Vallaki / Burgomeister zu. Beruf / Rolle Nicht ausdrücklich genannt. Wo",
+  "excerpt": "Hund von Baron Vargas Vallakovich KI Zusammenfassung Beruf / Rolle Vermutlich gehört Brutus zur Rolle oder Machtstruktur von Burgomeister; das ist aus dem Ordnerkontext erschlossen",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,17 +19,7 @@
       "target": "Baron Vargas Vallakovich",
       "label": "Baron Vargas Vallakovich",
       "slug": "baron-vargas-vallakovich"
-    },
-    {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Burgomeister",
-      "label": "Burgomeister",
-      "slug": null
     }
   ],
-  "markdown": "Hund von [[Baron Vargas Vallakovich]]\n\n## KI-Zusammenfassung\n\nBrutus ist ein NSC. Die Notiz ordnet Brutus dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nHund von Baron Vargas Vallakovich. S63 - Baron Vargas: Brutus beißt einen der Diener. Lautes Lachen. Michal lacht laut mit, Malduk und Heinard nicht. Das macht.\n\n### Historie / Was wir wissen\n\nHund von Baron Vargas Vallakovich.\n"
+  "markdown": "Hund von [[Baron Vargas Vallakovich]]\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Brutus zur Rolle oder Machtstruktur von Burgomeister; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Baron Vargas Vallakovich|Baron Vargas Vallakovich]] | Hund von\n- S63 - Baron Vargas: Brutus beißt einen der Diener. Lautes Lachen. Michal lacht laut mit, Malduk und Heinard nicht. Das macht\n\n### Historie\n\n- Hund von Baron Vargas Vallakovich\n"
 }

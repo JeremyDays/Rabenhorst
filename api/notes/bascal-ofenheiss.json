@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Hofkoch der Zarovich Er war als Chef Deluxe in ganz Barovia bekannt Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt ==Lebt er noch?== KI Zusammenfassung Bas",
+  "excerpt": "Hofkoch der Zarovich Er war als Chef Deluxe in ganz Barovia bekannt Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt ==Lebt er noch?== KI Zusammenfassung Ber",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -21,10 +21,50 @@
       "slug": "barovia"
     },
     {
+      "target": "Bascal Ofenheiss",
+      "label": "Hofkoch",
+      "slug": "bascal-ofenheiss"
+    },
+    {
+      "target": "Gräfin Sasha Ivliskova",
+      "label": "Gräfin Sasha Ivliskova",
+      "slug": "grafin-sasha-ivliskova"
+    },
+    {
       "target": "Schloss Rabenhorst",
       "label": "Schloss Rabenhorst",
       "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Königin Ravenovia",
+      "label": "Königin Ravenovia",
+      "slug": "konigin-ravenovia"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinz Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Tatyana",
+      "label": "Tatyana",
+      "slug": "tatyana"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Dorfes Barovia",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinzen Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Lord Strahd",
+      "slug": "graf-strahd"
     }
   ],
-  "markdown": "Hofkoch der Zarovich\n\n- Er war als Chef Deluxe in ganz [[Barovia]] bekannt\n\n- Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt\n\n- ==Lebt er noch?==\n\n## KI-Zusammenfassung\n\nBascal Ofenheiss ist ein NSC. Die Notiz ordnet Bascal Ofenheiss dem Bereich [[Schloss Rabenhorst]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nLebt er noch?.\n\n### Beziehungen und Verbindungen\n\nEr war als Chef Deluxe in ganz Barovia bekannt. Gräfin Sasha Ivliskova: Gräfin Sasha starb einen mysteriösen Tod: Sie wurde im Garten mit einem Korb voller Pilze gefunden. Sie ging oft für den Hofkoch auf Pilzsuche und muss wohl die falschen gepflückt haben, denn nachdem sie einen Bissen genommen hatte, starb sie an einem giftigen Pilz. Einige glaubten, dass sie viel zu weise war und dass sie vergiftet wurde. Der Hof von Rabenhorst: Graf Strahd genoss die feinen Dinge des Lebens, insbesondere eine einem König angemessene Tafel. Die besten Speisen und Weine wurden besorgt. Artank Swilovich, der Gründer und Mitglied der Barovianischen Weinbrennergilde, wurde ein Freund des Hofes und speiste oft mit Graf Strahd und anderen Adligen. Bascal Ofenheiss wurde zum Hofkoch ernannt und wurde in ganz Barovia als Chef Deluxe bekannt, der die prächtigsten Tafeln mit den feinsten Weinen Barovias deckte. Der Hof von Rabenhorst: Eine Zeit lang schien Gräfin Sasha Ivliskova glücklich zu sein und war von der Schönheit Schloss Rabenhorsts angetan. Sie verbrachte Zeit mit den Kunsthandwerkern des Hofes und gab viele königliche Bankette und Festmahle. Zu einem dieser besonderen Bankette, bei denen sie Königin Ravenovia und Prinz Sergei willkommen hieß, lud sie Tatyana ein, die schönste Frau von ganz Barovia, die aus einer kleinen Adelsfamilie stammte und Tochter des Burgomeisters des Dorfes Barovia war. Gräfin Sasha Ivliskova glaubte Tatyana wäre die ideale Wahl für den jungen Prinzen Sergei. Prinz Sergei war sofort von Tatyana angetan. Doch Tatyanas Schönheit zog die Aufmerksamkeit eines anderen auf sich. Gräfin Sasha Ivliskova starb einen mysteriösen Tod: Sie wurde im Garten mit einem Korb voller Pilze gefunden. Sie ging oft für den Hofkoch auf Pilzsuche und muss wohl die falschen gepflückt haben, denn nachdem sie einen Bissen genommen hatte, starb sie an einem giftigen Pilz. Einige glaubten, dass sie viel zu weise war und dass sie vergiftet wurde. Sie ist in Vergessenheit geraten, und Lord Strahd weigerte sich, ihren Namen auszusprechen, viele dachten, es sei aus Trauer, andere glaubten, er habe sich nach einer anderen verzehrt.\n\n### Historie / Was wir wissen\n\nHofkoch der Zarovich. Er war als Chef Deluxe in ganz Barovia bekannt. Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt. Lebt er noch?.\n"
+  "markdown": "Hofkoch der Zarovich\n\n- Er war als Chef Deluxe in ganz [[Barovia]] bekannt\n\n- Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt\n\n- ==Lebt er noch?==\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Bascal Ofenheiss zur Rolle oder Machtstruktur von Schloss Rabenhorst; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Barovia|Barovia]] | Er war als Chef Deluxe in ganz  bekannt\n- [[Bascal Ofenheiss|Hofkoch]] | Gräfin Sasha Ivliskova: Gräfin Sasha starb einen mysteriösen Tod: Sie wurde im Garten mit einem Korb voller Pilze gefunden. Sie ging oft für den  auf Pilzsuche und muss wohl die falschen gepflückt haben, denn nachdem sie einen Bissen genommen hatte, starb sie an einem giftigen Pilz. Einige glaubten, dass sie viel zu weise war und dass sie vergiftet wurde\n- Der Hof von Rabenhorst: Graf Strahd genoss die feinen Dinge des Lebens, insbesondere eine einem König angemessene Tafel. Die besten Speisen und Weine wurden besorgt. Artank Swilovich, der Gründer und Mitglied der Barovianischen Weinbrennergilde, wurde ein Freund des Hofes und speiste oft mit Graf Strahd und anderen Adligen. Bascal Ofenheiss wurde zum Hofkoch ernannt und wurde in ganz Barovia als Chef Deluxe bekannt, der die prächtigsten Tafeln mit den feinsten Weinen Barovias deckte\n- [[Gräfin Sasha Ivliskova|Gräfin Sasha Ivliskova]] | Ehefrau von\n- [[Schloss Rabenhorst|Schloss Rabenhorst]] | Ehefrau von\n- [[Königin Ravenovia|Königin Ravenovia]] | Ehefrau von\n- [[Prinz Sergei|Prinz Sergei]] | Ehefrau von\n- [[Tatyana|Tatyana]] | Ehefrau von\n- [[Barovia|Barovia]] | Ehefrau von\n- [[Barovia (Dorf)|Dorfes Barovia]] | Ehefrau von\n- [[Gräfin Sasha Ivliskova|Gräfin Sasha Ivliskova]] | Ehefrau von\n- [[Tatyana|Tatyana]] | Ehefrau von\n- [[Prinz Sergei|Prinzen Sergei]] | Ehefrau von\n- [[Prinz Sergei|Prinz Sergei]] | Ehefrau von\n- [[Tatyana|Tatyana]] | Ehefrau von\n- [[Tatyana|Tatyana]] | Ehefrau von\n- [[Gräfin Sasha Ivliskova|Gräfin Sasha Ivliskova]] | Ehefrau von\n- [[Bascal Ofenheiss|Hofkoch]] | Ehefrau von\n- [[Graf Strahd|Lord Strahd]] | Ehefrau von\n\n### Historie\n\n- Hofkoch der Zarovich\n- Er war als Chef Deluxe in ganz Barovia bekannt\n- Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt\n- Lebt er noch?\n"
 }

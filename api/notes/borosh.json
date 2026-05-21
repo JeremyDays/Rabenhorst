@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird. KI Zusammenfassung Borosh ist ein NSC. Die Notiz ordnet Borosh dem Bereich Haus Alkir / Soldaten vo",
+  "excerpt": "Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird. KI Zusammenfassung Beruf / Rolle Vermutlich gehört Borosh zur Rolle oder Machtstruktur von Soldaten",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,15 +26,10 @@
       "slug": "notizbuch-von-sergeant-zorovich"
     },
     {
-      "target": "Haus Alkir",
-      "label": "Haus Alkir",
-      "slug": "haus-alkir"
-    },
-    {
-      "target": "Soldaten von Kronstadt",
-      "label": "Soldaten von Kronstadt",
-      "slug": null
+      "target": "Borosh",
+      "label": "Borosh",
+      "slug": "borosh"
     }
   ],
-  "markdown": "Ein Soldat aus [[Kronenstadt]], der im [[Notizbuch von Sergeant Zorovich]] erwähnt wird.\n\n## KI-Zusammenfassung\n\nBorosh ist ein NSC. Die Notiz ordnet Borosh dem Bereich [[Haus Alkir]] / [[Soldaten von Kronstadt]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Haus Alkir]] / [[Soldaten von Kronstadt]] zu.\n\n### Beziehungen und Verbindungen\n\nEin Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird. Notizbuch von Sergeant Zorovich: - Er sagte zu Borosh: \"...\". S08 - Grüfte: - Er sagte zu Borosh: \"...\".\n\n### Historie / Was wir wissen\n\nEin Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird.\n"
+  "markdown": "Ein Soldat aus [[Kronenstadt]], der im [[Notizbuch von Sergeant Zorovich]] erwähnt wird.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Borosh zur Rolle oder Machtstruktur von Soldaten von Kronstadt; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird\n- [[Borosh|Borosh]] | Notizbuch von Sergeant Zorovich: - Er sagte zu : \"...\"\n- [[Borosh|Borosh]] | S08 - Grüfte: - Er sagte zu : \"...\"\n\n### Historie\n\n- Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird\n"
 }

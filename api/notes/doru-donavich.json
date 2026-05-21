@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Vampirischer Sohn von Vater Donavich Tot Ein VampirVampire. Besiegt. Wo getroffen: Barovia (Dorf) Beziehungen: Sohn von Vater Donavich. Freund von Yasper. KI Zusammenfassung Doru D",
+  "excerpt": "Vampirischer Sohn von Vater Donavich Tot Ein VampirVampire. Besiegt. Wo getroffen: Barovia (Dorf) Beziehungen: Sohn von Vater Donavich. Freund von Yasper. KI Zusammenfassung Beruf ",
   "frontmatter": {
     "aliases": [
       "Doru"
@@ -39,10 +39,10 @@
       "slug": "yasper"
     },
     {
-      "target": "Barovia",
-      "label": "Barovia",
-      "slug": "barovia"
+      "target": "Doru Donavich",
+      "label": "Doru Donavich",
+      "slug": "doru-donavich"
     }
   ],
-  "markdown": "Vampirischer Sohn von [[Vater Donavich]]\n\n![[Doru Donavich.png]]\n\nTot\n\nEin [[Vampire|Vampir]]. Besiegt.\n\n**Wo getroffen:** [[Barovia (Dorf)]]\n\n**Beziehungen:**\n- Sohn von [[Vater Donavich]]. \n- Freund von [[Yasper]].\n\n## KI-Zusammenfassung\n\nDoru Donavich, auch Doru genannt, ist ein NSC. Die Notiz ordnet Doru Donavich dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nBarovia (Dorf).\n\n### Beziehungen und Verbindungen\n\nSohn von Vater Donavich. Freund von Yasper. Vampirischer Sohn von Vater Donavich. Ein Vampir. Besiegt. Wo getroffen: Barovia (Dorf). Vater Donavich: Hat seinen Sohn Doru beim Aufstand gegen Strahd verloren. Um die 60 Jahre. Entsetzt, blass, fahrig. Yasper: War ein Freund von Doru Donavich. Yesper: Freund von Doru Donavich.\n\n### Historie / Was wir wissen\n\nVampirischer Sohn von Vater Donavich. Ein Vampir. Besiegt. Sohn von Vater Donavich. Freund von Yasper.\n"
+  "markdown": "Vampirischer Sohn von [[Vater Donavich]]\n\n![[Doru Donavich.png]]\n\nTot\n\nEin [[Vampire|Vampir]]. Besiegt.\n\n**Wo getroffen:** [[Barovia (Dorf)]]\n\n**Beziehungen:**\n- Sohn von [[Vater Donavich]]. \n- Freund von [[Yasper]].\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Doru Donavich zur Rolle oder Machtstruktur von Barovia; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Vater Donavich|Vater Donavich]] | Sohn von\n- [[Yasper|Yasper]] | Freund von\n- [[Vater Donavich|Vater Donavich]] | Sohn von\n- [[Vampire|Vampir]] | Ein . Besiegt\n- [[Barovia (Dorf)|Barovia (Dorf)]] | Wo getroffen\n- Vater Donavich: Hat seinen Sohn Doru beim Aufstand gegen Strahd verloren. Um die 60 Jahre. Entsetzt, blass, fahrig\n- [[Doru Donavich|Doru Donavich]] | Yasper: War ein Freund von\n- [[Doru Donavich|Doru Donavich]] | Yesper: Freund von\n\n### Historie\n\n- Vampirischer Sohn von Vater Donavich\n- Ein Vampir. Besiegt\n- Sohn von Vater Donavich\n- Freund von Yasper\n"
 }

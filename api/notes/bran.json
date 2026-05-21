@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Wo getroffen: Weiler Jäger des Weilers KI Zusammenfassung Bran ist ein NSC. Die Notiz ordnet Bran dem Bereich Weiler zu. Beruf / Rolle Jäger des Weilers. Wohnort / Aufenthalt Weile",
+  "excerpt": "Wo getroffen: Weiler Jäger des Weilers KI Zusammenfassung Beruf / Rolle Jäger des Weilers. Beschreibung Keine gesicherte textliche Beschreibung in den lokalen Notizen. Beziehungen ",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,7 +19,12 @@
       "target": "Weiler",
       "label": "Weiler",
       "slug": "weiler"
+    },
+    {
+      "target": "Bran",
+      "label": "Bran",
+      "slug": "bran"
     }
   ],
-  "markdown": "**Wo getroffen:** [[Weiler]]\n\nJäger des Weilers\n\n## KI-Zusammenfassung\n\nBran ist ein NSC. Die Notiz ordnet Bran dem Bereich [[Weiler]] zu.\n\n### Beruf / Rolle\n\nJäger des Weilers.\n\n### Wohnort / Aufenthalt\n\nWeiler.\n\n### Beziehungen und Verbindungen\n\nWo getroffen: Weiler. Weiler: Bran. Die Geschichte der Drei Gefährten: Dort fanden sie Grusha, Bran, Katerina und Faddey. Der Weiler lag unter einem Verschleierungszauber aus Schatten, Energie und Leben. Er war nicht friedlich. Nur versteckt. Und Verstecke machen Menschen nicht unbedingt sanfter. Was bisher geschah...: Von dort führte sie die Spur zu den Werwölfen. In der Höhle wurde aus Jagd beinahe Verlorenheit. Malduk wechselte die Seite, nicht aus Verrat, sondern weil Magie, Fluch und Zwang die Linien verwischten. Es kam zum Rechtspruch, zu heiligem Wasserschleier, zu Szlata, die vom Weiler erzählte. So erreichten sie einen Ort, der noch einmal anders verwundet war: nicht nur durch Strahd, sondern durch Rituale, Zorn, Geister und den Weißen Hirsch, dessen Bedeutung immer tiefer in die Geschichte griff. Grusha sprach von einem Ritual. Bran wurde wütend. Der erste Versuch scheiterte. Beim zweiten kamen Heilung und Schrecken zugleich: eine Zombie-Apokalypse, Geist-Ritter, Entscheidungen, die nicht sauber waren, aber nötig. Aus dieser Dunkelheit entstand das Hirsch-Medaillon, das später Ireenas Hunger aufhalten sollte. Sie nahmen Faddey mit und zogen weiter nach Vallaki.\n\n### Historie / Was wir wissen\n\nJäger des Weilers.\n"
+  "markdown": "**Wo getroffen:** [[Weiler]]\n\nJäger des Weilers\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nJäger des Weilers.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Weiler|Weiler]] | Wo getroffen\n- [[Bran|Bran]] | Weiler\n- Die Geschichte der Drei Gefährten: Dort fanden sie Grusha, Bran, Katerina und Faddey. Der Weiler lag unter einem Verschleierungszauber aus Schatten, Energie und Leben. Er war nicht friedlich. Nur versteckt. Und Verstecke machen Menschen nicht unbedingt sanfter\n- Was bisher geschah...: Von dort führte sie die Spur zu den Werwölfen. In der Höhle wurde aus Jagd beinahe Verlorenheit. Malduk wechselte die Seite, nicht aus Verrat, sondern weil Magie, Fluch und Zwang die Linien verwischten. Es kam zum Rechtspruch, zu heiligem Wasserschleier, zu Szlata, die vom Weiler erzählte. So erreichten sie einen Ort, der noch einmal anders verwundet war: nicht nur durch Strahd, sondern durch Rituale, Zorn, Geister und den Weißen Hirsch, dessen Bedeutung immer tiefer in die Geschichte griff. Grusha sprach von einem Ritual. Bran wurde wütend. Der erste Versuch scheiterte. Beim zweiten kamen Heilung und Schrecken zugleich: eine Zombie-Apokalypse, Geist-Ritter, Entscheidungen, die nicht sauber waren, aber nötig. Aus dieser Dunkelheit entstand das Hirsch-Medaillon, das später Ireenas Hunger aufhalten sollte. Sie nahmen Faddey mit und zogen weiter nach Vallaki\n\n### Historie\n\n- Jäger des Weilers\n"
 }
