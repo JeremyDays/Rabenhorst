@@ -1,0 +1,78 @@
+{
+  "title": "Geschnitzter Rabe",
+  "slug": "geschnitzter-rabe",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Geschnitzter Rabe.md",
+  "url": "notes/geschnitzter-rabe.html",
+  "apiUrl": "api/notes/geschnitzter-rabe.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Petra hat ihn am Lagerfeuer für uns geschnitzt. Er gibt ihn Michal, weil dieser ein Vistani Freund wird, ein Gigotto . Er sagt: \"Die Mutter des WaldesWaldfey soll über euch wachen!",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ],
+    "aliases": [
+      "Geschnitzten Raben"
+    ]
+  },
+  "links": [
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Mutter des Waldes",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Herrin des Waldes",
+      "label": "Herrin des Waldes",
+      "slug": "herrin-des-waldes"
+    },
+    {
+      "target": "Raben",
+      "label": "Rabe",
+      "slug": "raben"
+    },
+    {
+      "target": "Mutter des Waldes",
+      "label": "Mutter des Waldes",
+      "slug": null
+    },
+    {
+      "target": "S20 - Madame Eva",
+      "label": "S20 - Madame Eva",
+      "slug": "s20-madame-eva"
+    },
+    {
+      "target": "S63 - Baron Vargas",
+      "label": "S63 - Baron Vargas",
+      "slug": "s63-baron-vargas"
+    },
+    {
+      "target": "S64 - Der Baron bittet zu Tisch",
+      "label": "S64 - Der Baron bittet zu Tisch",
+      "slug": "s64-der-baron-bittet-zu-tisch"
+    }
+  ],
+  "markdown": "- [[Petra]] hat ihn am Lagerfeuer für uns geschnitzt. Er gibt ihn [[Michal]], weil dieser ein [[Vistani]]-Freund wird, ein **Gigotto**.\n- Er sagt: \"Die [[Waldfey|Mutter des Waldes]] soll über euch wachen!\"\n\n>***Malduk:** Wie passend. Die Mutter des Waldes ist sicherlich die [[Waldfey]] bzw. die [[Herrin des Waldes]]. Ihr Schutzsymbol ist der [[Raben|Rabe]].*\n\n## KI-Zusammenfassung\n\nGeschnitzter Rabe, auch Geschnitzten Raben genannt, ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Petra hat ihn am Lagerfeuer für uns geschnitzt. Er gibt ihn Michal, weil dieser ein Vistani-Freund wird, ein Gigotto. Er sagt: \"Die Mutter des Waldes soll über euch wachen!\" Malduk: Wie passend. Die Mutter des Waldes ist sicherlich die Waldfey bzw. die Herrin des Waldes. Ihr Schutzsymbol ist der Rabe. Direkte Bezüge bestehen zu [[Petra]], [[Michal]], [[Vistani]], [[Mutter des Waldes]], [[Waldfey]]. Geschnitzter Rabe wird außerdem in [[Petra]], [[S20 - Madame Eva]], [[S63 - Baron Vargas]], [[S64 - Der Baron bittet zu Tisch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

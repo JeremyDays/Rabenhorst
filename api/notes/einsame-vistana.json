@@ -1,0 +1,55 @@
+{
+  "title": "Einsame Vistana",
+  "slug": "einsame-vistana",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Einsame Vistana.md",
+  "url": "notes/einsame-vistana.html",
+  "apiUrl": "api/notes/einsame-vistana.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Laut Madame Eva und ihrem Tarokka reist sie durch das ganze Land auf der Suche nach einem Mentor. Wir sollen sie bei Khazans Turm oder in der Alten AbteiAlte Abtei suchen. KI Zusam",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    },
+    {
+      "target": "Tarokka",
+      "label": "Tarokka",
+      "slug": "tarokka"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Khazans Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Alten Abtei",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Alten Abtei",
+      "label": "Alten Abtei",
+      "slug": null
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Alte Abtei",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "S20 - Madame Eva",
+      "label": "S20 - Madame Eva",
+      "slug": "s20-madame-eva"
+    }
+  ],
+  "markdown": "Laut [[Madame Eva]] und ihrem [[Tarokka]] reist sie durch das ganze Land auf der Suche nach einem Mentor. Wir sollen sie bei [[Khazans Turm]] oder in der [[Alte Abtei|Alten Abtei]] suchen.\n\n## KI-Zusammenfassung\n\nEinsame Vistana ist eine Figur aus den NSC-Notizen. Die lokalen Notizen halten dazu fest: Laut Madame Eva und ihrem Tarokka reist sie durch das ganze Land auf der Suche nach einem Mentor. Wir sollen sie bei Khazans Turm oder in der Alten Abtei suchen. Direkte Bezüge bestehen zu [[Madame Eva]], [[Tarokka]], [[Khazans Turm]], [[Alten Abtei]]. Einsame Vistana wird außerdem in [[Madame Eva]], [[Alte Abtei]], [[Khazans Turm]], [[Tarokka]], [[S20 - Madame Eva]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Kirili",
+  "slug": "kirili",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Kirili.md",
+  "url": "notes/kirili.html",
+  "apiUrl": "api/notes/kirili.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 6 Monate alt KI Zusammenfassung Kirili ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n6 Monate alt\n\n## KI-Zusammenfassung\n\nKirili ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus 6 Monate alt Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

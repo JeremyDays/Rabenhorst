@@ -1,0 +1,40 @@
+{
+  "title": "Phillip",
+  "slug": "phillip",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Phillip.md",
+  "url": "notes/phillip.html",
+  "apiUrl": "api/notes/phillip.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 9 Jahre Das Kind hat Angst vor Malduk. KI Zusammenfassung Phillip ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisen",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "S44 - St. Andrals Waisenhaus",
+      "label": "S44 - St. Andrals Waisenhaus",
+      "slug": "s44-st-andrals-waisenhaus"
+    },
+    {
+      "target": "S45 - Der Dunkelheit auf der Spur",
+      "label": "S45 - Der Dunkelheit auf der Spur",
+      "slug": "s45-der-dunkelheit-auf-der-spur"
+    }
+  ],
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Phillip.png]]\n\n9 Jahre\n\n- Das Kind hat Angst vor [[Malduk]].\n\n## KI-Zusammenfassung\n\nPhillip ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus Das Kind hat Angst vor Malduk. Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]], [[Malduk]]. Phillip wird außerdem in [[St. Andrals Waisenhaus]], [[S44 - St. Andrals Waisenhaus]], [[S45 - Der Dunkelheit auf der Spur]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

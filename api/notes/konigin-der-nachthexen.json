@@ -1,0 +1,43 @@
+{
+  "title": "Königin der Nachthexen",
+  "slug": "konigin-der-nachthexen",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Hexenmühle/Königin der Nachthexen.md",
+  "url": "notes/konigin-der-nachthexen.html",
+  "apiUrl": "api/notes/konigin-der-nachthexen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "==Haben wir sie bekämpft?== Sie soll im Heiligtum der Waldfey gelebt haben, welches wir befreit haben. KI Zusammenfassung Königin der Nachthexen, auch Nachtkönigin der Hexen genann",
+  "frontmatter": {
+    "aliases": [
+      "Nachtkönigin der Hexen"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heiligtum der Waldfey",
+      "label": "Heiligtum der Waldfey",
+      "slug": "heiligtum-der-waldfey"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "S25 - Hexentod",
+      "label": "S25 - Hexentod",
+      "slug": "s25-hexentod"
+    },
+    {
+      "target": "S27 - Ankunft Strahds",
+      "label": "S27 - Ankunft Strahds",
+      "slug": "s27-ankunft-strahds"
+    }
+  ],
+  "markdown": "![[Nachtkönigin der Hexen.jpg]]\n\n- ==Haben wir sie bekämpft?==\n- Sie soll im [[Heiligtum der Waldfey]] gelebt haben, welches wir befreit haben.\n\n## KI-Zusammenfassung\n\nKönigin der Nachthexen, auch Nachtkönigin der Hexen genannt, ist eine Figur aus dem Bereich Hexenmühle. Die lokalen Notizen halten dazu fest: ==Haben wir sie bekämpft?== Sie soll im Heiligtum der Waldfey gelebt haben, welches wir befreit haben. Direkte Bezüge bestehen zu [[Heiligtum der Waldfey]]. Königin der Nachthexen wird außerdem in [[Heiligtum der Waldfey]], [[Hexenmühle]], [[S25 - Hexentod]], [[S27 - Ankunft Strahds]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Kala Drascoi",
+  "slug": "kala-drascoi",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Drascoi/Kala Drascoi.md",
+  "url": "notes/kala-drascoi.html",
+  "apiUrl": "api/notes/kala-drascoi.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Tot Beziehungen: Familie Drascoi Ehefrau von Alek Drascoi Mutter von Boris Drascoi und Ivana Drascoi. Ehemalige Besitzerin des Wagens. KI Zusammenfassung Kala Drascoi ist eine Figu",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Drascoi",
+      "label": "Familie Drascoi",
+      "slug": "familie-drascoi"
+    },
+    {
+      "target": "Alek Drascoi",
+      "label": "Alek Drascoi",
+      "slug": "alek-drascoi"
+    },
+    {
+      "target": "Boris Drascoi",
+      "label": "Boris Drascoi",
+      "slug": "boris-drascoi"
+    },
+    {
+      "target": "Ivana Drascoi",
+      "label": "Ivana Drascoi",
+      "slug": "ivana-drascoi"
+    },
+    {
+      "target": "S15 - Drascoi",
+      "label": "S15 - Drascoi",
+      "slug": "s15-drascoi"
+    }
+  ],
+  "markdown": "Tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Ehefrau von [[Alek Drascoi]]\n- Mutter von [[Boris Drascoi]] und [[Ivana Drascoi]].\n\nEhemalige Besitzerin des Wagens.\n\n## KI-Zusammenfassung\n\nKala Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. Die lokalen Notizen halten dazu fest: Beziehungen: Familie Drascoi Ehefrau von Alek Drascoi Mutter von Boris Drascoi und Ivana Drascoi. Direkte Bezüge bestehen zu [[Familie Drascoi]], [[Alek Drascoi]], [[Boris Drascoi]], [[Ivana Drascoi]]. Kala Drascoi wird außerdem in [[Alek Drascoi]], [[Boris Drascoi]], [[Ivana Drascoi]], [[S15 - Drascoi]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

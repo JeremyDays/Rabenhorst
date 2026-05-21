@@ -1,0 +1,35 @@
+{
+  "title": "Jelens Tropfen",
+  "slug": "jelens-tropfen",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Gegenstände/Jelens Tropfen.md",
+  "url": "notes/jelens-tropfen.html",
+  "apiUrl": "api/notes/jelens-tropfen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Geschaffen aus Izeks rechter Arm Ein silberner Tropfen mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Jelens Tropfen ist ein Gegenstand im Besitz der Gruppe, bei ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izeks rechter Arm",
+      "label": "Izeks rechter Arm",
+      "slug": "izeks-rechter-arm"
+    },
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    },
+    {
+      "target": "S73 - Der Jelen-Handschuh",
+      "label": "S73 - Der Jelen-Handschuh",
+      "slug": "s73-der-jelen-handschuh"
+    }
+  ],
+  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Ein silberner Tropfen mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\nJelens Tropfen ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Geschaffen aus Izeks rechter Arm Ein silberner Tropfen mit einen Splitter von Knochen des St. Andral Direkte Bezüge bestehen zu [[Izeks rechter Arm]], [[Knochen des St. Andral]]. Jelens Tropfen wird außerdem in [[Izeks rechter Arm]], [[Knochen des St. Andral]], [[S73 - Der Jelen-Handschuh]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

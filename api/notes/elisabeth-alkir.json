@@ -1,0 +1,70 @@
+{
+  "title": "Elisabeth Alkir",
+  "slug": "elisabeth-alkir",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Elisabeth Alkir.md",
+  "url": "notes/elisabeth-alkir.html",
+  "apiUrl": "api/notes/elisabeth-alkir.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mutter der Familie Alkir. ZauberinZauberer Tot. Aussehen: Pechschwarze Haare Beziehungen: Frau von Gustav Alkir Mutter von Rose, Dorn und Walter Ihre Mentorin war Frau Petrowna. KI",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberin",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
+    },
+    {
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
+    },
+    {
+      "target": "Walter",
+      "label": "Walter",
+      "slug": "walter"
+    },
+    {
+      "target": "Frau Petrowna",
+      "label": "Frau Petrowna",
+      "slug": "frau-petrowna"
+    },
+    {
+      "target": "Zauberin",
+      "label": "Zauberin",
+      "slug": null
+    },
+    {
+      "target": "Magieanwender",
+      "label": "Magieanwender",
+      "slug": "magieanwender"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    }
+  ],
+  "markdown": "Mutter der [[Familie Alkir]]. [[Zauberer|Zauberin]]\n\nTot.\n\n**Aussehen:**\n- Pechschwarze Haare\n\n**Beziehungen:**\n- Frau von [[Gustav Alkir]]\n- Mutter von [[Rose]], [[Dorn]] und [[Walter]]\n- Ihre Mentorin war [[Frau Petrowna]].\n\n## KI-Zusammenfassung\n\nElisabeth Alkir ist eine Figur aus dem Bereich Haus Alkir. Die lokalen Notizen halten dazu fest: Mutter der Familie Alkir. Zauberin Aussehen: Pechschwarze Haare Beziehungen: Direkte Bezüge bestehen zu [[Familie Alkir]], [[Zauberin]], [[Gustav Alkir]], [[Rose]], [[Dorn]]. Elisabeth Alkir wird außerdem in [[Magieanwender]], [[Zauberer]], [[Frau Petrowna]], [[Dorn]], [[Gustav Alkir]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

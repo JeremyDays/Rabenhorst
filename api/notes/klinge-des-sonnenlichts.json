@@ -1,0 +1,40 @@
+{
+  "title": "Klinge des Sonnenlichts",
+  "slug": "klinge-des-sonnenlichts",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Klinge des Sonnenlichts.md",
+  "url": "notes/klinge-des-sonnenlichts.html",
+  "apiUrl": "api/notes/klinge-des-sonnenlichts.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Laut den Tarokka Karten: \"Bei einem schneebedeckten Grab in der Nähe eines Heiligtums\" Malduk: Schneebedeckt könnte in der Nähe von Bârgau sein und dann das Heiligtum der Bergfey d",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tarokka",
+      "label": "Tarokka",
+      "slug": "tarokka"
+    },
+    {
+      "target": "Bârgau",
+      "label": "Bârgau",
+      "slug": "bargau"
+    },
+    {
+      "target": "Heiligtum der Bergfey",
+      "label": "Heiligtum der Bergfey",
+      "slug": "heiligtum-der-bergfey"
+    },
+    {
+      "target": "S20 - Madame Eva",
+      "label": "S20 - Madame Eva",
+      "slug": "s20-madame-eva"
+    }
+  ],
+  "markdown": "Laut den [[Tarokka]]-Karten:\n\"Bei einem schneebedeckten Grab in der Nähe eines Heiligtums\"\n\n>***Malduk:** Schneebedeckt könnte in der Nähe von [[Bârgau]] sein und dann das [[Heiligtum der Bergfey]] darstellen...*\n\n## KI-Zusammenfassung\n\nKlinge des Sonnenlichts ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Laut den Tarokka-Karten: \"Bei einem schneebedeckten Grab in der Nähe eines Heiligtums\" Malduk: Schneebedeckt könnte in der Nähe von Bârgau sein und dann das Heiligtum der Bergfey darstellen... Direkte Bezüge bestehen zu [[Tarokka]], [[Bârgau]], [[Heiligtum der Bergfey]]. Klinge des Sonnenlichts wird außerdem in [[Heiligtum der Bergfey]], [[Tarokka]], [[S20 - Madame Eva]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

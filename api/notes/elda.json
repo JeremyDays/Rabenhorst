@@ -1,0 +1,55 @@
+{
+  "title": "Elda",
+  "slug": "elda",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Blauen Vistani/Elda.md",
+  "url": "notes/elda.html",
+  "apiUrl": "api/notes/elda.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Blauen VistaniBlaue Vistani Wo getroffen: Lager der Blauen Vistani Groß. Freundin von Kala. Hat Augen für Michal. KI Zusammenfassung Elda ist eine Figur aus dem Bereic",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    },
+    {
+      "target": "Kala",
+      "label": "Kala",
+      "slug": "kala"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Blauen Vistani",
+      "label": "Blauen Vistani",
+      "slug": null
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blaue Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "S20 - Madame Eva",
+      "label": "S20 - Madame Eva",
+      "slug": "s20-madame-eva"
+    }
+  ],
+  "markdown": "Mitglied der [[Blaue Vistani|Blauen Vistani]]\n\n**Wo getroffen:** [[Lager der Blauen Vistani]]\n\n- Groß. Freundin von [[Kala]]. \n- Hat Augen für [[Michal]].\n- \n\n## KI-Zusammenfassung\n\nElda ist eine Figur aus dem Bereich Lager der Blauen Vistani. Die lokalen Notizen halten dazu fest: Mitglied der Blauen Vistani Wo getroffen: Lager der Blauen Vistani Groß. Freundin von Kala. Hat Augen für Michal. Direkte Bezüge bestehen zu [[Blauen Vistani]], [[Lager der Blauen Vistani]], [[Kala]], [[Michal]]. Elda wird außerdem in [[Blaue Vistani]], [[Kala]], [[Lager der Blauen Vistani]], [[S20 - Madame Eva]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

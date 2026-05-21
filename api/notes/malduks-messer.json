@@ -1,0 +1,25 @@
+{
+  "title": "Malduks Messer",
+  "slug": "malduks-messer",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Sonstiges/Malduks Messer.md",
+  "url": "notes/malduks-messer.html",
+  "apiUrl": "api/notes/malduks-messer.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "KI Zusammenfassung Malduks Messer ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    }
+  ],
+  "markdown": "\n\n## KI-Zusammenfassung\n\nMalduks Messer ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Malduks Messer wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

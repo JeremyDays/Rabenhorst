@@ -1,0 +1,58 @@
+{
+  "title": "Walter",
+  "slug": "walter",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Walter.md",
+  "url": "notes/walter.html",
+  "apiUrl": "api/notes/walter.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Baby der Familie Alkir. Tot. Beziehungen: Sohn von Gustav Alkir und vermutlich nicht Elisabeth Alkir, sondern Margareth, wenn er wirklich der Bastard ist. Bruder von Rose und Dorn ",
+  "frontmatter": {
+    "aliases": [
+      "Walter Alkir"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Elisabeth Alkir",
+      "label": "Elisabeth Alkir",
+      "slug": "elisabeth-alkir"
+    },
+    {
+      "target": "Margareth",
+      "label": "Margareth",
+      "slug": "margareth"
+    },
+    {
+      "target": "Bastard",
+      "label": "Bastard",
+      "slug": "bastard"
+    },
+    {
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
+    },
+    {
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
+    }
+  ],
+  "markdown": "Baby der [[Familie Alkir]].\n\nTot.\n\n**Beziehungen:**\n- Sohn von [[Gustav Alkir]] und vermutlich nicht [[Elisabeth Alkir]], sondern [[Margareth]], wenn er wirklich der [[Bastard]] ist.\n- Bruder von [[Rose]] und [[Dorn]]\n\n## KI-Zusammenfassung\n\nWalter, auch Walter Alkir genannt, ist eine Figur aus dem Bereich Haus Alkir. Die lokalen Notizen halten dazu fest: Baby der Familie Alkir. Beziehungen: Sohn von Gustav Alkir und vermutlich nicht Elisabeth Alkir, sondern Margareth, wenn er wirklich der Bastard ist. Bruder von Rose und Dorn Direkte Bezüge bestehen zu [[Familie Alkir]], [[Gustav Alkir]], [[Elisabeth Alkir]], [[Margareth]], [[Bastard]]. Walter wird außerdem in [[Bastard]], [[Dorn]], [[Elisabeth Alkir]], [[Gustav Alkir]], [[Margareth]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

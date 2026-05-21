@@ -1,0 +1,45 @@
+{
+  "title": "Dulvan",
+  "slug": "dulvan",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Dulvan.md",
+  "url": "notes/dulvan.html",
+  "apiUrl": "api/notes/dulvan.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Der tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von WölfenWölfe getötet wurde. KI Zusammenfassung Dulvan ist eine ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tor von Barovia",
+      "label": "Tor von Barovia",
+      "slug": "tor-von-barovia"
+    },
+    {
+      "target": "Brief von Burgomeister Koljan Indirowitsch",
+      "label": "Brief von Burgomeister Koljan Indirowitsch",
+      "slug": "brief-von-burgomeister-koljan-indirowitsch"
+    },
+    {
+      "target": "Wölfe",
+      "label": "Wölfen",
+      "slug": "wolfe"
+    },
+    {
+      "target": "Wölfen",
+      "label": "Wölfen",
+      "slug": null
+    },
+    {
+      "target": "S12 - Ankunft Barovia",
+      "label": "S12 - Ankunft Barovia",
+      "slug": "s12-ankunft-barovia"
+    }
+  ],
+  "markdown": "Der tote Bote direkt nach dem [[Tor von Barovia]], der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte und von [[Wölfe|Wölfen]] getötet wurde.\n\n## KI-Zusammenfassung\n\nDulvan ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Der tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von Wölfen getötet wurde. Direkte Bezüge bestehen zu [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]], [[Wölfen]]. Dulvan wird außerdem in [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]], [[S12 - Ankunft Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

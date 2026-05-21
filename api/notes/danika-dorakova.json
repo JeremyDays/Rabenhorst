@@ -1,0 +1,50 @@
+{
+  "title": "Danika Dorakova",
+  "slug": "danika-dorakova",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Blauwassertaverne/Danika Dorakova.md",
+  "url": "notes/danika-dorakova.html",
+  "apiUrl": "api/notes/danika-dorakova.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Beziehungen Familie Martikov Ehefrau von Urwin Martikov Mutter von Bray Martikov und Brom Martikov KI Zusammenfassung Danika Dorakova ist eine Figur aus dem Bereich Vallaki / Blauw",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Martikov",
+      "label": "Familie Martikov",
+      "slug": "familie-martikov"
+    },
+    {
+      "target": "Urwin Martikov",
+      "label": "Urwin Martikov",
+      "slug": "urwin-martikov"
+    },
+    {
+      "target": "Bray Martikov",
+      "label": "Bray Martikov",
+      "slug": "bray-martikov"
+    },
+    {
+      "target": "Brom Martikov",
+      "label": "Brom Martikov",
+      "slug": "brom-martikov"
+    },
+    {
+      "target": "S56 - Blauwasser-Taverne",
+      "label": "S56 - Blauwasser-Taverne",
+      "slug": "s56-blauwasser-taverne"
+    },
+    {
+      "target": "S62 - Zuber und Kleider",
+      "label": "S62 - Zuber und Kleider",
+      "slug": "s62-zuber-und-kleider"
+    }
+  ],
+  "markdown": "![[Danika Dorakova.png]]\n\n#### Beziehungen\n- [[Familie Martikov]]\n- Ehefrau von [[Urwin Martikov]]\n- Mutter von [[Bray Martikov]] und [[Brom Martikov]]\n\n## KI-Zusammenfassung\n\nDanika Dorakova ist eine Figur aus dem Bereich Vallaki / Blauwassertaverne. Die lokalen Notizen halten dazu fest: Familie Martikov Ehefrau von Urwin Martikov Mutter von Bray Martikov und Brom Martikov Direkte Bezüge bestehen zu [[Familie Martikov]], [[Urwin Martikov]], [[Bray Martikov]], [[Brom Martikov]]. Danika Dorakova wird außerdem in [[Bray Martikov]], [[Brom Martikov]], [[Urwin Martikov]], [[S56 - Blauwasser-Taverne]], [[S62 - Zuber und Kleider]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

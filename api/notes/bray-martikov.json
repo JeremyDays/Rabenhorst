@@ -1,0 +1,50 @@
+{
+  "title": "Bray Martikov",
+  "slug": "bray-martikov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Blauwassertaverne/Bray Martikov.md",
+  "url": "notes/bray-martikov.html",
+  "apiUrl": "api/notes/bray-martikov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Beziehungen Familie Martikov Sohn von Urwin Martikov und Danika Dorakova jüngerer Bruder von Brom Martikov KI Zusammenfassung Bray Martikov ist eine Figur aus dem Bereich Vallaki /",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Martikov",
+      "label": "Familie Martikov",
+      "slug": "familie-martikov"
+    },
+    {
+      "target": "Urwin Martikov",
+      "label": "Urwin Martikov",
+      "slug": "urwin-martikov"
+    },
+    {
+      "target": "Danika Dorakova",
+      "label": "Danika Dorakova",
+      "slug": "danika-dorakova"
+    },
+    {
+      "target": "Brom Martikov",
+      "label": "Brom Martikov",
+      "slug": "brom-martikov"
+    },
+    {
+      "target": "S56 - Blauwasser-Taverne",
+      "label": "S56 - Blauwasser-Taverne",
+      "slug": "s56-blauwasser-taverne"
+    },
+    {
+      "target": "S62 - Zuber und Kleider",
+      "label": "S62 - Zuber und Kleider",
+      "slug": "s62-zuber-und-kleider"
+    }
+  ],
+  "markdown": "![[Bray Martikov.png]]\n\n#### Beziehungen\n- [[Familie Martikov]]\n- Sohn von [[Urwin Martikov]] und [[Danika Dorakova]]\n- jüngerer Bruder von [[Brom Martikov]]\n\n## KI-Zusammenfassung\n\nBray Martikov ist eine Figur aus dem Bereich Vallaki / Blauwassertaverne. Die lokalen Notizen halten dazu fest: Familie Martikov Sohn von Urwin Martikov und Danika Dorakova jüngerer Bruder von Brom Martikov Direkte Bezüge bestehen zu [[Familie Martikov]], [[Urwin Martikov]], [[Danika Dorakova]], [[Brom Martikov]]. Bray Martikov wird außerdem in [[Brom Martikov]], [[Danika Dorakova]], [[Urwin Martikov]], [[S56 - Blauwasser-Taverne]], [[S62 - Zuber und Kleider]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

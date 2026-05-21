@@ -1,0 +1,97 @@
+{
+  "title": "Barovia",
+  "slug": "barovia",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Barovia/Barovia.md",
+  "url": "notes/barovia.html",
+  "apiUrl": "api/notes/barovia.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere Barovia wie ein unheilvolles Mahnmal. Der Mond scheint blass und blutig, ei",
+  "frontmatter": {
+    "aliases": [
+      "Tal",
+      "Land",
+      "Tal Barovia",
+      "Tal von Barovia",
+      "barovianisch"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Barovia",
+      "label": "Land",
+      "slug": "barovia"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Strahd von Zarovich",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Träume",
+      "label": "Albträumen",
+      "slug": "traume"
+    },
+    {
+      "target": "Land",
+      "label": "Land",
+      "slug": null
+    },
+    {
+      "target": "Strahd von Zarovich",
+      "label": "Strahd von Zarovich",
+      "slug": null
+    },
+    {
+      "target": "Albträumen",
+      "label": "Albträumen",
+      "slug": null
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Maria",
+      "label": "Maria",
+      "slug": "maria"
+    },
+    {
+      "target": "Sergeant Zorovich",
+      "label": "Sergeant Zorovich",
+      "slug": "sergeant-zorovich"
+    },
+    {
+      "target": "Bascal Ofenheiss",
+      "label": "Bascal Ofenheiss",
+      "slug": "bascal-ofenheiss"
+    }
+  ],
+  "markdown": "Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere [[Barovia]] wie ein unheilvolles Mahnmal. Der Mond scheint blass und blutig, ein unheiliges Licht, das die verfallenen Zinnen von [[Schloss Rabenhorst]] streift, während dunkle Wolken die Sterne verschlingen. Hier ist jeder Atemzug schwer von der Fäulnis vergangener Hoffnungen, und die Schatten flüstern die Schreie derer, die einst wagten, das [[Barovia|Land]] zu durchqueren.\n\nDies ist eine Welt, in der die [[Dunkelheit]] allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht. Die Menschen von [[Barovia]] leben in ständiger Angst, während ihr geflüstertes Gebet gegen die eisige Umarmung des Vampirfürsten [[Graf Strahd|Strahd von Zarovich]] verhallt. Er thront über allem, ein Schatten unter Schatten, der die Zeit selbst in Fesseln legt, um sich an endlosem Leid zu laben.\n\nIn dieser Welt aus [[Träume|Albträumen]] und Verdammnis findet der Wanderer weder Zuflucht noch Erlösung, sondern nur den unheilvollen Klang eines Herzens, das schlägt — nicht für die Liebe, sondern für die Ewigkeit des Terrors.\n\n## KI-Zusammenfassung\n\nBarovia, auch Tal, Land, Tal Barovia, Tal von Barovia, barovianisch genannt, ist ein Ort im Bereich Barovia. Die lokalen Notizen halten dazu fest: Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere Barovia wie ein unheilvolles Mahnmal. Der Mond scheint blass und blutig, ein unheiliges Licht... Dies ist eine Welt, in der die Dunkelheit allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht... In dieser Welt aus Albträumen und Verdammnis findet der Wanderer weder Zuflucht noch Erlösung, sondern nur den unheilvollen Klang eines Herzens, das schlägt — nicht für die Liebe... Direkte Bezüge bestehen zu [[Schloss Rabenhorst]], [[Land]], [[Dunkelheit]], [[Strahd von Zarovich]], [[Albträumen]]. Barovia wird außerdem in [[Druiden]], [[Terg]], [[Maria]], [[Sergeant Zorovich]], [[Bascal Ofenheiss]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

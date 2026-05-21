@@ -1,0 +1,45 @@
+{
+  "title": "Alek Drascoi",
+  "slug": "alek-drascoi",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Drascoi/Alek Drascoi.md",
+  "url": "notes/alek-drascoi.html",
+  "apiUrl": "api/notes/alek-drascoi.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "tot Beziehungen: Familie Drascoi Ehemann von Kala Drascoi Vater von Boris Drascoi und Ivana Drascoi. Ehemaliger Besitzer des Wagens KI Zusammenfassung Alek Drascoi ist eine Figur a",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Drascoi",
+      "label": "Familie Drascoi",
+      "slug": "familie-drascoi"
+    },
+    {
+      "target": "Kala Drascoi",
+      "label": "Kala Drascoi",
+      "slug": "kala-drascoi"
+    },
+    {
+      "target": "Boris Drascoi",
+      "label": "Boris Drascoi",
+      "slug": "boris-drascoi"
+    },
+    {
+      "target": "Ivana Drascoi",
+      "label": "Ivana Drascoi",
+      "slug": "ivana-drascoi"
+    },
+    {
+      "target": "S15 - Drascoi",
+      "label": "S15 - Drascoi",
+      "slug": "s15-drascoi"
+    }
+  ],
+  "markdown": "tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Ehemann von [[Kala Drascoi]]\n- Vater von [[Boris Drascoi]] und [[Ivana Drascoi]].\n\nEhemaliger Besitzer des Wagens\n\n## KI-Zusammenfassung\n\nAlek Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. Die lokalen Notizen halten dazu fest: Beziehungen: Familie Drascoi Ehemann von Kala Drascoi Vater von Boris Drascoi und Ivana Drascoi. Direkte Bezüge bestehen zu [[Familie Drascoi]], [[Kala Drascoi]], [[Boris Drascoi]], [[Ivana Drascoi]]. Alek Drascoi wird außerdem in [[Boris Drascoi]], [[Ivana Drascoi]], [[Kala Drascoi]], [[S15 - Drascoi]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

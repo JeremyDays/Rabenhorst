@@ -1,0 +1,40 @@
+{
+  "title": "Schlüssel zur blutigen Rebe",
+  "slug": "schlussel-zur-blutigen-rebe",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Schlüssel zur blutigen Rebe.md",
+  "url": "notes/schlussel-zur-blutigen-rebe.html",
+  "apiUrl": "api/notes/schlussel-zur-blutigen-rebe.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Frontschlüssel zum Gasthaus zur blutigen Rebe Im Besitz von Michal. KI Zusammenfassung Schlüssel zur blutigen Rebe ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus zur blutigen Rebe",
+      "label": "Gasthaus zur blutigen Rebe",
+      "slug": "gasthaus-zur-blutigen-rebe"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "S74 - Das Fest der Brennenden Sonne",
+      "label": "S74 - Das Fest der Brennenden Sonne",
+      "slug": "s74-das-fest-der-brennenden-sonne"
+    },
+    {
+      "target": "S75 - Der Tod des Barons",
+      "label": "S75 - Der Tod des Barons",
+      "slug": "s75-der-tod-des-barons"
+    }
+  ],
+  "markdown": "Frontschlüssel zum [[Gasthaus zur blutigen Rebe]]\nIm Besitz von [[Michal]].\n\n## KI-Zusammenfassung\n\nSchlüssel zur blutigen Rebe ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Frontschlüssel zum Gasthaus zur blutigen Rebe Im Besitz von Michal. Direkte Bezüge bestehen zu [[Gasthaus zur blutigen Rebe]], [[Michal]]. Schlüssel zur blutigen Rebe wird außerdem in [[Gasthaus zur blutigen Rebe]], [[S74 - Das Fest der Brennenden Sonne]], [[S75 - Der Tod des Barons]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

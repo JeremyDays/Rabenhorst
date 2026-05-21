@@ -1,0 +1,65 @@
+{
+  "title": "Chroniken eines Kriegsfürsten",
+  "slug": "chroniken-eines-kriegsfursten",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Bücher)/Chroniken eines Kriegsfürsten.md",
+  "url": "notes/chroniken-eines-kriegsfursten.html",
+  "apiUrl": "api/notes/chroniken-eines-kriegsfursten.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Bericht über Strahd von ZarovichGraf Strahd. Altes Adelsgeschlecht. Eroberer und Kriegsherr. Kriegskunst an der AkademieAkademie von Kronenstadt in Kronenstadt. Er hat die Bergvölk",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Strahd von Zarovich",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Akademie von Kronenstadt",
+      "label": "Akademie",
+      "slug": "akademie-von-kronenstadt"
+    },
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Strahd von Zarovich",
+      "label": "Strahd von Zarovich",
+      "slug": null
+    },
+    {
+      "target": "Akademie",
+      "label": "Akademie",
+      "slug": null
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "00 - Übersicht",
+      "label": "00 - Übersicht",
+      "slug": "00-ubersicht"
+    },
+    {
+      "target": "S04 - EG",
+      "label": "S04 - EG",
+      "slug": "s04-eg"
+    }
+  ],
+  "markdown": "Bericht über [[Graf Strahd|Strahd von Zarovich]]. \n- Altes Adelsgeschlecht. \n- Eroberer und Kriegsherr. \n- Kriegskunst an der [[Akademie von Kronenstadt|Akademie]] in [[Kronenstadt]]. \n- Er hat die Bergvölker und [[Druiden]] besiegt. \n- Vor 700 Jahren?\n\n## KI-Zusammenfassung\n\nChroniken eines Kriegsfürsten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Bericht über Strahd von Zarovich. Altes Adelsgeschlecht. Eroberer und Kriegsherr. Kriegskunst an der Akademie in Kronenstadt. Direkte Bezüge bestehen zu [[Strahd von Zarovich]], [[Akademie]], [[Kronenstadt]], [[Druiden]]. Chroniken eines Kriegsfürsten wird außerdem in [[Alle Gegenstände]], [[00 - Übersicht]], [[S04 - EG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

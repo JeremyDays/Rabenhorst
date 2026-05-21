@@ -1,0 +1,25 @@
+{
+  "title": "Miriam",
+  "slug": "miriam",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Miriam.md",
+  "url": "notes/miriam.html",
+  "apiUrl": "api/notes/miriam.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 14 Jahre KI Zusammenfassung Miriam ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen hal",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Miriam.png]]\n\n14 Jahre\n\n## KI-Zusammenfassung\n\nMiriam ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus 14 Jahre Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

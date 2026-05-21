@@ -1,0 +1,30 @@
+{
+  "title": "Dorfniya",
+  "slug": "dorfniya",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Dorfniya.md",
+  "url": "notes/dorfniya.html",
+  "apiUrl": "api/notes/dorfniya.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Dort kam Pidlwick her. KI Zusammenfassung Dorfniya ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Dort kam Pidlwick her. Direkte Bezüge bestehen zu Pidlwick",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Pidlwick",
+      "label": "Pidlwick",
+      "slug": "pidlwick"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    }
+  ],
+  "markdown": "Dort kam [[Pidlwick]] her.\n\n## KI-Zusammenfassung\n\nDorfniya ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Dort kam Pidlwick her. Direkte Bezüge bestehen zu [[Pidlwick]]. Dorfniya wird außerdem in [[Pidlwick]], [[Der Hof von Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

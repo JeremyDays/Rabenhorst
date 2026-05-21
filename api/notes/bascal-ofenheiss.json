@@ -1,0 +1,35 @@
+{
+  "title": "Bascal Ofenheiss",
+  "slug": "bascal-ofenheiss",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Bascal Ofenheiss.md",
+  "url": "notes/bascal-ofenheiss.html",
+  "apiUrl": "api/notes/bascal-ofenheiss.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hofkoch der Zarovich Er war als Chef Deluxe in ganz Barovia bekannt Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt ==Lebt er noch?== KI Zusammenfassung Bas",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Gräfin Sasha Ivliskova",
+      "label": "Gräfin Sasha Ivliskova",
+      "slug": "grafin-sasha-ivliskova"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    }
+  ],
+  "markdown": "Hofkoch der Zarovich\n\n- Er war als Chef Deluxe in ganz [[Barovia]] bekannt\n\n- Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt\n\n- ==Lebt er noch?==\n\n## KI-Zusammenfassung\n\nBascal Ofenheiss ist eine Figur aus dem Bereich Schloss Rabenhorst. Die lokalen Notizen halten dazu fest: Hofkoch der Zarovich Er war als Chef Deluxe in ganz Barovia bekannt Er hat die prächtigsten Tafeln mit den feinsten Weinen Barovias gedeckt ==Lebt er noch?== Direkte Bezüge bestehen zu [[Barovia]]. Bascal Ofenheiss wird außerdem in [[Gräfin Sasha Ivliskova]], [[Barovia]], [[Der Hof von Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Jelens Flamme",
+  "slug": "jelens-flamme",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Magische Gegenstände/Jelens Flamme.md",
+  "url": "notes/jelens-flamme.html",
+  "apiUrl": "api/notes/jelens-flamme.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Geschaffen aus Izeks rechter Arm Eine silberne Flamme mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Jelens Flamme ist ein Gegenstand im Besitz der Gruppe, bei He",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izeks rechter Arm",
+      "label": "Izeks rechter Arm",
+      "slug": "izeks-rechter-arm"
+    },
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    },
+    {
+      "target": "Was bisher geschah...",
+      "label": "Was bisher geschah...",
+      "slug": "was-bisher-geschah"
+    },
+    {
+      "target": "S73 - Der Jelen-Handschuh",
+      "label": "S73 - Der Jelen-Handschuh",
+      "slug": "s73-der-jelen-handschuh"
+    }
+  ],
+  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\nJelens Flamme ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Geschaffen aus Izeks rechter Arm Eine silberne Flamme mit einen Splitter von Knochen des St. Andral Direkte Bezüge bestehen zu [[Izeks rechter Arm]], [[Knochen des St. Andral]]. Jelens Flamme wird außerdem in [[Izeks rechter Arm]], [[Knochen des St. Andral]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]], [[S73 - Der Jelen-Handschuh]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

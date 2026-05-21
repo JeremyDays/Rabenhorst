@@ -1,0 +1,54 @@
+{
+  "title": "Uralte Steinbrücke",
+  "slug": "uralte-steinbrucke",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Uralte Steinbrücke.md",
+  "url": "notes/uralte-steinbrucke.html",
+  "apiUrl": "api/notes/uralte-steinbrucke.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Zwischen der Ivlis Kreuzung und der Hexenmühle. Dort sind die Gargylen zum Leben erwacht Dort haben wir einen Fischer getroffen. Über die Tser Fälle KI Zusammenfassung Uralte Stein",
+  "frontmatter": {
+    "aliases": [
+      "Alten Brücke",
+      "Uralte Steinbrücke"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    },
+    {
+      "target": "Yasper",
+      "label": "Yasper",
+      "slug": "yasper"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    },
+    {
+      "target": "S22 - Die Uralte Steinbrücke",
+      "label": "S22 - Die Uralte Steinbrücke",
+      "slug": "s22-die-uralte-steinbrucke"
+    }
+  ],
+  "markdown": "Zwischen der [[Ivlis-Kreuzung]] und der [[Hexenmühle]].\n\n- Dort sind die Gargylen zum Leben erwacht\n- Dort haben wir einen Fischer getroffen.\n- Über die [[Tser-Fälle]]\n\n## KI-Zusammenfassung\n\nUralte Steinbrücke, auch Alten Brücke, Uralte Steinbrücke genannt, ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Zwischen der Ivlis-Kreuzung und der Hexenmühle. Dort sind die Gargylen zum Leben erwacht Dort haben wir einen Fischer getroffen. Über die Tser-Fälle Direkte Bezüge bestehen zu [[Ivlis-Kreuzung]], [[Hexenmühle]], [[Tser-Fälle]]. Uralte Steinbrücke wird außerdem in [[Yasper]], [[Ivlis-Kreuzung]], [[Tser-Fälle]], [[Die Geschichte der Drei Gefährten]], [[S22 - Die Uralte Steinbrücke]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

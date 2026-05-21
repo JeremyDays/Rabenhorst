@@ -1,0 +1,61 @@
+{
+  "title": "Alte Abtei",
+  "slug": "alte-abtei",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Alte Abtei.md",
+  "url": "notes/alte-abtei.html",
+  "apiUrl": "api/notes/alte-abtei.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Hospital In: Krezk Herkunftsort der Heiligen Sankt Markovia. Oft besucht von Lugdana Argynvost. Dort wurde sie gepflegt, als sie in der Schlacht am Rabenfluss fiel. Malduk: Ob wir ",
+  "frontmatter": {
+    "aliases": [
+      "Alten Abtei",
+      "Abtei der Heiligen Markovia",
+      "Abtei in Krezk",
+      "Abtei"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "Sankt Markovia",
+      "slug": "sankt-markovia"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Schlacht am Rabenfluss",
+      "label": "Schlacht am Rabenfluss",
+      "slug": "schlacht-am-rabenfluss"
+    },
+    {
+      "target": "Einsame Vistana",
+      "label": "Einsame Vistana",
+      "slug": "einsame-vistana"
+    },
+    {
+      "target": "Gräfin von Habsburg",
+      "label": "Gräfin von Habsburg",
+      "slug": "grafin-von-habsburg"
+    },
+    {
+      "target": "Abtei St. Martikov",
+      "label": "Abtei St. Martikov",
+      "slug": "abtei-st-martikov"
+    }
+  ],
+  "markdown": "Hospital\n\nIn: [[Krezk]]\n\n- Herkunftsort der Heiligen [[Sankt Markovia]].\n- Oft besucht von [[Lugdana Argynvost]]. Dort wurde sie gepflegt, als sie in der [[Schlacht am Rabenfluss]] fiel.\n\n> **Malduk:** Ob wir das Heilige Symbol der Sonne (für Heinard) hier bei Schwester Constances Geist finden können? Es heißt, dass es bei Lugdanas Tod zurückkehrte.\n\n## KI-Zusammenfassung\n\nAlte Abtei, auch Alten Abtei, Abtei der Heiligen Markovia, Abtei in Krezk, Abtei genannt, ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Hospital In: Krezk Herkunftsort der Heiligen Sankt Markovia. Oft besucht von Lugdana Argynvost. Dort wurde sie gepflegt, als sie in der Schlacht am Rabenfluss fiel. Direkte Bezüge bestehen zu [[Krezk]], [[Sankt Markovia]], [[Lugdana Argynvost]], [[Schlacht am Rabenfluss]]. Alte Abtei wird außerdem in [[Lugdana Argynvost]], [[Einsame Vistana]], [[Sankt Markovia]], [[Gräfin von Habsburg]], [[Abtei St. Martikov]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

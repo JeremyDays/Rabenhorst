@@ -1,0 +1,48 @@
+{
+  "title": "Szoldar Szoldarovich",
+  "slug": "szoldar-szoldarovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Szoldar Szoldarovich.md",
+  "url": "notes/szoldar-szoldarovich.html",
+  "apiUrl": "api/notes/szoldar-szoldarovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wolfsjäger von Vallaki Ist beauftragt worden von Milivoj die Kinder zu finden. Arbeitet mit Yevgeni Krushkin zusammen. KI Zusammenfassung Szoldar Szoldarovich, auch Szoldar genannt",
+  "frontmatter": {
+    "aliases": [
+      "Szoldar"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Yevgeni Krushkin",
+      "label": "Yevgeni Krushkin",
+      "slug": "yevgeni-krushkin"
+    },
+    {
+      "target": "S48 - Ein gemeinsames Mahl",
+      "label": "S48 - Ein gemeinsames Mahl",
+      "slug": "s48-ein-gemeinsames-mahl"
+    },
+    {
+      "target": "S56 - Blauwasser-Taverne",
+      "label": "S56 - Blauwasser-Taverne",
+      "slug": "s56-blauwasser-taverne"
+    }
+  ],
+  "markdown": "Wolfsjäger von [[Vallaki]]\n\n![[Szoldar Szoldarovich.png]]\n\n- Ist beauftragt worden von [[Milivoj]] die Kinder zu finden.\n- Arbeitet mit [[Yevgeni Krushkin]] zusammen.\n\n## KI-Zusammenfassung\n\nSzoldar Szoldarovich, auch Szoldar genannt, ist eine Figur aus dem Bereich Vallaki. Die lokalen Notizen halten dazu fest: Wolfsjäger von Vallaki Ist beauftragt worden von Milivoj die Kinder zu finden. Arbeitet mit Yevgeni Krushkin zusammen. Direkte Bezüge bestehen zu [[Vallaki]], [[Milivoj]], [[Yevgeni Krushkin]]. Szoldar Szoldarovich wird außerdem in [[Milivoj]], [[Yevgeni Krushkin]], [[S48 - Ein gemeinsames Mahl]], [[S56 - Blauwasser-Taverne]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

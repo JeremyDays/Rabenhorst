@@ -1,0 +1,30 @@
+{
+  "title": "Alte Axt",
+  "slug": "alte-axt",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Alte Axt.md",
+  "url": "notes/alte-axt.html",
+  "apiUrl": "api/notes/alte-axt.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Griff marode Gefunden: Unklar. ==War das seine ursprüngliche Axt, die durch Entropie marode wurde?== Michal braucht einen neuen Ast für Schnitzarbeiten KI Zusammenfassung Alte Axt ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    }
+  ],
+  "markdown": "Griff marode\n\n**Gefunden:** Unklar. \n\n==War das seine ursprüngliche Axt, die durch Entropie marode wurde?==\n\n- [[Michal]] braucht einen neuen Ast für Schnitzarbeiten\n\n## KI-Zusammenfassung\n\nAlte Axt ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Griff marode Gefunden: Unklar. ==War das seine ursprüngliche Axt, die durch Entropie marode wurde?== Michal braucht einen neuen Ast für Schnitzarbeiten Direkte Bezüge bestehen zu [[Michal]]. Alte Axt wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

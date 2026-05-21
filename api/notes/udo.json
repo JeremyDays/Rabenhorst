@@ -1,0 +1,45 @@
+{
+  "title": "Udo",
+  "slug": "udo",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Wachter/Udo.md",
+  "url": "notes/udo.html",
+  "apiUrl": "api/notes/udo.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Schuhmacher Sohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen. KI Zusammenfassung Udo ist eine Figur aus dem Bereich Vallaki / Wachter. Die lokalen Notizen h",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Willemina Rikalova",
+      "label": "Willemina Rikalova",
+      "slug": "willemina-rikalova"
+    },
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Fiona Wachter",
+      "slug": "lady-fiona-wachter"
+    },
+    {
+      "target": "Lydia Vallakovich",
+      "label": "Lydia Vallakovich",
+      "slug": "lydia-vallakovich"
+    },
+    {
+      "target": "Nadja",
+      "label": "Nadja",
+      "slug": "nadja"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    }
+  ],
+  "markdown": "Schuhmacher\n\nSohn von [[Willemina Rikalova]]. \nHat sich mit [[Lady Fiona Wachter]] eingelassen.\n\n## KI-Zusammenfassung\n\nUdo ist eine Figur aus dem Bereich Vallaki / Wachter. Die lokalen Notizen halten dazu fest: Schuhmacher Sohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen. Direkte Bezüge bestehen zu [[Willemina Rikalova]], [[Lady Fiona Wachter]]. Udo wird außerdem in [[Lydia Vallakovich]], [[Nadja]], [[Willemina Rikalova]], [[Lady Fiona Wachter]], [[Die Geschichte der Drei Gefährten]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Verlassenes Dorf",
+  "slug": "verlassenes-dorf",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Verlassenes Dorf.md",
+  "url": "notes/verlassenes-dorf.html",
+  "apiUrl": "api/notes/verlassenes-dorf.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Südlich von Vallaki. Unheimlich. Leute die hingehen, kommen nicht zurück. Schon seit Jahrzehnten verlassen. Sein Burgomeister beging ein schreckliches Vergehen und zog den Zorn von",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    },
+    {
+      "target": "S42 - Ankunft in Vallaki",
+      "label": "S42 - Ankunft in Vallaki",
+      "slug": "s42-ankunft-in-vallaki"
+    }
+  ],
+  "markdown": "Südlich von [[Vallaki]]. \n\n- Unheimlich. Leute die hingehen, kommen nicht zurück.\n- Schon seit Jahrzehnten verlassen.\n- Sein Burgomeister beging ein schreckliches Vergehen und zog den Zorn von [[Graf Strahd]] auf sich.\n\n## KI-Zusammenfassung\n\nVerlassenes Dorf ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Südlich von Vallaki. Unheimlich. Leute die hingehen, kommen nicht zurück. Schon seit Jahrzehnten verlassen. Sein Burgomeister beging ein schreckliches Vergehen und zog den Zorn von Graf Strahd auf sich. Direkte Bezüge bestehen zu [[Vallaki]], [[Graf Strahd]]. Verlassenes Dorf wird außerdem in [[Vallaki]], [[S23 - Steintor]], [[S42 - Ankunft in Vallaki]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

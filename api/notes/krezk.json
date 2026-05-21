@@ -1,0 +1,85 @@
+{
+  "title": "Krezk",
+  "slug": "krezk",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Krezk/Krezk.md",
+  "url": "notes/krezk.html",
+  "apiUrl": "api/notes/krezk.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Stadt Am westlichen Ende des Tals. In Krezk soll es viele Bücher geben. Gutes Stück westlich hinter Vallaki, dem Weg folgend. Burgomeister: Dmitri Krezkov Von hier kommen Sankt And",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Dmitri Krezkov",
+      "label": "Dmitri Krezkov",
+      "slug": "dmitri-krezkov"
+    },
+    {
+      "target": "Sankt Andral",
+      "label": "Sankt Andral",
+      "slug": "sankt-andral"
+    },
+    {
+      "target": "Sankt Markovia",
+      "label": "Sankt Markovia",
+      "slug": "sankt-markovia"
+    },
+    {
+      "target": "Zauberer der Weine",
+      "label": "Zauberer der Weine",
+      "slug": "zauberer-der-weine"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Alte Abtei",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "QUEST",
+      "label": "QUEST",
+      "slug": "quest"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark Kolyanowitsch",
+      "slug": "ismark-kolyanowitsch"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Ben Otvos",
+      "label": "Ben Otvos",
+      "slug": "ben-otvos"
+    }
+  ],
+  "markdown": "Stadt\n\nAm **westlichen** Ende des Tals. \n- In Krezk soll es viele Bücher geben. \n- Gutes Stück westlich hinter [[Vallaki]], dem Weg folgend.\n- Burgomeister: [[Dmitri Krezkov]]\n- Von hier kommen [[Sankt Andral]] und [[Sankt Markovia]].\n\n**Gebäude:**\n- [[Zauberer der Weine]]\n- [[Alte Abtei]]\n\n**Gerüchte:**\n- Werwölfe haben Reisende auf ihrem Weg nach [[Krezk]] heimgesucht.\n\n>[[QUEST]]: [[Ismark Kolyanowitsch]] bat uns, seine Schwester nach [[Krezk]] zu bringen. Da sei sie sicher. Dafür hat er 500Pf. Wegegeld mitgegeben.\n\n## KI-Zusammenfassung\n\nKrezk ist ein Ort im Bereich Krezk. Die lokalen Notizen halten dazu fest: Am westlichen Ende des Tals. In Krezk soll es viele Bücher geben. Gutes Stück westlich hinter Vallaki, dem Weg folgend. Burgomeister: Dmitri Krezkov Direkte Bezüge bestehen zu [[Vallaki]], [[Dmitri Krezkov]], [[Sankt Andral]], [[Sankt Markovia]], [[Zauberer der Weine]]. Krezk wird außerdem in [[Ireena]], [[Quest]], [[Lugdana Argynvost]], [[Ben Otvos]], [[Dmitri Krezkov]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

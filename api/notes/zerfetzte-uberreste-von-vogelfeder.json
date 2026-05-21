@@ -1,0 +1,40 @@
+{
+  "title": "Zerfetzte Überreste von Vogelfeder",
+  "slug": "zerfetzte-uberreste-von-vogelfeder",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Zerfetzte Überreste von Vogelfeder.md",
+  "url": "notes/zerfetzte-uberreste-von-vogelfeder.html",
+  "apiUrl": "api/notes/zerfetzte-uberreste-von-vogelfeder.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände KI Zusammenfassung Zerfetzte Überreste von Vogelfeder ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten d",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n## KI-Zusammenfassung\n\nZerfetzte Überreste von Vogelfeder ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Zerfetzte Überreste von Vogelfeder wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

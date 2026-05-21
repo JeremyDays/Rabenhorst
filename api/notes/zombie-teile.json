@@ -1,0 +1,29 @@
+{
+  "title": "Zombie-Teile",
+  "slug": "zombie-teile",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Zombie-Teile.md",
+  "url": "notes/zombie-teile.html",
+  "apiUrl": "api/notes/zombie-teile.json",
+  "tags": [],
+  "excerpt": "Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis Kreuzung KI Zusammenfassung Zombie Teile ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Zombies",
+      "label": "Zombies",
+      "slug": "zombies"
+    },
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    },
+    {
+      "target": "S19 - Die Blauen Vistani",
+      "label": "S19 - Die Blauen Vistani",
+      "slug": "s19-die-blauen-vistani"
+    }
+  ],
+  "markdown": "Fingernägel, Haar und Haut von [[Zombies]]\n\n**Gefunden:** [[Ivlis-Kreuzung]]\n\n## KI-Zusammenfassung\n\nZombie-Teile ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis-Kreuzung Direkte Bezüge bestehen zu [[Zombies]], [[Ivlis-Kreuzung]]. Zombie-Teile wird außerdem in [[Ivlis-Kreuzung]], [[S19 - Die Blauen Vistani]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

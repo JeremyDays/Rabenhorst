@@ -1,0 +1,30 @@
+{
+  "title": "Stab der Entropie",
+  "slug": "stab-der-entropie",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Stab der Entropie.md",
+  "url": "notes/stab-der-entropie.html",
+  "apiUrl": "api/notes/stab-der-entropie.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Bei Szlata. Er kann Stärke und Mana entziehen. KI Zusammenfassung Stab der Entropie ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: G",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Szlata",
+      "label": "Szlata",
+      "slug": "szlata"
+    },
+    {
+      "target": "S34 - Werwolfshöhle",
+      "label": "S34 - Werwolfshöhle",
+      "slug": "s34-werwolfshohle"
+    }
+  ],
+  "markdown": "**Gefunden:** Bei [[Szlata]].\n- Er kann Stärke und Mana entziehen.\n\n## KI-Zusammenfassung\n\nStab der Entropie ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Gefunden: Bei Szlata. Er kann Stärke und Mana entziehen. Direkte Bezüge bestehen zu [[Szlata]]. Stab der Entropie wird außerdem in [[Szlata]], [[S34 - Werwolfshöhle]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

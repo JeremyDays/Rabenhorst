@@ -1,0 +1,60 @@
+{
+  "title": "Margareth",
+  "slug": "margareth",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Margareth.md",
+  "url": "notes/margareth.html",
+  "apiUrl": "api/notes/margareth.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Amme der Familie Alkir und verantwortlich für die Kinder Dorn und Rose und Walter in Haus Alkir Tot. Aussehen: Blonde Haare Pechschwarze Augen Blass Beziehungen: Geliebte von Gusta",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Dorn",
+      "label": "Dorn",
+      "slug": "dorn"
+    },
+    {
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
+    },
+    {
+      "target": "Walter",
+      "label": "Walter",
+      "slug": "walter"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Elisabeth Alkir",
+      "label": "Elisabeth Alkir",
+      "slug": "elisabeth-alkir"
+    },
+    {
+      "target": "Bastard",
+      "label": "Bastard",
+      "slug": "bastard"
+    }
+  ],
+  "markdown": "Amme der [[Familie Alkir]] und verantwortlich für die Kinder [[Dorn]] und [[Rose]] und [[Walter]] in [[Haus Alkir]]\n\nTot.\n\n**Aussehen:**\n- Blonde Haare\n- Pechschwarze Augen\n- Blass\n\n**Beziehungen:**\n- Geliebte von [[Gustav Alkir]]\n- Vermutlich Mutter von [[Walter]]\n\nLaut den Kindern:\n- [[Gustav Alkir]] mochte sie gerne und hatte sich lang mit ihr unterhalten\n\n>***Malduk:** War sie die Mutter von [[Walter]], mit der [[Gustav Alkir]] seine Frau [[Elisabeth Alkir]] hintergangen hat?*\n\n## KI-Zusammenfassung\n\nMargareth ist eine Figur aus dem Bereich Haus Alkir. Die lokalen Notizen halten dazu fest: Amme der Familie Alkir und verantwortlich für die Kinder Dorn und Rose und Walter in Haus Alkir Aussehen: Blonde Haare Pechschwarze Augen Direkte Bezüge bestehen zu [[Familie Alkir]], [[Dorn]], [[Rose]], [[Walter]], [[Haus Alkir]]. Margareth wird außerdem in [[Bastard]], [[Dorn]], [[Gustav Alkir]], [[Rose]], [[Walter]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

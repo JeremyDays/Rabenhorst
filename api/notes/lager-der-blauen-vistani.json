@@ -1,0 +1,60 @@
+{
+  "title": "Lager der Blauen Vistani",
+  "slug": "lager-der-blauen-vistani",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Lager der Blauen Vistani.md",
+  "url": "notes/lager-der-blauen-vistani.html",
+  "apiUrl": "api/notes/lager-der-blauen-vistani.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Das Lager der Blauen VistaniBlaue Vistani liegt am Tser Teich. Bewohner: 8 Pferde 6 Bulldoggen Hunde. Blaue Vistani KI Zusammenfassung Lager der Blauen Vistani ist ein Ort im Berei",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blaue Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Blauen Vistani",
+      "label": "Blauen Vistani",
+      "slug": null
+    },
+    {
+      "target": "Alenka",
+      "label": "Alenka",
+      "slug": "alenka"
+    },
+    {
+      "target": "Elda",
+      "label": "Elda",
+      "slug": "elda"
+    },
+    {
+      "target": "Kala",
+      "label": "Kala",
+      "slug": "kala"
+    },
+    {
+      "target": "Madame Eva",
+      "label": "Madame Eva",
+      "slug": "madame-eva"
+    }
+  ],
+  "markdown": "Das Lager der [[Blaue Vistani|Blauen Vistani]] liegt am [[Tser-Teich]].\n\n**Bewohner:**\n- 8 Pferde\n- 6 Bulldoggen-Hunde. \n- [[Blaue Vistani]]\n- \n\n## KI-Zusammenfassung\n\nLager der Blauen Vistani ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Das Lager der Blauen Vistani liegt am Tser-Teich. Bewohner: 8 Pferde 6 Bulldoggen-Hunde. Direkte Bezüge bestehen zu [[Blauen Vistani]], [[Tser-Teich]], [[Blaue Vistani]]. Lager der Blauen Vistani wird außerdem in [[Blaue Vistani]], [[Alenka]], [[Elda]], [[Kala]], [[Madame Eva]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

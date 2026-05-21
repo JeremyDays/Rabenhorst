@@ -1,0 +1,24 @@
+{
+  "title": "Berg Baratok",
+  "slug": "berg-baratok",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Berg Baratok.md",
+  "url": "notes/berg-baratok.html",
+  "apiUrl": "api/notes/berg-baratok.json",
+  "tags": [],
+  "excerpt": "KI Zusammenfassung Berg Baratok ist ein Ort im Bereich In den Bergen. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verwe",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Magus von Baratok",
+      "label": "Magus von Baratok",
+      "slug": "magus-von-baratok"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "\n\n## KI-Zusammenfassung\n\nBerg Baratok ist ein Ort im Bereich In den Bergen. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Berg Baratok wird außerdem in [[Magus von Baratok]], [[Vallaki]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

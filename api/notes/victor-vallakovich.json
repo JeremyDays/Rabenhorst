@@ -1,0 +1,50 @@
+{
+  "title": "Victor Vallakovich",
+  "slug": "victor-vallakovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Victor Vallakovich.md",
+  "url": "notes/victor-vallakovich.html",
+  "apiUrl": "api/notes/victor-vallakovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Zynischer Sohn von Lydia Vallakovich und Baron Vargas Vallakovich. ![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos battlemaps universe/beneos assets/beneos battlem",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Lydia Vallakovich",
+      "label": "Lydia Vallakovich",
+      "slug": "lydia-vallakovich"
+    },
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
+      "label": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
+      "slug": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht"
+    },
+    {
+      "target": "Codex der Hydromantie",
+      "label": "Codex der Hydromantie",
+      "slug": "codex-der-hydromantie"
+    },
+    {
+      "target": "Liber Mortis Domesticus",
+      "label": "Liber Mortis Domesticus",
+      "slug": "liber-mortis-domesticus"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    }
+  ],
+  "markdown": "Zynischer Sohn von [[Lydia Vallakovich]] und [[Baron Vargas Vallakovich]].\n\n![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneos_assets/beneos_battlemaps/map_assets/tokens/cos_tokens/victor_vallakovich.webp)\n\n## KI-Zusammenfassung\n\nVictor Vallakovich ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Zynischer Sohn von Lydia Vallakovich und Baron Vargas Vallakovich. Direkte Bezüge bestehen zu [[Lydia Vallakovich]], [[Baron Vargas Vallakovich]]. Victor Vallakovich wird außerdem in [[Lydia Vallakovich]], [[Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht]], [[Codex der Hydromantie]], [[Liber Mortis Domesticus]], [[Die Geschichte der Drei Gefährten]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

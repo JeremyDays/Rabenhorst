@@ -1,0 +1,65 @@
+{
+  "title": "Steinkreise der Fey",
+  "slug": "steinkreise-der-fey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Steinkreise der Fey.md",
+  "url": "notes/steinkreise-der-fey.html",
+  "apiUrl": "api/notes/steinkreise-der-fey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Der DruidenordenDruiden schuf die drei Steinkreise der Fey. Sie wurden auch als Fey jost bekannt. KI Zusammenfassung Steinkreise der Fey, auch Fey jost, Steinkreise, Steinkreisen d",
+  "frontmatter": {
+    "aliases": [
+      "Fey-jost",
+      "Steinkreise",
+      "Steinkreisen der Fey"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Druiden",
+      "label": "Druidenorden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Steinkreise der Fey",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Druidenorden",
+      "label": "Druidenorden",
+      "slug": null
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Steinkreis der Bergfey",
+      "label": "Steinkreis der Bergfey",
+      "slug": "steinkreis-der-bergfey"
+    },
+    {
+      "target": "Steinkreis der Waldfey",
+      "label": "Steinkreis der Waldfey",
+      "slug": "steinkreis-der-waldfey"
+    },
+    {
+      "target": "Steinkreis der Wasserfey",
+      "label": "Steinkreis der Wasserfey",
+      "slug": "steinkreis-der-wasserfey"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Fey von Barovia",
+      "slug": "fey-von-barovia"
+    }
+  ],
+  "markdown": "Der [[Druiden|Druidenorden]] schuf die drei [[Steinkreise der Fey]].\n\n![[Steinkreise der Fey.png]]\n\n- Sie wurden auch als **Fey-jost** bekannt.\n\n## KI-Zusammenfassung\n\nSteinkreise der Fey, auch Fey-jost, Steinkreise, Steinkreisen der Fey genannt, ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Der Druidenorden schuf die drei Steinkreise der Fey. Sie wurden auch als Fey-jost bekannt. Direkte Bezüge bestehen zu [[Druidenorden]]. Steinkreise der Fey wird außerdem in [[Druiden]], [[Steinkreis der Bergfey]], [[Steinkreis der Waldfey]], [[Steinkreis der Wasserfey]], [[Fey von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

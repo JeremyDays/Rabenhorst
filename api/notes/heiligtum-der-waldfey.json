@@ -1,0 +1,48 @@
+{
+  "title": "Heiligtum der Waldfey",
+  "slug": "heiligtum-der-waldfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Heiligtum der Waldfey.md",
+  "url": "notes/heiligtum-der-waldfey.html",
+  "apiUrl": "api/notes/heiligtum-der-waldfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Bei der Hexenmühle. Oder war es der Berg Fey? Magisch. Erdmagie, aber auch ein wenig Wassermagie und Luftmagie. KI Zusammenfassung Heiligtum der Waldfey, auch Steinkreis genannt, i",
+  "frontmatter": {
+    "aliases": [
+      "Steinkreis"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Königin der Nachthexen",
+      "label": "Königin der Nachthexen",
+      "slug": "konigin-der-nachthexen"
+    },
+    {
+      "target": "Steinkreis der Waldfey",
+      "label": "Steinkreis der Waldfey",
+      "slug": "steinkreis-der-waldfey"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Edelstein (Grün)",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    }
+  ],
+  "markdown": "Bei der [[Hexenmühle]].\n\nOder war es der Berg-Fey?\n\nMagisch. Erdmagie, aber auch ein wenig Wassermagie und Luftmagie.\n\n## KI-Zusammenfassung\n\nHeiligtum der Waldfey, auch Steinkreis genannt, ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Bei der Hexenmühle. Oder war es der Berg-Fey? Magisch. Erdmagie, aber auch ein wenig Wassermagie und Luftmagie. Direkte Bezüge bestehen zu [[Hexenmühle]]. Heiligtum der Waldfey wird außerdem in [[Königin der Nachthexen]], [[Steinkreis der Waldfey]], [[Hexenmühle]], [[Edelstein (Grün)]], [[S23 - Steintor]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

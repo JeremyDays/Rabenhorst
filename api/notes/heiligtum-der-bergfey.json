@@ -1,0 +1,55 @@
+{
+  "title": "Heiligtum der Bergfey",
+  "slug": "heiligtum-der-bergfey",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Heiligtum der Bergfey.md",
+  "url": "notes/heiligtum-der-bergfey.html",
+  "apiUrl": "api/notes/heiligtum-der-bergfey.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In Bârgau. Ein Tempel für die Bergfey. Er wurde von den Truppen von Graf Strahd zerstört. KI Zusammenfassung Heiligtum der Bergfey ist ein Ort im Bereich In den Bergen. Die lokalen",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Bârgau",
+      "label": "Bârgau",
+      "slug": "bargau"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Steinkreis der Bergfey",
+      "label": "Steinkreis der Bergfey",
+      "slug": "steinkreis-der-bergfey"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Kampf am Tsolenka Pass",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Edelstein (Rot)",
+      "label": "Edelstein (Rot)",
+      "slug": "edelstein-rot"
+    },
+    {
+      "target": "Klinge des Sonnenlichts",
+      "label": "Klinge des Sonnenlichts",
+      "slug": "klinge-des-sonnenlichts"
+    }
+  ],
+  "markdown": "In [[Bârgau]].\n\n- Ein Tempel für die [[Bergfey]].\n- Er wurde von den Truppen von [[Graf Strahd]] zerstört.\n\n## KI-Zusammenfassung\n\nHeiligtum der Bergfey ist ein Ort im Bereich In den Bergen. Die lokalen Notizen halten dazu fest: In Bârgau. Ein Tempel für die Bergfey. Er wurde von den Truppen von Graf Strahd zerstört. Direkte Bezüge bestehen zu [[Bârgau]], [[Bergfey]], [[Graf Strahd]]. Heiligtum der Bergfey wird außerdem in [[Bârgau]], [[Steinkreis der Bergfey]], [[Kampf am Tsolenka Pass]], [[Edelstein (Rot)]], [[Klinge des Sonnenlichts]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

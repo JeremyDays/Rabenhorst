@@ -1,0 +1,53 @@
+{
+  "title": "Khazans Turm",
+  "slug": "khazans-turm",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Khazans Turm.md",
+  "url": "notes/khazans-turm.html",
+  "apiUrl": "api/notes/khazans-turm.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Der Turm soll auf einer Insel im Baratok See stehen. Hier soll Khazan seine letzten Tage verbracht haben. Turm von Khazan. Malduk: Muss ich hier hin, um über Catarymas Befreiung zu",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Einsamer Turm"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baratok-See",
+      "label": "Baratok-See",
+      "slug": "baratok-see"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Cataryma",
+      "label": "Cataryma",
+      "slug": "cataryma"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Einsame Vistana",
+      "label": "Einsame Vistana",
+      "slug": "einsame-vistana"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Das Leben des Khazan",
+      "slug": "das-leben-des-khazan"
+    }
+  ],
+  "markdown": "Der Turm soll auf einer Insel im [[Baratok-See]] stehen.\nHier soll [[Khazan]] seine letzten Tage verbracht haben.\n\n![[Khazans Turm.png]]\n\nTurm von [[Khazan]].\n\n> **Malduk:** Muss ich hier hin, um über [[Cataryma]]s Befreiung zu lesen, eine Möglichkeit zur Rettung zu finden?\n\n## KI-Zusammenfassung\n\nKhazans Turm, auch Einsamer Turm genannt, ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Der Turm soll auf einer Insel im Baratok-See stehen. Hier soll Khazan seine letzten Tage verbracht haben. Turm von Khazan. Malduk: Muss ich hier hin, um über Catarymas Befreiung zu lesen, eine Möglichkeit zur Rettung zu finden? Direkte Bezüge bestehen zu [[Baratok-See]], [[Khazan]], [[Cataryma]]. Khazans Turm wird außerdem in [[Quest]], [[Einsame Vistana]], [[Khazan]], [[Baratok-See]], [[Das Leben des Khazan]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

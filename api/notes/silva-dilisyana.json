@@ -1,0 +1,45 @@
+{
+  "title": "Silva Dilisyana",
+  "slug": "silva-dilisyana",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Silva Dilisyana.md",
+  "url": "notes/silva-dilisyana.html",
+  "apiUrl": "api/notes/silva-dilisyana.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mutter von Leo dem LöwenLeo der Löwe Liebschaft mit König Barov Sie hatte eine Liebschaft mit König Barov von Zarovich, dem Vater von Leo dem LöwenLeo der Löwe. KI Zusammenfassung ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo dem Löwen",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Leo dem Löwen",
+      "label": "Leo dem Löwen",
+      "slug": null
+    },
+    {
+      "target": "Leo der Löwe",
+      "label": "Leo der Löwe",
+      "slug": "leo-der-lowe"
+    },
+    {
+      "target": "S19 - Die Blauen Vistani",
+      "label": "S19 - Die Blauen Vistani",
+      "slug": "s19-die-blauen-vistani"
+    }
+  ],
+  "markdown": "Mutter von [[Leo der Löwe|Leo dem Löwen]]\nLiebschaft mit [[König Barov]]\n\n- Sie hatte eine Liebschaft mit [[König Barov]] von Zarovich, dem Vater von [[Leo der Löwe|Leo dem Löwen]].\n\n## KI-Zusammenfassung\n\nSilva Dilisyana ist eine Figur aus dem Bereich Schloss Rabenhorst. Die lokalen Notizen halten dazu fest: Mutter von Leo dem Löwen Liebschaft mit König Barov Sie hatte eine Liebschaft mit König Barov von Zarovich, dem Vater von Leo dem Löwen. Direkte Bezüge bestehen zu [[Leo dem Löwen]], [[König Barov]]. Silva Dilisyana wird außerdem in [[König Barov]], [[Leo der Löwe]], [[S19 - Die Blauen Vistani]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

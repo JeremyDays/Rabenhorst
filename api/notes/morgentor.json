@@ -1,0 +1,38 @@
+{
+  "title": "Morgentor",
+  "slug": "morgentor",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Morgentor.md",
+  "url": "notes/morgentor.html",
+  "apiUrl": "api/notes/morgentor.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki Das Osttor ist auch als Morgentor oder, wie einige Einheimische es gerne nennen, als Trauertor bekannt. KI Zusammenfassung Morgentor, auch Trauertor genannt, ist ein Or",
+  "frontmatter": {
+    "aliases": [
+      "Trauertor"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Morgentor",
+      "label": "Morgentor",
+      "slug": "morgentor"
+    },
+    {
+      "target": "S42 - Ankunft in Vallaki",
+      "label": "S42 - Ankunft in Vallaki",
+      "slug": "s42-ankunft-in-vallaki"
+    }
+  ],
+  "markdown": "In: [[Vallaki]]\n\nDas **Osttor** ist auch als [[Morgentor]] oder, wie einige Einheimische es gerne nennen, als **Trauertor** bekannt.\n\n## KI-Zusammenfassung\n\nMorgentor, auch Trauertor genannt, ist ein Ort im Bereich Vallaki. Die lokalen Notizen halten dazu fest: In: Vallaki Das Osttor ist auch als Morgentor oder, wie einige Einheimische es gerne nennen, als Trauertor bekannt. Direkte Bezüge bestehen zu [[Vallaki]]. Morgentor wird außerdem in [[Vallaki]], [[S42 - Ankunft in Vallaki]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Ivana Drascoi",
+  "slug": "ivana-drascoi",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Drascoi/Ivana Drascoi.md",
+  "url": "notes/ivana-drascoi.html",
+  "apiUrl": "api/notes/ivana-drascoi.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "tot Beziehungen: Familie Drascoi Tochter von Alek Drascoi und Kala Drascoi Schwester von Boris Drascoi KI Zusammenfassung Ivana Drascoi ist eine Figur aus dem Bereich Vallaki / Dra",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Drascoi",
+      "label": "Familie Drascoi",
+      "slug": "familie-drascoi"
+    },
+    {
+      "target": "Alek Drascoi",
+      "label": "Alek Drascoi",
+      "slug": "alek-drascoi"
+    },
+    {
+      "target": "Kala Drascoi",
+      "label": "Kala Drascoi",
+      "slug": "kala-drascoi"
+    },
+    {
+      "target": "Boris Drascoi",
+      "label": "Boris Drascoi",
+      "slug": "boris-drascoi"
+    },
+    {
+      "target": "S15 - Drascoi",
+      "label": "S15 - Drascoi",
+      "slug": "s15-drascoi"
+    }
+  ],
+  "markdown": "tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Tochter von [[Alek Drascoi]] und [[Kala Drascoi]]\n- Schwester von [[Boris Drascoi]]\n\n## KI-Zusammenfassung\n\nIvana Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. Die lokalen Notizen halten dazu fest: Beziehungen: Familie Drascoi Tochter von Alek Drascoi und Kala Drascoi Schwester von Boris Drascoi Direkte Bezüge bestehen zu [[Familie Drascoi]], [[Alek Drascoi]], [[Kala Drascoi]], [[Boris Drascoi]]. Ivana Drascoi wird außerdem in [[Alek Drascoi]], [[Boris Drascoi]], [[Kala Drascoi]], [[S15 - Drascoi]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

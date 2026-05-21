@@ -1,0 +1,80 @@
+{
+  "title": "Sergeant Zorovich",
+  "slug": "sergeant-zorovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Soldaten von Kronstadt/Sergeant Zorovich.md",
+  "url": "notes/sergeant-zorovich.html",
+  "apiUrl": "api/notes/sergeant-zorovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Meister von Michal, sein Ausbilder/Mentor Tot Vor 15 16 Jahren wurde Michal von Sergeant Zorovich ausgebildet. Dann ist er in eine Schlacht gereist und nie wiedergekommen. Wir wiss",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Sergeant Zorovich",
+      "label": "Sergeant Zorovich",
+      "slug": "sergeant-zorovich"
+    },
+    {
+      "target": "Notizbuch von Sergeant Zorovich",
+      "label": "Notizbuch von Sergeant Zorovich",
+      "slug": "notizbuch-von-sergeant-zorovich"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarischen Reich",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "Brief eines Soldaten",
+      "label": "Brief eines Soldaten",
+      "slug": "brief-eines-soldaten"
+    },
+    {
+      "target": "Anhänger der Herrinnen",
+      "label": "Anhänger der Herrinnen",
+      "slug": "anhanger-der-herrinnen"
+    }
+  ],
+  "markdown": "Meister von [[Michal]], sein Ausbilder/Mentor\n\nTot\n\n- Vor 15-16 Jahren wurde [[Michal]] von [[Sergeant Zorovich]] ausgebildet.\n- Dann ist er in eine Schlacht gereist und nie wiedergekommen.\n- Wir wissen durch das [[Notizbuch von Sergeant Zorovich]], dass er durch den [[Nebel]] nach [[Barovia]] kam und im [[Haus Alkir]] gestorben ist.\n\n- Seine Jacke hing in [[Haus Alkir]]. Samt Skelett.\n- Er muss aus dem [[Velarisches Imperium|Velarischen Reich]] stammen.\n- Die Uniform von [[Sergeant Zorovich]] war aus [[Kronenstadt]].\n- [[Michal]] hat etliche persönliche Dinge von ihm mitgenommen, u.a. das [[Notizbuch von Sergeant Zorovich]].\n- Der [[Sergeant Zorovich]] konnte allein gegen drei Männer kämpfen, und dennoch ist er unterlegen...\n- [[Heinard]] hat für [[Sergeant Zorovich]] einen Todesritus gehalten.\n\n## KI-Zusammenfassung\n\nSergeant Zorovich ist eine Figur aus dem Bereich Haus Alkir / Soldaten von Kronstadt. Die lokalen Notizen halten dazu fest: Meister von Michal, sein Ausbilder/Mentor Vor 15-16 Jahren wurde Michal von Sergeant Zorovich ausgebildet. Dann ist er in eine Schlacht gereist und nie wiedergekommen. Wir wissen durch das Notizbuch von Sergeant Zorovich, dass er durch den Nebel nach Barovia kam und im Haus Alkir gestorben ist. Direkte Bezüge bestehen zu [[Michal]], [[Notizbuch von Sergeant Zorovich]], [[Nebel]], [[Barovia]], [[Haus Alkir]]. Sergeant Zorovich wird außerdem in [[Barovia]], [[Alle Gegenstände]], [[Brief eines Soldaten]], [[Anhänger der Herrinnen]], [[Notizbuch von Sergeant Zorovich]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

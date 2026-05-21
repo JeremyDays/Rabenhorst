@@ -1,0 +1,45 @@
+{
+  "title": "Lederner Schultergürtel",
+  "slug": "lederner-schultergurtel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Sonstiges/Lederner Schultergürtel.md",
+  "url": "notes/lederner-schultergurtel.html",
+  "apiUrl": "api/notes/lederner-schultergurtel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Heinard in Haus Alkir. Ruheraum 4 Schlaufen mit 4 widerstandsfähigen Fläschchen aus silbernem Metall und Schraubverschlüssen 1. Leeres Fläschchen 2. ~~Jelenkraut (angeneh",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Ruheraum\n\n4 Schlaufen mit 4 widerstandsfähigen Fläschchen aus silbernem Metall und Schraubverschlüssen\n\n1. Leeres Fläschchen\n2. ~~[[Jelen]]kraut (angenehmer Geruch; Heiltrank, 8 LP)~~\n3. ~~Messwein (Geruch nach reifen Trauben)~~\n4. Bitterwurz (Geruch nach scharfem Jägermeister; Antidot gegen Gift)\n\n## KI-Zusammenfassung\n\nLederner Schultergürtel ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard in Haus Alkir. Ruheraum 4 Schlaufen mit 4 widerstandsfähigen Fläschchen aus silbernem Metall und Schraubverschlüssen Leeres Fläschchen Jelenkraut (angenehmer Geruch; Heiltrank, 8 LP) Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]], [[Jelen]]. Lederner Schultergürtel wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

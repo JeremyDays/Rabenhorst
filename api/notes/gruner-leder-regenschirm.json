@@ -1,0 +1,33 @@
+{
+  "title": "Grüner Leder-Regenschirm",
+  "slug": "gruner-leder-regenschirm",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Sonstiges/Grüner Leder-Regenschirm.md",
+  "url": "notes/gruner-leder-regenschirm.html",
+  "apiUrl": "api/notes/gruner-leder-regenschirm.json",
+  "tags": [],
+  "excerpt": "Gefunden: Malduk in der Hexenmühle ==Nie überprüft, ob er magisch ist...== KI Zusammenfassung Grüner Leder Regenschirm, auch Grünen Leder Regenschirm genannt, ist ein Gegenstand im",
+  "frontmatter": {
+    "aliases": [
+      "Grünen Leder-Regenschirm"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "S24 - Steinkreis",
+      "label": "S24 - Steinkreis",
+      "slug": "s24-steinkreis"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in der [[Hexenmühle]]\n\n==Nie überprüft, ob er magisch ist...==\n\n## KI-Zusammenfassung\n\nGrüner Leder-Regenschirm, auch Grünen Leder-Regenschirm genannt, ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in der Hexenmühle ==Nie überprüft, ob er magisch ist...== Direkte Bezüge bestehen zu [[Malduk]], [[Hexenmühle]]. Grüner Leder-Regenschirm wird außerdem in [[S24 - Steinkreis]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

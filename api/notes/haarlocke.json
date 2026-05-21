@@ -1,0 +1,40 @@
+{
+  "title": "Haarlocke",
+  "slug": "haarlocke",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Haarlocke.md",
+  "url": "notes/haarlocke.html",
+  "apiUrl": "api/notes/haarlocke.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Achtsam geflochtene Locke kastanienbraunes Haar Gefunden: Malduk in Haus Alkir. Nischenwände Malduk: Wer hatte kastanienbraunes Haar? KI Zusammenfassung Haarlocke ist ein Gegenstan",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "Achtsam geflochtene Locke kastanienbraunes Haar\n\n**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n>***Malduk:** Wer hatte kastanienbraunes Haar?*\n\n## KI-Zusammenfassung\n\nHaarlocke ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Achtsam geflochtene Locke kastanienbraunes Haar Gefunden: Malduk in Haus Alkir. Nischenwände Malduk: Wer hatte kastanienbraunes Haar? Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Haarlocke wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

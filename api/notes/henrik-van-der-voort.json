@@ -1,0 +1,45 @@
+{
+  "title": "Henrik van der Voort",
+  "slug": "henrik-van-der-voort",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Henrik van der Voort.md",
+  "url": "notes/henrik-van-der-voort.html",
+  "apiUrl": "api/notes/henrik-van-der-voort.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sargmacher Trinkt zu viel Will nicht mehr Deprimierter Säufer. Verbringt zu viel Zeit mit den Toten. Er hat wohl die Knochen des St. Andral von Milivoj gekauft. Irgendwie waren Vam",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Kiste von Graf Strahd",
+      "label": "Kiste von Graf Strahd",
+      "slug": "kiste-von-graf-strahd"
+    },
+    {
+      "target": "Spiegel der Wahrheit",
+      "label": "Spiegel der Wahrheit",
+      "slug": "spiegel-der-wahrheit"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    }
+  ],
+  "markdown": "_Sargmacher_\n\n![[Henrik van der Voort.png]]\n\n- Trinkt zu viel\n- Will nicht mehr\n- Deprimierter Säufer. Verbringt zu viel Zeit mit den Toten. \n- Er hat wohl die [[Knochen des St. Andral]] von [[Milivoj]] gekauft.\n- Irgendwie waren Vampire bei ihm und die [[Kiste von Graf Strahd]]\n- \n\n## KI-Zusammenfassung\n\nHenrik van der Voort ist eine Figur aus dem Bereich Vallaki. Die lokalen Notizen halten dazu fest: Sargmacher Trinkt zu viel Will nicht mehr Deprimierter Säufer. Verbringt zu viel Zeit mit den Toten. Direkte Bezüge bestehen zu [[Knochen des St. Andral]], [[Milivoj]], [[Kiste von Graf Strahd]]. Henrik van der Voort wird außerdem in [[Milivoj]], [[Spiegel der Wahrheit]], [[Kiste von Graf Strahd]], [[Knochen des St. Andral]], [[S23 - Steintor]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

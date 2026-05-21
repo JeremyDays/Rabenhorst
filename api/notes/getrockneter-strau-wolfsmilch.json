@@ -1,0 +1,40 @@
+{
+  "title": "Getrockneter Strauß Wolfsmilch",
+  "slug": "getrockneter-strau-wolfsmilch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Getrockneter Strauß Wolfsmilch.md",
+  "url": "notes/getrockneter-strau-wolfsmilch.html",
+  "apiUrl": "api/notes/getrockneter-strau-wolfsmilch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände KI Zusammenfassung Getrockneter Strauß Wolfsmilch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n## KI-Zusammenfassung\n\nGetrockneter Strauß Wolfsmilch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Getrockneter Strauß Wolfsmilch wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Flöte von Sergeant Zorovich",
+  "slug": "flote-von-sergeant-zorovich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Flöte von Sergeant Zorovich.md",
+  "url": "notes/flote-von-sergeant-zorovich.html",
+  "apiUrl": "api/notes/flote-von-sergeant-zorovich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Haus Alkir KI Zusammenfassung Flöte von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S08 - Grüfte",
+      "label": "S08 - Grüfte",
+      "slug": "s08-grufte"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nFlöte von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Direkte Bezüge bestehen zu [[Haus Alkir]]. Flöte von Sergeant Zorovich wird außerdem in [[Alle Gegenstände]], [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

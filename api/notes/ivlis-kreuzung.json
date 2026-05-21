@@ -1,0 +1,50 @@
+{
+  "title": "Ivlis-Kreuzung",
+  "slug": "ivlis-kreuzung",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Ivlis-Kreuzung.md",
+  "url": "notes/ivlis-kreuzung.html",
+  "apiUrl": "api/notes/ivlis-kreuzung.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Kreuzung zwischen Barovia (Dorf) im Osten, Vallaki im Westen und dem Tser Teich im Norden. Hier hing ein Mann am Baum und eine Krähe beobachtete uns, glaube ich. KI Zusammenfassung",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Ivlis-Fluss",
+      "label": "Ivlis-Fluss",
+      "slug": "ivlis-fluss"
+    },
+    {
+      "target": "Uralte Steinbrücke",
+      "label": "Uralte Steinbrücke",
+      "slug": "uralte-steinbrucke"
+    },
+    {
+      "target": "Zombie-Teile",
+      "label": "Zombie-Teile",
+      "slug": "zombie-teile"
+    }
+  ],
+  "markdown": "Kreuzung zwischen [[Barovia (Dorf)]] im Osten, [[Vallaki]] im Westen und dem [[Tser-Teich]] im Norden.\n\n- Hier hing ein Mann am Baum und eine Krähe beobachtete uns, glaube ich.\n- \n\n## KI-Zusammenfassung\n\nIvlis-Kreuzung ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Kreuzung zwischen Barovia (Dorf) im Osten, Vallaki im Westen und dem Tser-Teich im Norden. Hier hing ein Mann am Baum und eine Krähe beobachtete uns, glaube ich. Direkte Bezüge bestehen zu [[Barovia (Dorf)]], [[Vallaki]], [[Tser-Teich]]. Ivlis-Kreuzung wird außerdem in [[Vallaki]], [[Ivlis-Fluss]], [[Tser-Teich]], [[Uralte Steinbrücke]], [[Zombie-Teile]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

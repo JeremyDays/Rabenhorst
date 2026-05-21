@@ -1,0 +1,50 @@
+{
+  "title": "Spiegel der Wahrheit",
+  "slug": "spiegel-der-wahrheit",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Gegenstände/Spiegel der Wahrheit.md",
+  "url": "notes/spiegel-der-wahrheit.html",
+  "apiUrl": "api/notes/spiegel-der-wahrheit.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kleiner silberner Spiegel Wo gefunden: ==Weiß ich nicht mehr== Michal: Magisch. Spiegel der Wahrheit. Zeigt das wahre Wesen eines Wesens. Gegen Verwandlung / Illusion. Antimagie Za",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Henrik van der Voort",
+      "label": "Henrik van der Voort",
+      "slug": "henrik-van-der-voort"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S31 - Die Opfer der Hexen",
+      "label": "S31 - Die Opfer der Hexen",
+      "slug": "s31-die-opfer-der-hexen"
+    },
+    {
+      "target": "S32 - Danika und Grigor",
+      "label": "S32 - Danika und Grigor",
+      "slug": "s32-danika-und-grigor"
+    },
+    {
+      "target": "S44 - St. Andrals Waisenhaus",
+      "label": "S44 - St. Andrals Waisenhaus",
+      "slug": "s44-st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "Kleiner silberner Spiegel\n**Wo gefunden:** ==Weiß ich nicht mehr==\n\n>***Michal:** Magisch. Spiegel der Wahrheit. Zeigt das wahre Wesen eines Wesens. Gegen Verwandlung / Illusion. Antimagie-Zauber. Kein Artefakt, nicht gegen Macht.*\n\nZerstört beim Haus des Sargmachers, [[Henrik van der Voort]].\n80% der Spiegelsplitter wiedergefunden.\n\n- [[Malduk]] überträgt die Entropie von dem Spiegel auf eine Bürste aus dem Haus Alkir. \n- Zersetzung des Zaubers aufgehalten. \n- 20% der 80% konnte [[Malduk]] zusammenfügen. Das muss noch ein paar Mal weiter gemacht werden.\n\n## KI-Zusammenfassung\n\nSpiegel der Wahrheit ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kleiner silberner Spiegel Wo gefunden: ==Weiß ich nicht mehr== Michal: Magisch. Spiegel der Wahrheit. Zeigt das wahre Wesen eines Wesens. Gegen Verwandlung / Illusion. Antimagie-Zauber. Kein Artefakt, nicht gegen Macht. Zerstört beim Haus des Sargmachers, Henrik van der Voort. Direkte Bezüge bestehen zu [[Henrik van der Voort]], [[Malduk]]. Spiegel der Wahrheit wird außerdem in [[Henrik van der Voort]], [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]], [[S32 - Danika und Grigor]], [[S44 - St. Andrals Waisenhaus]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

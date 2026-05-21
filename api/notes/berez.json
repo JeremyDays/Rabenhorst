@@ -1,0 +1,60 @@
+{
+  "title": "Berez",
+  "slug": "berez",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Berez/Berez.md",
+  "url": "notes/berez.html",
+  "apiUrl": "api/notes/berez.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Stadt Berez liegt an einem Sumpf. Das Dorf Berez liegt in Trümmern am Rande eines Sumpfes. Dort soll es teuflische Hexen geben. Der Fluss habe sich aufgrund von Graf Strahd erhoben",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Berez",
+      "label": "Berez",
+      "slug": "berez"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Maria",
+      "label": "Maria",
+      "slug": "maria"
+    },
+    {
+      "target": "Graf von Habsburg",
+      "label": "Graf von Habsburg",
+      "slug": "graf-von-habsburg"
+    },
+    {
+      "target": "Schlacht von Berez",
+      "label": "Schlacht von Berez",
+      "slug": "schlacht-von-berez"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexen",
+      "slug": "hexen"
+    },
+    {
+      "target": "Fluss Luna",
+      "label": "Fluss Luna",
+      "slug": "fluss-luna"
+    },
+    {
+      "target": "Steinkreis der Wasserfey",
+      "label": "Steinkreis der Wasserfey",
+      "slug": "steinkreis-der-wasserfey"
+    }
+  ],
+  "markdown": "Stadt\n\n![[Berez im Sumpf.png]]\n\n- Berez liegt an einem Sumpf.  \n- Das Dorf [[Berez]] liegt in Trümmern am Rande eines Sumpfes.\n- Dort soll es teuflische Hexen geben. \n- Der Fluss habe sich aufgrund von [[Graf Strahd]] erhoben und das Dorf begraben.\n\n- [[Maria]] stammt aus Berez.\n\n- [[Graf von Habsburg]] und seine Ritter wurden in der [[Schlacht von Berez]] in der Dunkelheit vor Morgengrauen unehrenhaft ermordet.\n\n## KI-Zusammenfassung\n\nBerez ist ein Ort im Bereich Berez. Die lokalen Notizen halten dazu fest: Das Dorf Berez liegt in Trümmern am Rande eines Sumpfes. Dort soll es teuflische Hexen geben. Der Fluss habe sich aufgrund von Graf Strahd erhoben und das Dorf begraben. Maria stammt aus Berez. Direkte Bezüge bestehen zu [[Graf Strahd]], [[Maria]], [[Graf von Habsburg]], [[Schlacht von Berez]]. Berez wird außerdem in [[Hexen]], [[Maria]], [[Graf von Habsburg]], [[Fluss Luna]], [[Steinkreis der Wasserfey]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

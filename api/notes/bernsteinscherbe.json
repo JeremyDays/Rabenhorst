@@ -1,0 +1,45 @@
+{
+  "title": "Bernsteinscherbe",
+  "slug": "bernsteinscherbe",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Bernsteinscherbe.md",
+  "url": "notes/bernsteinscherbe.html",
+  "apiUrl": "api/notes/bernsteinscherbe.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände Gewöhnlicher Bernstein Malduk: Kein Magischer Bernstein. KI Zusammenfassung Bernsteinscherbe ist ein Gegenstand im Besitz der Gruppe, b",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Magischer Bernstein",
+      "label": "Magischer Bernstein",
+      "slug": "magischer-bernstein"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\nGewöhnlicher Bernstein\n\n>***Malduk:** Kein [[Magischer Bernstein]].*\n\n## KI-Zusammenfassung\n\nBernsteinscherbe ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände Gewöhnlicher Bernstein Malduk: Kein Magischer Bernstein. Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]], [[Magischer Bernstein]]. Bernsteinscherbe wird außerdem in [[Alle Gegenstände]], [[Magischer Bernstein]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

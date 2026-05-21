@@ -1,0 +1,54 @@
+{
+  "title": "Dorn",
+  "slug": "dorn",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Dorn.md",
+  "url": "notes/dorn.html",
+  "apiUrl": "api/notes/dorn.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sohn der Familie Alkir. Echter Name: Dornboldt Alkir Tot. Beziehungen: Sohn von Gustav Alkir und Elisabeth Alkir. Bruder von Rose und Walter KI Zusammenfassung Dorn, auch Dorn Alki",
+  "frontmatter": {
+    "aliases": [
+      "Dorn Alkir",
+      "Dornboldt Alkir"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Elisabeth Alkir",
+      "label": "Elisabeth Alkir",
+      "slug": "elisabeth-alkir"
+    },
+    {
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
+    },
+    {
+      "target": "Walter",
+      "label": "Walter",
+      "slug": "walter"
+    },
+    {
+      "target": "Margareth",
+      "label": "Margareth",
+      "slug": "margareth"
+    }
+  ],
+  "markdown": "Sohn der [[Familie Alkir]].\n**Echter Name:** Dornboldt Alkir\n\n![[Dorn.png]]\n\nTot.\n\n**Beziehungen:**\n- Sohn von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Bruder von [[Rose]] und [[Walter]]\n\n## KI-Zusammenfassung\n\nDorn, auch Dorn Alkir, Dornboldt Alkir genannt, ist eine Figur aus dem Bereich Haus Alkir. Die lokalen Notizen halten dazu fest: Sohn der Familie Alkir. Echter Name: Dornboldt Alkir Beziehungen: Sohn von Gustav Alkir und Elisabeth Alkir. Direkte Bezüge bestehen zu [[Familie Alkir]], [[Gustav Alkir]], [[Elisabeth Alkir]], [[Rose]], [[Walter]]. Dorn wird außerdem in [[Elisabeth Alkir]], [[Gustav Alkir]], [[Margareth]], [[Rose]], [[Walter]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Schloss Rabenhorst",
+  "slug": "schloss-rabenhorst",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Schloss Rabenhorst.md",
+  "url": "notes/schloss-rabenhorst.html",
+  "apiUrl": "api/notes/schloss-rabenhorst.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Nördlich von Barovia (Dorf). Wohnort von Graf Strahd. Graf Strahd benannte Schloss BaroviaSchloss Rabenhorst in Schloss Rabenhorst um, nach seiner Mutter, Königin Ravenovia . König",
+  "frontmatter": {
+    "aliases": [
+      "Schloss Barovia"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Barovia",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Schloss Barovia",
+      "label": "Schloss Barovia",
+      "slug": null
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Vladimir Horngaard",
+      "label": "Vladimir Horngaard",
+      "slug": "vladimir-horngaard"
+    },
+    {
+      "target": "Ben Otvos",
+      "label": "Ben Otvos",
+      "slug": "ben-otvos"
+    },
+    {
+      "target": "Artista DeSlop",
+      "label": "Artista DeSlop",
+      "slug": "artista-deslop"
+    },
+    {
+      "target": "Graf Stahbal Indi-Bhak",
+      "label": "Graf Stahbal Indi-Bhak",
+      "slug": "graf-stahbal-indi-bhak"
+    }
+  ],
+  "markdown": "Nördlich von [[Barovia (Dorf)]].\nWohnort von [[Graf Strahd]].\n\n![[Schloss Rabenhorst.png]]\n\n- [[Graf Strahd]] benannte [[Schloss Rabenhorst|Schloss Barovia]] in [[Schloss Rabenhorst]] um, nach seiner Mutter, **Königin Ravenovia**. \n\n- **König Barov von Zarovich** und **Königin Ravenovia van Roeven** besuchten Schloss Rabenhorst oft.\n \n- Graf Strahd gab den Wiederaufbau von Schloss Barovia in Auftrag, das während des Krieges teilweise zerstört worden war.  **Artimus** (bekannt als Erbauer des Bergfrieds) war der Architekt und leitete die Bemühungen zum Wiederaufbau der Burg.  Graf Strahd beauftragte **Artista DeSlop** als Hofmaler. Viele der Decken und der Kapelle, einschließlich der Buntglasfenster, sind das Werk von Artista DeSlop. Zur Ausstattung des neu errichteten Schlosses wurde **Lady Isolde Yunk** als Händlerin von Antiquitäten und Importen beauftragt.\n\n## KI-Zusammenfassung\n\nSchloss Rabenhorst, auch Schloss Barovia genannt, ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Nördlich von Barovia (Dorf). Wohnort von Graf Strahd. Graf Strahd benannte Schloss Barovia in Schloss Rabenhorst um, nach seiner Mutter, Königin Ravenovia. König Barov von Zarovich und Königin Ravenovia van Roeven besuchten Schloss Rabenhorst oft. Direkte Bezüge bestehen zu [[Barovia (Dorf)]], [[Graf Strahd]], [[Schloss Barovia]]. Schloss Rabenhorst wird außerdem in [[Graf Argynvost]], [[Vladimir Horngaard]], [[Ben Otvos]], [[Artista DeSlop]], [[Graf Stahbal Indi-Bhak]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

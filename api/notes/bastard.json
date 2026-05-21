@@ -1,0 +1,55 @@
+{
+  "title": "Bastard",
+  "slug": "bastard",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Bastard.md",
+  "url": "notes/bastard.html",
+  "apiUrl": "api/notes/bastard.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Bastard der Familie Alkir Gustav Alkir hat mit einer anderen Frau einen Bastard gezeugt. Malduk: Das ist bestimmt Walter, da er auf keinem der Bilder abgebildet wurde. Vermutlich i",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Alkir",
+      "label": "Familie Alkir",
+      "slug": "familie-alkir"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Bastard",
+      "label": "Bastard",
+      "slug": "bastard"
+    },
+    {
+      "target": "Walter",
+      "label": "Walter",
+      "slug": "walter"
+    },
+    {
+      "target": "Margareth",
+      "label": "Margareth",
+      "slug": "margareth"
+    },
+    {
+      "target": "Brief von Strahd an Alkir",
+      "label": "Brief von Strahd an Alkir",
+      "slug": "brief-von-strahd-an-alkir"
+    },
+    {
+      "target": "S06 - 2.OG",
+      "label": "S06 - 2.OG",
+      "slug": "s06-2-og"
+    }
+  ],
+  "markdown": "Bastard der [[Familie Alkir]]\n[[Gustav Alkir]] hat mit einer anderen Frau einen [[Bastard]] gezeugt.\n\n>***Malduk:** Das ist bestimmt [[Walter]], da er auf keinem der Bilder abgebildet wurde.*\n>Vermutlich ist seine Mutter dann die Amme, [[Margareth]], mit der [[Gustav Alkir]] sich so lange unterhalten hat und die er so gerne mochte.\n\n## KI-Zusammenfassung\n\nBastard ist eine Figur aus dem Bereich Haus Alkir. Die lokalen Notizen halten dazu fest: Gustav Alkir hat mit einer anderen Frau einen Bastard gezeugt. Malduk: Das ist bestimmt Walter, da er auf keinem der Bilder abgebildet wurde. Vermutlich ist seine Mutter dann die Amme, Margareth, mit der Gustav Alkir sich so lange unterhalten hat und die er so gerne mochte. Direkte Bezüge bestehen zu [[Familie Alkir]], [[Gustav Alkir]], [[Walter]], [[Margareth]]. Bastard wird außerdem in [[Gustav Alkir]], [[Margareth]], [[Walter]], [[Brief von Strahd an Alkir]], [[S06 - 2.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

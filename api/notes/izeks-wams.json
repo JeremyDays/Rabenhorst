@@ -1,0 +1,35 @@
+{
+  "title": "Izeks Wams",
+  "slug": "izeks-wams",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Izeks Wams.md",
+  "url": "notes/izeks-wams.html",
+  "apiUrl": "api/notes/izeks-wams.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Izek Strazni Mit Symbol auf der ledernen Brust Nekromantie KI Zusammenfassung Izeks Wams ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    },
+    {
+      "target": "S50 - St. Andrals Kirche",
+      "label": "S50 - St. Andrals Kirche",
+      "slug": "s50-st-andrals-kirche"
+    },
+    {
+      "target": "S64 - Der Baron bittet zu Tisch",
+      "label": "S64 - Der Baron bittet zu Tisch",
+      "slug": "s64-der-baron-bittet-zu-tisch"
+    }
+  ],
+  "markdown": "**Wo:** [[Izek Strazni]]\nMit Symbol auf der ledernen Brust\nNekromantie\n\n## KI-Zusammenfassung\n\nIzeks Wams ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Izek Strazni Mit Symbol auf der ledernen Brust Nekromantie Direkte Bezüge bestehen zu [[Izek Strazni]]. Izeks Wams wird außerdem in [[S50 - St. Andrals Kirche]], [[S64 - Der Baron bittet zu Tisch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

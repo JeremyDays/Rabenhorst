@@ -1,0 +1,30 @@
+{
+  "title": "Bluto Krogarov",
+  "slug": "bluto-krogarov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Bluto Krogarov.md",
+  "url": "notes/bluto-krogarov.html",
+  "apiUrl": "api/notes/bluto-krogarov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Aus: Vallaki Bekannter Trinker und Fischer, der es wagt, am Zarovich See zu angeln. KI Zusammenfassung Bluto Krogarov ist eine Figur aus dem Bereich Vallaki. Die lokalen Notizen ha",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Zarovich-See",
+      "label": "Zarovich-See",
+      "slug": "zarovich-see"
+    }
+  ],
+  "markdown": "Aus: [[Vallaki]]\n\nBekannter Trinker und Fischer, der es wagt, am [[Zarovich-See]] zu angeln.\n\n## KI-Zusammenfassung\n\nBluto Krogarov ist eine Figur aus dem Bereich Vallaki. Die lokalen Notizen halten dazu fest: Aus: Vallaki Bekannter Trinker und Fischer, der es wagt, am Zarovich-See zu angeln. Direkte Bezüge bestehen zu [[Vallaki]], [[Zarovich-See]]. Bluto Krogarov wird außerdem in [[Vallaki]], [[Zarovich-See]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}
