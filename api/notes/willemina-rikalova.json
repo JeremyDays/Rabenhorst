@@ -1,0 +1,50 @@
+{
+  "title": "Willemina Rikalova",
+  "slug": "willemina-rikalova",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Kirche/Willemina Rikalova.md",
+  "url": "notes/willemina-rikalova.html",
+  "apiUrl": "api/notes/willemina-rikalova.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Alte Frau aus Vallaki Religiös. Sie bittet, dass man ihrem Sohn Udo hilft. KI Zusammenfassung Willemina Rikalova ist eine Figur aus dem Bereich Vallaki / St. Andrals Kirche. Die lo",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Udo",
+      "label": "Udo",
+      "slug": "udo"
+    },
+    {
+      "target": "Lydia Vallakovich",
+      "label": "Lydia Vallakovich",
+      "slug": "lydia-vallakovich"
+    },
+    {
+      "target": "S50 - St. Andrals Kirche",
+      "label": "S50 - St. Andrals Kirche",
+      "slug": "s50-st-andrals-kirche"
+    },
+    {
+      "target": "S51 - Beim Sargmacher",
+      "label": "S51 - Beim Sargmacher",
+      "slug": "s51-beim-sargmacher"
+    },
+    {
+      "target": "S56 - Blauwasser-Taverne",
+      "label": "S56 - Blauwasser-Taverne",
+      "slug": "s56-blauwasser-taverne"
+    }
+  ],
+  "markdown": "_Alte Frau aus [[Vallaki]]_\n\n![[Willemina Rikalova.png]]\n\nReligiös.\nSie bittet, dass man ihrem Sohn [[Udo]] hilft.\n\n## KI-Zusammenfassung\n\nWillemina Rikalova ist eine Figur aus dem Bereich Vallaki / St. Andrals Kirche. Die lokalen Notizen halten dazu fest: Alte Frau aus Vallaki Religiös. Sie bittet, dass man ihrem Sohn Udo hilft. Direkte Bezüge bestehen zu [[Vallaki]], [[Udo]]. Willemina Rikalova wird außerdem in [[Lydia Vallakovich]], [[Udo]], [[S50 - St. Andrals Kirche]], [[S51 - Beim Sargmacher]], [[S56 - Blauwasser-Taverne]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

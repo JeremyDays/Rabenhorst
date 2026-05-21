@@ -1,0 +1,34 @@
+{
+  "title": "Vistani",
+  "slug": "vistani",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Vistani/Vistani.md",
+  "url": "notes/vistani.html",
+  "apiUrl": "api/notes/vistani.json",
+  "tags": [],
+  "excerpt": "Es gibt mehrere Gruppen dieser Zigeunergruppen. Bekannte Fraktionen: Rote Vistani Blaue Vistani Ausgestoßene Vistani Vistanisch: Rimanio . Haben die Sippe verlassen. Das wird wie e",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Rote Vistani",
+      "label": "Rote Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blaue Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Ausgestoßene Vistani",
+      "label": "Ausgestoßene Vistani",
+      "slug": "ausgesto-ene-vistani"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    }
+  ],
+  "markdown": "Es gibt mehrere Gruppen dieser Zigeunergruppen.\n\n**Bekannte Fraktionen:**\n- [[Rote Vistani]]\n- [[Blaue Vistani]]\n- [[Ausgestoßene Vistani]]\n\n\n#### Vistanisch:\n- ***Rimanio***. Haben die Sippe verlassen. Das wird wie eine Bestattung gefeiert.\n- ***Vani.*** Zurückkehrer.\n- ***Mortu.*** Verstoßene Vistani. Schnitt unter dem linken Auge. Pakt mit Wesen der Nacht. Versprechen gebrochen, Verbrechen begangen (Diebstahl, Mord).\n- ***Georgio.*** Ein Nicht-Vistani\n- ***Gigotto.*** Ein Freund von [[Vistani]], ein Ehren-Vistani.\n\n"
+}

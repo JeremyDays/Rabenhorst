@@ -1,0 +1,63 @@
+{
+  "title": "Winterwald",
+  "slug": "winterwald",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Winterwald.md",
+  "url": "notes/winterwald.html",
+  "apiUrl": "api/notes/winterwald.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Der Alte Wald (oder auch Winterwald) ist dicht und unheimlich. Er beginnt direkt an den Ausläufen der Eisenberge und drängt jedes Jahr von allen Seiten näher an den Silvanfluss, an",
+  "frontmatter": {
+    "aliases": [
+      "Alte Wald"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Eisenberge",
+      "label": "Eisenberge",
+      "slug": "eisenberge"
+    },
+    {
+      "target": "Silvanfluss",
+      "label": "Silvanfluss",
+      "slug": "silvanfluss"
+    },
+    {
+      "target": "Wehrturm",
+      "label": "Wehrturm",
+      "slug": "wehrturm"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorf",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Wald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Alten Wald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Waldwölfe",
+      "label": "Waldwölfe",
+      "slug": "waldwolfe"
+    }
+  ],
+  "markdown": "Der Alte Wald (oder auch [[Winterwald]]) ist dicht und unheimlich. Er beginnt direkt an den Ausläufen der [[Eisenberge]] und drängt jedes Jahr von allen Seiten näher an den [[Silvanfluss]], an den [[Wehrturm]] und an das [[Eichenfurt|Dorf]] heran. Kaum einer wagt sich in den [[Winterwald|Wald]] hinein. Nur mutige Jäger kennen sich in ihm aus. Und doch kehren manchmal auch diese nie wieder. Im [[Winterwald|Alten Wald]] gibt es scheue [[Waldwölfe]]. "
+}

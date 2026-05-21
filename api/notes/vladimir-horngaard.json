@@ -1,0 +1,55 @@
+{
+  "title": "Vladimir Horngaard",
+  "slug": "vladimir-horngaard",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Argynvost/Vladimir Horngaard.md",
+  "url": "notes/vladimir-horngaard.html",
+  "apiUrl": "api/notes/vladimir-horngaard.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ritter des Silbernen Drachen von Argynvost. Tot Der größte der Ritter des Silbernen Drachen. Graf Strahd hat ihn als einzigen am Leben gelassen, nachdem er Graf Argynvost, den Drac",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ritter des Silbernen Drachen",
+      "label": "Ritter des Silbernen Drachen",
+      "slug": "ritter-des-silbernen-drachen"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Argynvost",
+      "label": "Graf Argynvost",
+      "slug": "graf-argynvost"
+    },
+    {
+      "target": "Drachen",
+      "label": "Drachen",
+      "slug": "drachen"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    }
+  ],
+  "markdown": "[[Ritter des Silbernen Drachen]] von [[Argynvost]].\n\n![[Vladimir Horngaard.png]]\n\nTot\n\n- Der größte der [[Ritter des Silbernen Drachen]].\n- [[Graf Strahd]] hat ihn als einzigen am Leben gelassen, nachdem er [[Graf Argynvost]], den [[Drachen]], und alle seine [[Ritter des Silbernen Drachen]] getötet hatte.\n- [[Graf Strahd]] folterte ihn tagelang in den Kerkern von [[Schloss Rabenhorst]].\n\n## KI-Zusammenfassung\n\nVladimir Horngaard ist eine Figur aus dem Bereich Argynvost. Die lokalen Notizen halten dazu fest: Ritter des Silbernen Drachen von Argynvost. Der größte der Ritter des Silbernen Drachen. Graf Strahd hat ihn als einzigen am Leben gelassen, nachdem er Graf Argynvost, den Drachen, und alle seine Ritter des Silbernen Drachen getötet hatte. Graf Strahd folterte ihn tagelang in den Kerkern von Schloss Rabenhorst. Direkte Bezüge bestehen zu [[Ritter des Silbernen Drachen]], [[Argynvost]], [[Graf Strahd]], [[Graf Argynvost]], [[Drachen]]. Vladimir Horngaard wird außerdem in [[Ritter des Silbernen Drachen]], [[Quest]], [[Graf Argynvost]], [[Argynvost]], [[Schloss Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

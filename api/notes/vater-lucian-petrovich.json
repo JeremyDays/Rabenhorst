@@ -1,0 +1,58 @@
+{
+  "title": "Vater Lucian Petrovich",
+  "slug": "vater-lucian-petrovich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Kirche/Vater Lucian Petrovich.md",
+  "url": "notes/vater-lucian-petrovich.html",
+  "apiUrl": "api/notes/vater-lucian-petrovich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vater in St. Andrals Kirche VollbildVater Lucian Petrovich.png Bruder von Lydia Vallakovich KI Zusammenfassung Vater Lucian Petrovich, auch Vater Petrovich genannt, ist eine Figur ",
+  "frontmatter": {
+    "aliases": [
+      "Vater Petrovich"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
+    },
+    {
+      "target": "Vater Lucian Petrovich.png",
+      "label": "Vollbild",
+      "slug": null
+    },
+    {
+      "target": "Lydia Vallakovich",
+      "label": "Lydia Vallakovich",
+      "slug": "lydia-vallakovich"
+    },
+    {
+      "target": "Vollbild",
+      "label": "Vollbild",
+      "slug": null
+    },
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    },
+    {
+      "target": "Sankt Andral",
+      "label": "Sankt Andral",
+      "slug": "sankt-andral"
+    },
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Fiona Wachter",
+      "slug": "lady-fiona-wachter"
+    }
+  ],
+  "markdown": "Vater in [[St. Andrals Kirche]]\n\n![[Vater Lucian Petrovich.png]]\n\n[[Vater Lucian Petrovich.png|Vollbild]]\n\n- Bruder von [[Lydia Vallakovich]]\n\n## KI-Zusammenfassung\n\nVater Lucian Petrovich, auch Vater Petrovich genannt, ist eine Figur aus dem Bereich Vallaki / St. Andrals Kirche. Die lokalen Notizen halten dazu fest: Vater in St. Andrals Kirche Bruder von Lydia Vallakovich Direkte Bezüge bestehen zu [[St. Andrals Kirche]], [[Vollbild]], [[Lydia Vallakovich]]. Vater Lucian Petrovich wird außerdem in [[Izek Strazni]], [[Lydia Vallakovich]], [[Sankt Andral]], [[Lady Fiona Wachter]], [[St. Andrals Kirche]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

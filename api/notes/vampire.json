@@ -1,0 +1,28 @@
+{
+  "title": "Vampire",
+  "slug": "vampire",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Untote/Vampire.md",
+  "url": "notes/vampire.html",
+  "apiUrl": "api/notes/vampire.json",
+  "tags": [],
+  "excerpt": "Können Wohnstätten (Schwellen zu Orten, die nicht öffentlich zugänglich sind) nicht betreten ohne die Einladung des Bewohners. Werden von Knoblauch, Litanaien, Religiösen Symbolen ",
+  "frontmatter": {
+    "aliases": [
+      "Vampir"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Doru Donavich",
+      "label": "Doru Donavich",
+      "slug": "doru-donavich"
+    }
+  ],
+  "markdown": "\n- Können Wohnstätten (Schwellen zu Orten, die nicht öffentlich zugänglich sind) nicht betreten ohne die Einladung des Bewohners.\n- Werden von Knoblauch, Litanaien, Religiösen Symbolen vertrieben (Knoblauchgeruch hat die Vampirin im Anwesen des Burgomeisters nicht aufgehalten)\n- Fließendes Wasser verbrennt sie wie Säure\n- Sonnenlicht lässt sie in Flammen aufgehen\n- Von Pflöcken werden sie getötet\n- In Särgen schlafen sie des Tags\n- Beherrschen mit Blicken\n- Verwandeln sich in Fledermäuse, Wölfe und Nebelwolken\n- Können Ungeziefer und Wölfe herbeirufen\n- Heilige Symbole verbrennen sie\n- Sehr sehr schnell, sehr stark\n- Dampfwolken steigen auf, wenn sie in Kontakt mit Reinigungszaubern treten. Sie können Reinigungskreise nicht betreten oder verlassen.\n- Bleich\n- Ziehen Kraft aus Blut\n\n**Mitglieder:**\n- [[Graf Strahd]]\n- [[Doru Donavich]]\n- "
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Zauberkomponenten",
+  "slug": "zauberkomponenten",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Zauberkomponenten.md",
+  "url": "notes/zauberkomponenten.html",
+  "apiUrl": "api/notes/zauberkomponenten.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kerzenwachs viel Spinnenweben viel ... KI Zusammenfassung Zauberkomponenten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kerzenwachs v",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    }
+  ],
+  "markdown": "- Kerzenwachs -- viel\n- Spinnenweben -- viel\n- ...\n\n## KI-Zusammenfassung\n\nZauberkomponenten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kerzenwachs -- viel Spinnenweben -- viel Zauberkomponenten wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

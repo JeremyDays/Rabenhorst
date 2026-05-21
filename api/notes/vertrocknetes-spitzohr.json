@@ -1,0 +1,55 @@
+{
+  "title": "Vertrocknetes Spitzohr",
+  "slug": "vertrocknetes-spitzohr",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Vertrocknetes Spitzohr.md",
+  "url": "notes/vertrocknetes-spitzohr.html",
+  "apiUrl": "api/notes/vertrocknetes-spitzohr.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Malduk in Haus Alkir. NIschenwände Halbelfenohr KI Zusammenfassung Vertrocknetes Spitzohr ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    },
+    {
+      "target": "S62 - Zuber und Kleider",
+      "label": "S62 - Zuber und Kleider",
+      "slug": "s62-zuber-und-kleider"
+    },
+    {
+      "target": "S63 - Baron Vargas",
+      "label": "S63 - Baron Vargas",
+      "slug": "s63-baron-vargas"
+    },
+    {
+      "target": "S64 - Der Baron bittet zu Tisch",
+      "label": "S64 - Der Baron bittet zu Tisch",
+      "slug": "s64-der-baron-bittet-zu-tisch"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. NIschenwände\n\nHalbelfenohr\n\n## KI-Zusammenfassung\n\nVertrocknetes Spitzohr ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. NIschenwände Halbelfenohr Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Vertrocknetes Spitzohr wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]], [[S62 - Zuber und Kleider]], [[S63 - Baron Vargas]], [[S64 - Der Baron bittet zu Tisch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

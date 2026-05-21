@@ -1,0 +1,25 @@
+{
+  "title": "Wachhaus",
+  "slug": "wachhaus",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Vallaki/Wachhaus.md",
+  "url": "notes/wachhaus.html",
+  "apiUrl": "api/notes/wachhaus.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Vallaki In einer Kiste werden alle Waffen aller Reisenden aufgenommen. KI Zusammenfassung Wachhaus ist ein Ort im Bereich Vallaki. Die lokalen Notizen halten dazu fest: In: Val",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "In: [[Vallaki]]\n\nIn einer Kiste werden alle Waffen aller Reisenden aufgenommen.\n\n## KI-Zusammenfassung\n\nWachhaus ist ein Ort im Bereich Vallaki. Die lokalen Notizen halten dazu fest: In: Vallaki In einer Kiste werden alle Waffen aller Reisenden aufgenommen. Direkte Bezüge bestehen zu [[Vallaki]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

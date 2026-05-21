@@ -1,0 +1,50 @@
+{
+  "title": "Urwin Martikov",
+  "slug": "urwin-martikov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Blauwassertaverne/Urwin Martikov.md",
+  "url": "notes/urwin-martikov.html",
+  "apiUrl": "api/notes/urwin-martikov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wirt der Blauwassertaverne Beziehungen Familie Martikov Ehemann von Danika Dorakova Mutter von Bray Martikov und Brom Martikov KI Zusammenfassung Urwin Martikov ist eine Figur aus ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Blauwassertaverne",
+      "label": "Blauwassertaverne",
+      "slug": "blauwassertaverne"
+    },
+    {
+      "target": "Familie Martikov",
+      "label": "Familie Martikov",
+      "slug": "familie-martikov"
+    },
+    {
+      "target": "Danika Dorakova",
+      "label": "Danika Dorakova",
+      "slug": "danika-dorakova"
+    },
+    {
+      "target": "Bray Martikov",
+      "label": "Bray Martikov",
+      "slug": "bray-martikov"
+    },
+    {
+      "target": "Brom Martikov",
+      "label": "Brom Martikov",
+      "slug": "brom-martikov"
+    },
+    {
+      "target": "S56 - Blauwasser-Taverne",
+      "label": "S56 - Blauwasser-Taverne",
+      "slug": "s56-blauwasser-taverne"
+    }
+  ],
+  "markdown": "Wirt der [[Blauwassertaverne]]\n\n![[Urwin Martikov.png]]\n\n#### Beziehungen\n- [[Familie Martikov]]\n- Ehemann von [[Danika Dorakova]]\n- Mutter von [[Bray Martikov]] und [[Brom Martikov]]\n\n## KI-Zusammenfassung\n\nUrwin Martikov ist eine Figur aus dem Bereich Vallaki / Blauwassertaverne. Die lokalen Notizen halten dazu fest: Wirt der Blauwassertaverne Familie Martikov Ehemann von Danika Dorakova Mutter von Bray Martikov und Brom Martikov Direkte Bezüge bestehen zu [[Blauwassertaverne]], [[Familie Martikov]], [[Danika Dorakova]], [[Bray Martikov]], [[Brom Martikov]]. Urwin Martikov wird außerdem in [[Bray Martikov]], [[Brom Martikov]], [[Danika Dorakova]], [[Blauwassertaverne]], [[S56 - Blauwasser-Taverne]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

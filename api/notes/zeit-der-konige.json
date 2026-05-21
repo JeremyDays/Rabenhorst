@@ -1,0 +1,43 @@
+{
+  "title": "Zeit der Könige",
+  "slug": "zeit-der-konige",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Zeit der Könige.md",
+  "url": "notes/zeit-der-konige.html",
+  "apiUrl": "api/notes/zeit-der-konige.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Nach der Ankunft der Ersten Könige im Tal von BaroviaBarovia. Zu der Zeit lebte Khazan schon in seinem Turm. Malduk: Wann war das? Das muss noch vor dem Großen KriegGroßer Krieg un",
+  "frontmatter": {
+    "aliases": [
+      "Zeitalter der Könige"
+    ],
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Tal von Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Großen Krieg",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Krieg der Könige",
+      "label": "Krieg der Könige",
+      "slug": "krieg-der-konige"
+    }
+  ],
+  "markdown": "\nNach der Ankunft der Ersten Könige im [[Barovia|Tal von Barovia]]. \nZu der Zeit lebte [[Khazan]] schon in seinem Turm.\n\n\n>***Malduk:** Wann war das? Das muss noch vor dem [[Großer Krieg|Großen Krieg]] und dem [[Krieg der Könige]] gewesen sein.*\n\n\n\n\n\n"
+}

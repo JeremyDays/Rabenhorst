@@ -1,0 +1,75 @@
+{
+  "title": "Wehrturm",
+  "slug": "wehrturm",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Wehrturm.md",
+  "url": "notes/wehrturm.html",
+  "apiUrl": "api/notes/wehrturm.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Eichenfurt Ca. 10min entfernt im Westen des DorfesEichenfurt steht ein alter, halb verfallener Wehrturm auf einem Hügel. ==In S01 Zur Alten Tränke hieß es 30min.== 3 stöckig, a",
+  "frontmatter": {
+    "aliases": [
+      "Turm des verrückten Alten",
+      "Turm des Alten",
+      "Malduks Turm"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorfes",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Wehrturm",
+      "label": "Wehrturm",
+      "slug": "wehrturm"
+    },
+    {
+      "target": "S01 - Zur Alten Tränke",
+      "label": "S01 - Zur Alten Tränke",
+      "slug": "s01-zur-alten-tranke"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Luna",
+      "label": "Luna",
+      "slug": "luna"
+    },
+    {
+      "target": "Jelen",
+      "label": "Jelen",
+      "slug": "jelen"
+    },
+    {
+      "target": "Malduk",
+      "label": "Alten Hexer",
+      "slug": "malduk"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Wehrturm",
+      "label": "Turm",
+      "slug": "wehrturm"
+    }
+  ],
+  "markdown": "\nIn: [[Eichenfurt]]\n\n- Ca. 10min entfernt im Westen des [[Eichenfurt|Dorfes]] steht ein alter, halb verfallener [[Wehrturm]] auf einem Hügel.  ==In [[S01 - Zur Alten Tränke]] hieß es 30min.==\n- 3 stöckig, auf einem Hügel mit Resten von Mauern. \n- Abschätzig wird er der \"**Turm des verrückten Alten**\" oder einfach der \"**Turm des Alten**\" genannt. \n- Ein Wettermagier namens [[Malduk]] ist dort vor ca. 10 Jahren eingezogen. \n- Gruselig und unheimlich flackert des manchen Nachts ein einsames Licht im einzelnen Fenster im dritten Stock des Turms. Und schaut man tief in der Nacht in die Richtung, so kann man man manchmal Schnee fallen sehen. Ein pfeifender kalter Wind zieht oft aus Westen über das Dorf hinweg und die Bürger schlagen schnell die Symbole von [[Luna]] und [[Jelen]], um Unglück abzuwenden. \n- Man ist bislang immer noch skeptisch. Das Wetter wirkt manch einem schlechter als damals, aber wenigstens bleibt der Regen für die Felder nicht aus. \n- Die Kinder des [[Eichenfurt|Dorfes]] werden mit Gruselgeschichten über den [[Malduk|Alten Hexer]] ins Bett gebracht, viele davon erfunden, und manch ein Kind traut sich gar als Mutprobe zu den verwitterten Mauerresten auf dem Hügel, die noch immer Zeugnis stehen von einer Zeit, in der es dem Dorf besser erging. Nun können die Mauerreste aber vor nichts mehr schützen. Der [[Winterwald]] rückt beharrlich näher und näher und hat den [[Wehrturm|Turm]] in ein paar Jahreszeiten sicher komplett umschlossen.\n- Grabmäler beim Turm?\n- \n\n"
+}
