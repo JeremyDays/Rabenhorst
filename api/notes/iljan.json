@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Diener von Baron Vargas Vallakovich Vater von Nadja KI Zusammenfassung Iljan ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Diener von",
+  "excerpt": "Diener von Baron Vargas Vallakovich Vater von Nadja KI Zusammenfassung Iljan ist ein NSC. Die Notiz ordnet Iljan dem Bereich Vallaki / Burgomeister zu. Beruf / Rolle Diener von Bar",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,10 +26,15 @@
       "slug": "nadja"
     },
     {
-      "target": "S67 - Victor, Nadja und Iljan",
-      "label": "S67 - Victor, Nadja und Iljan",
-      "slug": "s67-victor-nadja-und-iljan"
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Burgomeister",
+      "label": "Burgomeister",
+      "slug": null
     }
   ],
-  "markdown": "- Diener von [[Baron Vargas Vallakovich]]\n- Vater von [[Nadja]]\n\n## KI-Zusammenfassung\n\nIljan ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Diener von Baron Vargas Vallakovich Vater von Nadja Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]], [[Nadja]]. Iljan wird außerdem in [[Baron Vargas Vallakovich]], [[Nadja]], [[S67 - Victor, Nadja und Iljan]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Diener von [[Baron Vargas Vallakovich]]\n- Vater von [[Nadja]]\n\n## KI-Zusammenfassung\n\nIljan ist ein NSC. Die Notiz ordnet Iljan dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nDiener von Baron Vargas Vallakovich.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nDiener von Baron Vargas Vallakovich. Vater von Nadja. Nadja: Tochter von Iljan. S67 - Victor, Nadja und Iljan: Nadja und Iljan. Sehen gesättigt aus und dankbar.\n\n### Historie / Was wir wissen\n\nDiener von Baron Vargas Vallakovich. Vater von Nadja.\n"
 }

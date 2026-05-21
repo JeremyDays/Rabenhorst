@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Der tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von WölfenWölfe getötet wurde. KI Zusammenfassung Dulvan ist eine ",
+  "excerpt": "Der tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von WölfenWölfe getötet wurde. KI Zusammenfassung Dulvan ist ein N",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -31,15 +31,10 @@
       "slug": "wolfe"
     },
     {
-      "target": "Wölfen",
-      "label": "Wölfen",
-      "slug": null
-    },
-    {
-      "target": "S12 - Ankunft Barovia",
-      "label": "S12 - Ankunft Barovia",
-      "slug": "s12-ankunft-barovia"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "Der tote Bote direkt nach dem [[Tor von Barovia]], der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte und von [[Wölfe|Wölfen]] getötet wurde.\n\n## KI-Zusammenfassung\n\nDulvan ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Der tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von Wölfen getötet wurde. Direkte Bezüge bestehen zu [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]], [[Wölfen]]. Dulvan wird außerdem in [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]], [[S12 - Ankunft Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Der tote Bote direkt nach dem [[Tor von Barovia]], der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte und von [[Wölfe|Wölfen]] getötet wurde.\n\n## KI-Zusammenfassung\n\nDulvan ist ein NSC. Die Notiz ordnet Dulvan dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nDer tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von Wölfen getötet wurde. S12 - Ankunft Barovia: Dulvans Leichnam.\n\n### Historie / Was wir wissen\n\nDer tote Bote direkt nach dem Tor von Barovia, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte und von Wölfen getötet wurde.\n"
 }

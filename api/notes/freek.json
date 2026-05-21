@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Kind aus der Hexenmühle KI Zusammenfassung Freek ist eine Figur aus dem Bereich Hexenmühle. Die lokalen Notizen halten dazu fest: Kind aus der Hexenmühle Direkte Bezüge bestehen zu",
+  "excerpt": "Kind aus der Hexenmühle KI Zusammenfassung Freek ist ein NSC. Die Notiz ordnet Freek dem Bereich Hexenmühle zu. Beruf / Rolle Kind aus der Hexenmühle. Wohnort / Aufenthalt Der Ordn",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,27 +19,7 @@
       "target": "Hexenmühle",
       "label": "Hexenmühle",
       "slug": "hexenmuhle"
-    },
-    {
-      "target": "Quest",
-      "label": "Quest",
-      "slug": "quest"
-    },
-    {
-      "target": "St. Andrals Waisenhaus",
-      "label": "St. Andrals Waisenhaus",
-      "slug": "st-andrals-waisenhaus"
-    },
-    {
-      "target": "S26 - Engelstod",
-      "label": "S26 - Engelstod",
-      "slug": "s26-engelstod"
-    },
-    {
-      "target": "S28 - Im Heiligtum",
-      "label": "S28 - Im Heiligtum",
-      "slug": "s28-im-heiligtum"
     }
   ],
-  "markdown": "Kind aus der [[Hexenmühle]]\n\n## KI-Zusammenfassung\n\nFreek ist eine Figur aus dem Bereich Hexenmühle. Die lokalen Notizen halten dazu fest: Kind aus der Hexenmühle Direkte Bezüge bestehen zu [[Hexenmühle]]. Freek wird außerdem in [[Quest]], [[St. Andrals Waisenhaus]], [[Hexenmühle]], [[S26 - Engelstod]], [[S28 - Im Heiligtum]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Kind aus der [[Hexenmühle]]\n\n## KI-Zusammenfassung\n\nFreek ist ein NSC. Die Notiz ordnet Freek dem Bereich [[Hexenmühle]] zu.\n\n### Beruf / Rolle\n\nKind aus der Hexenmühle.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Hexenmühle]] zu.\n\n### Beziehungen und Verbindungen\n\nKind aus der Hexenmühle. Quest: Faddey mit Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Freek zusammen zum St. Andrals Waisenhaus in Vallaki bringen. St. Andrals Waisenhaus: Wir haben die Kinder Faddey und Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Freek dorthin gebracht. St. Andrals Waisenhaus: Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Freek.\n\n### Historie / Was wir wissen\n\nKind aus der Hexenmühle.\n"
 }

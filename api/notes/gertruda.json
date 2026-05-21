@@ -36,15 +36,10 @@
       "slug": "svalich-wald"
     },
     {
-      "target": "Quest",
-      "label": "Quest",
-      "slug": "quest"
-    },
-    {
-      "target": "Stadthaus der verrückten Maria",
-      "label": "Stadthaus der verrückten Maria",
-      "slug": "stadthaus-der-verruckten-maria"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "Junge Tochter der [[Maria]]. \n\n![[Gertruda.png]]\n\n- Sie ist eingesperrt im Stadthaus in [[Barovia (Dorf)]] aufgewachsen.\n- Sie hat von ihrer Mutter [[Maria]] die Puppe von [[Gadof Blinski]] erhalten.\n- Sie ist jetzt Jugendlich.\n- Sie ist vor ca. einer Woche (==Wann war das?==) im [[Svalich-Wald]] verschwunden.\n- Sie hat ihre Puppe von [[Gadof Blinski]] nicht mitgenommen.\n\n- Wir haben sie (bisher) noch nicht getroffen.\n\n## KI-Zusammenfassung\n\nGertruda ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Junge Tochter der Maria. Sie ist eingesperrt im Stadthaus in Barovia (Dorf) aufgewachsen. Sie hat von ihrer Mutter Maria die Puppe von Gadof Blinski erhalten. Sie ist jetzt Jugendlich. Direkte Bezüge bestehen zu [[Maria]], [[Barovia (Dorf)]], [[Gadof Blinski]], [[Svalich-Wald]]. Gertruda wird außerdem in [[Quest]], [[Maria]], [[Gadof Blinski]], [[Barovia (Dorf)]], [[Stadthaus der verrückten Maria]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Junge Tochter der [[Maria]]. \n\n![[Gertruda.png]]\n\n- Sie ist eingesperrt im Stadthaus in [[Barovia (Dorf)]] aufgewachsen.\n- Sie hat von ihrer Mutter [[Maria]] die Puppe von [[Gadof Blinski]] erhalten.\n- Sie ist jetzt Jugendlich.\n- Sie ist vor ca. einer Woche (==Wann war das?==) im [[Svalich-Wald]] verschwunden.\n- Sie hat ihre Puppe von [[Gadof Blinski]] nicht mitgenommen.\n\n- Wir haben sie (bisher) noch nicht getroffen.\n\n## KI-Zusammenfassung\n\nGertruda ist ein NSC. Die Notiz ordnet Gertruda dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nJunge Tochter der Maria. Sie ist eingesperrt im Stadthaus in Barovia (Dorf) aufgewachsen. Sie hat von ihrer Mutter Maria die Puppe von Gadof Blinski erhalten. Sie ist vor ca. einer Woche (Wann war das?) im Svalich-Wald verschwunden. Sie hat ihre Puppe von Gadof Blinski nicht mitgenommen. Quest: Marias Tochter Gertruda wieder finden und zurück bringen. Maria: Sie hatte eine Puppe von Gadof Blinski, die sie an Gertruda weitergab. Maria: Sie hat ihre Tochter Gertruda verloren.\n\n### Historie / Was wir wissen\n\nJunge Tochter der Maria. Sie ist eingesperrt im Stadthaus in Barovia (Dorf) aufgewachsen. Sie hat von ihrer Mutter Maria die Puppe von Gadof Blinski erhalten. Sie ist jetzt Jugendlich. Sie ist vor ca. einer Woche (Wann war das?) im Svalich-Wald verschwunden. Sie hat ihre Puppe von Gadof Blinski nicht mitgenommen.\n"
 }

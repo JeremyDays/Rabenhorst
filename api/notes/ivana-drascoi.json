@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "tot Beziehungen: Familie Drascoi Tochter von Alek Drascoi und Kala Drascoi Schwester von Boris Drascoi KI Zusammenfassung Ivana Drascoi ist eine Figur aus dem Bereich Vallaki / Dra",
+  "excerpt": "tot Beziehungen: Familie Drascoi Tochter von Alek Drascoi und Kala Drascoi Schwester von Boris Drascoi KI Zusammenfassung Ivana Drascoi ist ein NSC. Die Notiz ordnet Ivana Drascoi ",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -36,10 +36,15 @@
       "slug": "boris-drascoi"
     },
     {
-      "target": "S15 - Drascoi",
-      "label": "S15 - Drascoi",
-      "slug": "s15-drascoi"
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Drascoi",
+      "label": "Drascoi",
+      "slug": null
     }
   ],
-  "markdown": "tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Tochter von [[Alek Drascoi]] und [[Kala Drascoi]]\n- Schwester von [[Boris Drascoi]]\n\n## KI-Zusammenfassung\n\nIvana Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. Die lokalen Notizen halten dazu fest: Beziehungen: Familie Drascoi Tochter von Alek Drascoi und Kala Drascoi Schwester von Boris Drascoi Direkte Bezüge bestehen zu [[Familie Drascoi]], [[Alek Drascoi]], [[Kala Drascoi]], [[Boris Drascoi]]. Ivana Drascoi wird außerdem in [[Alek Drascoi]], [[Boris Drascoi]], [[Kala Drascoi]], [[S15 - Drascoi]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Tochter von [[Alek Drascoi]] und [[Kala Drascoi]]\n- Schwester von [[Boris Drascoi]]\n\n## KI-Zusammenfassung\n\nIvana Drascoi ist ein NSC. Die Notiz ordnet Ivana Drascoi dem Bereich [[Vallaki]] / [[Drascoi]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Drascoi]] zu.\n\n### Beziehungen und Verbindungen\n\nFamilie Drascoi. Tochter von Alek Drascoi und Kala Drascoi. Schwester von Boris Drascoi. Alek Drascoi: Vater von Boris Drascoi und Ivana Drascoi. Boris Drascoi: Bruder von Ivana Drascoi. Kala Drascoi: Mutter von Boris Drascoi und Ivana Drascoi.\n\n### Historie / Was wir wissen\n\nFamilie Drascoi. Tochter von Alek Drascoi und Kala Drascoi. Schwester von Boris Drascoi.\n"
 }
