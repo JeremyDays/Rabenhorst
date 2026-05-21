@@ -1,0 +1,88 @@
+{
+  "title": "Träume",
+  "slug": "traume",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Träume.md",
+  "url": "notes/traume.html",
+  "apiUrl": "api/notes/traume.json",
+  "tags": [],
+  "excerpt": "Träume spielen hier in Barovia eine besondere Rolle. Oft sind es sehr negative Träume, AlbträumeTräume. Manchmal sind es aber auch WahrträumeTräume. Der Geist von Argynvost sucht d",
+  "frontmatter": {
+    "aliases": [
+      "Albträume",
+      "Albtraum",
+      "Traum",
+      "Träumen",
+      "Wahrträume",
+      "Albträumen"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Träume",
+      "label": "Träume",
+      "slug": "traume"
+    },
+    {
+      "target": "Träume",
+      "label": "Albträume",
+      "slug": "traume"
+    },
+    {
+      "target": "Träume",
+      "label": "Wahrträume",
+      "slug": "traume"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Träume",
+      "label": "Träumen",
+      "slug": "traume"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Träume",
+      "label": "Fiebertraum",
+      "slug": "traume"
+    },
+    {
+      "target": "Koljan Indirowitsch",
+      "label": "Koljan Indirowitsch",
+      "slug": "koljan-indirowitsch"
+    },
+    {
+      "target": "Träume",
+      "label": "Albtraum",
+      "slug": "traume"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\nTräume spielen hier in [[Barovia]] eine besondere Rolle.\n\nOft sind es sehr negative [[Träume]], [[Träume|Albträume]].\nManchmal sind es aber auch [[Träume|Wahrträume]].\n\n- Der Geist von [[Argynvost]] sucht die Würdigen in ihren [[Träume|Träumen]]\n- [[Milivoj]] war im [[Träume|Fiebertraum]] gefangen\n- [[Koljan Indirowitsch]] ist in einem [[Träume|Albtraum]] gestorben\n- [[Michal]], [[Heinard]] und [[Malduk]] hatten je [[Träume]], die sie prüften\n- "
+}

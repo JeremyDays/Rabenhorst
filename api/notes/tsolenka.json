@@ -1,0 +1,45 @@
+{
+  "title": "Tsolenka",
+  "slug": "tsolenka",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Tsolenka.md",
+  "url": "notes/tsolenka.html",
+  "apiUrl": "api/notes/tsolenka.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Anscheinend ein Ort mit Toren von TsolenkaTore von Tsolenka und einem Tsolenka Pass. KI Zusammenfassung Tsolenka ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fe",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Toren von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Tsolenka-Pass",
+      "label": "Tsolenka-Pass",
+      "slug": "tsolenka-pass"
+    },
+    {
+      "target": "Toren von Tsolenka",
+      "label": "Toren von Tsolenka",
+      "slug": null
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tore von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Legende von Lugdana",
+      "slug": "die-legende-von-lugdana"
+    }
+  ],
+  "markdown": "Anscheinend ein Ort mit [[Tore von Tsolenka|Toren von Tsolenka]] und einem [[Tsolenka-Pass]].\n\n## KI-Zusammenfassung\n\nTsolenka ist ein Ort aus den Ortsnotizen. Die lokalen Notizen halten dazu fest: Anscheinend ein Ort mit Toren von Tsolenka und einem Tsolenka-Pass. Direkte Bezüge bestehen zu [[Toren von Tsolenka]], [[Tsolenka-Pass]]. Tsolenka wird außerdem in [[Tore von Tsolenka]], [[Tsolenka-Pass]], [[Die Legende von Lugdana]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

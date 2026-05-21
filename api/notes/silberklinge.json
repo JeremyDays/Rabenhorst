@@ -1,0 +1,40 @@
+{
+  "title": "Silberklinge",
+  "slug": "silberklinge",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Magische Gegenstände/Silberklinge.md",
+  "url": "notes/silberklinge.html",
+  "apiUrl": "api/notes/silberklinge.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kurzschwert. Gefunden: Michal im Haus Alkir. Brunnen. Wert: 350 400Pf. Aussehen: In Leder eingeschlagen. Klinge aus Silber. Luna Klinge. Spieltechnisch: Schaden: 1W6 / +2 auf FW ge",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S09 - Ghule",
+      "label": "S09 - Ghule",
+      "slug": "s09-ghule"
+    }
+  ],
+  "markdown": "Kurzschwert. \n\n**Gefunden:** [[Michal]] im [[Haus Alkir]]. Brunnen.\n**Wert:** 350-400Pf.\n\n**Aussehen:**\n- In Leder eingeschlagen. Klinge aus Silber. Luna-Klinge.\n\n**Spieltechnisch:**\n- Schaden: 1W6 / +2 auf FW gegen Vampire/Werwesen und +3 schaden (2W+2)\n\n>***Michal:** Magisch. Diese Waffe schlägt vermutlich auch Wesen Schaden, die nicht von gewöhnlichen Waffen verwundet werden können. Ich fühle einen gespeicherten Hass gegenüber dunkle Wesenheiten. [+2 SK gg. Werwesen und Vampire = 2W6 -1 (egal welche ST) verbrennendes Fell]*\n\n## KI-Zusammenfassung\n\nSilberklinge ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Kurzschwert. Gefunden: Michal im Haus Alkir. Brunnen. Wert: 350-400Pf. Aussehen: Direkte Bezüge bestehen zu [[Michal]], [[Haus Alkir]]. Silberklinge wird außerdem in [[Alle Gegenstände]], [[S09 - Ghule]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

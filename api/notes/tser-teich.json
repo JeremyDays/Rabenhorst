@@ -1,0 +1,55 @@
+{
+  "title": "Tser-Teich",
+  "slug": "tser-teich",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Tser-Teich.md",
+  "url": "notes/tser-teich.html",
+  "apiUrl": "api/notes/tser-teich.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Bei der Ivlis Kreuzung gen Norden und über den Ivlis Fluss führt der Weg zum Tser Teich, an dem die Blauen VistaniBlaue Vistani lagern. KI Zusammenfassung Tser Teich ist ein Ort im",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Ivlis-Kreuzung",
+      "label": "Ivlis-Kreuzung",
+      "slug": "ivlis-kreuzung"
+    },
+    {
+      "target": "Ivlis-Fluss",
+      "label": "Ivlis-Fluss",
+      "slug": "ivlis-fluss"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Blauen Vistani",
+      "label": "Blauen Vistani",
+      "slug": null
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blaue Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Fledermaus-Höhle",
+      "label": "Fledermaus-Höhle",
+      "slug": "fledermaus-hohle"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    }
+  ],
+  "markdown": "Bei der [[Ivlis-Kreuzung]] gen Norden und über den [[Ivlis-Fluss]] führt der Weg zum Tser-Teich, an dem die [[Blaue Vistani|Blauen Vistani]] lagern.\n\n## KI-Zusammenfassung\n\nTser-Teich ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Bei der Ivlis-Kreuzung gen Norden und über den Ivlis-Fluss führt der Weg zum Tser-Teich, an dem die Blauen Vistani lagern. Direkte Bezüge bestehen zu [[Ivlis-Kreuzung]], [[Ivlis-Fluss]], [[Blauen Vistani]]. Tser-Teich wird außerdem in [[Blaue Vistani]], [[Fledermaus-Höhle]], [[Hexenmühle]], [[Ivlis-Fluss]], [[Ivlis-Kreuzung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Schwester Constance",
+  "slug": "schwester-constance",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Krezk/Schwester Constance.md",
+  "url": "notes/schwester-constance.html",
+  "apiUrl": "api/notes/schwester-constance.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "In Wahrheit: Engel, der über Kranke wacht. Hatte Kontakt mit Lugdana Argynvost. Hatte Lugdana Argynvost das \"Heilige Symbol der SonneHeiliges Symbol der Sonne\" (Amulett) gegeben. [",
+  "frontmatter": {
+    "aliases": [
+      "Engel"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Lugdana Argynvost",
+      "label": "Lugdana Argynvost",
+      "slug": "lugdana-argynvost"
+    },
+    {
+      "target": "Heiliges Symbol der Sonne",
+      "label": "Heilige Symbol der Sonne",
+      "slug": "heiliges-symbol-der-sonne"
+    },
+    {
+      "target": "Heilige Symbol der Sonne",
+      "label": "Heilige Symbol der Sonne",
+      "slug": null
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Legende von Lugdana",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Heiliges Symbol der Sonne",
+      "label": "Heiliges Symbol der Sonne",
+      "slug": "heiliges-symbol-der-sonne"
+    },
+    {
+      "target": "S31 - Die Opfer der Hexen",
+      "label": "S31 - Die Opfer der Hexen",
+      "slug": "s31-die-opfer-der-hexen"
+    }
+  ],
+  "markdown": "- In Wahrheit: Engel, der über Kranke wacht. \n- Hatte Kontakt mit [[Lugdana Argynvost]].\n- Hatte [[Lugdana Argynvost]] das \"[[Heiliges Symbol der Sonne|Heilige Symbol der Sonne]]\" (Amulett) gegeben.\n\n  [Zeichnung im Buch]\n\n## KI-Zusammenfassung\n\nSchwester Constance, auch Engel genannt, ist eine Figur aus dem Bereich Krezk. Die lokalen Notizen halten dazu fest: In Wahrheit: Engel, der über Kranke wacht. Hatte Kontakt mit Lugdana Argynvost. Hatte Lugdana Argynvost das \"Heilige Symbol der Sonne\" (Amulett) gegeben. [Zeichnung im Buch] Direkte Bezüge bestehen zu [[Lugdana Argynvost]], [[Heilige Symbol der Sonne]]. Schwester Constance wird außerdem in [[Lugdana Argynvost]], [[Die Legende von Lugdana]], [[Heiliges Symbol der Sonne]], [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

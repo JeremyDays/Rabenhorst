@@ -1,0 +1,35 @@
+{
+  "title": "Tagebuch von Frau Belasco",
+  "slug": "tagebuch-von-frau-belasco",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Bücher/Tagebuch von Frau Belasco.md",
+  "url": "notes/tagebuch-von-frau-belasco.html",
+  "apiUrl": "api/notes/tagebuch-von-frau-belasco.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: St. Andrals Waisenhaus Es enthält die Geschichte, wie Felix gefunden wurde. KI Zusammenfassung Tagebuch von Frau Belasco ist ein Gegenstand nicht im Besitz der Gruppe. Di",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Felix",
+      "label": "Felix",
+      "slug": "felix"
+    },
+    {
+      "target": "S45 - Der Dunkelheit auf der Spur",
+      "label": "S45 - Der Dunkelheit auf der Spur",
+      "slug": "s45-der-dunkelheit-auf-der-spur"
+    }
+  ],
+  "markdown": "**Gefunden:** [[St. Andrals Waisenhaus]]\n\nEs enthält die Geschichte, wie [[Felix]] gefunden wurde.\n\n## KI-Zusammenfassung\n\nTagebuch von Frau Belasco ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Gefunden: St. Andrals Waisenhaus Es enthält die Geschichte, wie Felix gefunden wurde. Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]], [[Felix]]. Tagebuch von Frau Belasco wird außerdem in [[Felix]], [[S45 - Der Dunkelheit auf der Spur]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

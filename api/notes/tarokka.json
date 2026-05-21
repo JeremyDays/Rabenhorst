@@ -1,0 +1,206 @@
+{
+  "title": "Tarokka",
+  "slug": "tarokka",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Bücher)/Tarokka.md",
+  "url": "notes/tarokka.html",
+  "apiUrl": "api/notes/tarokka.json",
+  "tags": [],
+  "excerpt": "Feen Quest Nur durch die Fey kann man dem Nebel entkommen Ahhh, junge, stolze Abenteurer auf der Suche nach Wissen über die legendären Fey. Ihr sucht die magischen Edelsteine der F",
+  "frontmatter": {
+    "tags": ""
+  },
+  "links": [
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Nebel",
+      "label": "Nebel",
+      "slug": "nebel"
+    },
+    {
+      "target": "Edelsteine der Fey",
+      "label": "Edelsteine der Fey",
+      "slug": "edelsteine-der-fey"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Buch der Feen von Barovia",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Edelsteine der Fey",
+      "label": "drei Edelsteine",
+      "slug": "edelsteine-der-fey"
+    },
+    {
+      "target": "Fey",
+      "label": "Feen",
+      "slug": "fey"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Grüne Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Grimmiger Rabe",
+      "label": "grimmigen Raben",
+      "slug": "grimmiger-rabe"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "grünen Edelstein",
+      "slug": "edelstein-grun"
+    },
+    {
+      "target": "Edelstein (Rot)",
+      "label": "Rote Edelstein",
+      "slug": "edelstein-rot"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "einsamen Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Khazans Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Edelstein (Rot)",
+      "label": "Roten Edelstein",
+      "slug": "edelstein-rot"
+    },
+    {
+      "target": "Edelstein (Blau)",
+      "label": "Blaue Edelstein",
+      "slug": "edelstein-blau"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Herz des Bösen",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Moloch",
+      "label": "Moloch",
+      "slug": "moloch"
+    },
+    {
+      "target": "Fluss Luna",
+      "label": "Fluss Luna",
+      "slug": "fluss-luna"
+    },
+    {
+      "target": "Edelstein (Blau)",
+      "label": "Blauen Edelstein",
+      "slug": "edelstein-blau"
+    },
+    {
+      "target": "Klinge des Sonnenlichts",
+      "label": "Klinge des Sonnenlichts",
+      "slug": "klinge-des-sonnenlichts"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Vladimir Horngaard",
+      "label": "Vladimir Horngaard",
+      "slug": "vladimir-horngaard"
+    },
+    {
+      "target": "Vistani",
+      "label": "Vistana",
+      "slug": "vistani"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Turm des Zauberers",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Abtei der Heiligen Markovia",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Alte Abtei",
+      "label": "Alten Abtei",
+      "slug": "alte-abtei"
+    },
+    {
+      "target": "Prinz Sergei",
+      "label": "Prinz Sergei",
+      "slug": "prinz-sergei"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Dunkle",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Buch der Feen von Barovia",
+      "label": "Buch der Feen von Barovia",
+      "slug": null
+    },
+    {
+      "target": "Einsame Vistana",
+      "label": "Einsame Vistana",
+      "slug": "einsame-vistana"
+    },
+    {
+      "target": "Rictavio",
+      "label": "Rictavio",
+      "slug": "rictavio"
+    },
+    {
+      "target": "Edelstein (Grün)",
+      "label": "Edelstein (Grün)",
+      "slug": "edelstein-grun"
+    }
+  ],
+  "markdown": "# Feen [[Quest]]\n\n#### Nur durch die [[Fey]] kann man dem [[Nebel]] entkommen\nAhhh, junge, stolze Abenteurer auf der Suche nach Wissen über die legendären [[Fey]]. Ihr sucht die magischen [[Edelsteine der Fey]], die für immer verloren sind. Die [[Nebel]] haben euch hier gefangen, sucht das [[Fey von Barovia|Buch der Feen von Barovia]], darin ist das Wissen enthalten, um [[Barovia]] zu entkommen. Du musst die [[Edelsteine der Fey|drei Edelsteine]] finden, um die [[Fey|Feen]] wie in den Büchern beschrieben zurückzuholen. Vielleicht verraten euch die Karten einen Hinweis auf ihren Standort, wenn ihr sie findet.\n\n#### Grüner Edelstein\nDer [[Edelstein (Grün)|Grüne Edelstein]] der lieblichen und einstmals wunderschönen Waldfee ist stark mit den Geistern der Tiere und Vögel verbunden.\n\nDie **Raben-Karte**, wie interessant. Ein grässlich grimmiger und uralter Rabe, der vom nächtlichen Ufer herüberwandert. Spricht der Rabe, Nimmermehr. Nicht alle Kreaturen sind, was sie scheinen.   \n\n>***Malduk:** Ein uralter, grimmiger Rabe am nächtlichen Ufer, der nicht mehr spricht?*\n\n>**[[Quest]]:** Den [[Grimmiger Rabe|grimmigen Raben]] finden, um den [[Edelstein (Grün)|grünen Edelstein]] zu finden.\n\n#### Roter Edelstein  \nDer [[Edelstein (Rot)|Rote Edelstein]] der sagenumwobenen [[Bergfey]] ist in der Tat mächtig. Lasst uns sehen, was die Karten offenbaren.\n\nAh, der **Meister der Sterne**, die Karte eines großen [[Zauberer]]s. Ein weiser Mann ist nicht immer weise. Sucht den [[Khazans Turm|einsamen Turm]], um herauszufinden, wo sich der [[Edelstein (Rot)|Rote Edelstein]] befindet.  \n\n>**[[Quest]]:** Zu [[Khazans Turm]] reisen, um den [[Edelstein (Rot)|Roten Edelstein]] zu finden.\n\n#### Blauer Edelstein\nEs heißt, der [[Edelstein (Blau)|Blaue Edelstein]] sei für immer verloren; viele haben danach gesucht, aber ohne Erfolg. Es heißt, er sei an die [[Wasserfey]] gebunden, und auch sie sucht danach.\n\nUm das [[Dunkelheit|Herz des Bösen]] zu zerstören, musst du den Gesang seines Gegenstückes hören. Das letzte Juwel, das du suchst, liegt auf einem Weg auf dem du niemals ruhst. Es verlor seinen Glanz durch den Sturz der Feen Tanz. Die Karten werden zeigen, ob ihr erneuern könnt den Reigen.\n\n_Die **Karte der Bestie**. Ein Frosch von der Größe eines [[Moloch]]s weiß nicht, was er isst!  \n  \n\n>**[[Quest]]:** Den [[Moloch]] beim [[Fluss Luna]] finden und aus ihrem Bauch den Edelstein holen, um den [[Edelstein (Blau)|Blauen Edelstein]] zu finden.\n\n  \n\n# Karten Zukunft\n\nDiese Karte erzählt von einer mächtigen Kraft des Guten und des Schutzes, einem heiligen Symbol der großen Hoffnung.\n\nDie **7te Karte der Glyphen** der Heiler. Ich sehe ein schneebedecktes Grab in der Nähe eines heiligen Ortes. Es wird alles offenbaren.  \n  \nDies ist eine Karte der Macht und Stärke. Sie erzählt von einer Waffe der Rache: einer [[Klinge des Sonnenlichts]].\n\n>***Malduk:** Ein schneebedecktes Grab in der Nähe eines heiligen Ortes? Dort soll die [[Klinge des Sonnenlichts]] sein?*\n\nDie **Eins der Schwerter**, der Rächer. Ich sehe ein gefallenes Haus, das von einem großen steinernen Drachen bewacht wird. Blicke zum höchsten Gipfel.  \n  \nDiese Karte wirft ein Licht auf jemanden, der dir im Kampf gegen die Dunkelheit sehr helfen wird.\n\n>***Malduk:** Das könnte [[Argynvostholt]] sein und auf die Hilfe durch [[Vladimir Horngaard]] ansprechen.*\n\nDie **Eins der Münzen** der Säbelrassler, der Glücksritter. Eine [[Vistani|Vistana]] wandert allein durch das Land auf der Suche nach ihrem Mentor. Sie bleibt nicht lange an einem Ort. Suche sie im [[Khazans Turm|Turm des Zauberers]] oder in der [[Alte Abtei|Abtei der Heiligen Markovia]], in der Nähe der [[Nebel]].  \n\n>**[[Quest]]:** Zu [[Khazans Turm]] oder zur [[Alte Abtei|Alten Abtei]], um die Vistana zu finden.\n  \nDies ist die **Karte des Paladins**, des Helden. Einst wird die Zeit kommen, da ihr ihm selbst entgegensteht. Im Angesicht der lebendigen Finsternis umgeben von hunderten von Tonnen toten Steines. Findet ihn dort, wo der einzige Mann den er jemals beneidet hat, seine letzte Ruhe fand.  \n\n>***Malduk:** In seiner Gruft. Dort sollen wir [[Prinz Sergei]] suchen.*\n\n#### Heinards Karte\n\nDie Karte des einen, der die Macht der Essenz mehr in sich vereint als der [[Graf Strahd|Dunkle]] selbst und doch ist er gefallen. Sein Geist sucht nach dem Lichte. **Die Waage muss ausgeglichen werden**. Finde ihn, heile seinen verlorenen Geist und **du wirst einen machtvollen Verbündeten erlangen, der dir und den deinen Hoffnung bringt.**\n\nIch sehe ihn und **schäumende Wasser, dort ein Berg in Eis im Norden**.\n\n>***Malduk:** [[Khazan]]? [[Vladimir Horngaard]]?* \n\n#### Malduks Karte\n\nHier ist die **2 der Glyphen**, die Karte derjenigen die auf dem Weg sind eine Mission zu erfüllen. Zum Guten oder zum Schlechten. Im Lichte oder in der Dunkelheit. Bist du ein **Eiferer**? Oder hat dich die Erfahrung **demütig** werden lassen? \nIch sehe einen Ort der einst das Böse in reinster Form bannte, bewacht von Männern und Frauen die nur eine Mission hatten. Sind sie nun Staub und Stein? Wissen ist Macht und nicht Stahl noch Zauber werden alleine siegen und dem Licht und der Hoffnung Stärke geben. **Dort und nur dort ist das Wissen das du erlangen willst**. Doch der Weg ist mit Tränen der Trauer und Verzweiflung  ...\n\n>***Malduk:** [[Bernsteintempel]]*\n\n#### Michals Karte\n\nDie **Karte des Helden**. Was ist ein Held? Der strahlende Ritter auf dem weißen Pferde, der gegen die Horden der Finsternis reitet? Oder der Bauer der jeden Herbst dem Boden jede Ernte abstreitet, um seine Familie zu ernähren? Ist es die Frau die an Essen darbt, um ihre Kinder zu ernähren? Oder ist es die Großmutter, die die Geschichte ihrer Sippe am Leben hält und so Entscheidungen voller Weisheit trifft?\n\nIch weiß das die Karte deine **Herausforderung** ist. Es wird eine Zeit kommen in der du zeigen wirst, ob in dir ein Held steckt. Sie zeigt mir auch, dass dir eine Prüfung bevorsteht, in der du dich deinen **Urängsten stellen** musst, **um das zu finden, was dir im Kampfe gegen die Dunkelheit helfen wird**.\n\n## KI-Zusammenfassung\n\nTarokka ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Ahhh, junge, stolze Abenteurer auf der Suche nach Wissen über die legendären Fey. Ihr sucht die magischen Edelsteine der Fey, die für immer verloren sind. Die Nebel haben euch hier gefangen... Der Grüne Edelstein der lieblichen und einstmals wunderschönen Waldfee ist stark mit den Geistern der Tiere und Vögel verbunden. Die Raben-Karte, wie interessant. Ein grässlich grimmiger und uralter Rabe, der vom nächtlichen Ufer herüberwandert. Spricht der Rabe, Nimmermehr. Nicht alle Kreaturen sind, was sie scheinen. Malduk: Ein uralter, grimmiger Rabe am nächtlichen Ufer, der nicht mehr spricht? Direkte Bezüge bestehen zu [[Quest]], [[Fey]], [[Nebel]], [[Edelsteine der Fey]], [[Buch der Feen von Barovia]]. Tarokka wird außerdem in [[Quest]], [[Einsame Vistana]], [[Rictavio]], [[Edelstein (Grün)]], [[Edelsteine der Fey]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

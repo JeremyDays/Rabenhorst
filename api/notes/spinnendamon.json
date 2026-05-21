@@ -1,0 +1,30 @@
+{
+  "title": "Spinnendämon",
+  "slug": "spinnendamon",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Dämonen/Spinnendämon.md",
+  "url": "notes/spinnendamon.html",
+  "apiUrl": "api/notes/spinnendamon.json",
+  "tags": [
+    "Dämon"
+  ],
+  "excerpt": "Der Dämon war in der Kiste von Graf Strahd. Wir haben ihn unter St. Andrals Kirche besiegt.",
+  "frontmatter": {
+    "tags": [
+      "Dämon"
+    ]
+  },
+  "links": [
+    {
+      "target": "Kiste von Graf Strahd",
+      "label": "Kiste von Graf Strahd",
+      "slug": "kiste-von-graf-strahd"
+    },
+    {
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
+    }
+  ],
+  "markdown": "\nDer Dämon war in der [[Kiste von Graf Strahd]].\n\n- Wir haben ihn unter [[St. Andrals Kirche]] besiegt.\n"
+}

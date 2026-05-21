@@ -1,0 +1,54 @@
+{
+  "title": "Steinbogen",
+  "slug": "steinbogen",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Steinbogen.md",
+  "url": "notes/steinbogen.html",
+  "apiUrl": "api/notes/steinbogen.json",
+  "tags": [],
+  "excerpt": "EIn verunstalteter Steinbogen mit Statuen davor bei einer Kreuzung zwischen den Tser FällenTser Fälle nach Osten und der Fledermaus Höhle und Schloss Rabenhorst im Norden, und die ",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fällen",
+      "slug": "tser-falle"
+    },
+    {
+      "target": "Fledermaus-Höhle",
+      "label": "Fledermaus-Höhle",
+      "slug": "fledermaus-hohle"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Tser-Fällen",
+      "label": "Tser-Fällen",
+      "slug": null
+    },
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    }
+  ],
+  "markdown": "EIn verunstalteter Steinbogen mit Statuen davor bei einer Kreuzung zwischen den [[Tser-Fälle|Tser-Fällen]] nach Osten und der [[Fledermaus-Höhle]] und [[Schloss Rabenhorst]] im Norden, und die [[Hexenmühle]] und [[Vallaki]] im Westen.\n\n## KI-Zusammenfassung\n\nSteinbogen ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: EIn verunstalteter Steinbogen mit Statuen davor bei einer Kreuzung zwischen den Tser-Fällen nach Osten und der Fledermaus-Höhle und Schloss Rabenhorst im Norden, und die Hexenmühle und Vallaki im Westen. Direkte Bezüge bestehen zu [[Tser-Fällen]], [[Fledermaus-Höhle]], [[Schloss Rabenhorst]], [[Hexenmühle]], [[Vallaki]]. Steinbogen wird außerdem in [[Fledermaus-Höhle]], [[Tser-Fälle]], [[S23 - Steintor]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,100 @@
+{
+  "title": "S75 - Der Tod des Barons",
+  "slug": "s75-der-tod-des-barons",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc12 - Vallaki Burgomeister/S75 - Der Tod des Barons.md",
+  "url": "notes/s75-der-tod-des-barons.html",
+  "apiUrl": "api/notes/s75-der-tod-des-barons.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "14. Mart 755 EB, 09:35 (07.05.2026) Schwierigkeit: 6/15 | Gegner Schwierigkeit: 10/15 Entropie: 1/6 St. Andrals Kirche KI Protokoll: | Charakter | Leben | Zähigkeit | Mana | Stab |",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "14. Mart 755 EB",
+      "label": "14. Mart 755 EB",
+      "slug": "14-mart-755-eb"
+    },
+    {
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
+    },
+    {
+      "target": "Fest der Brennenden Sonne",
+      "label": "Fest der Brennenden Sonne",
+      "slug": "fest-der-brennenden-sonne"
+    },
+    {
+      "target": "Lydia Vallakovich",
+      "label": "Lydia Vallakovich",
+      "slug": "lydia-vallakovich"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Hirsch-Medaillon",
+      "label": "Hirsch-Medaillon",
+      "slug": "hirsch-medaillon"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Säbelzahntiger",
+      "label": "Säbelzahntiger",
+      "slug": "sabelzahntiger"
+    },
+    {
+      "target": "Schlüssel zur blutigen Rebe",
+      "label": "Schlüssel zur blutigen Rebe",
+      "slug": "schlussel-zur-blutigen-rebe"
+    },
+    {
+      "target": "Marktplatz",
+      "label": "Marktplatz",
+      "slug": null
+    },
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    },
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Karl Wachter",
+      "label": "Karl Wachter",
+      "slug": "karl-wachter"
+    },
+    {
+      "target": "Vasili von Holtz",
+      "label": "Vasili von Holtz",
+      "slug": "vasili-von-holtz"
+    }
+  ],
+  "markdown": "\n[[14. Mart 755 EB]], 09:35 (07.05.2026)\n**Schwierigkeit:** 6/15 | **Gegner-Schwierigkeit:** 10/15\n**Entropie:** 1/6\n[[St. Andrals Kirche]]\n\n**KI-Protokoll:**\n\n\n\n---\n\n\n| Charakter | Leben | Zähigkeit | Mana  | Stab  |\n| --------- | ----- | --------- | ----- | ----- |\n| Malduk    | 17/17 | 25/25     | 25/30 | 29/50 |\n| Michal    | 20/25 | 28/35     |       |       |\n| Heinard   | 18/18 | 30/30     | 26/55 |       |\n\n[[Fest der Brennenden Sonne]]\n\n---\n- Richtspruch Heinards\n- [[Lydia Vallakovich]] kann nicht runter vom Podest\n- Malduk: Noch 2 Aktionen übrig\n- [[Ireena]] Nebelgestalt. Ich kann sie da nicht raus lassen ohne das [[Hirsch-Medaillon]]\n- Malduk: derzeit noch weitere -2 für Zauber\n- [[Michal]] bekämpft noch den [[Säbelzahntiger]].\n- Michal hat den [[Schlüssel zur blutigen Rebe]]\n\n>[!dialogue2] Szene 0 - Kein Platz der Freude\n- [[Marktplatz]] kein Platz der Freude. Blut, Schweiß, Regen, Körper, Zerbrochenes, Tote\n- Bastsonne schwingt wie Galgenvogel, raucht schwarz und brennt nicht\n- Geruch von Blut, verbranntem Holz und [[Säbelzahntiger]]\n- Panik. Bürger und Wachen versuchen zu fliehen.\n- [[Michal]] alleine zwischen [[Säbelzahntiger]] und Flüchtenden\n- [[Izek Strazni]] hat beide Hände um die Kehle des [[Baron Vargas Vallakovich]]s gelegt\n- [[Lydia Vallakovich]] schreit.\n- Die Magische Barriere verliert ihre Energie\n- Die Energie zerrt auch an [[Malduk]].\n- [[Ireena]]s Augen tiefschwarz und voller Verlangen\n- Gefühl, beobachtet zu werden\n- [[Malduk]] hält [[Ireena]] und ihn als Nebelgestalt\n- [[Malduk]] hält folgende Zauber aufrecht: \n\t1. Nebelgestalt\n\t2. Wasser weben\n\n>[!dialogue2] Szene 1 - Fortsetzung\n\n[Initiative verloren]\n\n==7.KR==\n- [[Malduk]] wallt als Nebelgestalt dämonisch hinter dem [[Baron Vargas Vallakovich]] hoch, hält [[Ireena]] als Nebelgestalt und wirkt Magie entdecken (blaue Augen) - gelingt nicht! [-1Mana]\n- [[Michal]] weicht zurück auf das Podest, verteidigend [VEW6 -> 9], aber greift den [[Säbelzahntiger]] an. - Schläge gehen ins Leere\n- [[Heinard]] schluckt den Flammensplitter runter. Vereinigen in sich. Präsenzangriff + Richtspruch gegen [[Karl Wachter]]. [Präsenz 21]\n\n- [[Izek Strazni]] umfasst den [[Baron Vargas Vallakovich]] mit beiden Händen. Glühender Arm entzündet sich in rötlichem Feuer.\n- [[Baron Vargas Vallakovich]] stößt einen überraschten Schmerzensschrei aus. Schwarze Flügel greifen sie auf Izek ein.\n- [[Izek Strazni]] ruft nach [[Ireena]]\n- Die Barriere fällt in sich zusammen. Irgendetwas in der Barriere hinzugefügt.\n- Der [[Säbelzahntiger]] stürzt auf [[Heinard]] zu! Trifft ihn mit beiden Klauen und beißt zu. Blut spritzt. Die Kraft ist unermesslich. Rippen brechen. 3tö+4tö+1tö [LeP 10]\n- [[Malduk]] spürt etwas, aber sieht es nicht. Die Magie wird entzogen.\n\n==8.KR==\n- [[Malduk]] wirft sich mit Ireena in Nebelgestalt zum [[Säbelzahntiger]] und greift mit 3 Tentakeln an. Kritischer Erfolg auf Nebelgestalt. 1 der Angriffe gelungen, Stärke 23, um ihn wegzureißen [-3Mana]\n- [[Michal]] massiver Angriff 2x auf [[Säbelzahntiger]]. Nur VEW1 dann. zwei Treffer. 11tö+23tö\n- [[Heinard]] Raufen, Finger in Nase und Auge des [[Säbelzahntiger]]s. Beide gelungen. 4tö+5tö\n- Der [[Säbelzahntiger]] zerfetzt [[Heinard]]s Körper. Es riecht nach Aas. 4tö+2tö+1tö = 1LeP!\n- [[Ireena]] versteift sich in Nebelgestalt. Zauber gleitet an Ireena und Malduk ab. Zwei der Angriffe werden einfach aufgelöst. \n- Windstoß stößt gegen die Bahn von [[Michal]]. Axt sinkt in die Rüstung des Tigers ein. Einer trifft, einer geht ins Leere. \n- Der [[Säbelzahntiger]] hat Schmerzen von den Fingern. \n- Der Tentakel kämpft gegen eine Klaue \n\n==9.KR==\n- [[Malduk]] weiter auf den [[Säbelzahntiger]] zu und zwei weitere Angriffe, daneben, aber hält den Arm des [[Säbelzahntiger]]s fest. [-3Mana]\n- [[Heinard]] Heilung und auf [[Karl Wachter]] zu und reden. Er würde 11 LeP heilen.\n- [[Michal]] greift an. 2 Angriffe daneben. 17tö.\n- Noch mehr Chaos\n- Wachen greifen Menschen oder Tiger an\n- Auf dem Podest steht [[Izek Strazni]] in Flammen vor dem [[Baron Vargas Vallakovich]]: \"Ireena!\"\n- [[Baron Vargas Vallakovich]] versucht die Flammen zu ersticken. Schreit vor Schmerz. \n- Lydia schreit. \n- Podest fängt an zu brennen.\n- Feuerfunken gehen in alle Richtungen.\n- Chaos!\n- Irgendetwas versucht immer noch auf mich einzudringen.\n- [[Karl Wachter]] und sein Bruder ruft. Alle rufen: \"Der Baron!!\"\n- Der Baron steht vollständig in Flammen. Izek auch. Beide lebende Fackel. Sonne auf dem Podest des Marktplatzes.\n- Jemand stört mit geringster Anstrengung die Zauber von Malduk. \n- Der dritte Angriff Michals trifft die Klaue des [[Säbelzahntiger]]s. Trennt den Arm ab.\n- Die andere Klaue bohrt sich in Heinard hinein. Zähne in Podest herein. [[Heinard]]: Todesschrei. Lebloser Körper. Eine Welle von Kraft geht von ihm im letzten Moment aus. Heilung in letzter Sekunde. Taumelt vom Tiger weg. [9Lep, Michal 25LeP]\n- Neben [[Malduk]] versteift sich [[Ireena]]. Sie wird wieder körperlicher. Mit fast stofflichen Händen. \"Hunger!\"\n\n==10.KR==\n- [[Malduk]] konzentriert sich auf die Tentakel. \"Gedulde dich noch ein wenig\" 2 treffen. ST 27 und ST 31. [-3Mana]\n- [[Michal]]: Angriffe. Kritischer Erfolg.  Erfolg. 30tö+20tö\n- [[Heinard]]: Gebet der Heilung und Sturmangriff auf [[Karl Wachter]]. [+9LeP]\n- [[Karl Wachter]] rettet ein Kind vor einer Wache\n- \"Der Baron ist tot! Rettet die Kinder!\"\n- Der Baron geht zu Boden. Izek auch. Beide schreien auf. Viel Feuer.\n- Einige der Bewohner stürzen sich auf die Wachen. Chaos.\n- [[Säbelzahntiger]] greift [[Michal]] an. Ein Treffer, einer Kritisch. 4tö+10tö.\n- Der Nebel wird viel zu schnell \n- Die Augen von Ireena, magische Fänge, trifft. Reißt an Lebensessenz von [[Malduk]], kein Leben. Schmerz. Etwas Rötliches breitet sich in ihrem Nebel aus. (Wieviel Leben verliert [[Malduk]]?)\n- [[Michal]] wird von dem Tiger gebissen und köpft den [[Säbelzahntiger]]. Brüllt. Blitz im Hintergrund und strömender Regen.\n- Lebensenergie gleitet in [[Michal]] hinein. Heilung. Genugtuung der Waffe. Hass und Wut der Waffe. Dass sie etwas köpfen kann. [+6LeP]\n- Heinard stürmt leuchtend, zerfetzt und wieder komplett geheilt auf [[Karl Wachter]] zu\n- [[Karl Wachter]] rettet das Kind nicht mit Berechnung...\n\n==11.KR==\n- [[Ireena]] manifestiert sich immer mehr. Lust, tödlich, Vampir.\n- Sie hat mich dazu gebracht, die Zauber zu verlieren. Sie will mich aussaugen.\n- [[Malduk]] ruft \"Heinard!\" und versucht, Ireena zurück in Nebel zu verwandeln. Schlagartig gelingt es.\n- [[Michal]] schreit, um Aufmerksamkeit zu erhalten und packt den Kopf des [[Säbelzahntiger]]s. \"Ruhe! Löscht das Feuer!\" Unglaublich laute Stimme. Wilde Korona aus Licht. Lichtbringer. ALLE schauen zu [[Michal]]. \n- [[Heinard]] bleibt bei [[Karl Wachter]]: \"Ich weiß nicht, welche Rolle ihr in dem Chaos spielt. Aber Jelen richtet euch, wie euren Bruder. Und ich hoffe für eure Seele und euren Verbleib auf dieser Welt, dass ihr euch gut überlegt, was ihr hier tun werdet. Unterstützt ihn, er schützt Kinder.\" Und dann will er zu Malduk.\n- Hauswachen von Wachter.\n- [[Vasili von Holtz]] kommt um eine Ecke. Erhebt seine Stimme: \"Achtet auf die Wachters! Ordnung.\" [[Vasili von Holtz]] schaut in Unglaube zu. Dann nickt er [[Michal]] zu.\n- \n\n\n---\n\n| Charakter | Leben | Zähigkeit | Mana  | Stab  |\n| --------- | ----- | --------- | ----- | ----- |\n| Malduk    | 17/17 | 25/25     | 14/30 | 29/50 |\n| Michal    | 17/25 | 28/35     |       |       |\n| Heinard   | 18/18 | 30/30     | 8/55  |       |\n"
+}

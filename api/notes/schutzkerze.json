@@ -1,0 +1,35 @@
+{
+  "title": "Schutzkerze",
+  "slug": "schutzkerze",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Magische Gegenstände/Schutzkerze.md",
+  "url": "notes/schutzkerze.html",
+  "apiUrl": "api/notes/schutzkerze.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Haus Alkir Spieltechnisch: Malduk: Magisch. Das Arkana Meta Magie scheint in die Kerze verflochten zu sein. Zudem scheint sie Stränge von Schutz zu besitzen, die sich nac",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S06 - 2.OG",
+      "label": "S06 - 2.OG",
+      "slug": "s06-2-og"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Das Arkana Meta-Magie scheint in die Kerze verflochten zu sein. Zudem scheint sie Stränge von Schutz zu besitzen, die sich nach außen richten. Die Nekromantischen Verflechtungen deuten darauf hin, dass sie Schutz vor Untoten bietet, wenn man sie \"aktiviert\", denn derzeit schlummert der Effekt. Die Aktivationskette ist mit dem Element  Feuer verbunden, so dass die Schlussfolgerung naheliegt, dass sie ihren Effekt bei ihrer Entzündung entfaltet. [Lichtschein: 4m Radius]*\n\n## KI-Zusammenfassung\n\nSchutzkerze ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Spieltechnisch: Malduk: Magisch. Das Arkana Meta-Magie scheint in die Kerze verflochten zu sein. Zudem scheint sie Stränge von Schutz zu besitzen, die sich nach außen richten... Direkte Bezüge bestehen zu [[Haus Alkir]]. Schutzkerze wird außerdem in [[Alle Gegenstände]], [[S06 - 2.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

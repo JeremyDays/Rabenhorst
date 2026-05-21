@@ -1,0 +1,30 @@
+{
+  "title": "Silvia",
+  "slug": "silvia",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Silvia.md",
+  "url": "notes/silvia.html",
+  "apiUrl": "api/notes/silvia.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wirtin der Alten TränkeAlte Tränke, gute Köchin und Frau von Valentin. Sie hat eine schöne, melodische hohe Stimme, aber ist breit und dick, dass sie selbst durch ein Fenster nicht",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alte Tränke",
+      "label": "Alten Tränke",
+      "slug": "alte-tranke"
+    },
+    {
+      "target": "Valentin",
+      "label": "Valentin",
+      "slug": "valentin"
+    }
+  ],
+  "markdown": "\nWirtin der [[Alte Tränke|Alten Tränke]], gute Köchin und Frau von [[Valentin]].\n\n- Sie hat eine schöne, melodische hohe Stimme, aber ist breit und dick, dass sie selbst durch ein Fenster nicht durchpassen würde, auch wenn es um ihr Leben ginge.\n"
+}

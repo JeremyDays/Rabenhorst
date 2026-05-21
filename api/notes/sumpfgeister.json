@@ -1,0 +1,19 @@
+{
+  "title": "Sumpfgeister",
+  "slug": "sumpfgeister",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Untote/Sumpfgeister.md",
+  "url": "notes/sumpfgeister.html",
+  "apiUrl": "api/notes/sumpfgeister.json",
+  "tags": [],
+  "excerpt": "Sie haben einen Pakt mit der korrupten Wasserfey.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    }
+  ],
+  "markdown": "\n- Sie haben einen Pakt mit der korrupten [[Wasserfey]].\n\n"
+}

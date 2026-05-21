@@ -1,0 +1,40 @@
+{
+  "title": "Schlacht von Barovia",
+  "slug": "schlacht-von-barovia",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/Schlacht von Barovia.md",
+  "url": "notes/schlacht-von-barovia.html",
+  "apiUrl": "api/notes/schlacht-von-barovia.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Nach dem Sieg in der Schlacht von Barovia erklärte sich Fürst Strahd von ZarovichGraf Strahd zum Herrscher und Lord über BaroviaBarovia. Malduk: Wann war das? Wenn er sich selbst z",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "Schlacht von Barovia",
+      "label": "Schlacht von Barovia",
+      "slug": "schlacht-von-barovia"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Fürst Strahd von Zarovich",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Krieg der Könige",
+      "label": "Krieg der Könige",
+      "slug": "krieg-der-konige"
+    }
+  ],
+  "markdown": "\n- Nach dem Sieg in der [[Schlacht von Barovia]] erklärte sich [[Graf Strahd|Fürst Strahd von Zarovich]] zum Herrscher und Lord über [[Barovia|Barovia]].\n\n\n>***Malduk:** Wann war das? Wenn er sich selbst zum Herrscher über [[Barovia]] ernennt und nicht seinen Vater... müsste es nach dem [[Krieg der Könige]] gewesen sein. Aber danach hat er sich nicht mehr gegen jemanden behaupten müssen. Also doch zur Zeit vom [[Krieg der Könige]]?*\n\n\n"
+}

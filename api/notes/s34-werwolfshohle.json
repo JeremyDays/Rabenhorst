@@ -1,0 +1,90 @@
+{
+  "title": "S34 - Werwolfshöhle",
+  "slug": "s34-werwolfshohle",
+  "category": "session",
+  "relativePath": "Shared/Rabenhorst/7 - Protokoll/Session Protokolle/Arc07 - Werwölfe/S34 - Werwolfshöhle.md",
+  "url": "notes/s34-werwolfshohle.html",
+  "apiUrl": "api/notes/s34-werwolfshohle.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "7. Mart 755 EB 20:00 Uhr (31.08.2023) Schwierigkeit: 5 [!dialogue2] Szene 1 Höhleneingang Werwolfshöhle Die Wölfe sind tot, die alte FrauSzlata flieht in die Höhle. Malduk hatte ke",
+  "frontmatter": {
+    "tags": [
+      "Protokoll"
+    ]
+  },
+  "links": [
+    {
+      "target": "7. Mart 755 EB",
+      "label": "7. Mart 755 EB",
+      "slug": "7-mart-755-eb"
+    },
+    {
+      "target": "Werwolfshöhle",
+      "label": "Werwolfshöhle",
+      "slug": "werwolfshohle"
+    },
+    {
+      "target": "Wölfe",
+      "label": "Wölfe",
+      "slug": "wolfe"
+    },
+    {
+      "target": "Szlata",
+      "label": "die alte Frau",
+      "slug": "szlata"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Szlata",
+      "label": "Szlata",
+      "slug": "szlata"
+    },
+    {
+      "target": "Danika Surana",
+      "label": "Danika Surana",
+      "slug": "danika-surana"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwolf",
+      "slug": "werwolfe"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Shared/Rabenhorst/2 - NSCs/Hexenmühle/Freek",
+      "label": "Shared/Rabenhorst/2 - NSCs/Hexenmühle/Freek",
+      "slug": null
+    },
+    {
+      "target": "Stab der Entropie",
+      "label": "Stab der Entropie",
+      "slug": "stab-der-entropie"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Lichtbringer",
+      "label": "Lichtbringer",
+      "slug": "lichtbringer"
+    }
+  ],
+  "markdown": "\n[[7. Mart 755 EB]] 20:00 Uhr (31.08.2023)\nSchwierigkeit: 5\n\n---\n>[!dialogue2] Szene 1 - Höhleneingang\n- [[Werwolfshöhle]]\n- Die [[Wölfe]] sind tot, [[Szlata|die alte Frau]] flieht in die Höhle.\n- [[Malduk]] hatte keine Chance.\n- [[Szlata]]: \"Ich kann den Fluch von deiner Geliebten nehmen...\"\n- [[Wölfe]] im Höhlentunnel\n\n>[!dialogue2] Szene 2 - Kampf in der Höhle\n- Ohne große Vorsicht stürmen wir hinein. Die Zeit ist gegen uns. Und wir sind uns unserer Fähigkeiten bewusst. Wir sind alle sehr wütend.\n- [[Danika Surana]] ist ein [[Werwölfe|Werwolf]]\n- [[Ireena]] ist gefesselt, hat schwarze Augen und lange Fangzähne\n- [[Shared/Rabenhorst/2 - NSCs/Hexenmühle/Freek]] ist bewusstlos\n- Die alte Frau heißt [[Szlata]]\n\t- Sie kennt das Geheimnis des Fluchs auf [[Ireena]]\n\t- Sie kann mit Entropie Stärke entziehen ([[Stab der Entropie]])\n\t- Ihre Geisterwölfe entziehen Mana\n\n>[!dialogue2] Szene 3 - Malduk wechselt die Seite\n- Als [[Szlata]] behauptet, sie wisse über den Fluch von [[Ireena]] Bescheid, verhindert [[Malduk]] den Todesstoß von [[Heinard]].\n- [[Heinard]] wird mit Eis am Boden festgefroren.\n- [[Malduk]] steht jedoch schützend über ihm\n- [[Michal]] liegt am Boden und wird zerfetzt. Die Werwölfin [[Danika Surana]] steht auf ihm.\n- Die Axt [[Lichtbringer]] liegt bei [[Ireena]], damit sie sich die Fesseln zerschneiden kann."
+}

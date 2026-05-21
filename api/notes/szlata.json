@@ -1,0 +1,63 @@
+{
+  "title": "Szlata",
+  "slug": "szlata",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Werwölfe/Szlata.md",
+  "url": "notes/szlata.html",
+  "apiUrl": "api/notes/szlata.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Die Anführerin der Werwölfe Ein WerwolfWerwölfe Eine mächtige Antimagierin. Wir haben sie besiegt. KI Zusammenfassung Szlata, auch Alte Frau genannt, ist eine Figur aus dem Bereich",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Alte Frau"
+    ]
+  },
+  "links": [
+    {
+      "target": "Werwölfe",
+      "label": "Werwölfe",
+      "slug": "werwolfe"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwolf",
+      "slug": "werwolfe"
+    },
+    {
+      "target": "Werwolf",
+      "label": "Werwolf",
+      "slug": null
+    },
+    {
+      "target": "Schwarzfelsenrudel",
+      "label": "Schwarzfelsenrudel",
+      "slug": "schwarzfelsenrudel"
+    },
+    {
+      "target": "Stab der Entropie",
+      "label": "Stab der Entropie",
+      "slug": "stab-der-entropie"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    },
+    {
+      "target": "Was bisher geschah...",
+      "label": "Was bisher geschah...",
+      "slug": "was-bisher-geschah"
+    },
+    {
+      "target": "S33 - Auf der Spur",
+      "label": "S33 - Auf der Spur",
+      "slug": "s33-auf-der-spur"
+    }
+  ],
+  "markdown": "- Die Anführerin der [[Werwölfe]]\n- Ein [[Werwölfe|Werwolf]]\n- Eine mächtige Antimagierin.\n- Wir haben sie besiegt.\n\n## KI-Zusammenfassung\n\nSzlata, auch Alte Frau genannt, ist eine Figur aus dem Bereich Werwölfe. Die lokalen Notizen halten dazu fest: Die Anführerin der Werwölfe Ein Werwolf Eine mächtige Antimagierin. Wir haben sie besiegt. Direkte Bezüge bestehen zu [[Werwölfe]], [[Werwolf]]. Szlata wird außerdem in [[Schwarzfelsenrudel]], [[Stab der Entropie]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]], [[S33 - Auf der Spur]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

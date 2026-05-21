@@ -1,0 +1,40 @@
+{
+  "title": "Schwarzes Buch",
+  "slug": "schwarzes-buch",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Magische Bücher/Schwarzes Buch.md",
+  "url": "notes/schwarzes-buch.html",
+  "apiUrl": "api/notes/schwarzes-buch.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Dickes Buch. Schwarz. Leer. Malduk: Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiv",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S04 - EG",
+      "label": "S04 - EG",
+      "slug": "s04-eg"
+    },
+    {
+      "target": "S12 - Ankunft Barovia",
+      "label": "S12 - Ankunft Barovia",
+      "slug": "s12-ankunft-barovia"
+    },
+    {
+      "target": "S31 - Die Opfer der Hexen",
+      "label": "S31 - Die Opfer der Hexen",
+      "slug": "s31-die-opfer-der-hexen"
+    }
+  ],
+  "markdown": "Dickes Buch. Schwarz. Leer.  \n\n>***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*\n\n## KI-Zusammenfassung\n\nSchwarzes Buch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Dickes Buch. Schwarz. Leer. Malduk: Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual. Schwarzes Buch wird außerdem in [[Alle Gegenstände]], [[S04 - EG]], [[S12 - Ankunft Barovia]], [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Schadensklassen",
+  "slug": "schadensklassen",
+  "category": "rules",
+  "relativePath": "Shared/Rabenhorst/6 - Regeln/Schadensklassen.md",
+  "url": "notes/schadensklassen.html",
+  "apiUrl": "api/notes/schadensklassen.json",
+  "tags": [],
+  "excerpt": "| SK | Tö | Ntö | | | | | | 1 | 1 | 1W6 (3) | | 2 | 1W6 1 (2) | 2W6 (6) | | 3 | 1W6 (3) | 3W6 (9) | | 4 | 1W6+1 (4) | 4W6 (12) | | 5 | 2W6 1 (5) | 5W6 (15) | | 6 | 2W6 (6) | 6W6 (1",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "\n\n| SK  | Tö         | Ntö       |\n| --- | ---------- | --------- |\n| 1   | 1          | 1W6 (3)   |\n| 2   | 1W6-1 (2)  | 2W6 (6)   |\n| 3   | 1W6 (3)    | 3W6 (9)   |\n| 4   | 1W6+1 (4)  | 4W6 (12)  |\n| 5   | 2W6-1 (5)  | 5W6 (15)  |\n| 6   | 2W6 (6)    | 6W6 (18)  |\n| 7   | 2W6+1 (7)  | 7W6 (21)  |\n| 8   | 3W6-1 (8)  | 8W6 (24)  |\n| 9   | 3W6 (9)    | 9W6 (27)  |\n| 10  | 3W6+1 (10) | 10W6 (30) |\n| 11  | 4W6-1 (11) | 11W6 (33) |\n| 12  | 4W6 (12)   | 12W6 (36) |\n| 13  | 4W6+1 (13) | 13W6 (39) |\n| 14  | 5W6-1 (14) | 14W6 (42) |\n| 15  | 5W6 (15)   | 15W6 (45) |\n| 16  | 5W6+1 (16) | 16W6 (48) |\n| 17  | 6W6-1 (17) | 17W6 (51) |\n| 18  | 6W6 (18)   | 18W6 (54) |\n| 19  | 6W6+1 (19) | 19W6 (57) |\n| 20  | 7W6-1 (20) | 20W6 (60) |\n"
+}
