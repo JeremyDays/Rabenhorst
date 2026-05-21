@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Alek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum. KI Zusammenfassung Alek Stefanova ist eine Figur aus dem Bereich Haus Alkir / Opfer. Die vorhandenen lokalen Notizen si",
+  "excerpt": "Alek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum. KI Zusammenfassung Alek Stefanova ist ein NSC. Die Notiz ordnet Alek Stefanova dem Bereich Haus Alkir / Opfer zu. Beruf",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,10 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Kult Logbuch",
-      "label": "Kult Logbuch",
-      "slug": "kult-logbuch"
+      "target": "Opfer",
+      "label": "Opfer",
+      "slug": null
     }
   ],
-  "markdown": "[[Alek Stefanova]] wurde in [[Haus Alkir]] geopfert. Kein Sedativum.\n\n## KI-Zusammenfassung\n\nAlek Stefanova ist eine Figur aus dem Bereich Haus Alkir / Opfer. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Direkte Bezüge bestehen zu [[Haus Alkir]]. Alek Stefanova wird außerdem in [[Haus Alkir]], [[Kult Logbuch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "[[Alek Stefanova]] wurde in [[Haus Alkir]] geopfert. Kein Sedativum.\n\n## KI-Zusammenfassung\n\nAlek Stefanova ist ein NSC. Die Notiz ordnet Alek Stefanova dem Bereich [[Haus Alkir]] / [[Opfer]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Haus Alkir]] / [[Opfer]] zu.\n\n### Beziehungen und Verbindungen\n\nAlek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum. Kult Logbuch: Alek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum.\n\n### Historie / Was wir wissen\n\nAlek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum.\n"
 }

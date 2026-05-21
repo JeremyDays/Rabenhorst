@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Burgomeister von Krezk KI Zusammenfassung Dmitri Krezkov ist eine Figur aus dem Bereich Krezk. Die lokalen Notizen halten dazu fest: Burgomeister von Krezk Direkte Bezüge bestehen ",
+  "excerpt": "Burgomeister von Krezk KI Zusammenfassung Dmitri Krezkov ist ein NSC. Die Notiz ordnet Dmitri Krezkov dem Bereich Krezk zu. Beruf / Rolle Burgomeister von Krezk. Wohnort / Aufentha",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,12 +19,7 @@
       "target": "Krezk",
       "label": "Krezk",
       "slug": "krezk"
-    },
-    {
-      "target": "S17 - Angriff der Vampirin",
-      "label": "S17 - Angriff der Vampirin",
-      "slug": "s17-angriff-der-vampirin"
     }
   ],
-  "markdown": "Burgomeister von [[Krezk]]\n\n## KI-Zusammenfassung\n\nDmitri Krezkov ist eine Figur aus dem Bereich Krezk. Die lokalen Notizen halten dazu fest: Burgomeister von Krezk Direkte Bezüge bestehen zu [[Krezk]]. Dmitri Krezkov wird außerdem in [[Krezk]], [[S17 - Angriff der Vampirin]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Burgomeister von [[Krezk]]\n\n## KI-Zusammenfassung\n\nDmitri Krezkov ist ein NSC. Die Notiz ordnet Dmitri Krezkov dem Bereich [[Krezk]] zu.\n\n### Beruf / Rolle\n\nBurgomeister von Krezk.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Krezk]] zu.\n\n### Beziehungen und Verbindungen\n\nBurgomeister von Krezk. Krezk: Burgomeister: Dmitri Krezkov. S17 - Angriff der Vampirin: - Der Burgomeister von Krezk ist Dmitri Krezkov.\n\n### Historie / Was wir wissen\n\nBurgomeister von Krezk.\n"
 }

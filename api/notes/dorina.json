@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Schwester von Drascha. KI Zusammenfassung Dorina ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Schwester von Drascha. Direkte Bezüge bestehen zu Dra",
+  "excerpt": "Schwester von Drascha. KI Zusammenfassung Dorina ist ein NSC. Die Notiz ordnet Dorina dem Bereich Barovia zu. Beruf / Rolle Nicht ausdrücklich genannt. Wohnort / Aufenthalt Der Ord",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -21,10 +21,10 @@
       "slug": "drascha"
     },
     {
-      "target": "S12 - Ankunft Barovia",
-      "label": "S12 - Ankunft Barovia",
-      "slug": "s12-ankunft-barovia"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "Schwester von [[Drascha]].\n\n## KI-Zusammenfassung\n\nDorina ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Schwester von Drascha. Direkte Bezüge bestehen zu [[Drascha]]. Dorina wird außerdem in [[Drascha]], [[S12 - Ankunft Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Schwester von [[Drascha]].\n\n## KI-Zusammenfassung\n\nDorina ist ein NSC. Die Notiz ordnet Dorina dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nSchwester von Drascha. Drascha: Schwester von Dorina. S12 - Ankunft Barovia: Wir beobachten, wie sie kleine Pasteten an Dorina verkauft [1/2 Pf. pro Stück] -> [1Pf.].\n\n### Historie / Was wir wissen\n\nSchwester von Drascha.\n"
 }
