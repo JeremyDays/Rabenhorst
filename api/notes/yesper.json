@@ -6,14 +6,19 @@
   "url": "notes/yesper.html",
   "apiUrl": "api/notes/yesper.json",
   "tags": [],
-  "excerpt": "Oft betrunken Freund von Doru Donavich KI Zusammenfassung Yesper ist ein NSC. Beruf / Rolle Nicht ausdrücklich genannt. Wohnort / Aufenthalt Nicht ausdrücklich genannt. Beziehungen",
+  "excerpt": "Oft betrunken Freund von Doru Donavich KI Zusammenfassung Beruf / Rolle Nicht ausdrücklich genannt. Beschreibung Keine gesicherte textliche Beschreibung in den lokalen Notizen. Bez",
   "frontmatter": {},
   "links": [
     {
       "target": "Doru Donavich",
       "label": "Doru Donavich",
       "slug": "doru-donavich"
+    },
+    {
+      "target": "Yesper",
+      "label": "Yesper",
+      "slug": "yesper"
     }
   ],
-  "markdown": "- Oft betrunken\n- Freund von [[Doru Donavich]]\n- \n\n## KI-Zusammenfassung\n\nYesper ist ein NSC.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nNicht ausdrücklich genannt.\n\n### Beziehungen und Verbindungen\n\nFreund von Doru Donavich. S23 - Steintor: Yesper ist betrunken. S23 - Steintor: - Yesper ist ein Freund von Doru Donavich aus Barovia (Dorf). Sie wollten damals beim Aufstand gegen Strahd zusammen zum Schloss Rabenhorst, aber Yesper war zu betrunken.\n\n### Historie / Was wir wissen\n\nOft betrunken. Freund von Doru Donavich.\n"
+  "markdown": "- Oft betrunken\n- Freund von [[Doru Donavich]]\n- \n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Doru Donavich|Doru Donavich]] | Freund von\n- [[Yesper|Yesper]] | S23 - Steintor:  ist betrunken\n- S23 - Steintor: - Yesper ist ein Freund von Doru Donavich aus Barovia (Dorf). Sie wollten damals beim Aufstand gegen Strahd zusammen zum Schloss Rabenhorst, aber Yesper war zu betrunken\n\n### Historie\n\n- Oft betrunken\n- Freund von Doru Donavich\n"
 }

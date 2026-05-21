@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Jünger der St. Andrals Kirche Hat Milivoj von den Knochen des Sankt Andral erzählt. KI Zusammenfassung Yeska ist ein NSC. Die Notiz ordnet Yeska dem Bereich Vallaki / St. Andrals K",
+  "excerpt": "Jünger der St. Andrals Kirche Hat Milivoj von den Knochen des Sankt Andral erzählt. KI Zusammenfassung Beruf / Rolle Vermutlich gehört Yeska zur Rolle oder Machtstruktur von St. An",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -29,12 +29,7 @@
       "target": "Sankt Andral",
       "label": "Sankt Andral",
       "slug": "sankt-andral"
-    },
-    {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
     }
   ],
-  "markdown": "Jünger der [[St. Andrals Kirche]]\n\n![[Yeska.png]]\n\n- Hat [[Milivoj]] von den Knochen des [[Sankt Andral]] erzählt.\n- \n\n## KI-Zusammenfassung\n\nYeska ist ein NSC. Die Notiz ordnet Yeska dem Bereich [[Vallaki]] / [[St. Andrals Kirche]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Kirche]] zu.\n\n### Beziehungen und Verbindungen\n\nJünger der St. Andrals Kirche. Hat Milivoj von den Knochen des Sankt Andral erzählt. S50 - St. Andrals Kirche: Vater Lucian Petrovich, Yeska. S50 - St. Andrals Kirche: Vater Lucian Petrovich und Jünger Yeska beten in Larien. S50 - St. Andrals Kirche: Wir sprechen in Ruhe mit ihm. Yeska ist Novize und Kind aus dem St. Andrals Waisenhaus. Niemand außer ihm hatte er es erzählt. An Reliquien gibt es einen Schädel und einen Arm. Er war bislang nie in der Krypta unter der Kirche.\n\n### Historie / Was wir wissen\n\nJünger der St. Andrals Kirche. Hat Milivoj von den Knochen des Sankt Andral erzählt.\n"
+  "markdown": "Jünger der [[St. Andrals Kirche]]\n\n![[Yeska.png]]\n\n- Hat [[Milivoj]] von den Knochen des [[Sankt Andral]] erzählt.\n- \n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Yeska zur Rolle oder Machtstruktur von St. Andrals Kirche; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[St. Andrals Kirche|St. Andrals Kirche]] | Jünger der\n- Hat Milivoj von den Knochen des Sankt Andral erzählt\n- S50 - St. Andrals Kirche: Vater Lucian Petrovich, Yeska\n- S50 - St. Andrals Kirche: Vater Lucian Petrovich und Jünger Yeska beten in Larien\n- S50 - St. Andrals Kirche: Wir sprechen in Ruhe mit ihm. Yeska ist Novize und Kind aus dem St. Andrals Waisenhaus. Niemand außer ihm hatte er es erzählt. An Reliquien gibt es einen Schädel und einen Arm. Er war bislang nie in der Krypta unter der Kirche\n\n### Historie\n\n- Jünger der St. Andrals Kirche\n- Hat Milivoj von den Knochen des Sankt Andral erzählt\n"
 }
