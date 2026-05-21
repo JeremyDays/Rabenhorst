@@ -30,35 +30,10 @@
       "slug": "aufstand-gegen-strahd"
     },
     {
-      "target": "Doru",
-      "label": "Doru",
-      "slug": null
-    },
-    {
-      "target": "Doru Donavich",
-      "label": "Doru Donavich",
-      "slug": "doru-donavich"
-    },
-    {
-      "target": "Kirche von Barovia",
-      "label": "Kirche von Barovia",
-      "slug": "kirche-von-barovia"
-    },
-    {
-      "target": "Die Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren",
-      "label": "Die Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren",
-      "slug": "die-klinge-der-wahrheit-der-nutzen-der-logik-im-kampf-gegen-diabolische-irrlehre"
-    },
-    {
-      "target": "Die Geschichte der Drei Gefährten",
-      "label": "Die Geschichte der Drei Gefährten",
-      "slug": "die-geschichte-der-drei-gefahrten"
-    },
-    {
-      "target": "Was bisher geschah...",
-      "label": "Was bisher geschah...",
-      "slug": "was-bisher-geschah"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "![[Vater Donavich.png]]\n\nKirche. Er ist seltsamer geworden. \n- Hat seinen Sohn [[Doru Donavich|Doru]] beim [[Aufstand gegen Strahd]] verloren. Um die 60 Jahre. Entsetzt, blass, fahrig.\n\n## KI-Zusammenfassung\n\nVater Donavich, auch Bruder Donavich, Vater Donavich genannt, ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Kirche. Er ist seltsamer geworden. Hat seinen Sohn Doru beim Aufstand gegen Strahd verloren. Um die 60 Jahre. Entsetzt, blass, fahrig. Direkte Bezüge bestehen zu [[Doru]], [[Aufstand gegen Strahd]]. Vater Donavich wird außerdem in [[Doru Donavich]], [[Kirche von Barovia]], [[Die Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "![[Vater Donavich.png]]\n\nKirche. Er ist seltsamer geworden. \n- Hat seinen Sohn [[Doru Donavich|Doru]] beim [[Aufstand gegen Strahd]] verloren. Um die 60 Jahre. Entsetzt, blass, fahrig.\n\n## KI-Zusammenfassung\n\nVater Donavich, auch Bruder Donavich, Vater Donavich genannt, ist ein NSC. Die Notiz ordnet Vater Donavich dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nHat seinen Sohn Doru beim Aufstand gegen Strahd verloren. Um die 60 Jahre. Entsetzt, blass, fahrig. Doru Donavich: Vampirischer Sohn von Vater Donavich. Doru Donavich: Sohn von Vater Donavich. Kirche von Barovia: Der Dorfpriester Vater Donavich wohnt hier. Andere Barovianer meiden die Kirche aus Gründen, die schnell offensichtlich werden.\n\n### Historie / Was wir wissen\n\nKirche. Er ist seltsamer geworden. Hat seinen Sohn Doru beim Aufstand gegen Strahd verloren. Um die 60 Jahre. Entsetzt, blass, fahrig.\n"
 }

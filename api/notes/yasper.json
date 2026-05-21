@@ -44,35 +44,10 @@
       "slug": "uralte-steinbrucke"
     },
     {
-      "target": "Roten Vistani",
-      "label": "Roten Vistani",
-      "slug": null
-    },
-    {
-      "target": "Blauen Vistani",
-      "label": "Blauen Vistani",
-      "slug": null
-    },
-    {
-      "target": "Alten Brücke",
-      "label": "Alten Brücke",
-      "slug": null
-    },
-    {
-      "target": "Rote Vistani",
-      "label": "Rote Vistani",
-      "slug": "rote-vistani"
-    },
-    {
-      "target": "Uralte Steinbrücke",
-      "label": "Uralte Steinbrücke",
-      "slug": "uralte-steinbrucke"
-    },
-    {
-      "target": "S25 - Hexentod",
-      "label": "S25 - Hexentod",
-      "slug": "s25-hexentod"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "Alter Saufbold\n\n- Kommt aus [[Vallaki]].\n- War ein Freund von [[Doru Donavich]].\n- Laut ihm sind die [[Rote Vistani|Roten Vistani]] nicht so nett wie die [[Blaue Vistani|Blauen Vistani]].\n\n- Nennt sich selbst schlau. \n- Wir haben ihn bei der [[Uralte Steinbrücke|Alten Brücke]] getroffen.\n\n## KI-Zusammenfassung\n\nYasper, auch Yasper Rübenkopf genannt, ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Alter Saufbold Kommt aus Vallaki. War ein Freund von Doru Donavich. Laut ihm sind die Roten Vistani nicht so nett wie die Blauen Vistani. Direkte Bezüge bestehen zu [[Vallaki]], [[Doru Donavich]], [[Roten Vistani]], [[Blauen Vistani]], [[Alten Brücke]]. Yasper wird außerdem in [[Rote Vistani]], [[Doru Donavich]], [[Vallaki]], [[Uralte Steinbrücke]], [[S25 - Hexentod]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Alter Saufbold\n\n- Kommt aus [[Vallaki]].\n- War ein Freund von [[Doru Donavich]].\n- Laut ihm sind die [[Rote Vistani|Roten Vistani]] nicht so nett wie die [[Blaue Vistani|Blauen Vistani]].\n\n- Nennt sich selbst schlau. \n- Wir haben ihn bei der [[Uralte Steinbrücke|Alten Brücke]] getroffen.\n\n## KI-Zusammenfassung\n\nYasper, auch Yasper Rübenkopf genannt, ist ein NSC. Die Notiz ordnet Yasper dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nKommt aus Vallaki. Wir haben ihn bei der Alten Brücke getroffen.\n\n### Beziehungen und Verbindungen\n\nKommt aus Vallaki. War ein Freund von Doru Donavich. Laut ihm sind die Roten Vistani nicht so nett wie die Blauen Vistani. Wir haben ihn bei der Alten Brücke getroffen. Rote Vistani: Laut Yasper sind sie nicht so nett wie die Blauen Vistani. Doru Donavich: Freund von Yasper. S25 - Hexentod: Yasper ist bewusstlos.\n\n### Historie / Was wir wissen\n\nAlter Saufbold. Kommt aus Vallaki. War ein Freund von Doru Donavich. Laut ihm sind die Roten Vistani nicht so nett wie die Blauen Vistani. Nennt sich selbst schlau. Wir haben ihn bei der Alten Brücke getroffen.\n"
 }

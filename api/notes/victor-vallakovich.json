@@ -26,25 +26,15 @@
       "slug": "baron-vargas-vallakovich"
     },
     {
-      "target": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
-      "label": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
-      "slug": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht"
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
     },
     {
-      "target": "Codex der Hydromantie",
-      "label": "Codex der Hydromantie",
-      "slug": "codex-der-hydromantie"
-    },
-    {
-      "target": "Liber Mortis Domesticus",
-      "label": "Liber Mortis Domesticus",
-      "slug": "liber-mortis-domesticus"
-    },
-    {
-      "target": "Die Geschichte der Drei Gefährten",
-      "label": "Die Geschichte der Drei Gefährten",
-      "slug": "die-geschichte-der-drei-gefahrten"
+      "target": "Burgomeister",
+      "label": "Burgomeister",
+      "slug": null
     }
   ],
-  "markdown": "Zynischer Sohn von [[Lydia Vallakovich]] und [[Baron Vargas Vallakovich]].\n\n![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneos_assets/beneos_battlemaps/map_assets/tokens/cos_tokens/victor_vallakovich.webp)\n\n## KI-Zusammenfassung\n\nVictor Vallakovich ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Zynischer Sohn von Lydia Vallakovich und Baron Vargas Vallakovich. Direkte Bezüge bestehen zu [[Lydia Vallakovich]], [[Baron Vargas Vallakovich]]. Victor Vallakovich wird außerdem in [[Lydia Vallakovich]], [[Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht]], [[Codex der Hydromantie]], [[Liber Mortis Domesticus]], [[Die Geschichte der Drei Gefährten]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Zynischer Sohn von [[Lydia Vallakovich]] und [[Baron Vargas Vallakovich]].\n\n![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneos_assets/beneos_battlemaps/map_assets/tokens/cos_tokens/victor_vallakovich.webp)\n\n## KI-Zusammenfassung\n\nVictor Vallakovich ist ein NSC. Die Notiz ordnet Victor Vallakovich dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nZynischer Sohn von Lydia Vallakovich und Baron Vargas Vallakovich. Lydia Vallakovich: Hat Angst vor ihrem Mann, Baron Vargas Vallakovich, aber liebt ihren Sohn Victor Vallakovich noch mehr. Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht: Wo: Auf dem Dachboden bei Victor Vallakovich. Codex der Hydromantie: Wo: Auf dem Dachboden bei Victor Vallakovich.\n\n### Historie / Was wir wissen\n\nZynischer Sohn von Lydia Vallakovich und Baron Vargas Vallakovich. ![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneosassets/beneosbattlemaps/mapassets/tokens/costokens/victor_vallakovich.webp).\n"
 }

@@ -8,12 +8,18 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "KI Zusammenfassung Vistani Frau ist eine Figur aus dem Bereich Lager der Blauen Vistani. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung üb",
+  "excerpt": "KI Zusammenfassung Vistani Frau ist ein NSC. Die Notiz ordnet Vistani Frau dem Bereich Lager der Blauen Vistani zu. Beruf / Rolle Nicht ausdrücklich genannt. Wohnort / Aufenthalt D",
   "frontmatter": {
     "tags": [
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "![[Vistani Frau (Token).png]]\n\n## KI-Zusammenfassung\n\nVistani Frau ist eine Figur aus dem Bereich Lager der Blauen Vistani. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "links": [
+    {
+      "target": "Lager der Blauen Vistani",
+      "label": "Lager der Blauen Vistani",
+      "slug": "lager-der-blauen-vistani"
+    }
+  ],
+  "markdown": "![[Vistani Frau (Token).png]]\n\n## KI-Zusammenfassung\n\nVistani Frau ist ein NSC. Die Notiz ordnet Vistani Frau dem Bereich [[Lager der Blauen Vistani]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Lager der Blauen Vistani]] zu.\n\n### Beziehungen und Verbindungen\n\nNicht ausdrücklich genannt.\n\n### Historie / Was wir wissen\n\nNicht ausdrücklich genannt.\n"
 }

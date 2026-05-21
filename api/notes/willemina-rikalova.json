@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Alte Frau aus Vallaki Religiös. Sie bittet, dass man ihrem Sohn Udo hilft. KI Zusammenfassung Willemina Rikalova ist eine Figur aus dem Bereich Vallaki / St. Andrals Kirche. Die lo",
+  "excerpt": "Alte Frau aus Vallaki Religiös. Sie bittet, dass man ihrem Sohn Udo hilft. KI Zusammenfassung Willemina Rikalova ist ein NSC. Die Notiz ordnet Willemina Rikalova dem Bereich Vallak",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,25 +26,10 @@
       "slug": "udo"
     },
     {
-      "target": "Lydia Vallakovich",
-      "label": "Lydia Vallakovich",
-      "slug": "lydia-vallakovich"
-    },
-    {
-      "target": "S50 - St. Andrals Kirche",
-      "label": "S50 - St. Andrals Kirche",
-      "slug": "s50-st-andrals-kirche"
-    },
-    {
-      "target": "S51 - Beim Sargmacher",
-      "label": "S51 - Beim Sargmacher",
-      "slug": "s51-beim-sargmacher"
-    },
-    {
-      "target": "S56 - Blauwasser-Taverne",
-      "label": "S56 - Blauwasser-Taverne",
-      "slug": "s56-blauwasser-taverne"
+      "target": "St. Andrals Kirche",
+      "label": "St. Andrals Kirche",
+      "slug": "st-andrals-kirche"
     }
   ],
-  "markdown": "_Alte Frau aus [[Vallaki]]_\n\n![[Willemina Rikalova.png]]\n\nReligiös.\nSie bittet, dass man ihrem Sohn [[Udo]] hilft.\n\n## KI-Zusammenfassung\n\nWillemina Rikalova ist eine Figur aus dem Bereich Vallaki / St. Andrals Kirche. Die lokalen Notizen halten dazu fest: Alte Frau aus Vallaki Religiös. Sie bittet, dass man ihrem Sohn Udo hilft. Direkte Bezüge bestehen zu [[Vallaki]], [[Udo]]. Willemina Rikalova wird außerdem in [[Lydia Vallakovich]], [[Udo]], [[S50 - St. Andrals Kirche]], [[S51 - Beim Sargmacher]], [[S56 - Blauwasser-Taverne]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "_Alte Frau aus [[Vallaki]]_\n\n![[Willemina Rikalova.png]]\n\nReligiös.\nSie bittet, dass man ihrem Sohn [[Udo]] hilft.\n\n## KI-Zusammenfassung\n\nWillemina Rikalova ist ein NSC. Die Notiz ordnet Willemina Rikalova dem Bereich [[Vallaki]] / [[St. Andrals Kirche]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Kirche]] zu.\n\n### Beziehungen und Verbindungen\n\nAlte Frau aus Vallaki. Sie bittet, dass man ihrem Sohn Udo hilft. Udo: Sohn von Willemina Rikalova. S50 - St. Andrals Kirche: Alte Frau (Willemina Rikalova). Mit viel Gram und Angst: \"Habt ihr meinen Sohn freibekommen?\". S51 - Beim Sargmacher: Ireena, Vater Lucian Petrovich, Yeska, Willemina Rikalova.\n\n### Historie / Was wir wissen\n\nAlte Frau aus Vallaki. Sie bittet, dass man ihrem Sohn Udo hilft.\n"
 }
