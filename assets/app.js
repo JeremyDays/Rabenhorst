@@ -14,7 +14,8 @@ async function bootSearch() {
   input.addEventListener("input", () => {
     const query = input.value.trim().toLowerCase();
     results.innerHTML = "";
-    shell?.classList.remove("has-results", "opens-up");
+    shell?.classList.remove("has-results");
+    shell?.style.setProperty("--search-shift", "0px");
     if (!query) return;
 
     const matches = haystack.filter((note) => note.text.includes(query)).slice(0, 10);
@@ -30,16 +31,15 @@ async function bootSearch() {
 
 function updateSearchDropdown(shell, results) {
   if (!shell || !results || !shell.classList.contains("has-results")) return;
-  shell.classList.remove("opens-up");
+  shell.style.setProperty("--search-shift", "0px");
   const rect = shell.getBoundingClientRect();
   const gap = 7;
   const below = Math.max(0, window.innerHeight - rect.bottom - gap);
-  const above = Math.max(0, rect.top - gap);
-  shell.style.setProperty("--search-space-below", below + "px");
-  shell.style.setProperty("--search-space-above", above + "px");
-  if (below < Math.min(results.scrollHeight, window.innerHeight * 0.42) && above > below) {
-    shell.classList.add("opens-up");
-  }
+  const wanted = Math.min(results.scrollHeight, window.innerHeight * 0.9);
+  const maxShift = Math.max(0, rect.top - gap);
+  const shift = Math.min(Math.max(0, wanted - below), maxShift);
+  shell.style.setProperty("--search-shift", shift ? "-" + shift + "px" : "0px");
+  shell.style.setProperty("--search-space-below", (below + shift) + "px");
 }
 
 function normalizeAliases(value) {
