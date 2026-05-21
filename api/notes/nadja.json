@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan KI Zusammenfassung Nadja ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten ",
+  "excerpt": "Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan KI Zusammenfassung Nadja ist ein NSC. Die Notiz ordnet Nadja dem Bereich Vallaki / Burgomeister zu. Beruf /",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -31,15 +31,15 @@
       "slug": "iljan"
     },
     {
-      "target": "S67 - Victor, Nadja und Iljan",
-      "label": "S67 - Victor, Nadja und Iljan",
-      "slug": "s67-victor-nadja-und-iljan"
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
     },
     {
-      "target": "S68 - Die Beschwörung",
-      "label": "S68 - Die Beschwörung",
-      "slug": "s68-die-beschworung"
+      "target": "Burgomeister",
+      "label": "Burgomeister",
+      "slug": null
     }
   ],
-  "markdown": "- Dienerin von [[Baron Vargas Vallakovich]]\n- Verlobte von [[Udo]]\n- Tochter von [[Iljan]]\n\n## KI-Zusammenfassung\n\nNadja ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]], [[Udo]], [[Iljan]]. Nadja wird außerdem in [[Baron Vargas Vallakovich]], [[Iljan]], [[Udo]], [[S67 - Victor, Nadja und Iljan]], [[S68 - Die Beschwörung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Dienerin von [[Baron Vargas Vallakovich]]\n- Verlobte von [[Udo]]\n- Tochter von [[Iljan]]\n\n## KI-Zusammenfassung\n\nNadja ist ein NSC. Die Notiz ordnet Nadja dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Burgomeister]] zu.\n\n### Beziehungen und Verbindungen\n\nDienerin von Baron Vargas Vallakovich. Verlobte von Udo. Tochter von Iljan. Iljan: Vater von Nadja. S67 - Victor, Nadja und Iljan: Nadja und Iljan. Sehen gesättigt aus und dankbar. S68 - Die Beschwörung: Nadja schleicht in der Küche. Geht ihr zu meinem Verlobten?.\n\n### Historie / Was wir wissen\n\nDienerin von Baron Vargas Vallakovich. Verlobte von Udo. Tochter von Iljan.\n"
 }

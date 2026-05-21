@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind KI Zusammenfassung Mischa ist eine Figur aus dem Bereich Vallaki / St. Andrals W",
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind KI Zusammenfassung Mischa ist ein NSC. Die Notiz ordnet Mischa dem Bereich Valla",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -24,7 +24,17 @@
       "target": "Izek Strazni",
       "label": "Izek Strazni",
       "slug": "izek-strazni"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Waisenkinder",
+      "label": "Waisenkinder",
+      "slug": null
     }
   ],
-  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n- Ihre Eltern wurden von [[Izek Strazni]] verbrannt. Waisenkind\n\n## KI-Zusammenfassung\n\nMischa ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]], [[Izek Strazni]]. Mischa wird außerdem in [[St. Andrals Waisenhaus]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n- Ihre Eltern wurden von [[Izek Strazni]] verbrannt. Waisenkind\n\n## KI-Zusammenfassung\n\nMischa ist ein NSC. Die Notiz ordnet Mischa dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beziehungen und Verbindungen\n\nWaisenkind aus dem St. Andrals Waisenhaus. Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind. St. Andrals Waisenhaus: Mischa.\n\n### Historie / Was wir wissen\n\nWaisenkind aus dem St. Andrals Waisenhaus. Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind.\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Mitglied der Roten VistaniRote Vistani Wo getroffen: Tor von Barovia Redender Zigeuner Hat der Gruppewertvolle Gegenstände unds Geld geraubt. KI Zusammenfassung Lungari ist eine Fi",
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Wo getroffen: Tor von Barovia Redender Zigeuner Hat der Gruppewertvolle Gegenstände unds Geld geraubt. KI Zusammenfassung Lungari ist ein NSC",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,15 +26,10 @@
       "slug": "tor-von-barovia"
     },
     {
-      "target": "Roten Vistani",
-      "label": "Roten Vistani",
-      "slug": null
-    },
-    {
-      "target": "S11 - Tor von Barovia",
-      "label": "S11 - Tor von Barovia",
-      "slug": "s11-tor-von-barovia"
+      "target": "Lager der Roten Vistani",
+      "label": "Lager der Roten Vistani",
+      "slug": "lager-der-roten-vistani"
     }
   ],
-  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\n**Wo getroffen:** [[Tor von Barovia]]\n\nRedender Zigeuner\n\n- Hat der Gruppewertvolle Gegenstände unds Geld geraubt.\n\n## KI-Zusammenfassung\n\nLungari ist eine Figur aus dem Bereich Lager der Roten Vistani. Die lokalen Notizen halten dazu fest: Mitglied der Roten Vistani Wo getroffen: Tor von Barovia Redender Zigeuner Hat der Gruppewertvolle Gegenstände unds Geld geraubt. Direkte Bezüge bestehen zu [[Roten Vistani]], [[Tor von Barovia]]. Lungari wird außerdem in [[Tor von Barovia]], [[S11 - Tor von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\n**Wo getroffen:** [[Tor von Barovia]]\n\nRedender Zigeuner\n\n- Hat der Gruppewertvolle Gegenstände unds Geld geraubt.\n\n## KI-Zusammenfassung\n\nLungari ist ein NSC. Die Notiz ordnet Lungari dem Bereich [[Lager der Roten Vistani]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nTor von Barovia.\n\n### Beziehungen und Verbindungen\n\nMitglied der Roten Vistani. Wo getroffen: Tor von Barovia. S11 - Tor von Barovia: Lungari ist gesprächig und Zintori ist ruhig (Freund, Ältester).\n\n### Historie / Was wir wissen\n\nMitglied der Roten Vistani. Redender Zigeuner. Hat der Gruppewertvolle Gegenstände unds Geld geraubt.\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. KI Zusammenfassung RIPpy ist eine Figur aus den NSC Notizen. Die lokalen Notiz",
+  "excerpt": "Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. KI Zusammenfassung RIPpy ist ein NSC. Beruf / Rolle Nicht ausdrücklich genannt",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -29,32 +29,7 @@
       "target": "Gustav Alkir",
       "label": "Gustav Alkir",
       "slug": "gustav-alkir"
-    },
-    {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S08 - Grüfte",
-      "label": "S08 - Grüfte",
-      "slug": "s08-grufte"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
-    },
-    {
-      "target": "S11 - Tor von Barovia",
-      "label": "S11 - Tor von Barovia",
-      "slug": "s11-tor-von-barovia"
-    },
-    {
-      "target": "S16 - Ein Handel mit Bildrath",
-      "label": "S16 - Ein Handel mit Bildrath",
-      "slug": "s16-ein-handel-mit-bildrath"
     }
   ],
-  "markdown": "Ein kleiner Fuchs, der [[Heinard]] geholfen hatte im [[Haus Alkir]].\n\n**Gefunden:** In der Gruft von [[Gustav Alkir]].\n\n## KI-Zusammenfassung\n\nRIPpy ist eine Figur aus den NSC-Notizen. Die lokalen Notizen halten dazu fest: Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]], [[Gustav Alkir]]. RIPpy wird außerdem in [[Alle Gegenstände]], [[S08 - Grüfte]], [[S10 - Katakomben]], [[S11 - Tor von Barovia]], [[S16 - Ein Handel mit Bildrath]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Ein kleiner Fuchs, der [[Heinard]] geholfen hatte im [[Haus Alkir]].\n\n**Gefunden:** In der Gruft von [[Gustav Alkir]].\n\n## KI-Zusammenfassung\n\nRIPpy ist ein NSC.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nIn der Gruft von Gustav Alkir.\n\n### Beziehungen und Verbindungen\n\nEin kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. Alle Gegenstände: RIPpy. Ein kleiner Fuchs. S08 - Grüfte: Ein Fuchs-Baby, RIPpy. (+). S10 - Katakomben: Michal opferte den Fuchs, RIPpy, nicht.\n\n### Historie / Was wir wissen\n\nEin kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir.\n"
 }

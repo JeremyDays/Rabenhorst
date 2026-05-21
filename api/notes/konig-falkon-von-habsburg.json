@@ -31,30 +31,10 @@
       "slug": "sankt-markovia"
     },
     {
-      "target": "Prinz Strahd",
-      "label": "Prinz Strahd",
+      "target": "Von Habsburg",
+      "label": "Von Habsburg",
       "slug": null
-    },
-    {
-      "target": "Graf Strahd",
-      "label": "Graf Strahd",
-      "slug": "graf-strahd"
-    },
-    {
-      "target": "König Barov",
-      "label": "König Barov",
-      "slug": "konig-barov"
-    },
-    {
-      "target": "Der Hof von Rabenhorst",
-      "label": "Der Hof von Rabenhorst",
-      "slug": "der-hof-von-rabenhorst"
-    },
-    {
-      "target": "Großer Krieg",
-      "label": "Großer Krieg",
-      "slug": "gro-er-krieg"
     }
   ],
-  "markdown": "Ehemaliger Herrscher von [[Barovia]].\n\nHat um [[Barovia]] gekämpft, aber unterlag der Macht von [[Graf Strahd|Prinz Strahd]].\n\n- [[Graf Strahd|Prinz Strahd]] hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater [[Barovia]] regierte.\n- War befreundet mit [[Sankt Markovia]].\n- \n\n## KI-Zusammenfassung\n\nKönig Falkon von Habsburg ist eine Figur aus dem Bereich Von Habsburg. Die lokalen Notizen halten dazu fest: Ehemaliger Herrscher von Barovia. Hat um Barovia gekämpft, aber unterlag der Macht von Prinz Strahd. Prinz Strahd hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater Barovia regierte. War befreundet mit Sankt Markovia. Direkte Bezüge bestehen zu [[Barovia]], [[Prinz Strahd]], [[Sankt Markovia]]. König Falkon von Habsburg wird außerdem in [[Graf Strahd]], [[König Barov]], [[Sankt Markovia]], [[Der Hof von Rabenhorst]], [[Großer Krieg]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Ehemaliger Herrscher von [[Barovia]].\n\nHat um [[Barovia]] gekämpft, aber unterlag der Macht von [[Graf Strahd|Prinz Strahd]].\n\n- [[Graf Strahd|Prinz Strahd]] hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater [[Barovia]] regierte.\n- War befreundet mit [[Sankt Markovia]].\n- \n\n## KI-Zusammenfassung\n\nKönig Falkon von Habsburg ist ein NSC. Die Notiz ordnet König Falkon von Habsburg dem Bereich [[Von Habsburg]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Von Habsburg]] zu.\n\n### Beziehungen und Verbindungen\n\nEhemaliger Herrscher von Barovia. Hat um Barovia gekämpft, aber unterlag der Macht von Prinz Strahd. Prinz Strahd hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater Barovia regierte. War befreundet mit Sankt Markovia. Graf Strahd: Prinz Strahd hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater Barovia regierte. König Barov: Sein Sohn, Prinz Strahd, hatte dies mit seinem Sieg über König Falkon von Habsburg möglich gemacht. König Barov: König Barov von Zarovich und Königin Ravenovia van Roeven besuchten Schloss Rabenhorst oft. König Barov von Zarovichs Blutlinie war vor langer Zeit mit Barovia verbunden, und es heißt, dass er nach dem Tal von Barovia benannt wurde und eines Tages im Namen seines Namens herrschen würde. Sein Sohn, Prinz Strahd, hatte dies mit seinem Sieg über König Falkon von Habsburg möglich gemacht.\n\n### Historie / Was wir wissen\n\nEhemaliger Herrscher von Barovia. Hat um Barovia gekämpft, aber unterlag der Macht von Prinz Strahd. Prinz Strahd hatte es mit seinem Sieg über König Falkon von Habsburg möglich gemacht, dass sein Vater Barovia regierte. War befreundet mit Sankt Markovia.\n"
 }
