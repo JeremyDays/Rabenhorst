@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 8 Jahre alt KI Zusammenfassung Uljana ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen ",
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 8 Jahre alt KI Zusammenfassung Uljana ist ein NSC. Die Notiz ordnet Uljana dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder zu.",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,7 +19,17 @@
       "target": "St. Andrals Waisenhaus",
       "label": "St. Andrals Waisenhaus",
       "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Waisenkinder",
+      "label": "Waisenkinder",
+      "slug": null
     }
   ],
-  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Uljana.png]]\n\n8 Jahre alt\n\n## KI-Zusammenfassung\n\nUljana ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus 8 Jahre alt Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Uljana.png]]\n\n8 Jahre alt\n\n## KI-Zusammenfassung\n\nUljana ist ein NSC. Die Notiz ordnet Uljana dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beruf / Rolle\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[St. Andrals Waisenhaus]] / [[Waisenkinder]] zu.\n\n### Beziehungen und Verbindungen\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n\n### Historie / Was wir wissen\n\nWaisenkind aus dem St. Andrals Waisenhaus.\n"
 }

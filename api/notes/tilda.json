@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Parriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern. KI Zusammenfassung Tilda ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu ",
+  "excerpt": "Parriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern. KI Zusammenfassung Tilda ist ein NSC. Die Notiz ordnet Tilda dem Bereich Barovia zu. Beruf / Roll",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -21,10 +21,10 @@
       "slug": "parriwimpel"
     },
     {
-      "target": "S16 - Ein Handel mit Bildrath",
-      "label": "S16 - Ein Handel mit Bildrath",
-      "slug": "s16-ein-handel-mit-bildrath"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "[[Parriwimpel]] hat einen kleinen Ring für sie schmieden wollen. \nEr hat sie wohl gern.\n\n## KI-Zusammenfassung\n\nTilda ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Parriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern. Direkte Bezüge bestehen zu [[Parriwimpel]]. Tilda wird außerdem in [[Parriwimpel]], [[S16 - Ein Handel mit Bildrath]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "[[Parriwimpel]] hat einen kleinen Ring für sie schmieden wollen. \nEr hat sie wohl gern.\n\n## KI-Zusammenfassung\n\nTilda ist ein NSC. Die Notiz ordnet Tilda dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nParriwimpel hat einen kleinen Ring für sie schmieden wollen. Parriwimpel: Ist verliebt in Tilda. S16 - Ein Handel mit Bildrath: Er will einen kleinen Ring machen. Für Tilda.\n\n### Historie / Was wir wissen\n\nParriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern.\n"
 }
