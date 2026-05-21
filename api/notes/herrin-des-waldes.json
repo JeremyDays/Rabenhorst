@@ -1,0 +1,39 @@
+{
+  "title": "Herrin des Waldes",
+  "slug": "herrin-des-waldes",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Herrinnen bzw. Fey/Herrin des Waldes.md",
+  "url": "notes/herrin-des-waldes.html",
+  "apiUrl": "api/notes/herrin-des-waldes.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Eine der Herrinnen. Sie ist identisch mit der Waldfey Das Schutztier der Herrin des Waldes scheint ein Rabe zu sein. Sie hieß damals die Herrin der LuftHerrin des Waldes Man betet ",
+  "frontmatter": {
+    "aliases": [
+      "Herrin der Luft",
+      "Herrin der Wälder"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Herrin des Waldes",
+      "label": "Herrin der Luft",
+      "slug": "herrin-des-waldes"
+    }
+  ],
+  "markdown": "Eine der [[Herrinnen]].\n\nSie ist identisch mit der [[Waldfey]]\n\n![[Symbol Herrin des Waldes.webp]]\n- Das Schutztier der Herrin des Waldes scheint ein Rabe zu sein.\n\n- Sie hieß damals die [[Herrin des Waldes|Herrin der Luft]]\n- Man betet die Herrin des Waldes an, um für eine gute Jagd zu beten. \n"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Ghakis-Berge",
+  "slug": "ghakis-berge",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/In den Bergen/Ghakis-Berge.md",
+  "url": "notes/ghakis-berge.html",
+  "apiUrl": "api/notes/ghakis-berge.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Von hier kommt der Bernstein des Bernsteintempels. Dieser Bernstein kann Magie nutzbar machen. KI Zusammenfassung Ghakis Berge ist ein Ort im Bereich In den Bergen. Die lokalen Not",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Das Leben des Khazan",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "S52 - Vampire im Haus",
+      "label": "S52 - Vampire im Haus",
+      "slug": "s52-vampire-im-haus"
+    }
+  ],
+  "markdown": "- Von hier kommt der Bernstein des [[Bernsteintempel]]s.\n- Dieser Bernstein kann [[Magie]] nutzbar machen.\n\n## KI-Zusammenfassung\n\nGhakis-Berge ist ein Ort im Bereich In den Bergen. Die lokalen Notizen halten dazu fest: Von hier kommt der Bernstein des Bernsteintempels. Dieser Bernstein kann Magie nutzbar machen. Direkte Bezüge bestehen zu [[Bernsteintempel]], [[Magie]]. Ghakis-Berge wird außerdem in [[Bernsteintempel]], [[Das Leben des Khazan]], [[S52 - Vampire im Haus]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

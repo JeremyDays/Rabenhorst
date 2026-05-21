@@ -1,0 +1,25 @@
+{
+  "title": "Heinards Geldbeutel",
+  "slug": "heinards-geldbeutel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Sonstiges/Heinards Geldbeutel.md",
+  "url": "notes/heinards-geldbeutel.html",
+  "apiUrl": "api/notes/heinards-geldbeutel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Inhalt: 9 Pf. KI Zusammenfassung Heinards Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Inhalt: 9 Pf. Heinards Geldbeutel w",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    }
+  ],
+  "markdown": "**Inhalt:** 9 Pf.\n\n## KI-Zusammenfassung\n\nHeinards Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Inhalt: 9 Pf. Heinards Geldbeutel wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

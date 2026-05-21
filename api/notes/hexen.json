@@ -1,0 +1,63 @@
+{
+  "title": "Hexen",
+  "slug": "hexen",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Magieanwender/Hexen.md",
+  "url": "notes/hexen.html",
+  "apiUrl": "api/notes/hexen.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Eine Form von Magieanwender. Bekannte Hexen: Morganta Bella Offilia Präfekt Ciril Romulich Die korrupte Wasserfey hat einen Pakt mit den Hexen im Sumpf um Berez geschlossen.",
+  "frontmatter": {
+    "aliases": [
+      "Hexe"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Magieanwender",
+      "label": "Magieanwender",
+      "slug": "magieanwender"
+    },
+    {
+      "target": "Morganta",
+      "label": "Morganta",
+      "slug": "morganta"
+    },
+    {
+      "target": "Bella",
+      "label": "Bella",
+      "slug": "bella"
+    },
+    {
+      "target": "Offilia",
+      "label": "Offilia",
+      "slug": "offilia"
+    },
+    {
+      "target": "Präfekt Ciril Romulich",
+      "label": "Präfekt Ciril Romulich",
+      "slug": "prafekt-ciril-romulich"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Hexen",
+      "label": "Hexen",
+      "slug": "hexen"
+    },
+    {
+      "target": "Berez",
+      "label": "Berez",
+      "slug": "berez"
+    }
+  ],
+  "markdown": "Eine Form von [[Magieanwender]].\n\n**Bekannte Hexen:**\n- [[Morganta]]\n- [[Bella]]\n- [[Offilia]]\n- [[Präfekt Ciril Romulich]]\n\n- Die korrupte [[Wasserfey]] hat einen Pakt mit den [[Hexen]] im Sumpf um [[Berez]] geschlossen."
+}

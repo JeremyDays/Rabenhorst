@@ -1,0 +1,25 @@
+{
+  "title": "Juri",
+  "slug": "juri",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Juri.md",
+  "url": "notes/juri.html",
+  "apiUrl": "api/notes/juri.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus 15 Jahre KI Zusammenfassung Juri ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halte",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    }
+  ],
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n![[Juri.png]]\n\n15 Jahre\n\n## KI-Zusammenfassung\n\nJuri ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus 15 Jahre Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Eisenberge",
+  "slug": "eisenberge",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Eisenberge.md",
+  "url": "notes/eisenberge.html",
+  "apiUrl": "api/notes/eisenberge.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In den Ausläufern der Eisenberge ist das kleine Dorf Eichenfurt. Im Norden EichenfurtsEichenfurt liegen die mächtigen Eisenberge mit Kuppen aus Eis. Viele Bergleute des Dorfes zieh",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Eisenberge",
+      "label": "Eisenberge",
+      "slug": "eisenberge"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurts",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Kronenstraße",
+      "label": "Kronenstraße",
+      "slug": "kronenstra-e"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorfes",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Eisenberge",
+      "label": "Eisenbergen",
+      "slug": "eisenberge"
+    },
+    {
+      "target": "Bergwölfe",
+      "label": "Bergwölfe",
+      "slug": "bergwolfe"
+    }
+  ],
+  "markdown": "\nIn den Ausläufern der [[Eisenberge]] ist das kleine Dorf [[Eichenfurt]].\n\nIm Norden [[Eichenfurt|Eichenfurts]] liegen die mächtigen [[Eisenberge]] mit Kuppen aus Eis. Viele Bergleute des Dorfes ziehen noch vor Morgengrauen den Trampelpfad hinauf, um ihrem Tagesgeschäft nachzugehen. Der Verkauf der wertvollen Metalle in Rohform oder in eine neue Form geschmiedet hat das Dorf einst reich gemacht. Nach dem Abschürfen der dicksten Erzadern jedoch, hat man die [[Kronenstraße]] verlegt und der Reichtum des [[Eichenfurt|Dorfes]] schwand nach und nach. Heutzutage findet sich nur noch wenig Eisenerz in den Minen der [[Eisenberge]]. In den [[Eisenberge|Eisenbergen]] leben große, aggressive [[Bergwölfe]], die in Wolfswintern, wenn es nichts mehr zu jagen gibt, auch in die Ebene kommen. "
+}

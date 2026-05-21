@@ -1,0 +1,19 @@
+{
+  "title": "Dunkelheit",
+  "slug": "dunkelheit",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Dunkelheit.md",
+  "url": "notes/dunkelheit.html",
+  "apiUrl": "api/notes/dunkelheit.json",
+  "tags": [],
+  "excerpt": "Vermutlich begründet sie die Zeit der Dunkelheit Überbleibsel von vergangenen Gottheiten. Sie verführt mit Macht und hat eine Stimme.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Zeit der Dunkelheit",
+      "label": "Zeit der Dunkelheit",
+      "slug": "zeit-der-dunkelheit"
+    }
+  ],
+  "markdown": "\n- Vermutlich begründet sie die [[Zeit der Dunkelheit]]\n- Überbleibsel von vergangenen Gottheiten.\n- Sie verführt mit Macht und hat eine Stimme."
+}

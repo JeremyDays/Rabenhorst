@@ -1,0 +1,53 @@
+{
+  "title": "Gadof Blinski",
+  "slug": "gadof-blinski",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Gadof Blinski.md",
+  "url": "notes/gadof-blinski.html",
+  "apiUrl": "api/notes/gadof-blinski.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Spielzeugmacher aus Vallaki Nett, aber sein Spielzeug sei seltsam (creepy). Hat das Spielzeug von Maria und Gertruda gemacht. Dieselbe Puppe. Malduk: Wie alt ist er, dass er das Sp",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Blinski"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Maria",
+      "label": "Maria",
+      "slug": "maria"
+    },
+    {
+      "target": "Gertruda",
+      "label": "Gertruda",
+      "slug": "gertruda"
+    },
+    {
+      "target": "Stadthaus der verrückten Maria",
+      "label": "Stadthaus der verrückten Maria",
+      "slug": "stadthaus-der-verruckten-maria"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    },
+    {
+      "target": "S43 - Marktplatz",
+      "label": "S43 - Marktplatz",
+      "slug": "s43-marktplatz"
+    }
+  ],
+  "markdown": "Spielzeugmacher aus [[Vallaki]]\n\n![[Gadof Blinski.png]]\n\n- Nett, aber sein Spielzeug sei seltsam (creepy).\n- Hat das Spielzeug von [[Maria]] und [[Gertruda]] gemacht. Dieselbe Puppe. \n\n>***Malduk:** Wie alt ist er, dass er das Spielzeug für die alte [[Maria]] hat machen können??*\n\n- Wir haben ihn (noch) nicht getroffen.\n\n## KI-Zusammenfassung\n\nGadof Blinski, auch Blinski genannt, ist eine Figur aus dem Bereich Vallaki. Die lokalen Notizen halten dazu fest: Spielzeugmacher aus Vallaki Nett, aber sein Spielzeug sei seltsam (creepy). Hat das Spielzeug von Maria und Gertruda gemacht. Dieselbe Puppe. Malduk: Wie alt ist er, dass er das Spielzeug für die alte Maria hat machen können?? Direkte Bezüge bestehen zu [[Vallaki]], [[Maria]], [[Gertruda]]. Gadof Blinski wird außerdem in [[Gertruda]], [[Maria]], [[Stadthaus der verrückten Maria]], [[S23 - Steintor]], [[S43 - Marktplatz]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Eichenfurt",
+  "slug": "eichenfurt",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Eichenfurt.md",
+  "url": "notes/eichenfurt.html",
+  "apiUrl": "api/notes/eichenfurt.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Ein Dorf im Velarischen ReichVelarisches Imperium in der Grafschaft Kronstadt Eichenfurt (Übersicht) Eichenfurt ist ein kleines Dorf in den Ausläufen der Eisenberge im Norden. Im W",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarischen Reich",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Kronstadt",
+      "label": "Kronstadt",
+      "slug": null
+    },
+    {
+      "target": "Eisenberge",
+      "label": "Eisenberge",
+      "slug": "eisenberge"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Alte Tränke",
+      "label": "Alte Tränke",
+      "slug": "alte-tranke"
+    },
+    {
+      "target": "Kronenstraße",
+      "label": "Kronenstraße",
+      "slug": "kronenstra-e"
+    },
+    {
+      "target": "Silvanfluss",
+      "label": "Silvanfluss",
+      "slug": "silvanfluss"
+    },
+    {
+      "target": "Uralte Eiche",
+      "label": "Uralte Eiche",
+      "slug": "uralte-eiche"
+    },
+    {
+      "target": "Mühle von Eichenfurt",
+      "label": "Mühle von Eichenfurt",
+      "slug": "muhle-von-eichenfurt"
+    },
+    {
+      "target": "Wehrturm",
+      "label": "Wehrturm",
+      "slug": "wehrturm"
+    },
+    {
+      "target": "Gehöfte von Josep",
+      "label": "Gehöfte von Josep",
+      "slug": "gehofte-von-josep"
+    },
+    {
+      "target": "Kapelle von Eichenfurt",
+      "label": "Kapelle von Eichenfurt",
+      "slug": "kapelle-von-eichenfurt"
+    },
+    {
+      "target": "Platz des Marktes",
+      "label": "Platz des Marktes",
+      "slug": "platz-des-marktes"
+    },
+    {
+      "target": "Schmiede von Eichenfurt",
+      "label": "Schmiede von Eichenfurt",
+      "slug": "schmiede-von-eichenfurt"
+    }
+  ],
+  "markdown": "\nEin Dorf im [[Velarisches Imperium|Velarischen Reich]] in der Grafschaft [[Kronstadt]]\n\n**Eichenfurt (Übersicht)** \nEichenfurt ist ein kleines Dorf in den Ausläufen der [[Eisenberge]] im Norden. Im Westen und Osten wird es umgeben vom dichtem [[Winterwald]] und vereinzelten Äckern und Farmen. [[Eichenfurt]] beheimatet **128 Einwohner**, darunter recht viele Bergleute, Köhler und Jäger, ein paar Bauern, eine alte Hebamme und.... einen Magus, einen Priester und einen Schmiedegesellen. \n\n**Wichtige Orte:**\n- [[Alte Tränke]]\n- [[Eisenberge]]\n- [[Kronenstraße]]\n- [[Silvanfluss]]\n- [[Uralte Eiche]]\n- [[Winterwald]]\n- [[Mühle von Eichenfurt]]\n- [[Wehrturm]]\n- [[Gehöfte von Josep]]\n- [[Kapelle von Eichenfurt]]\n- [[Platz des Marktes]]\n- [[Schmiede von Eichenfurt]]\n- \n\n"
+}

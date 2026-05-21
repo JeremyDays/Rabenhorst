@@ -1,0 +1,80 @@
+{
+  "title": "Felix' Medaillon",
+  "slug": "felix-medaillon",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Felix' Medaillon.md",
+  "url": "notes/felix-medaillon.html",
+  "apiUrl": "api/notes/felix-medaillon.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Das heilige Medaillon wurde von einigen mächtigen Gläubigen geschaffen, um einen Dämon zu halten. Felix hat es bei sich gehabt und in das St. Andrals Waisenhaus mitgebracht. Es hat",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Felix",
+      "label": "Felix",
+      "slug": "felix"
+    },
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Felix' Dämon",
+      "label": "Felix' Dämon",
+      "slug": "felix-damon"
+    },
+    {
+      "target": "Dämonen",
+      "label": "Schattendämon",
+      "slug": "damonen"
+    },
+    {
+      "target": "Felix' Medaillon",
+      "label": "Felix' Medaillon",
+      "slug": "felix-medaillon"
+    },
+    {
+      "target": "Milivoj",
+      "label": "Milivoj",
+      "slug": "milivoj"
+    },
+    {
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
+    },
+    {
+      "target": "Schattendämon",
+      "label": "Schattendämon",
+      "slug": null
+    },
+    {
+      "target": "Claudia Belasco",
+      "label": "Claudia Belasco",
+      "slug": "claudia-belasco"
+    },
+    {
+      "target": "S45 - Der Dunkelheit auf der Spur",
+      "label": "S45 - Der Dunkelheit auf der Spur",
+      "slug": "s45-der-dunkelheit-auf-der-spur"
+    },
+    {
+      "target": "S46 - Ein Dunkles Spiel mit Lebenskraft",
+      "label": "S46 - Ein Dunkles Spiel mit Lebenskraft",
+      "slug": "s46-ein-dunkles-spiel-mit-lebenskraft"
+    },
+    {
+      "target": "S48 - Ein gemeinsames Mahl",
+      "label": "S48 - Ein gemeinsames Mahl",
+      "slug": "s48-ein-gemeinsames-mahl"
+    }
+  ],
+  "markdown": "- Das heilige Medaillon wurde von einigen mächtigen Gläubigen geschaffen, um einen Dämon zu halten.\n- [[Felix]] hat es bei sich gehabt und in das [[St. Andrals Waisenhaus]] mitgebracht.\n- Es hatte aber einen Schaden gehabt und [[Felix' Dämon]] ist halb befreit gewesen.\n- Wir haben diesen [[Dämonen|Schattendämon]] durch Licht und Spiegel in Schach gehalten und durch [[Felix' Medaillon]] in den Händen von [[Milivoj]] besiegt, der die [[Knochen des St. Andral]] angefasst hatte.\n\n## KI-Zusammenfassung\n\nFelix' Medaillon ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Das heilige Medaillon wurde von einigen mächtigen Gläubigen geschaffen, um einen Dämon zu halten. Felix hat es bei sich gehabt und in das St. Andrals Waisenhaus mitgebracht. Es hatte aber einen Schaden gehabt und Felix' Dämon ist halb befreit gewesen. Wir haben diesen Schattendämon durch Licht und Spiegel in Schach gehalten und durch Felix' Medaillon in den Händen von Milivoj besiegt, der die Knochen des St. Andral angefasst hatte. Direkte Bezüge bestehen zu [[Felix]], [[St. Andrals Waisenhaus]], [[Felix' Dämon]], [[Schattendämon]], [[Milivoj]]. Felix' Medaillon wird außerdem in [[Claudia Belasco]], [[Felix]], [[S45 - Der Dunkelheit auf der Spur]], [[S46 - Ein Dunkles Spiel mit Lebenskraft]], [[S48 - Ein gemeinsames Mahl]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

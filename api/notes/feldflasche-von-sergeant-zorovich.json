@@ -1,0 +1,30 @@
+{
+  "title": "Feldflasche von Sergeant Zorovich",
+  "slug": "feldflasche-von-sergeant-zorovich",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Von Sergeant Zorovich/Feldflasche von Sergeant Zorovich.md",
+  "url": "notes/feldflasche-von-sergeant-zorovich.html",
+  "apiUrl": "api/notes/feldflasche-von-sergeant-zorovich.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Eine alte Feldflasche Gefunden: Haus Alkir KI Zusammenfassung Feldflasche von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "S08 - Grüfte",
+      "label": "S08 - Grüfte",
+      "slug": "s08-grufte"
+    }
+  ],
+  "markdown": "Eine alte Feldflasche\n\n**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nFeldflasche von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Eine alte Feldflasche Gefunden: Haus Alkir Direkte Bezüge bestehen zu [[Haus Alkir]]. Feldflasche von Sergeant Zorovich wird außerdem in [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

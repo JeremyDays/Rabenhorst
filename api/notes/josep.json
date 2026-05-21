@@ -1,0 +1,25 @@
+{
+  "title": "Josep",
+  "slug": "josep",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Josep.md",
+  "url": "notes/josep.html",
+  "apiUrl": "api/notes/josep.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein alter Schafsbauer, der seine beiden Gehöfte am Rand des Winterwalds hat. Er hat geklagt, dass er bereits 6 Schafe verloren hätte, vermutet Bergwölfe, aber ist nun durch einen s",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    }
+  ],
+  "markdown": "\nEin alter Schafsbauer, der seine beiden Gehöfte am Rand des [[Winterwald]]s hat. \n\n- Er hat geklagt, dass er bereits 6 Schafe verloren hätte, vermutet Bergwölfe, aber ist nun durch einen schwarzen \"Hund\" gestorben.\n\nTot\n\n"
+}

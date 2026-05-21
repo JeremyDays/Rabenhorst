@@ -1,0 +1,23 @@
+{
+  "title": "Ghule",
+  "slug": "ghule",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Untote/Ghule.md",
+  "url": "notes/ghule.html",
+  "apiUrl": "api/notes/ghule.json",
+  "tags": [],
+  "excerpt": "Begegnet: Beim Brunnen in Haus Alkir Beschreibung: Weiß graue Gestalt, rote lange Zunge, haarlos, groß, Fänge und Klauen, knorrige Muskeln, 12 pack Bauch, schnell, Brüllen Spieltec",
+  "frontmatter": {
+    "aliases": [
+      "Brunnenghul"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    }
+  ],
+  "markdown": "**Begegnet:** Beim Brunnen in [[Haus Alkir]]\n\n**Beschreibung:**\n- Weiß-graue Gestalt, rote lange Zunge, haarlos, groß, Fänge und Klauen, knorrige Muskeln, 12-pack Bauch, schnell, Brüllen\n\n**Spieltechnisch:**\n- Sehr schnell und tödlich.\n"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Erna",
+  "slug": "erna",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Erna.md",
+  "url": "notes/erna.html",
+  "apiUrl": "api/notes/erna.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Kutschpferd aus Barovia (Dorf). Wir haben es bei der Abreise von Bildrath Cantemir erhalten. KI Zusammenfassung Erna ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen hal",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Bildrath Cantemir",
+      "label": "Bildrath Cantemir",
+      "slug": "bildrath-cantemir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S16 - Ein Handel mit Bildrath",
+      "label": "S16 - Ein Handel mit Bildrath",
+      "slug": "s16-ein-handel-mit-bildrath"
+    },
+    {
+      "target": "S18 - Ivlis-Kreuzung",
+      "label": "S18 - Ivlis-Kreuzung",
+      "slug": "s18-ivlis-kreuzung"
+    }
+  ],
+  "markdown": "Kutschpferd aus [[Barovia (Dorf)]].\nWir haben es bei der Abreise von [[Bildrath Cantemir]] erhalten.\n\n## KI-Zusammenfassung\n\nErna ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Kutschpferd aus Barovia (Dorf). Wir haben es bei der Abreise von Bildrath Cantemir erhalten. Direkte Bezüge bestehen zu [[Barovia (Dorf)]], [[Bildrath Cantemir]]. Erna wird außerdem in [[Bildrath Cantemir]], [[Barovia (Dorf)]], [[Alle Gegenstände]], [[S16 - Ein Handel mit Bildrath]], [[S18 - Ivlis-Kreuzung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

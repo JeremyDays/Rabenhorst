@@ -1,0 +1,65 @@
+{
+  "title": "Druiden",
+  "slug": "druiden",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Magieanwender/Druiden.md",
+  "url": "notes/druiden.html",
+  "apiUrl": "api/notes/druiden.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Eine Form von Magieanwender. Als die ersten Menschen in das TalBarovia kamen, erfuhren die Menschen von den drei Fey. Die Menschen respektierten die Fey und betrachteten sie als ih",
+  "frontmatter": {
+    "aliases": [
+      "Druide",
+      "Druidenorden",
+      "druidisch"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Magieanwender",
+      "label": "Magieanwender",
+      "slug": "magieanwender"
+    },
+    {
+      "target": "Barovia",
+      "label": "Tal",
+      "slug": "barovia"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Göttinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druidenorden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Steinkreise der Fey",
+      "label": "Steinkreise der Fey",
+      "slug": "steinkreise-der-fey"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    }
+  ],
+  "markdown": "\nEine Form von [[Magieanwender]].\n\n- Als die ersten Menschen in das [[Barovia|Tal]] kamen, erfuhren die Menschen von den drei [[Fey]]. Die Menschen respektierten die [[Fey]] und betrachteten sie als ihre [[Herrinnen|Göttinnen]], die für das [[Barovia|Tal]] sorgten. Als die Menschen lernten, im Einklang mit der Natur zu leben, schufen sie eine Ordnung (einen [[Druiden|Druidenorden]]), um dem natürlichen Gleichgewicht Tribut und Respekt zu zollen, denn die Menschen waren Gäste des Tals und der [[Fey]].\n- Sie schufen die [[Steinkreise der Fey]].\n\n\n- Sie sollen die [[Magie]] von [[Khazan]] erlernt haben.\n\n**Bekannte Mitglieder:**\nNoch keine bekannt."
+}

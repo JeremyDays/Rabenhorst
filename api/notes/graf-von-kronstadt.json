@@ -1,0 +1,30 @@
+{
+  "title": "Graf von Kronstadt",
+  "slug": "graf-von-kronstadt",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Graf von Kronstadt.md",
+  "url": "notes/graf-von-kronstadt.html",
+  "apiUrl": "api/notes/graf-von-kronstadt.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Er hat seinen Sitz in Kronenstadt. Malduk: Ist er ein Nachfahre von Graf Strahd?",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nEr hat seinen Sitz in [[Kronenstadt]].\n\n>***Malduk:** Ist er ein Nachfahre von [[Graf Strahd]]?*\n\n\n\n\n"
+}

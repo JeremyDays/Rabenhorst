@@ -1,0 +1,75 @@
+{
+  "title": "Haus des Burgomeisters",
+  "slug": "haus-des-burgomeisters",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Barovia (Dorf)/Haus des Burgomeisters.md",
+  "url": "notes/haus-des-burgomeisters.html",
+  "apiUrl": "api/notes/haus-des-burgomeisters.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Barovia (Dorf) Herrenhaus mit Kuckucksuhr. Beschreibung (außen): Hinter einem rostigen Eisenzaun hockt ein müde wirkendes Herrenhaus. Die Eisentore sind verbogen und zerrissen.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark",
+      "slug": "ismark-kolyanowitsch"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "Ireena",
+      "label": "Ireena Kolyana",
+      "slug": "ireena"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Ismark",
+      "label": "Ismark",
+      "slug": null
+    },
+    {
+      "target": "Ireena Kolyana",
+      "label": "Ireena Kolyana",
+      "slug": null
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Ismark Kolyanowitsch",
+      "label": "Ismark Kolyanowitsch",
+      "slug": "ismark-kolyanowitsch"
+    },
+    {
+      "target": "Ratte am Pfeil",
+      "label": "Ratte am Pfeil",
+      "slug": "ratte-am-pfeil"
+    },
+    {
+      "target": "Angespitzte Pfähle",
+      "label": "Angespitzte Pfähle",
+      "slug": "angespitzte-pfahle"
+    }
+  ],
+  "markdown": "In: [[Barovia (Dorf)]]\n\n- Herrenhaus mit Kuckucksuhr.\n\n**Beschreibung (außen):**\n>Hinter einem rostigen Eisenzaun hockt ein müde wirkendes Herrenhaus. Die Eisentore sind verbogen und zerrissen. Das rechte Tor liegt auf der Seite, während das linke träge im Wind schaukelt. Das stotternde Quietschen und Klirren des Tores wiederholt sich mit geistloser Präzision. Das Unkraut erstickt das Gelände und drückt bedrohlich auf das Haus selbst. Doch an den Wänden ist der Bewuchs niedergetrampelt worden, um einen Weg um das Anwesen herum zu schaffen. Schwere Krallenspuren haben die einst so schöne Oberfläche der Wände abgetragen. Große schwarze Flecken zeugen von den Bränden, die das Herrenhaus heimgesucht haben. In den Fenstern ist weder eine Scheibe noch eine Glasscherbe zu sehen. Alle Fenster sind mit Brettern vergittert, jedes einzelne mit Flecken, die ein böses Omen darstellen.\n\n**Beschreibung (innen):**\n>Das Innere des Herrenhauses ist gut eingerichtet, aber die Einrichtungsgegenstände weisen starke Gebrauchsspuren auf. Auffallend sind die mit Brettern vernagelten Fenster und die heiligen Symbole in jedem Zimmer. Der Burgomeister liegt in einem Seitensalon auf dem Boden in einem einfachen Holzsarg, umgeben von verwelkenden Blumen und einem schwachen Geruch von Verwesung.\n>[[Ismark Kolyanowitsch|Ismark]] und [[Ireena]] haben den Sarg selbst angefertigt.\n\n**Reaktion auf die SCs:**\n>[[Ireena|Ireena Kolyana]] , die Adoptivtochter des Burgomeisters, befindet sich in der Villa und wird niemandem die schwer vergitterte Tür öffnen, solange sie nicht davon überzeugt ist, dass diejenigen, die sich vor ihrer Tür befinden, nicht zu [[Graf Strahd]] halten. Wenn die Charaktere sie überzeugen, oder wenn [[Ismark Kolyanowitsch|Ismark]] bei ihnen ist, öffnet sie die Tür und bittet sie herein.\n\n## KI-Zusammenfassung\n\nHaus des Burgomeisters ist ein Ort im Bereich Barovia (Dorf). Die lokalen Notizen halten dazu fest: In: Barovia (Dorf) Herrenhaus mit Kuckucksuhr. Beschreibung (außen): Hinter einem rostigen Eisenzaun hockt ein müde wirkendes Herrenhaus. Die Eisentore sind verbogen und zerrissen. Das rechte Tor liegt auf der Seite, während das linke träge im Wind schaukelt... Direkte Bezüge bestehen zu [[Barovia (Dorf)]], [[Ismark]], [[Ireena]], [[Ireena Kolyana]], [[Graf Strahd]]. Haus des Burgomeisters wird außerdem in [[Heinard]], [[Ismark Kolyanowitsch]], [[Barovia (Dorf)]], [[Ratte am Pfeil]], [[Angespitzte Pfähle]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

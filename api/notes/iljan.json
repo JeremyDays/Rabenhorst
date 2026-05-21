@@ -1,0 +1,35 @@
+{
+  "title": "Iljan",
+  "slug": "iljan",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Iljan.md",
+  "url": "notes/iljan.html",
+  "apiUrl": "api/notes/iljan.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Diener von Baron Vargas Vallakovich Vater von Nadja KI Zusammenfassung Iljan ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Diener von",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Nadja",
+      "label": "Nadja",
+      "slug": "nadja"
+    },
+    {
+      "target": "S67 - Victor, Nadja und Iljan",
+      "label": "S67 - Victor, Nadja und Iljan",
+      "slug": "s67-victor-nadja-und-iljan"
+    }
+  ],
+  "markdown": "- Diener von [[Baron Vargas Vallakovich]]\n- Vater von [[Nadja]]\n\n## KI-Zusammenfassung\n\nIljan ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Diener von Baron Vargas Vallakovich Vater von Nadja Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]], [[Nadja]]. Iljan wird außerdem in [[Baron Vargas Vallakovich]], [[Nadja]], [[S67 - Victor, Nadja und Iljan]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

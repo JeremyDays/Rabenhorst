@@ -1,0 +1,45 @@
+{
+  "title": "Faddey",
+  "slug": "faddey",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Faddey.md",
+  "url": "notes/faddey.html",
+  "apiUrl": "api/notes/faddey.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Junge vom Weiler, nun im St. Andrals Waisenhaus. KI Zusammenfassung Faddey ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halte",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Weiler",
+      "label": "Weiler",
+      "slug": "weiler"
+    },
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Die Geschichte der Drei Gefährten",
+      "label": "Die Geschichte der Drei Gefährten",
+      "slug": "die-geschichte-der-drei-gefahrten"
+    },
+    {
+      "target": "Was bisher geschah...",
+      "label": "Was bisher geschah...",
+      "slug": "was-bisher-geschah"
+    }
+  ],
+  "markdown": "Junge vom [[Weiler]], nun im [[St. Andrals Waisenhaus]].\n\n## KI-Zusammenfassung\n\nFaddey ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Junge vom Weiler, nun im St. Andrals Waisenhaus. Direkte Bezüge bestehen zu [[Weiler]], [[St. Andrals Waisenhaus]]. Faddey wird außerdem in [[Quest]], [[St. Andrals Waisenhaus]], [[Weiler]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

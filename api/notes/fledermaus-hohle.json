@@ -1,0 +1,45 @@
+{
+  "title": "Fledermaus-Höhle",
+  "slug": "fledermaus-hohle",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Zwischen Barovia und Vallaki/Fledermaus-Höhle.md",
+  "url": "notes/fledermaus-hohle.html",
+  "apiUrl": "api/notes/fledermaus-hohle.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Groß und über dem Weg. Zwischen Tser Teich und Vallaki. Ist sie identisch mit der Werwolfshöhle? KI Zusammenfassung Fledermaus Höhle ist ein Ort im Bereich Zwischen Barovia und Val",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Teich",
+      "label": "Tser-Teich",
+      "slug": "tser-teich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Werwolfshöhle",
+      "label": "Werwolfshöhle",
+      "slug": "werwolfshohle"
+    },
+    {
+      "target": "Steinbogen",
+      "label": "Steinbogen",
+      "slug": "steinbogen"
+    },
+    {
+      "target": "S23 - Steintor",
+      "label": "S23 - Steintor",
+      "slug": "s23-steintor"
+    }
+  ],
+  "markdown": "Groß und über dem Weg. \n\nZwischen [[Tser-Teich]] und [[Vallaki]].\n\n- Ist sie identisch mit der [[Werwolfshöhle]]?\n- \n\n## KI-Zusammenfassung\n\nFledermaus-Höhle ist ein Ort im Bereich Zwischen Barovia und Vallaki. Die lokalen Notizen halten dazu fest: Groß und über dem Weg. Zwischen Tser-Teich und Vallaki. Ist sie identisch mit der Werwolfshöhle? Direkte Bezüge bestehen zu [[Tser-Teich]], [[Vallaki]], [[Werwolfshöhle]]. Fledermaus-Höhle wird außerdem in [[Steinbogen]], [[Tser-Teich]], [[Werwolfshöhle]], [[S23 - Steintor]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

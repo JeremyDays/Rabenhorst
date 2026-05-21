@@ -1,0 +1,35 @@
+{
+  "title": "Gehöfte von Josep",
+  "slug": "gehofte-von-josep",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Gehöfte von Josep.md",
+  "url": "notes/gehofte-von-josep.html",
+  "apiUrl": "api/notes/gehofte-von-josep.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Eichenfurt Die zwei Gehöfte von Josep, dem Schafsbauern, liegen am Rand des Alten WaldesWinterwald.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Josep",
+      "label": "Josep",
+      "slug": "josep"
+    },
+    {
+      "target": "Winterwald",
+      "label": "Alten Waldes",
+      "slug": "winterwald"
+    }
+  ],
+  "markdown": "\nIn: [[Eichenfurt]]\nDie zwei Gehöfte von [[Josep]], dem Schafsbauern, liegen am Rand des [[Winterwald|Alten Waldes]]. "
+}

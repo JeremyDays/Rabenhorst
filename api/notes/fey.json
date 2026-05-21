@@ -1,0 +1,52 @@
+{
+  "title": "Fey",
+  "slug": "fey",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Herrinnen bzw. Fey/Fey.md",
+  "url": "notes/fey.html",
+  "apiUrl": "api/notes/fey.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Dies sind die drei realen Fey, auf denen der Glaube an die Herrinnen beruht. Es gibt die folgenden Fey: Waldfey Wasserfey Bergfey",
+  "frontmatter": {
+    "aliases": [
+      "Fey-Schwestern",
+      "Feen",
+      "Drei Schwestern",
+      "Drei Fey",
+      "Drei Feen"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Waldfey",
+      "label": "Waldfey",
+      "slug": "waldfey"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    }
+  ],
+  "markdown": "\nDies sind die drei realen [[Fey]], auf denen der Glaube an die [[Herrinnen]] beruht.\n\nEs gibt die folgenden Fey:\n- [[Waldfey]]\n- [[Wasserfey]]\n- [[Bergfey]]\n"
+}

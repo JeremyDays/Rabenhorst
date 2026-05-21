@@ -1,0 +1,13 @@
+{
+  "title": "Enabling advanced features of Relay",
+  "slug": "enabling-advanced-features-of-relay",
+  "category": "note",
+  "relativePath": "Shared/z_obsidian/Enabling advanced features of Relay.md",
+  "url": "notes/enabling-advanced-features-of-relay.html",
+  "apiUrl": "api/notes/enabling-advanced-features-of-relay.json",
+  "tags": [],
+  "excerpt": "1. To enable Picture Sync: How to 1. Update to latest Obsidian + Relay (current Relay: 0.5.9) 2. via command palette (cmd+p), do Relay: Enable debugging 3. via command palette, do ",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "\n#### 1. To enable Picture Sync:\n\n**How to**\n1. Update to latest Obsidian + Relay (current Relay: 0.5.9)\n2. via command palette (cmd+p), do `Relay: Enable debugging` \n3. via command palette, do `Relay: Show feature flags`\n4. Toggle on `enableAttachmentSync`\n5. Reload Obsidian (command palette, `Reload app without saving`)\n6. All collaborators need to perform these same steps\n\n\n\n#### 2. To enable Canvas Beta:\n\n⚠️ **Warning: risk of data loss**  \n\nThis is beta software. Any canvas file you work with in multiplayer mode could get corrupted or wiped. \n\n- If you're moving an existing canvas file in, make a backup copy first. \n- If you're working with a multiplayer canvas and it's going great, make a backup copy every once in a while. \n\n-------------------------------------------------\n**How to**\n1. Update to latest Obsidian + Relay (current Relay: 0.5.9)\n2. via command palette (cmd+p), do `Relay: Enable debugging` \n3. via command palette, do `Relay: Show feature flags`\n4. Toggle on `enableCanvasSync`\n5. Reload Obsidian (command palette, `Reload app without saving`)\n6. All collaborators need to perform these same steps\n\nThen you should be able to create a new canvas in your shared folder, and multiplay away. \n\nNote: if you're dragging an existing canvas file in, there might be problems.\n- Make a backup copy first. \n- If the canvas goes blank after you drag it in, try closing the tab and reopening it\n\n"
+}

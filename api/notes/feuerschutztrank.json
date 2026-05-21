@@ -1,0 +1,40 @@
+{
+  "title": "Feuerschutztrank",
+  "slug": "feuerschutztrank",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Heinard/Magische Gegenstände/Feuerschutztrank.md",
+  "url": "notes/feuerschutztrank.html",
+  "apiUrl": "api/notes/feuerschutztrank.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Heinard. Haus Alkir Spieltechnisch: Malduk: Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde. KI Zusammenfassung Feuerschutztrank ist ein Gegenstand im Besitz der Gruppe, b",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S31 - Die Opfer der Hexen",
+      "label": "S31 - Die Opfer der Hexen",
+      "slug": "s31-die-opfer-der-hexen"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Heinard]]. [[Haus Alkir]]\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.*\n\n## KI-Zusammenfassung\n\nFeuerschutztrank ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard. Haus Alkir Spieltechnisch: Malduk: Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde. Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Feuerschutztrank wird außerdem in [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

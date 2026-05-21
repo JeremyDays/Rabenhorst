@@ -1,0 +1,39 @@
+{
+  "title": "Herrin des Sumpfes",
+  "slug": "herrin-des-sumpfes",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Glaube/Die Herrinnen bzw. Fey/Herrin des Sumpfes.md",
+  "url": "notes/herrin-des-sumpfes.html",
+  "apiUrl": "api/notes/herrin-des-sumpfes.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Eine der Herrinnen Sie ist identisch mit der Wasserfey Der Otter, ein schneller und unbarmherziger Jäger im Wasser und an Land. Sie hieß damals die Herrin des WassersHerrin des Sum",
+  "frontmatter": {
+    "aliases": [
+      "Herrin des Wassers",
+      "Herrin der Sümpfe"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Herrinnen",
+      "label": "Herrinnen",
+      "slug": "herrinnen"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Herrin des Sumpfes",
+      "label": "Herrin des Wassers",
+      "slug": "herrin-des-sumpfes"
+    }
+  ],
+  "markdown": "Eine der [[Herrinnen]]\n\nSie ist identisch mit der [[Wasserfey]]\n\n![[Symbol Herrin des Sumpfes.png]]\n- Der Otter, ein schneller und unbarmherziger Jäger im Wasser und an Land. \n- Sie hieß damals die [[Herrin des Sumpfes|Herrin des Wassers]]\n- Man betet die Herrin des Sumpfes an, um für Regen zu beten. \n"
+}
