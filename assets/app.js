@@ -2,6 +2,7 @@ async function bootSearch() {
   const input = document.querySelector("#site-search");
   const results = document.querySelector("#search-results");
   if (!input || !results) return;
+  const shell = input.closest(".search-shell");
 
   const notes = await fetch("api/index.json").then((response) => response.json()).catch(() => []);
   const haystack = notes.map((note) => ({
@@ -13,13 +14,32 @@ async function bootSearch() {
   input.addEventListener("input", () => {
     const query = input.value.trim().toLowerCase();
     results.innerHTML = "";
+    shell?.classList.remove("has-results", "opens-up");
     if (!query) return;
 
     const matches = haystack.filter((note) => note.text.includes(query)).slice(0, 10);
     results.innerHTML = matches.length
       ? matches.map((note) => '<a href="' + note.url + '"><strong>' + escapeHtml(note.title) + '</strong>' + (note.aliases.length ? '<span>' + escapeHtml(note.aliases.join(", ")) + '</span>' : '') + '</a>').join("")
       : '<p class="muted">Keine Treffer.</p>';
+    shell?.classList.add("has-results");
+    updateSearchDropdown(shell, results);
   });
+
+  window.addEventListener("resize", () => updateSearchDropdown(shell, results));
+}
+
+function updateSearchDropdown(shell, results) {
+  if (!shell || !results || !shell.classList.contains("has-results")) return;
+  shell.classList.remove("opens-up");
+  const rect = shell.getBoundingClientRect();
+  const gap = 7;
+  const below = Math.max(0, window.innerHeight - rect.bottom - gap);
+  const above = Math.max(0, rect.top - gap);
+  shell.style.setProperty("--search-space-below", below + "px");
+  shell.style.setProperty("--search-space-above", above + "px");
+  if (below < Math.min(results.scrollHeight, window.innerHeight * 0.42) && above > below) {
+    shell.classList.add("opens-up");
+  }
 }
 
 function normalizeAliases(value) {
