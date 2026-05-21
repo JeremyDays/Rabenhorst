@@ -139,7 +139,7 @@ input[type="search"] { width: 100%; border: 1px solid rgb(217 210 195 / 58%); bo
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
 }
-.activity-card img { border-radius: 5px; height: 54px; object-fit: cover; width: 54px; }
+.activity-card img { border-radius: 5px; height: 54px; margin-top: 21px; object-fit: cover; width: 54px; }
 .note-section { margin-top: 34px; scroll-margin-top: 20px; }
 .note-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
 .note-card { box-shadow: none; min-height: 164px; padding: 16px; text-decoration: none; }
