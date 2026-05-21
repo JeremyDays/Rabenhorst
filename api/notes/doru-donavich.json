@@ -1,0 +1,58 @@
+{
+  "title": "Doru Donavich",
+  "slug": "doru-donavich",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Barovia/Doru Donavich.md",
+  "url": "notes/doru-donavich.html",
+  "apiUrl": "api/notes/doru-donavich.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vampirischer Sohn von Vater Donavich Tot Ein VampirVampire. Besiegt. Wo getroffen: Barovia (Dorf) Beziehungen: Sohn von Vater Donavich. Freund von Yasper. KI Zusammenfassung Doru D",
+  "frontmatter": {
+    "aliases": [
+      "Doru"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vater Donavich",
+      "label": "Vater Donavich",
+      "slug": "vater-donavich"
+    },
+    {
+      "target": "Vampire",
+      "label": "Vampir",
+      "slug": "vampire"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Yasper",
+      "label": "Yasper",
+      "slug": "yasper"
+    },
+    {
+      "target": "Vampir",
+      "label": "Vampir",
+      "slug": null
+    },
+    {
+      "target": "Yesper",
+      "label": "Yesper",
+      "slug": "yesper"
+    },
+    {
+      "target": "Kirche von Barovia",
+      "label": "Kirche von Barovia",
+      "slug": "kirche-von-barovia"
+    }
+  ],
+  "markdown": "Vampirischer Sohn von [[Vater Donavich]]\n\n![[Doru Donavich.png]]\n\nTot\n\nEin [[Vampire|Vampir]]. Besiegt.\n\n**Wo getroffen:** [[Barovia (Dorf)]]\n\n**Beziehungen:**\n- Sohn von [[Vater Donavich]]. \n- Freund von [[Yasper]].\n\n## KI-Zusammenfassung\n\nDoru Donavich, auch Doru genannt, ist eine Figur aus dem Bereich Barovia. Die lokalen Notizen halten dazu fest: Vampirischer Sohn von Vater Donavich Ein Vampir. Besiegt. Wo getroffen: Barovia (Dorf) Beziehungen: Direkte Bezüge bestehen zu [[Vater Donavich]], [[Vampir]], [[Barovia (Dorf)]], [[Yasper]]. Doru Donavich wird außerdem in [[Vater Donavich]], [[Yasper]], [[Yesper]], [[Barovia (Dorf)]], [[Kirche von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

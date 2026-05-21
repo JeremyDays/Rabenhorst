@@ -1,0 +1,30 @@
+{
+  "title": "Chroniken von Vallaki",
+  "slug": "chroniken-von-vallaki",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Bücher/Chroniken von Vallaki.md",
+  "url": "notes/chroniken-von-vallaki.html",
+  "apiUrl": "api/notes/chroniken-von-vallaki.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich Mehrfach neu gebundenes Buch KI Zusammenfassung Chroniken von Vallaki ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen h",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "S70 - Izek",
+      "label": "S70 - Izek",
+      "slug": "s70-izek"
+    }
+  ],
+  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\nMehrfach neu gebundenes Buch\n\n## KI-Zusammenfassung\n\nChroniken von Vallaki ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Im Salon von Baron Vargas Vallakovich Mehrfach neu gebundenes Buch Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]]. Chroniken von Vallaki wird außerdem in [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

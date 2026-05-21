@@ -1,0 +1,70 @@
+{
+  "title": "Alkir-Schild",
+  "slug": "alkir-schild",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Magische Gegenstände/Alkir-Schild.md",
+  "url": "notes/alkir-schild.html",
+  "apiUrl": "api/notes/alkir-schild.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ein mittlerer Holzschild mit dem ehemaligen Wappen der Familie Alkir. Gefunden: Michal hat ihn im Haus Alkir gefunden. EG, Spieltechnisch: Das Wappen des Kelchs war das Wappen vor ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Großen Krieg",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Gustav Alkir",
+      "label": "Gustav Alkir",
+      "slug": "gustav-alkir"
+    },
+    {
+      "target": "Hexenmühle",
+      "label": "Windmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Großen Krieg",
+      "label": "Großen Krieg",
+      "slug": null
+    },
+    {
+      "target": "Windmühle",
+      "label": "Windmühle",
+      "slug": null
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S24 - Steinkreis",
+      "label": "S24 - Steinkreis",
+      "slug": "s24-steinkreis"
+    }
+  ],
+  "markdown": "Ein mittlerer Holzschild mit dem ehemaligen Wappen der Familie Alkir. \n\n**Gefunden:** [[Michal]] hat ihn im [[Haus Alkir]] gefunden. EG,\n\n![[Alkir-Schild.jpg]]\n\n**Spieltechnisch:**\n\n- Das **Wappen des Kelchs** war das Wappen vor dem [[Großer Krieg|Großen Krieg]] von [[Gustav Alkir]].\n- Nach dem [[Großer Krieg|Großen Krieg]] hat [[Gustav Alkir]] das **Wappen der [[Hexenmühle|Windmühle]]** von [[Graf Strahd]] mitsamt des Lehens für seine Taten erhalten.\n\n## KI-Zusammenfassung\n\nAlkir-Schild ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Ein mittlerer Holzschild mit dem ehemaligen Wappen der Familie Alkir. Gefunden: Michal hat ihn im Haus Alkir gefunden. EG, Spieltechnisch: Das Wappen des Kelchs war das Wappen vor dem Großen Krieg von Gustav Alkir. Direkte Bezüge bestehen zu [[Michal]], [[Haus Alkir]], [[Großen Krieg]], [[Gustav Alkir]], [[Windmühle]]. Alkir-Schild wird außerdem in [[Gustav Alkir]], [[Alle Gegenstände]], [[S24 - Steinkreis]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

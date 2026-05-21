@@ -1,0 +1,40 @@
+{
+  "title": "Artimus",
+  "slug": "artimus",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Artimus.md",
+  "url": "notes/artimus.html",
+  "apiUrl": "api/notes/artimus.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hat für Graf Strahd die Gruft für seine Eltern errichtet. KI Zusammenfassung Artimus ist eine Figur aus dem Bereich Schloss Rabenhorst. Die lokalen Notizen halten dazu fest: Hat fü",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "König Barov",
+      "label": "König Barov",
+      "slug": "konig-barov"
+    },
+    {
+      "target": "Königin Ravenovia",
+      "label": "Königin Ravenovia",
+      "slug": "konigin-ravenovia"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    }
+  ],
+  "markdown": "Hat für [[Graf Strahd]] die Gruft für seine Eltern errichtet.\n\n## KI-Zusammenfassung\n\nArtimus ist eine Figur aus dem Bereich Schloss Rabenhorst. Die lokalen Notizen halten dazu fest: Hat für Graf Strahd die Gruft für seine Eltern errichtet. Direkte Bezüge bestehen zu [[Graf Strahd]]. Artimus wird außerdem in [[Graf Strahd]], [[König Barov]], [[Königin Ravenovia]], [[Der Hof von Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

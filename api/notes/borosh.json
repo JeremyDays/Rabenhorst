@@ -1,0 +1,35 @@
+{
+  "title": "Borosh",
+  "slug": "borosh",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Soldaten von Kronstadt/Borosh.md",
+  "url": "notes/borosh.html",
+  "apiUrl": "api/notes/borosh.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird. KI Zusammenfassung Borosh ist eine Figur aus dem Bereich Haus Alkir / Soldaten von Kronstadt. Die l",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Notizbuch von Sergeant Zorovich",
+      "label": "Notizbuch von Sergeant Zorovich",
+      "slug": "notizbuch-von-sergeant-zorovich"
+    },
+    {
+      "target": "S08 - Grüfte",
+      "label": "S08 - Grüfte",
+      "slug": "s08-grufte"
+    }
+  ],
+  "markdown": "Ein Soldat aus [[Kronenstadt]], der im [[Notizbuch von Sergeant Zorovich]] erwähnt wird.\n\n## KI-Zusammenfassung\n\nBorosh ist eine Figur aus dem Bereich Haus Alkir / Soldaten von Kronstadt. Die lokalen Notizen halten dazu fest: Ein Soldat aus Kronenstadt, der im Notizbuch von Sergeant Zorovich erwähnt wird. Direkte Bezüge bestehen zu [[Kronenstadt]], [[Notizbuch von Sergeant Zorovich]]. Borosh wird außerdem in [[Notizbuch von Sergeant Zorovich]], [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

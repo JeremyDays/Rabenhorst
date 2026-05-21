@@ -1,0 +1,30 @@
+{
+  "title": "Dmitri Krezkov",
+  "slug": "dmitri-krezkov",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Krezk/Dmitri Krezkov.md",
+  "url": "notes/dmitri-krezkov.html",
+  "apiUrl": "api/notes/dmitri-krezkov.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Burgomeister von Krezk KI Zusammenfassung Dmitri Krezkov ist eine Figur aus dem Bereich Krezk. Die lokalen Notizen halten dazu fest: Burgomeister von Krezk Direkte Bezüge bestehen ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Krezk",
+      "label": "Krezk",
+      "slug": "krezk"
+    },
+    {
+      "target": "S17 - Angriff der Vampirin",
+      "label": "S17 - Angriff der Vampirin",
+      "slug": "s17-angriff-der-vampirin"
+    }
+  ],
+  "markdown": "Burgomeister von [[Krezk]]\n\n## KI-Zusammenfassung\n\nDmitri Krezkov ist eine Figur aus dem Bereich Krezk. Die lokalen Notizen halten dazu fest: Burgomeister von Krezk Direkte Bezüge bestehen zu [[Krezk]]. Dmitri Krezkov wird außerdem in [[Krezk]], [[S17 - Angriff der Vampirin]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

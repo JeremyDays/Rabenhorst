@@ -1,0 +1,774 @@
+{
+  "title": "00 - Übersicht",
+  "slug": "00-ubersicht",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Geschichte/00 - Übersicht.md",
+  "url": "notes/00-ubersicht.html",
+  "apiUrl": "api/notes/00-ubersicht.json",
+  "tags": [],
+  "excerpt": "| Jahr | Event | Quelle | | | | | | Zeit der Fey | Drei Himmlische Wesen, die Fey SchwesternFey von Barovia Drei Himmlische Wesen, die Fey Fey Schwestern\\ | Fey von Barovia | | Zei",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Drei Himmlische Wesen, die Fey-Schwestern",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Fey von Barovia",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Menschen kommen in das Tal von Barovia, Gründung des Druidenordens",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Druiden erschufen die Steinkreise der Fey",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Riten der Druiden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Der Lebenszyklus des Tals",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey entdecken den Magischen Bernstein",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Erschaffung der Feensteine mittels Magie und Bernstein",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Edelsteine der Fey helfen den Druiden, die Jahreszeiten zu verfolgen",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Geschenke für die Fey",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey und neugeborene Babies",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan wird zum Druiden ausgebildet",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Das Leben des Khazan",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Zeit der Dunkelheit",
+      "label": "Zeit der Dunkelheit",
+      "slug": "zeit-der-dunkelheit"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Ankunft der Dunklen Mächte und der Kampf der Fey und Druiden gegen diese",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Die Dunkelheit und der Bau des Bernsteintempels",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey berichten den Druiden vom Bernstein und die Errichtung des Bernsteintempels, in den die Dunklen Mächte gefangen gesetzt wurden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Khazan wird der erste Hüter des Bernsteintempels",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan wird zum Zauberer ausgebildet",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan bildet andere zu Zauberern aus",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan zieht sich in Khazans Turm zurück",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Der Bernsteintempel wird ein vergessenes Geheimnis",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Chroniken eines Kriegsfürsten\\",
+      "label": "Prinz Strahd studiert Kriegskunst an der Akademie in Kronenstadt",
+      "slug": null
+    },
+    {
+      "target": "Chroniken eines Kriegsfürsten",
+      "label": "Chroniken eines Kriegsfürsten",
+      "slug": "chroniken-eines-kriegsfursten"
+    },
+    {
+      "target": "Zeit der Könige",
+      "label": "Zeit der Könige",
+      "slug": "zeit-der-konige"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Ankunft der Ersten Könige mitsamt ihres Morgenfürsten, Flucht der Druiden",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Ankunft der Ersten Könige mit ihrer Religion des Herrn des Morgens, Vergessen der Fey",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Rückzug der Druiden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Großer Krieg",
+      "label": "Großer Krieg",
+      "slug": "gro-er-krieg"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Ankunft des Prinzen und Beginn des Großen Kriegs",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Ankunft der Terg",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Argynvost kommt nach Barovia",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Der Fall von Argynvost",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Argynvost sorgt sich um den Bernsteintempel",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Bau von Argynvostholt und den Toren von Tsolenka",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Errichtung der Tore von Tsolenka durch die Ursari",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Kampf am Tsolenka Pass",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Ursari -Männer waren Steinmetzen, Ursari -Frauen waren Soldaten, die mutigsten wurden Schildmaiden",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Waisenkind Lugdana wurde von Graf Argynvost aufgenommen",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Legende von Lugdana",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Gründung des Ordens des Silbernen Drachen",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Ritter des Silbernen Drachen\\",
+      "label": "Ordens des Silbernen Drachens",
+      "slug": null
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana Argynvost wird eine Ritterin",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Schutz des Bernsteintempels",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdanas Errungenschaften in Schlachten",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana trifft in der Abtei in Krezk Schwester Constance, die Heilige Markovia und die Gräfin von Habsburg",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana dient ihr Leben lang",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Schlacht von Berez\\",
+      "label": "Schlacht von Berez: Graf von Habsburg ermordet",
+      "slug": null
+    },
+    {
+      "target": "Schlacht von Berez",
+      "label": "Schlacht von Berez",
+      "slug": "schlacht-von-berez"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Graf von Habsburg unterliegt gegen die Terg und die Ritter des Silbernen Drachen springen ein",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "König Barov bittet Graf Argynvost um Hilfe, dieser kam aber nicht und König Barov wird in einer Falle ermordet, daher wird Graf Argynvost zum Verräter ernannt",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Der Krieg mit den Terg, Strahds Eltern werden von den Terg abgeschlachtet, Prinz Strahd erscheint",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Graf Argynvost zieht sich nach Argynvostholt zurück, weil er nun die Terg und Strahd zum Feind hatte",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Belagerung von Argynvostholt durch die Terg und Prinz Strahd",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Der Schutz des Bernsteintempels und die Aufteilung der Truppen",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan erzählt Prinz Strahd vom Bernsteintempel und dieser von den Terg",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Strahd kann die Tore von Tsolenka nicht bezwingen",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Schlacht am Rabenfluss\\",
+      "label": "Schlacht am Rabenfluss: Argynvostholt wird von den Terg und Graf Strahd belagert, Schlacht am Rabenfluss, Lugdana Argynvost fällt",
+      "slug": null
+    },
+    {
+      "target": "Schlacht am Rabenfluss",
+      "label": "Schlacht am Rabenfluss",
+      "slug": "schlacht-am-rabenfluss"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana wird in der Schlacht am Rabenfluss schwer verletzt und zur Abtei gebracht",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana spricht zu Schwester Constance über die Untoten Krieger",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana betet in der Kapelle der Abtei für Frieden",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Schwester Constance offenbart sich als Engel und übergibt Lugdana das Heilige Symbol der Sonne",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdana bekämpft die Untoten und wird eine Heldin",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Schlacht von Argynvostholt",
+      "label": "Schlacht von Argynvostholt",
+      "slug": "schlacht-von-argynvostholt"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Graf Strahds List mit der Hinrichtung der 100 Bürger von Vallaki und der Forderung, Lugdana auszuliefern, die Ritter kommen zur Rettung",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Schlacht von Argynvostholt\\",
+      "label": "Entführung der Bewohner von Vallaki, Schlacht von Argynvostholt, der Dunkle Prinz dringt in Argynvostholt ein",
+      "slug": null
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Graf Strahd schleicht sich in Argynvostholt ein und tötet Lugdana Argynvost Lugdana und Graf Argynvost",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Strahd tötet den Drachen Graf Argynvost",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Das Heilige Symbol der Sonne kehrt zu Schwester Constance zurück, Graf Strahd nimmt Argynvosts Schädel mit",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Strahd tötet die zurückkehrenden Ritter des Silbernen Drachen, Flucht Sir Godfreys zur Abtei",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Graf Strahd foltert Vladimir Horngaard",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Die Wiedergänger",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Lugdanas Geist wird zu einem Wiedergänger in der Abtei und Argynvostholt",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Die Schildmaiden schlagen die Truppen des Graf Strahd mehrfach zurück",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Graf Strahd zerstört Bârgău",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Graf Strahd verflucht Bârgău zur Unsterblichkeit",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Die Schildmaiden verlassen das Dorf, obwohl sie sterben würden",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Schlacht von Tsolenka",
+      "label": "Die Schlacht von Tsolenka: Die Bewachung der Tore von Tsolenka, Prinz Vernon von Habsburg fällt, der Fluch des Alterns",
+      "slug": "schlacht-von-tsolenka"
+    },
+    {
+      "target": "Schlacht von Tsolenka",
+      "label": "Schlacht von Tsolenka",
+      "slug": "schlacht-von-tsolenka"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan eilt zu Hilfe, als die Tore von Tsolenka angegriffen wurden",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan erkennt, dass Prinz Strahd verdorben ist und den Bernsteintempel angegriffen hatte",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Der Einzug des Nebels, die Dämpfung der Magie der Fey und die Störung der natürlichen Ordnung",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Graf Strahd hat seinen Bruder und seine große Liebe verloren und sein Herz ist voller Dunkelheit",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey erschaffen das Herz des Kummers mit je einer Hälfte der Feensteine",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Wasserfey überbringt Graf Strahd das Herz des Kummers",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Graf Strahd sperrt die Wasserfey ein und befiehlt die Entweihung der Steinkreise der Fey",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Der Wer-Rabe warnt die Fey und Druiden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey graben die Edelsteine der Fey wieder aus, aber der Stein der Wasserfey war verschwunden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Sir Godfrey versucht die gefangene Wasserfey zu retten, aber wurde niedergeschlagen",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey brauchen Hilfe",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey verstecken ihre Edelsteine bei den Wer-Raben und bei Khazan",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Entführung der Wasserfey, die Bergfey sucht beim Bernsteintempel Hilfe bei Khazan und erzählt vom Dunklen Prinzen",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey suchen nach Hilfe außerhalb des Tals",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Fey verstecken sich und warten auf Helden, die Waldfee als Mensch in Vallaki, die Bergfee auf der Suche nach Helden",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Aufstieg der Dunklen Mächte und Beginn des Nebels",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Der Hass von Vladimir Horngaard",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "In den Träumen zeigt sich, dass Vladimir Horngaard durch die Rückgabe des Drachenschädels erlöst werden kann",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Der Fall von Argynvost",
+      "label": "Das Spuken in Argynvostholt",
+      "slug": "der-fall-von-argynvost"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazan versucht den Dunklen Prinzen mit Vernunft zu bekehren",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Der Dunkle Fürst greift Khazan an",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazans List und Befreiung der Wasserfey",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Flucht der Wasserfey auf dem fliegenden Schädel Argynvosts",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Der Dunkle Fürst erschlägt Khazan",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Das Leben des Khazan",
+      "label": "Khazans Geist",
+      "slug": "das-leben-des-khazan"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Wasserfey findet ihre Schwestern nicht mehr, die Steinkreise waren entweiht, die Edelsteine weg",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Graf Strahd vernichtet Berez",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Graf Strahd verflucht die Wasserfey zur Sumpf-Vetel",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Wasserfey wendet sich an die Dunkelheit im Bernsteintempel",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Wasserfey wird von der Dunkelheit korrumpiert und verwandelt sich in Baba Lysaga",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Fey von Barovia",
+      "label": "Die Wasserfey erschafft die Froschmenschen und eine Armee der Sumpfkreaturen",
+      "slug": "fey-von-barovia"
+    },
+    {
+      "target": "Großer Krieg\\",
+      "label": "Großen Krieg",
+      "slug": null
+    },
+    {
+      "target": "Krieg der Könige\\",
+      "label": "Krieg der Könige: Graf Strahd besiegt König Falkon von Habsburg und ernennt seinen Vater König Barov zum Herrscher",
+      "slug": null
+    },
+    {
+      "target": "Krieg der Könige",
+      "label": "Krieg der Könige",
+      "slug": "krieg-der-konige"
+    },
+    {
+      "target": "Krieg der Könige\\",
+      "label": "Kriegs der Könige",
+      "slug": null
+    },
+    {
+      "target": "Schlacht von Barovia\\",
+      "label": "Schlacht von Barovia, Eroberung von Barovia",
+      "slug": null
+    },
+    {
+      "target": "Schlacht von Barovia",
+      "label": "Schlacht von Barovia",
+      "slug": "schlacht-von-barovia"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Fürst Strahd ernennt sich zum Herrscher des Landes Graf Strahd",
+      "slug": "der-hof-von-rabenhorst"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Umbenennung und Wiederaufbau von Schloss Barovia zu Schloss Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Unterhaltung am Hof von Schloss Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Die Mitglieder des Hofes von Schloss Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral\\",
+      "label": "Sankt Andral lässt sich in Vallaki nieder",
+      "slug": null
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral",
+      "label": "Gesegnetes Leben von dem Heiligen Sankt Andral",
+      "slug": "gesegnetes-leben-von-dem-heiligen-sankt-andral"
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral\\",
+      "label": "Graf Strahd fordert Tribut für ihn als Gleichgestellten des Morgenfürsten:",
+      "slug": null
+    },
+    {
+      "target": "Patronatsedikt",
+      "label": "Patronatsedikt",
+      "slug": "patronatsedikt"
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral\\",
+      "label": "Einige Wachen des Fürsten suchen Zuflucht bei Sankt Andral",
+      "slug": null
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral\\",
+      "label": "Der Fürst von Barovia versucht drei Mal, das Heiligtum zu betreten",
+      "slug": null
+    },
+    {
+      "target": "Gesegnetes Leben von dem Heiligen Sankt Andral\\",
+      "label": "Mit dem Tod Sankt Andrals wurde sein Anwesen eine Kirche",
+      "slug": null
+    },
+    {
+      "target": "Die Minenkriege",
+      "label": "Die Minenkriege",
+      "slug": "die-minenkriege"
+    },
+    {
+      "target": "Aufstand gegen Strahd",
+      "label": "Aufstand gegen Strahd",
+      "slug": "aufstand-gegen-strahd"
+    },
+    {
+      "target": "7. Mart 755 EB",
+      "label": "7. Mart 755 EB",
+      "slug": "7-mart-755-eb"
+    },
+    {
+      "target": "Fest der Wolfsköpfe",
+      "label": "Fest der Wolfsköpfe",
+      "slug": "fest-der-wolfskopfe"
+    },
+    {
+      "target": "14. Mart 755 EB",
+      "label": "14. Mart 755 EB",
+      "slug": "14-mart-755-eb"
+    },
+    {
+      "target": "Fest der Brennenden Sonne",
+      "label": "Fest der Brennenden Sonne",
+      "slug": "fest-der-brennenden-sonne"
+    },
+    {
+      "target": "15. Mart 755 EB",
+      "label": "15. Mart 755 EB",
+      "slug": "15-mart-755-eb"
+    },
+    {
+      "target": "Fest des Heiligen Andral",
+      "label": "Fest des Heiligen Andral",
+      "slug": "fest-des-heiligen-andral"
+    },
+    {
+      "target": "21. Mart 755 EB",
+      "label": "21. Mart 755 EB",
+      "slug": "21-mart-755-eb"
+    },
+    {
+      "target": "Frühlings-Tagundnachtgleiche",
+      "label": "Frühlings-Tagundnachtgleiche",
+      "slug": "fruhlings-tagundnachtgleiche"
+    },
+    {
+      "target": "21. Eyune 755 EB",
+      "label": "21. Eyune 755 EB",
+      "slug": "21-eyune-755-eb"
+    },
+    {
+      "target": "Sommersonnenwende",
+      "label": "Sommersonnenwende",
+      "slug": "sommersonnenwende"
+    },
+    {
+      "target": "21. Sintyavr 755 EB",
+      "label": "21. Sintyavr 755 EB",
+      "slug": "21-sintyavr-755-eb"
+    },
+    {
+      "target": "Herbst-Tagundnachtgleiche",
+      "label": "Herbst-Tagundnachtgleiche",
+      "slug": "herbst-tagundnachtgleiche"
+    },
+    {
+      "target": "21. Dekavr 755 EB",
+      "label": "21. Dekavr 755 EB",
+      "slug": "21-dekavr-755-eb"
+    },
+    {
+      "target": "Wintersonnenwende",
+      "label": "Wintersonnenwende",
+      "slug": "wintersonnenwende"
+    }
+  ],
+  "markdown": "\n| Jahr                                                                                  | Event                                                                                                                                                                                                                                                                                                                                                          | Quelle                                                                  |\n| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |\n| Zeit der [[Fey]]                                                                      | [[Fey von Barovia#Drei Himmlische Wesen, die Fey Fey-Schwestern\\|Drei Himmlische Wesen, die Fey-Schwestern]]                                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Die Menschen kommen in das Barovia Tal von Barovia\\|Die Menschen kommen in das Tal von Barovia, Gründung des Druidenordens]]                                                                                                                                                                                                                 | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Die Steinkreise der Fey\\|Die Druiden erschufen die Steinkreise der Fey]]                                                                                                                                                                                                                                                                     | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Riten der Druiden\\|Die Riten der Druiden]]                                                                                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Der Lebenszyklus des Barovia Tals\\|Der Lebenszyklus des Tals]]                                                                                                                                                                                                                                                                               | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Entdeckung des Magischer Bernstein Magischen Bernsteins\\|Die Fey entdecken den Magischen Bernstein]]                                                                                                                                                                                                                                         | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | **[[Fey von Barovia#Erschaffung der Edelsteine der Fey Feensteine\\|Erschaffung der Feensteine mittels Magie und Bernstein]]**                                                                                                                                                                                                                                  | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]], Jahrhunderte vergehen bis zur Ankunft der Dunklen Mächte        | [[Fey von Barovia#Die Edelsteine der Fey helfen den Druiden , die Jahreszeiten zu verfolgen\\|Die Edelsteine der Fey helfen den Druiden, die Jahreszeiten zu verfolgen]]                                                                                                                                                                                        | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Geschenke für die Fey\\|Geschenke für die Fey]]                                                                                                                                                                                                                                                                                               | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Fey von Barovia#Die Fey und neugeborene Babies\\|Die Fey und neugeborene Babies]]                                                                                                                                                                                                                                                                             | [[Fey von Barovia]]                                                     |\n| Zeit der [[Druiden]]                                                                  | [[Das Leben des Khazan#Ausbildung zum Druiden\\|Khazan wird zum Druiden ausgebildet]]                                                                                                                                                                                                                                                                           | [[Das Leben des Khazan]]                                                |\n| [[Zeit der Dunkelheit]]                                                               | **[[Fey von Barovia#Die Ankunft der Dunkelheit Dunklen Mächte\\|Die Ankunft der Dunklen Mächte und der Kampf der Fey und Druiden gegen diese]]**                                                                                                                                                                                                                | [[Fey von Barovia]]                                                     |\n| [[Zeit der Dunkelheit]]                                                               | **[[Das Leben des Khazan#Die Dunkelheit\\|Die Dunkelheit und der Bau des Bernsteintempels]]**                                                                                                                                                                                                                                                                   | [[Das Leben des Khazan]]                                                |\n| [[Zeit der Dunkelheit]]                                                               | **[[Fey von Barovia#Die Errichtung des Bernsteintempel s\\|Die Fey berichten den Druiden vom Bernstein und die Errichtung des Bernsteintempels, in den die Dunklen Mächte gefangen gesetzt wurden]]**                                                                                                                                                           | [[Fey von Barovia]]                                                     |\n| [[Zeit der Dunkelheit]]                                                               | [[Fey von Barovia#Khazan\\|Khazan wird der erste Hüter des Bernsteintempels]]                                                                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n| [[Zeit der Dunkelheit]]                                                               | [[Das Leben des Khazan#Der Bernsteintempel und seine Ausbildung zum Zauberer\\|Khazan wird zum Zauberer ausgebildet]]                                                                                                                                                                                                                                           | [[Das Leben des Khazan]]                                                |\n| [[Zeit der Dunkelheit]]                                                               | [[Das Leben des Khazan#Zauberer\\|Khazan bildet andere zu Zauberern aus]]                                                                                                                                                                                                                                                                                       | [[Das Leben des Khazan]]                                                |\n| 100 Jahre nach der Errichtung des [[Bernsteintempel]]s                                | [[Das Leben des Khazan#Khazans Turm\\|Khazan zieht sich in Khazans Turm zurück]]                                                                                                                                                                                                                                                                                | [[Das Leben des Khazan]]                                                |\n| Jahrhunderte vergingen nach der Gefangennahme der Dunklen Mächte                      | [[Fey von Barovia#Vergessenes Geheimnis\\|Der Bernsteintempel wird ein vergessenes Geheimnis]]                                                                                                                                                                                                                                                                  | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Chroniken eines Kriegsfürsten\\|Prinz Strahd studiert Kriegskunst an der Akademie in Kronenstadt]]                                                                                                                                                                                                                                                            | [[Chroniken eines Kriegsfürsten]]                                       |\n| [[Zeit der Könige]]                                                                   | **[[Das Leben des Khazan#Ankunft der Ersten Könige\\|Ankunft der Ersten Könige mitsamt ihres Morgenfürsten, Flucht der Druiden]]**                                                                                                                                                                                                                              | [[Das Leben des Khazan]]                                                |\n| [[Zeit der Könige]]                                                                   | [[Fey von Barovia#Ankunft der Ersten Könige mit ihrer Religion des Jelen Herrn des Morgens\\|Ankunft der Ersten Könige mit ihrer Religion des Herrn des Morgens, Vergessen der Fey]]                                                                                                                                                                            | [[Fey von Barovia]]                                                     |\n| [[Zeit der Könige]]                                                                   | [[Fey von Barovia#Rückzug der Druiden\\|Rückzug der Druiden]]                                                                                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | **[[Fey von Barovia#Großer Krieg\\|Ankunft des Prinzen und Beginn des Großen Kriegs]]**                                                                                                                                                                                                                                                                         | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | **[[Das Leben des Khazan#Ankunft der Terg\\|Ankunft der Terg]]**                                                                                                                                                                                                                                                                                                | [[Das Leben des Khazan]]                                                |\n|                                                                                       | [[Der Fall von Argynvost#Graf Argynvost kommt nach Barovia\\|Graf Argynvost kommt nach Barovia]]                                                                                                                                                                                                                                                                | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Der Fall von Argynvost#Graf Argynvost sorgt sich um den Bernsteintempel\\|Graf Argynvost sorgt sich um den Bernsteintempel]]                                                                                                                                                                                                                                  | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Der Fall von Argynvost#Bau von Argynvostholt und den Tore von Tsolenka Toren von Tsolenka\\|Bau von Argynvostholt und den Toren von Tsolenka]]                                                                                                                                                                                                                | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Kampf am Tsolenka Pass#Errichtung der Tore von Tsolenka durch die Ursari\\|Errichtung der Tore von Tsolenka durch die Ursari]]                                                                                                                                                                                                                                | [[Kampf am Tsolenka Pass]]                                              |\n|                                                                                       | [[Kampf am Tsolenka Pass#Ursari -Männer waren Steinmetzen, Ursari -Frauen waren Soldaten, die mutigsten wurden Schildmaiden\\|Ursari -Männer waren Steinmetzen, Ursari -Frauen waren Soldaten, die mutigsten wurden Schildmaiden]]                                                                                                                              | [[Kampf am Tsolenka Pass]]                                              |\n|                                                                                       | [[Die Legende von Lugdana#Waisenkind Lugdana Argynvost Lugdana\\|Waisenkind Lugdana wurde von Graf Argynvost aufgenommen]]                                                                                                                                                                                                                                      | [[Die Legende von Lugdana]]                                             |\n|                                                                                       | **[[Der Fall von Argynvost#Gründung des Ritter des Silbernen Drachen Ordens des Silbernen Drachen\\|Gründung des Ordens des Silbernen Drachen]]**                                                                                                                                                                                                               | [[Der Fall von Argynvost]]                                              |\n| Nach der Gründung des [[Ritter des Silbernen Drachen\\|Ordens des Silbernen Drachens]] | [[Die Legende von Lugdana#Lugdana Argynvost wird eine Ritterin\\|Lugdana Argynvost wird eine Ritterin]]                                                                                                                                                                                                                                                         | [[Die Legende von Lugdana]]                                             |\n|                                                                                       | [[Der Fall von Argynvost#Schutz des Bernsteintempel s\\|Schutz des Bernsteintempels]]                                                                                                                                                                                                                                                                           | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana Argynvost Lugdana s Errungenschaften in Schlachten\\|Lugdanas Errungenschaften in Schlachten]]                                                                                                                                                                                                                                | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana Argynvost Lugdana und die Alte Abtei Abtei in Krezk\\|Lugdana trifft in der Abtei in Krezk Schwester Constance, die Heilige Markovia und die Gräfin von Habsburg]]                                                                                                                                                            | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana Argynvost Lugdana dient ihr Leben lang\\|Lugdana dient ihr Leben lang]]                                                                                                                                                                                                                                                       | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]], 25. Jahr                                                            | **[[Schlacht von Berez\\|Schlacht von Berez: Graf von Habsburg ermordet]]**                                                                                                                                                                                                                                                                                     | [[Schlacht von Berez]]                                                  |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Graf von Habsburg unterliegt gegen die Terg und die Ritter des Silbernen Drachen springen ein\\|Graf von Habsburg unterliegt gegen die Terg und die Ritter des Silbernen Drachen springen ein]]                                                                                                                                       | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]], 25. Jahr                                                            | **[[Die Legende von Lugdana#König Barov bittet Graf Argynvost um Hilfe, dieser kam aber nicht und König Barov wird in einer Falle ermordet, daher wird Graf Argynvost zum Verräter ernannt\\|König Barov bittet Graf Argynvost um Hilfe, dieser kam aber nicht und König Barov wird in einer Falle ermordet, daher wird Graf Argynvost zum Verräter ernannt]]** | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Der Krieg mit den Terg\\|Der Krieg mit den Terg, Strahds Eltern werden von den Terg abgeschlachtet, Prinz Strahd erscheint]]                                                                                                                                                                                                             | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Graf Argynvost zieht sich nach Argynvostholt zurück\\|Graf Argynvost zieht sich nach Argynvostholt zurück, weil er nun die Terg und Strahd zum Feind hatte]]                                                                                                                                                                          | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | **[[Die Legende von Lugdana#Die Belagerung von Argynvostholt\\|Die Belagerung von Argynvostholt durch die Terg und Prinz Strahd]]**                                                                                                                                                                                                                             | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Der Schutz des Bernsteintempel s\\|Der Schutz des Bernsteintempels und die Aufteilung der Truppen]]                                                                                                                                                                                                                                   | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | **[[Das Leben des Khazan#Treffen mit dem Graf Strahd Jungen Prinzen\\|Khazan erzählt Prinz Strahd vom Bernsteintempel und dieser von den Terg]]**                                                                                                                                                                                                               | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | [[Der Fall von Argynvost#Graf Strahd kann die Tore von Tsolenka nicht bezwingen\\|Graf Strahd kann die Tore von Tsolenka nicht bezwingen]]                                                                                                                                                                                                                      | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]], <br>nach der [[Schlacht von Berez]]                                 | **[[Schlacht am Rabenfluss\\|Schlacht am Rabenfluss: Argynvostholt wird von den Terg und Graf Strahd belagert, Schlacht am Rabenfluss, Lugdana Argynvost fällt]]**                                                                                                                                                                                              | [[Schlacht am Rabenfluss]]                                              |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana wird in der Schlacht am Rabenfluss schwer verletzt\\|Lugdana wird in der Schlacht am Rabenfluss schwer verletzt und zur Abtei gebracht]]                                                                                                                                                                                      | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | **[[Die Legende von Lugdana#Untote Krieger\\|Lugdana spricht zu Schwester Constance über die Untoten Krieger]]**                                                                                                                                                                                                                                                | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana betet in der Kapelle der Abtei\\|Lugdana betet in der Kapelle der Abtei für Frieden]]                                                                                                                                                                                                                                         | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | **[[Die Legende von Lugdana#Schwester Constance offenbart sich als Engel\\|Schwester Constance offenbart sich als Engel und übergibt Lugdana das Heilige Symbol der Sonne]]**                                                                                                                                                                                   | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana bekämpft die Untoten und wird eine Heldin\\|Lugdana bekämpft die Untoten und wird eine Heldin]]                                                                                                                                                                                                                               | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]], <br>vor der [[Schlacht von Argynvostholt]]                          | **[[Die Legende von Lugdana#Graf Strahd s List mit der Hinrichtung der 100 Bürger von Vallaki\\|Graf Strahds List mit der Hinrichtung der 100 Bürger von Vallaki und der Forderung, Lugdana auszuliefern, die Ritter kommen zur Rettung]]**                                                                                                                     | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | [[Schlacht von Argynvostholt\\|Entführung der Bewohner von Vallaki, Schlacht von Argynvostholt, der Dunkle Prinz dringt in Argynvostholt ein]]                                                                                                                                                                                                                  | [[Schlacht von Argynvostholt]]                                          |\n| [[Großer Krieg]]                                                                      | **[[Die Legende von Lugdana#Graf Strahd schleicht sich in Argynvostholt ein und tötet Lugdana Argynvost Lugdana und Graf Argynvost\\|Graf Strahd schleicht sich in Argynvostholt ein und tötet Lugdana Argynvost Lugdana und Graf Argynvost]]**                                                                                                                 | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]]                                                                      | **[[Der Fall von Argynvost#Graf Strahd tötet den Drachen Graf Argynvost\\|Graf Strahd tötet den Drachen Graf Argynvost]]**                                                                                                                                                                                                                                      | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Der Verbleib des Heiliges Symbol der Sonne Heiligen Symbol der Sonne\\|Das Heilige Symbol der Sonne kehrt zu Schwester Constance zurück, Graf Strahd nimmt Argynvosts Schädel mit]]                                                                                                                                                   | [[Die Legende von Lugdana]]                                             |\n| [[Großer Krieg]],<br>nach dem Tod von [[Argynvost]]                                   | [[Der Fall von Argynvost#Graf Strahd tötet die Ritter des Silbernen Drachen\\|Graf Strahd tötet die zurückkehrenden Ritter des Silbernen Drachen, Flucht Sir Godfreys zur Abtei]]                                                                                                                                                                               | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Der Fall von Argynvost#Graf Strahd foltert Vladimir Horngaard\\|Graf Strahd foltert Vladimir Horngaard]]                                                                                                                                                                                                                                                      | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Der Fall von Argynvost#Die Wiedergänger\\|Die Wiedergänger]]                                                                                                                                                                                                                                                                                                  | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | [[Die Legende von Lugdana#Lugdana Argynvost Lugdana s Geist\\|Lugdanas Geist wird zu einem Wiedergänger in der Abtei und Argynvostholt]]                                                                                                                                                                                                                        | [[Die Legende von Lugdana]]                                             |\n|                                                                                       | [[Kampf am Tsolenka Pass#Die Schildmaiden schlagen die Truppen des Graf Strahd mehrfach zurück\\|Die Schildmaiden schlagen die Truppen des Graf Strahd mehrfach zurück]]                                                                                                                                                                                        | [[Kampf am Tsolenka Pass]]                                              |\n|                                                                                       | [[Kampf am Tsolenka Pass#Graf Strahd zerstört Bârgau Bârgău\\|Graf Strahd zerstört Bârgău]]                                                                                                                                                                                                                                                                     | [[Kampf am Tsolenka Pass]]                                              |\n|                                                                                       | [[Kampf am Tsolenka Pass#Graf Strahd verflucht Bârgau Bârgău zur Unsterblichkeit\\|Graf Strahd verflucht Bârgău zur Unsterblichkeit]]                                                                                                                                                                                                                           | [[Kampf am Tsolenka Pass]]                                              |\n|                                                                                       | [[Kampf am Tsolenka Pass#Die Schildmaiden verlassen das Dorf, obwohl sie sterben würden\\|Die Schildmaiden verlassen das Dorf, obwohl sie sterben würden]]                                                                                                                                                                                                      | [[Kampf am Tsolenka Pass]]                                              |\n| [[Großer Krieg]], <br>4 Tage lang                                                     | **[[Schlacht von Tsolenka#Die Bewachung der Tore von Tsolenka\\|Die Schlacht von Tsolenka: Die Bewachung der Tore von Tsolenka, Prinz Vernon von Habsburg fällt, der Fluch des Alterns]]**                                                                                                                                                                      | [[Schlacht von Tsolenka]] / [[Kampf am Tsolenka Pass]]                  |\n|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                |                                                                         |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Angriff auf die Tore von Tsolenka\\|Khazan eilt zu Hilfe, als die Tore von Tsolenka angegriffen wurden]]                                                                                                                                                                                                                                 | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | **Prinz Strahd hat sich Zugang zum [[Bernsteintempel]] verschafft und war von den Überresten der [[Dunkelheit]] korrumpiert worden**                                                                                                                                                                                                                           |                                                                         |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Verderbnis des Graf Strahd Jungen Prinzen\\|Khazan erkennt, dass Prinz Strahd verdorben ist und den Bernsteintempel angegriffen hatte]]                                                                                                                                                                                                  | [[Das Leben des Khazan]]                                                |\n| Nach dem Krieg?                                                                       | [[Fey von Barovia#Der Einzug des Nebel s\\|Der Einzug des Nebels, die Dämpfung der Magie der Fey und die Störung der natürlichen Ordnung]]                                                                                                                                                                                                                      | [[Fey von Barovia]]                                                     |\n|                                                                                       | **[[Fey von Barovia#Über den Graf Strahd Prinzen\\|Graf Strahd hat seinen Bruder und seine große Liebe verloren und sein Herz ist voller Dunkelheit]]**                                                                                                                                                                                                         | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Erschaffung des Herz des Kummers\\|Die Fey erschaffen das Herz des Kummers mit je einer Hälfte der Feensteine]]                                                                                                                                                                                                                               | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Wasserfey überbringt Graf Strahd das Herz des Kummers\\|Die Wasserfey überbringt Graf Strahd das Herz des Kummers]]                                                                                                                                                                                                                       | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | **Entführung der [[Wasserfey]]**                                                                                                                                                                                                                                                                                                                               | [[Wasserfey]]                                                           |\n|                                                                                       | [[Fey von Barovia#Graf Strahd sperrt die Wasserfey ein und befiehlt die Entweihung der Steinkreise der Fey\\|Graf Strahd sperrt die Wasserfey ein und befiehlt die Entweihung der Steinkreise der Fey]]                                                                                                                                                         | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Der Wer-Raben Wer-Rabe warnt die Fey und Druiden\\|Der Wer-Rabe warnt die Fey und Druiden]]                                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n|                                                                                       | **[[Fey von Barovia#Die Fey graben die Edelsteine der Fey wieder aus\\|Die Fey graben die Edelsteine der Fey wieder aus, aber der Stein der Wasserfey war verschwunden]]**                                                                                                                                                                                      | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | [[Der Fall von Argynvost#Sir Godfrey versucht die gefangene Wasserfey zu retten\\|Sir Godfrey versucht die gefangene Wasserfey zu retten, aber wurde niedergeschlagen]]                                                                                                                                                                                         | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Fey von Barovia#Die Fey brauchen Hilfe\\|Die Fey brauchen Hilfe]]                                                                                                                                                                                                                                                                                             | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Fey verstecken ihre Edelsteine der Fey Edelsteine\\|Die Fey verstecken ihre Edelsteine bei den Wer-Raben und bei Khazan]]                                                                                                                                                                                                                 | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Entführung der Wasserfey\\|Entführung der Wasserfey, die Bergfey sucht beim Bernsteintempel Hilfe bei Khazan und erzählt vom Dunklen Prinzen]]                                                                                                                                                                                           | [[Das Leben des Khazan]]                                                |\n|                                                                                       | [[Fey von Barovia#Die Fey suchen nach Hilfe\\|Die Fey suchen nach Hilfe außerhalb des Tals]]                                                                                                                                                                                                                                                                    | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Fey verstecken sich und warten auf Helden\\|Die Fey verstecken sich und warten auf Helden, die Waldfee als Mensch in Vallaki, die Bergfee auf der Suche nach Helden]]                                                                                                                                                                     | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | [[Der Fall von Argynvost#Aufstieg der Dunkelheit Dunklen Mächte\\|Aufstieg der Dunklen Mächte und Beginn des Nebels]]                                                                                                                                                                                                                                           | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Der Fall von Argynvost#Der Hass von Vladimir Horngaard\\|Der Hass von Vladimir Horngaard]]                                                                                                                                                                                                                                                                    | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Der Fall von Argynvost#In den Träumen zeigt sich, dass Vladimir Horngaard durch die Rückgabe des Drachenschädel s erlöst werden kann\\|In den Träumen zeigt sich, dass Vladimir Horngaard durch die Rückgabe des Drachenschädels erlöst werden kann]]                                                                                                         | [[Der Fall von Argynvost]]                                              |\n|                                                                                       | [[Der Fall von Argynvost#Das Spuken in Argynvostholt\\|Das Spuken in Argynvostholt]]                                                                                                                                                                                                                                                                            | [[Der Fall von Argynvost]]                                              |\n| [[Großer Krieg]]                                                                      | **[[Khazan]] tritt dem Graf entgegen und befreit die [[Wasserfey]]**                                                                                                                                                                                                                                                                                           | [[Khazan]]                                                              |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Der Versuch, Graf Strahd den dunklen Prinzen mit Vernunft zu verändern\\|Khazan versucht den Dunklen Prinzen mit Vernunft zu bekehren]]                                                                                                                                                                                                  | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Graf Strahd Der Dunkle Fürst greift Khazan an\\|Der Dunkle Fürst greift Khazan an]]                                                                                                                                                                                                                                                      | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Khazan s List\\|Khazans List und Befreiung der Wasserfey]]                                                                                                                                                                                                                                                                               | [[Das Leben des Khazan]]                                                |\n|                                                                                       | **[[Fey von Barovia#Die Flucht der Wasserfey\\|Die Flucht der Wasserfey auf dem fliegenden Schädel Argynvosts]]**                                                                                                                                                                                                                                               | [[Fey von Barovia]]                                                     |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Khazan s Opfer\\|Der Dunkle Fürst erschlägt Khazan]]                                                                                                                                                                                                                                                                                     | [[Das Leben des Khazan]]                                                |\n| [[Großer Krieg]]                                                                      | [[Das Leben des Khazan#Khazan s Geist\\|Khazans Geist]]                                                                                                                                                                                                                                                                                                         | [[Das Leben des Khazan]]                                                |\n|                                                                                       | [[Fey von Barovia#Die Wasserfey findet ihre Schwestern nicht mehr\\|Die Wasserfey findet ihre Schwestern nicht mehr, die Steinkreise waren entweiht, die Edelsteine weg]]                                                                                                                                                                                       | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Graf Strahd vernichtet Berez\\|Graf Strahd vernichtet Berez]]                                                                                                                                                                                                                                                                                 | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Graf Strahd verflucht die Wasserfey zur Sumpf-Vetel\\|Graf Strahd verflucht die Wasserfey zur Sumpf-Vetel]]                                                                                                                                                                                                                                   | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Wasserfey wendet sich an die Dunkelheit im Bernsteintempel\\|Die Wasserfey wendet sich an die Dunkelheit im Bernsteintempel]]                                                                                                                                                                                                             | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Wasserfey wird von der Dunkelheit korrumpiert und verwandelt sich in Baba Lysaga\\|Die Wasserfey wird von der Dunkelheit korrumpiert und verwandelt sich in Baba Lysaga]]                                                                                                                                                                 | [[Fey von Barovia]]                                                     |\n|                                                                                       | [[Fey von Barovia#Die Wasserfey erschafft die Froschmenschen und eine Armee der Sumpfkreaturen\\|Die Wasserfey erschafft die Froschmenschen und eine Armee der Sumpfkreaturen]]                                                                                                                                                                                 | [[Fey von Barovia]]                                                     |\n| Nach dem <br>[[Großer Krieg\\|Großen Krieg]]                                           | **[[Krieg der Könige\\|Krieg der Könige: Graf Strahd besiegt König Falkon von Habsburg und ernennt seinen Vater König Barov zum Herrscher]]**                                                                                                                                                                                                                   | [[Krieg der Könige]]                                                    |\n| Ende des [[Krieg der Könige\\|Kriegs der Könige]], 0 EB?                               | **[[Schlacht von Barovia\\|Schlacht von Barovia, Eroberung von Barovia]]**                                                                                                                                                                                                                                                                                      | [[Schlacht von Barovia]]                                                |\n| Nach der [[Schlacht von Barovia]]                                                     | **[[Der Hof von Rabenhorst#Graf Strahd nimmt Barovia ein\\|Fürst Strahd ernennt sich zum Herrscher des Landes Graf Strahd]]**                                                                                                                                                                                                                                   | [[Der Hof von Rabenhorst]]                                              |\n|                                                                                       | [[Der Hof von Rabenhorst#Umbenennung und Wiederaufbau von Schloss Rabenhorst\\|Umbenennung und Wiederaufbau von Schloss Barovia zu Schloss Rabenhorst]]                                                                                                                                                                                                         | [[Der Hof von Rabenhorst]]                                              |\n|                                                                                       | [[Der Hof von Rabenhorst#Unterhaltung am Hof von Schloss Rabenhorst\\|Unterhaltung am Hof von Schloss Rabenhorst]]                                                                                                                                                                                                                                              | [[Der Hof von Rabenhorst]]                                              |\n|                                                                                       | [[Der Hof von Rabenhorst#Die Mitglieder des Hofes von Schloss Rabenhorst\\|Die Mitglieder des Hofes von Schloss Rabenhorst]]                                                                                                                                                                                                                                    | [[Der Hof von Rabenhorst]]                                              |\n| 322 EB                                                                                | [[Gesegnetes Leben von dem Heiligen Sankt Andral\\|Sankt Andral lässt sich in Vallaki nieder]]                                                                                                                                                                                                                                                                  | [[Gesegnetes Leben von dem Heiligen Sankt Andral]]                      |\n| 348 EB                                                                                | [[Gesegnetes Leben von dem Heiligen Sankt Andral\\|Graf Strahd fordert Tribut für ihn als Gleichgestellten des Morgenfürsten:]] [[Patronatsedikt]]                                                                                                                                                                                                              | [[Patronatsedikt]] / [[Gesegnetes Leben von dem Heiligen Sankt Andral]] |\n|                                                                                       | [[Gesegnetes Leben von dem Heiligen Sankt Andral\\|Einige Wachen des Fürsten suchen Zuflucht bei Sankt Andral]]                                                                                                                                                                                                                                                 | [[Gesegnetes Leben von dem Heiligen Sankt Andral]]                      |\n|                                                                                       | [[Gesegnetes Leben von dem Heiligen Sankt Andral\\|Der Fürst von Barovia versucht drei Mal, das Heiligtum zu betreten]]                                                                                                                                                                                                                                         | [[Gesegnetes Leben von dem Heiligen Sankt Andral]]                      |\n|                                                                                       | [[Gesegnetes Leben von dem Heiligen Sankt Andral\\|Mit dem Tod Sankt Andrals wurde sein Anwesen eine Kirche]]                                                                                                                                                                                                                                                   | [[Gesegnetes Leben von dem Heiligen Sankt Andral]]                      |\n| 647-715                                                                               | [[Die Minenkriege]] in Velaris                                                                                                                                                                                                                                                                                                                                 |                                                                         |\n| 754 EB                                                                                | **[[Aufstand gegen Strahd]]**                                                                                                                                                                                                                                                                                                                                  |                                                                         |\n| [[7. Mart 755 EB]]                                                                    | [[Fest der Wolfsköpfe]]                                                                                                                                                                                                                                                                                                                                        |                                                                         |\n| [[14. Mart 755 EB]]                                                                   | [[Fest der Brennenden Sonne]]                                                                                                                                                                                                                                                                                                                                  |                                                                         |\n| [[15. Mart 755 EB]]                                                                   | [[Fest des Heiligen Andral]]                                                                                                                                                                                                                                                                                                                                   |                                                                         |\n| [[21. Mart 755 EB]]                                                                   | [[Frühlings-Tagundnachtgleiche]]                                                                                                                                                                                                                                                                                                                               |                                                                         |\n| [[21. Eyune 755 EB]]                                                                  | [[Sommersonnenwende]]                                                                                                                                                                                                                                                                                                                                          |                                                                         |\n| [[21. Sintyavr 755 EB]]                                                               | [[Herbst-Tagundnachtgleiche]]                                                                                                                                                                                                                                                                                                                                  |                                                                         |\n| [[21. Dekavr 755 EB]]                                                                 | [[Wintersonnenwende]]                                                                                                                                                                                                                                                                                                                                          |                                                                         |\n"
+}

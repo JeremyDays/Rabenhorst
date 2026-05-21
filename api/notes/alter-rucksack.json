@@ -1,0 +1,35 @@
+{
+  "title": "Alter Rucksack",
+  "slug": "alter-rucksack",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Alter Rucksack.md",
+  "url": "notes/alter-rucksack.html",
+  "apiUrl": "api/notes/alter-rucksack.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Wo: Dachboden im Haus des Burgomeisters Michal KI Zusammenfassung Alter Rucksack ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dach",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Haus des Burgomeisters",
+      "label": "Haus des Burgomeisters",
+      "slug": "haus-des-burgomeisters"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "S13 - Haus des Burgomeisters",
+      "label": "S13 - Haus des Burgomeisters",
+      "slug": "s13-haus-des-burgomeisters"
+    }
+  ],
+  "markdown": "**Wo:** Dachboden im [[Haus des Burgomeisters]] -> [[Michal]]\n\n## KI-Zusammenfassung\n\nAlter Rucksack ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dachboden im Haus des Burgomeisters -> Michal Direkte Bezüge bestehen zu [[Haus des Burgomeisters]], [[Michal]]. Alter Rucksack wird außerdem in [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

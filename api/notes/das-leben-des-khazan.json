@@ -1,0 +1,250 @@
+{
+  "title": "Das Leben des Khazan",
+  "slug": "das-leben-des-khazan",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Handouts (Bücher)/Das Leben des Khazan.md",
+  "url": "notes/das-leben-des-khazan.html",
+  "apiUrl": "api/notes/das-leben-des-khazan.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Ausbildung zum Druiden Lange, lange vor dem Zeitalter der KönigeZeit der Könige wurde ein strahlender Leuchtturm des Lebens geboren. Soweit in der Geschichte überliefert, hatte Kha",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Druiden",
+      "label": "Druiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Zeit der Könige",
+      "label": "Zeitalter der Könige",
+      "slug": "zeit-der-konige"
+    },
+    {
+      "target": "Khazan",
+      "label": "Khazan",
+      "slug": "khazan"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druide",
+      "slug": "druiden"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Dunkelheit",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Zeit der Dunkelheit",
+      "label": "Zeit der Dunkelheit",
+      "slug": "zeit-der-dunkelheit"
+    },
+    {
+      "target": "Fey",
+      "label": "Fey",
+      "slug": "fey"
+    },
+    {
+      "target": "Ursari",
+      "label": "Ursari",
+      "slug": "ursari"
+    },
+    {
+      "target": "Bernsteintempel",
+      "label": "Bernsteintempel",
+      "slug": "bernsteintempel"
+    },
+    {
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Ghakis-Berge",
+      "label": "Ghakis-Bergen",
+      "slug": "ghakis-berge"
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Überreste",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Druiden",
+      "label": "Mitdruiden",
+      "slug": "druiden"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Khazans Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Baratok-See",
+      "label": "Baratok-See",
+      "slug": "baratok-see"
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberern",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Khazans Turm",
+      "label": "Turm",
+      "slug": "khazans-turm"
+    },
+    {
+      "target": "Jelen",
+      "label": "Morgenfürsten",
+      "slug": "jelen"
+    },
+    {
+      "target": "Druiden",
+      "label": "Druidenbrüder",
+      "slug": "druiden"
+    },
+    {
+      "target": "Yester Hügel",
+      "label": "Yester Hügel",
+      "slug": "yester-hugel"
+    },
+    {
+      "target": "Terg",
+      "label": "Terg",
+      "slug": "terg"
+    },
+    {
+      "target": "Zeit der Könige",
+      "label": "Zeit der Könige",
+      "slug": "zeit-der-konige"
+    },
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "junger Prinz",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Jungen Prinzen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "junge Prinz",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "jungen Prinzen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "Überresten",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tore von Tsolenka",
+      "slug": "tore-von-tsolenka"
+    },
+    {
+      "target": "Tore von Tsolenka",
+      "label": "Tore von Tsolenka",
+      "slug": null
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Bergfey",
+      "label": "Bergfey",
+      "slug": "bergfey"
+    },
+    {
+      "target": "Dunkelheit",
+      "label": "dunklen Gestalten",
+      "slug": "dunkelheit"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunkler Prinz",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunklen Prinzen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunkle Fürst",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "den dunklen Prinzen",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunkler Fürst",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Der Dunkle Fürst",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "dunkle Prinz",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Zeitalter der Könige",
+      "label": "Zeitalter der Könige",
+      "slug": null
+    },
+    {
+      "target": "Druide",
+      "label": "Druide",
+      "slug": null
+    },
+    {
+      "target": "Ghakis-Berge",
+      "label": "Ghakis-Berge",
+      "slug": "ghakis-berge"
+    }
+  ],
+  "markdown": "![[Khazan.png]]\n\n#### Ausbildung zum [[Druiden]]\nLange, lange vor dem [[Zeit der Könige|Zeitalter der Könige]] wurde ein strahlender Leuchtturm des Lebens geboren. Soweit in der Geschichte überliefert, hatte **[[Khazan]]** eine ereignislose Jugend. Als junger Mann studierte Khazan, um [[Druiden|Druide]] zu werden. Seine Mentoren entdeckten, dass er brillant und methodisch veranlagt war. Er lernte viel schneller als viele [[Druiden]], die ihre Berufung in der Natur fanden. Er verinnerlichte schnell alles, was seine Meister zu lehren hatten. Die Zeit verging, und bald schon, mit einem Schuss Alter und Weisheit, war [[Khazan]] derjenige, der lehrte.\n\n#### Die [[Dunkelheit]]\nWährend der [[Zeit der Dunkelheit]] im Tal half [[Khazan]] den Steinmetzen der [[Fey]] und [[Ursari]] beim Bau des [[Bernsteintempel]]s, um das Tal vor den dunklen Mächten zu schützen. Von den [[Fey]] erfuhr [[Khazan]], dass die dunklen Mächte als böse Überbleibsel bezeichnet wurden. Sie waren lediglich Schatten und Spiegelungen älterer himmlischer Götter, die besiegt wurden. Die bösen Überreste verbringen eine Ewigkeit damit, in die Ebene der Sterblichen einzudringen, um Rache zu üben und die Völker zu vernichten, die die Götter verehren, die sie in längst vergessenen Zeiten vernichtet haben. Die besiegten bösen Überreste fanden einen Weg in die sterbliche Ebene und beschlossen, das [[Barovia]]-Tal anzugreifen.\n\n#### Der [[Bernsteintempel]] und seine Ausbildung zum [[Zauberer]]\nDer Bernstein in den [[Ghakis-Berge|Ghakis-Bergen]] kann [[Magie]] nutzbar machen. Die [[Fey]] unterwiesen [[Khazan]] in neuer, mächtiger Magie, einschließlich der Methoden, die [[Dunkelheit|Überreste]] im Bernstein gefangen zu halten, und segneten [[Khazan]] mit außerordentlich langem Leben. [[Khazan]]s druidisches Wissen und seine Unterweisung durch die [[Fey]] waren von unschätzbarem Wert, und seine Kenntnisse und Fähigkeiten übertrafen die seiner [[Druiden|Mitdruiden]], und er wurde der erste [[Zauberer]] von [[Barovia]]. \n\n#### [[Zauberer]]\n[[Khazan]] lehrte auch andere, [[Zauberer]] zu werden, und gemeinsam bewachten die [[Zauberer]] den [[Bernsteintempel]] und hielten Wache vor jeder kommenden Dunkelheit.\n\n#### [[Khazans Turm]]\nEin Jahrhundert verging, seit die [[Dunkelheit]] im [[Bernsteintempel]] gefangen gehalten wurde. [[Khazan]] beschloss, in das Tal zurückzukehren und einen Turm ([[Khazans Turm]]) auf einer kleinen Insel im [[Baratok-See]] zu errichten, um dort seine verbleibenden Jahre mit dem Studium der Natur und der Magie zu verbringen - allein. Er überließ es den [[Zauberer|Zauberern]], die er ausgebildet hatte, den [[Bernsteintempel]] zu beschützen und ihr Wissen an die Nächsten weiterzugeben.\n\n#### Ankunft der Ersten Könige\nKhazan lebte zurückgezogen in seinem [[Khazans Turm|Turm]], als die ersten Könige eintrafen, denn er mochte die Welt der Könige, die die Natur zerstörten, nicht und wollte auch nicht dazugehören. [[Khazan]]s Weisheit wusste, dass ein Gleichgewicht zwischen den neuen Königen und den alten Bräuchen gefunden werden musste. Die Völker [[Barovia]]s wandten sich den neuen Wegen des [[Jelen|Morgenfürsten]] zu, und [[Khazan]]s [[Druiden|Druidenbrüder]] wagten sich in den **Südwesten** nach [[Yester Hügel]], ein zerbrechlicher Frieden war in Sicht.\n\n![[Khazans Turm.png]]\n\n#### Ankunft der [[Terg]]\n[[Khazan]] wusste, dass die [[Zeit der Könige]], wie alle Dinge, irgendwann zu Ende gehen würde. Der Frieden sollte nicht von Dauer sein, als die kriegerischen Kräfte der [[Terg]] begannen, in [[Barovia]] einzufallen. [[Khazan]] blieb neutral gegenüber den Nöten der Menschen, allein in seinem Turm, denn die Könige würden ihren Krieg haben, aber die [[Fey]] und das Tal würden noch lange nach den Königen und ihren Kriegen fortbestehen.\n\n#### Der Krieg mit den [[Terg]]\nDer Krieg mit den [[Terg]] zog sich in die Länge und versetzte das Tal in Angst und Schrecken. Die königliche Familie von [[Barovia (Dorf)]] wurde von den [[Terg]] abgeschlachtet und die verbliebenen Ritter und Adligen mussten eine lange Belagerung überstehen. Ein [[Graf Strahd|junger Prinz]] kam, um [[Barovia (Dorf)]] vor den [[Terg]]-Invasoren zu retten.\n\n#### Treffen mit dem [[Graf Strahd|Jungen Prinzen]]\nDer [[Graf Strahd|junge Prinz]] erfuhr von dem alten Weisen [[Khazan]] und besuchte ihn. Der [[Graf Strahd|junge Prinz]] schien naiv zu sein und wollte etwas über die Geschichte des Tals erfahren, denn wenn der Krieg gewonnen und der Frieden wiederhergestellt werden sollte, war Wissen erforderlich.\n\n[[Khazan]] wusste nicht, ob er helfen konnte, aber er erklärte dem [[Graf Strahd|jungen Prinzen]], dass die dunklen Spuren, die im [[Bernsteintempel]] gefangen waren, niemals entweichen durften, sonst würden das Tal und alles darin zerstört werden. [[Khazan]] erzählte dem [[Graf Strahd|jungen Prinzen]] vom Gleichgewicht der Natur und den [[Fey]] und seinem Wunsch, dass der Frieden in das Tal zurückkehren möge. Der [[Graf Strahd|junge Prinz]] war fasziniert vom [[Bernsteintempel]], seinen dunklen [[Dunkelheit|Überresten]] und seiner Geschichte und versprach, dass er den [[Terg]] niemals Zugang zum [[Bernsteintempel]] gewähren würde und dass Frieden für alle im Tal herrschen würde, sobald die [[Terg]] besiegt wären.\n\n#### Angriff auf die [[Tore von Tsolenka]]\n[[Khazan]] erfuhr, dass Truppen die [[Tore von Tsolenka]] angriffen, die den [[Bernsteintempel]] vor Eindringlingen schützten. [[Khazan]] eilte zum [[Bernsteintempel]], da er befürchtete, dass die [[Dunkelheit]] im Inneren des [[Bernsteintempel]]s freigesetzt werden würde, wenn die Tore nicht halten würden.\n\n#### Verderbnis des [[Graf Strahd|Jungen Prinzen]]\nAls [[Khazan]] den [[Bernsteintempel]] erreichte, stellte er fest, dass der [[Bernsteintempel]] überfallen worden war, und zu seiner schrecklichen Überraschung war es der [[Graf Strahd|junge Prinz]], der sich Zutritt verschafft hatte. \n\n>**Malduk:** Was hat er dann getan? Hat er ihn gestellt oder ist er einfach gegangen, nachdem er das erkannt hatte?\n\n#### Entführung der [[Wasserfey]]\nDie [[Bergfey]] war zum [[Bernsteintempel]] gekommen, um [[Khazan]] zu suchen, denn ihre Schwester, die [[Wasserfey]], war von dem [[Graf Strahd|jungen Prinzen]] gefangen genommen worden. Sie hatte [[Khazan]] mitgeteilt, dass der [[Graf Strahd|junge Prinz]] große Macht erlangt und einen Pakt mit den [[Dunkelheit|dunklen Gestalten]] im [[Bernsteintempel]] geschlossen hatte, denn er war nicht mehr der [[Graf Strahd|junge Prinz]], sondern ein böser [[Graf Strahd|dunkler Prinz]].\n\n![[Dunkler Prinz.png]]\n\n[[Khazan]] machte sich auf den Weg, um den [[Graf Strahd|dunklen Prinzen]] zu treffen, einen Handel zu schließen, die [[Wasserfey]] zu befreien und neutralen Boden zu suchen. Denn [[Khazan]] war ein mächtiger [[Zauberer]], und der [[Graf Strahd|dunkle Fürst]] würde auf die Vernunft hören.\n\n#### Der Versuch, [[Graf Strahd|den dunklen Prinzen]] mit Vernunft zu verändern\nAls er auf [[Schloss Rabenhorst]] ankam, hatte sich der [[Graf Strahd|junge Prinz]] in der Tat verändert, und [[Dunkelheit]] pulsierte in ihm, seine Augen waren dunkel, und er stank nach Tod, er war ein [[Graf Strahd|dunkler Fürst]] geworden. [[Khazan]] sprach mit dem [[Graf Strahd|dunklen Prinzen]] und versuchte, ihn zur Vernunft zu bringen. Der Pakt, den er mit den dunklen [[Dunkelheit|Überresten]] geschlossen hatte, gab ihm die Macht, seine Feinde zu besiegen, aber zu welchem Preis? Denn das Leben des [[Graf Strahd|dunklen Prinzen]] gehörte den dunklen [[Dunkelheit|Überresten]] und er war nun ein bloßer Diener der dunklen [[Dunkelheit|Überreste]].\n\n#### [[Graf Strahd|Der Dunkle Fürst]] greift [[Khazan]] an\nDer [[Graf Strahd|dunkle Fürst]] wurde wütend, denn er behauptete, er sei niemandes Diener. Er sei der Herr, der Graf, das Land [[Barovia]]. Der [[Graf Strahd|dunkle Fürst]], durchdrungen von dunklen Mächten, griff [[Khazan]] an. Es war das erste Mal, dass [[Khazan]] jemandem gegenüberstand, der von den dunklen Mächten des [[Bernsteintempel]]s durchdrungen war. Der [[Graf Strahd|dunkle Prinz]] war mächtig, und die dunklen Mächte strömten aus ihm mit einer Bosheit, die das Tal seit Jahrhunderten nicht mehr gesehen hatte.\n\n![[Schloss Rabenhorst.png]]\n\n#### [[Khazan]]s List\nDoch [[Khazan]] hätte nie erwartet, dass der [[Graf Strahd|dunkle Prinz]] der Vernunft nachgeben und die [[Wasserfey]] freilassen würde, denn [[Khazan]]s Besuch war eine List. [[Khazan]] wusste, dass er eine Begegnung mit dem [[Graf Strahd|dunklen Prinzen]] mit Hilfe der dunklen Mächte nicht überleben würde, er brauchte nur Zeit und nutzte die Unterredung als Ablenkung. [[Khazan]] kanalisierte alle seine magischen Kräfte, während er mit dem [[Graf Strahd|dunklen Prinzen]] verhandelt hatte, um der [[Wasserfey]] bei ihrer Flucht zu helfen.\n\n#### [[Khazan]]s Opfer\n[[Khazan]] wusste, dass jede Hoffnung und das Überleben des Tals von den [[Fey]] abhing. Sein Opfer war sein Schicksal, seine letzte Tat im Dienste der [[Fey]], der [[Druiden]] und des schönen Tals, das er geliebt hatte.\n\n#### [[Khazan]]s Geist\nNiemand weiß, was mit dem großen [[Zauberer]] [[Khazan]] geschah. Einige glauben, dass er die Schlacht überlebte und sich zum [[Bernsteintempel]] zurück wagte. Andere glauben, dass sein Geist in [[Barovia]] in seinem [[Khazans Turm|Turm]] am [[Baratok-See]] oder in den Hallen von [[Schloss Rabenhorst]] umherwandert.\n\n![[Waldfey.png]]\n\n## KI-Zusammenfassung\n\nDas Leben des Khazan ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Lange, lange vor dem Zeitalter der Könige wurde ein strahlender Leuchtturm des Lebens geboren. Soweit in der Geschichte überliefert, hatte Khazan eine ereignislose Jugend. Als junger Mann studierte Khazan... Während der Zeit der Dunkelheit im Tal half Khazan den Steinmetzen der Fey und Ursari beim Bau des Bernsteintempels, um das Tal vor den dunklen Mächten zu schützen. Von den Fey erfuhr Khazan... Der Bernstein in den Ghakis-Bergen kann Magie nutzbar machen. Die Fey unterwiesen Khazan in neuer, mächtiger Magie, einschließlich der Methoden, die Überreste im Bernstein gefangen zu halten... Khazan lehrte auch andere, Zauberer zu werden, und gemeinsam bewachten die Zauberer den Bernsteintempel und hielten Wache vor jeder kommenden Dunkelheit. Direkte Bezüge bestehen zu [[Druiden]], [[Zeitalter der Könige]], [[Khazan]], [[Druide]], [[Dunkelheit]]. Das Leben des Khazan wird außerdem in [[Khazan]], [[Baratok-See]], [[Ghakis-Berge]], [[Khazans Turm]], [[Yester Hügel]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

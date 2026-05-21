@@ -1,0 +1,13 @@
+{
+  "title": "Dataview Templates",
+  "slug": "dataview-templates",
+  "category": "note",
+  "relativePath": "Shared/z_obsidian/Dataview Templates.md",
+  "url": "notes/dataview-templates.html",
+  "apiUrl": "api/notes/dataview-templates.json",
+  "tags": [],
+  "excerpt": "Hier ein paar Code snippets als Gedankenstütze zu dem, was möglich ist:",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "Hier ein paar Code snippets als Gedankenstütze zu dem, was möglich ist:\n\n```Attribut_Liste\ntable date_outgame, date_ingame\nwhere contains(tags, \"Session\") = true\n```\n\n```Tags_Liste\ntable aliases\nwhere tags = \"NPC\"\n```\n\n```Gruppierte_Sortierte_Liste\nTABLE \n\trows.file.link AS \"Name\"\n\nWHERE contains(tags, \"NPC\") = true\nWHERE contains(faction, \"Order of Light\") = true\nSORT file.name ASC\nGROUP BY rank AS \"Rank\"\nSORT choice(Rank = \"Headmaster\", \"1\",\nchoice(Rank = \"Magister\", \"2\",\nchoice(Rank = \"Scholar\", \"3\",\nchoice(Rank = \"Acolyte\", \"4\",\nchoice(Rank = \"Apprentice\", \"5\",\nchoice(Rank = \"Novice\", \"6\",\n\"other\"))))))\n\n```\n\n\n\n"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Danika Surana",
+  "slug": "danika-surana",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Werwölfe/Danika Surana.md",
+  "url": "notes/danika-surana.html",
+  "apiUrl": "api/notes/danika-surana.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Frau von Grigor und Mutter von Mira Ein WerwolfWerwölfe Sie ist eine Bauernfrau oder Jägerin KI Zusammenfassung Danika Surana ist eine Figur aus dem Bereich Werwölfe. Die lokalen N",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Grigor",
+      "label": "Grigor",
+      "slug": "grigor"
+    },
+    {
+      "target": "Mira",
+      "label": "Mira",
+      "slug": "mira"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwolf",
+      "slug": "werwolfe"
+    },
+    {
+      "target": "Werwolf",
+      "label": "Werwolf",
+      "slug": null
+    },
+    {
+      "target": "S32 - Danika und Grigor",
+      "label": "S32 - Danika und Grigor",
+      "slug": "s32-danika-und-grigor"
+    },
+    {
+      "target": "S33 - Auf der Spur",
+      "label": "S33 - Auf der Spur",
+      "slug": "s33-auf-der-spur"
+    },
+    {
+      "target": "S34 - Werwolfshöhle",
+      "label": "S34 - Werwolfshöhle",
+      "slug": "s34-werwolfshohle"
+    }
+  ],
+  "markdown": "- Frau von [[Grigor]] und Mutter von [[Mira]]\n- Ein [[Werwölfe|Werwolf]]\n\n- Sie ist eine Bauernfrau oder Jägerin\n- \n\n## KI-Zusammenfassung\n\nDanika Surana ist eine Figur aus dem Bereich Werwölfe. Die lokalen Notizen halten dazu fest: Frau von Grigor und Mutter von Mira Ein Werwolf Sie ist eine Bauernfrau oder Jägerin Direkte Bezüge bestehen zu [[Grigor]], [[Mira]], [[Werwolf]]. Danika Surana wird außerdem in [[Grigor]], [[Mira]], [[S32 - Danika und Grigor]], [[S33 - Auf der Spur]], [[S34 - Werwolfshöhle]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

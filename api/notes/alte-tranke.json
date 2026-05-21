@@ -1,0 +1,39 @@
+{
+  "title": "Alte Tränke",
+  "slug": "alte-tranke",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Eichenfurt/Alte Tränke.md",
+  "url": "notes/alte-tranke.html",
+  "apiUrl": "api/notes/alte-tranke.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Eichenfurt Besitzer: Valentin Das einzelne Wirtshaus im Süden des DorfesEichenfurt hat ein paar Betten frei für Reisende, ist gutbürgerlich eingerichtet und Treffpunkt für die ",
+  "frontmatter": {
+    "aliases": [
+      "Alten Tränke",
+      "Zur Alten Tränke"
+    ],
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    },
+    {
+      "target": "Valentin",
+      "label": "Valentin",
+      "slug": "valentin"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Dorfes",
+      "slug": "eichenfurt"
+    }
+  ],
+  "markdown": "In: [[Eichenfurt]]\n\nBesitzer: [[Valentin]]\n\n- Das einzelne **Wirtshaus** im Süden des [[Eichenfurt|Dorfes]] hat ein paar Betten frei für Reisende, ist gutbürgerlich eingerichtet und Treffpunkt für die Gemeinschaft. \n- Das gutmütige Wirtspaar ist freundlich und beide können sehr gut kochen. \n- So versammelt sich des Tags mehrmals eine Gruppe von Alleinlebenden im Wirtshaus, um gemeinsam zu speisen. \n- Das Wirtshaus ist neben dem guten Essen besonders für sein dunkles Gerstenbier berühmt. Aber es gibt auch Whiskeys und Vodkas. \n\n"
+}

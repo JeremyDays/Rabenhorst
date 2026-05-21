@@ -1,0 +1,30 @@
+{
+  "title": "Ahab Melville",
+  "slug": "ahab-melville",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Ahab Melville.md",
+  "url": "notes/ahab-melville.html",
+  "apiUrl": "api/notes/ahab-melville.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Fischer mit Holzbein Wo getroffen: Tser Fälle Er hat den Riesen Wels gefangen. KI Zusammenfassung Ahab Melville ist eine Figur aus den NSC Notizen. Die lokalen Notizen halten dazu ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Tser-Fälle",
+      "label": "Tser-Fälle",
+      "slug": "tser-falle"
+    },
+    {
+      "target": "S21 - Tser-Fälle",
+      "label": "S21 - Tser-Fälle",
+      "slug": "s21-tser-falle"
+    }
+  ],
+  "markdown": "Fischer mit Holzbein\n\n**Wo getroffen:** [[Tser-Fälle]]\n \n- Er hat den Riesen-Wels gefangen.\n\n## KI-Zusammenfassung\n\nAhab Melville ist eine Figur aus den NSC-Notizen. Die lokalen Notizen halten dazu fest: Fischer mit Holzbein Wo getroffen: Tser-Fälle Er hat den Riesen-Wels gefangen. Direkte Bezüge bestehen zu [[Tser-Fälle]]. Ahab Melville wird außerdem in [[Tser-Fälle]], [[S21 - Tser-Fälle]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Ausgestoßene Vistani",
+  "slug": "ausgesto-ene-vistani",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Vistani/Ausgestoßene Vistani.md",
+  "url": "notes/ausgesto-ene-vistani.html",
+  "apiUrl": "api/notes/ausgesto-ene-vistani.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Eine Gruppe von Vistani Haben wir schon Ausgestoßene Vistani getroffen? Hier müssten wir jedoch unterscheiden (siehe unten) Sind die 3 Vistani Frauen Ausgestoßene Vistani gewesen? ",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vistani",
+      "label": "Vistani",
+      "slug": "vistani"
+    },
+    {
+      "target": "Ausgestoßene Vistani",
+      "label": "Ausgestoßene Vistani",
+      "slug": "ausgesto-ene-vistani"
+    },
+    {
+      "target": "3 Vistani-Frauen",
+      "label": "3 Vistani-Frauen",
+      "slug": "3-vistani-frauen"
+    },
+    {
+      "target": "Petra",
+      "label": "Petra",
+      "slug": "petra"
+    }
+  ],
+  "markdown": "\nEine Gruppe von [[Vistani]]\n\n- Haben wir schon [[Ausgestoßene Vistani]] getroffen?\n- Hier müssten wir jedoch unterscheiden (siehe unten)\n- Sind die [[3 Vistani-Frauen]] [[Ausgestoßene Vistani]] gewesen? Sie trugen jeweils eine weiße Narbe unter einem linken Auge und trugen keine blauen oder roten Tücher um den Hals. Nach dem, was uns [[Petra]] erzählt hat, müssten sie dann **Mortu** gewesen sein.\n\n"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Bergfried in Berez",
+  "slug": "bergfried-in-berez",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Berez/Bergfried in Berez.md",
+  "url": "notes/bergfried-in-berez.html",
+  "apiUrl": "api/notes/bergfried-in-berez.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Dort hat die Familie von Graf Stahbal Indi Bhak gewohnt. KI Zusammenfassung Bergfried in Berez ist ein Ort im Bereich Berez. Die lokalen Notizen halten dazu fest: Dort hat die Fami",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Graf Stahbal Indi-Bhak",
+      "label": "Graf Stahbal Indi-Bhak",
+      "slug": "graf-stahbal-indi-bhak"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    }
+  ],
+  "markdown": "Dort hat die Familie von [[Graf Stahbal Indi-Bhak]] gewohnt.\n\n## KI-Zusammenfassung\n\nBergfried in Berez ist ein Ort im Bereich Berez. Die lokalen Notizen halten dazu fest: Dort hat die Familie von Graf Stahbal Indi-Bhak gewohnt. Direkte Bezüge bestehen zu [[Graf Stahbal Indi-Bhak]]. Bergfried in Berez wird außerdem in [[Graf Stahbal Indi-Bhak]], [[Der Hof von Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

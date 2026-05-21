@@ -1,0 +1,35 @@
+{
+  "title": "Alek Stefanova",
+  "slug": "alek-stefanova",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Haus Alkir/Opfer/Alek Stefanova.md",
+  "url": "notes/alek-stefanova.html",
+  "apiUrl": "api/notes/alek-stefanova.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Alek Stefanova wurde in Haus Alkir geopfert. Kein Sedativum. KI Zusammenfassung Alek Stefanova ist eine Figur aus dem Bereich Haus Alkir / Opfer. Die vorhandenen lokalen Notizen si",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alek Stefanova",
+      "label": "Alek Stefanova",
+      "slug": "alek-stefanova"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Kult Logbuch",
+      "label": "Kult Logbuch",
+      "slug": "kult-logbuch"
+    }
+  ],
+  "markdown": "[[Alek Stefanova]] wurde in [[Haus Alkir]] geopfert. Kein Sedativum.\n\n## KI-Zusammenfassung\n\nAlek Stefanova ist eine Figur aus dem Bereich Haus Alkir / Opfer. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Direkte Bezüge bestehen zu [[Haus Alkir]]. Alek Stefanova wird außerdem in [[Haus Alkir]], [[Kult Logbuch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

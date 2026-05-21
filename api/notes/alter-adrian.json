@@ -1,0 +1,28 @@
+{
+  "title": "Alter Adrian",
+  "slug": "alter-adrian",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Alter Adrian.md",
+  "url": "notes/alter-adrian.html",
+  "apiUrl": "api/notes/alter-adrian.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Jäger des Winterwalds, der vor 4 5 Wochen nicht mehr aus dem Wald zurück gekommen ist.",
+  "frontmatter": {
+    "aliases": [
+      "Adrian"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Winterwald",
+      "label": "Winterwald",
+      "slug": "winterwald"
+    }
+  ],
+  "markdown": "Ein Jäger des [[Winterwald]]s, der vor 4-5 Wochen nicht mehr aus dem Wald zurück gekommen ist.\n\n"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Brutus",
+  "slug": "brutus",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Brutus.md",
+  "url": "notes/brutus.html",
+  "apiUrl": "api/notes/brutus.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hund von Baron Vargas Vallakovich KI Zusammenfassung Brutus ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Hund von Baron Vargas Valla",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "S63 - Baron Vargas",
+      "label": "S63 - Baron Vargas",
+      "slug": "s63-baron-vargas"
+    }
+  ],
+  "markdown": "Hund von [[Baron Vargas Vallakovich]]\n\n## KI-Zusammenfassung\n\nBrutus ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Hund von Baron Vargas Vallakovich Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]]. Brutus wird außerdem in [[Baron Vargas Vallakovich]], [[S63 - Baron Vargas]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Drachen",
+  "slug": "drachen",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Drachen.md",
+  "url": "notes/drachen.html",
+  "apiUrl": "api/notes/drachen.json",
+  "tags": [],
+  "excerpt": "Es soll einen Drachen in Argynvostholt gegeben haben.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    }
+  ],
+  "markdown": "Es soll einen Drachen in [[Argynvostholt]] gegeben haben.\n\n"
+}

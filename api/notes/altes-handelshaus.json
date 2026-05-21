@@ -1,0 +1,45 @@
+{
+  "title": "Altes Handelshaus",
+  "slug": "altes-handelshaus",
+  "category": "location",
+  "relativePath": "Shared/Rabenhorst/3 - Orte/Barovia (Dorf)/Altes Handelshaus.md",
+  "url": "notes/altes-handelshaus.html",
+  "apiUrl": "api/notes/altes-handelshaus.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Barovia (Dorf) KI Zusammenfassung Altes Handelshaus ist ein Ort im Bereich Barovia (Dorf). Die lokalen Notizen halten dazu fest: In: Barovia (Dorf) Direkte Bezüge bestehen zu B",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Barovia (Dorf)",
+      "label": "Barovia (Dorf)",
+      "slug": "barovia-dorf"
+    },
+    {
+      "target": "Bildrath Cantemir",
+      "label": "Bildrath Cantemir",
+      "slug": "bildrath-cantemir"
+    },
+    {
+      "target": "Die Legende von Lugdana",
+      "label": "Die Legende von Lugdana",
+      "slug": "die-legende-von-lugdana"
+    },
+    {
+      "target": "Kampf am Tsolenka Pass",
+      "label": "Kampf am Tsolenka Pass",
+      "slug": "kampf-am-tsolenka-pass"
+    },
+    {
+      "target": "Sagen & Gedichte",
+      "label": "Sagen & Gedichte",
+      "slug": "sagen-gedichte"
+    }
+  ],
+  "markdown": "In: [[Barovia (Dorf)]]\n\n## KI-Zusammenfassung\n\nAltes Handelshaus ist ein Ort im Bereich Barovia (Dorf). Die lokalen Notizen halten dazu fest: In: Barovia (Dorf) Direkte Bezüge bestehen zu [[Barovia (Dorf)]]. Altes Handelshaus wird außerdem in [[Bildrath Cantemir]], [[Barovia (Dorf)]], [[Die Legende von Lugdana]], [[Kampf am Tsolenka Pass]], [[Sagen & Gedichte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

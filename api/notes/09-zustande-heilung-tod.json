@@ -1,0 +1,13 @@
+{
+  "title": "09_Zustände_Heilung_Tod",
+  "slug": "09-zustande-heilung-tod",
+  "category": "rules",
+  "relativePath": "AshurRPG/01_Regelwerk_Buch/09_Zustände_Heilung_Tod.md",
+  "url": "notes/09-zustande-heilung-tod.html",
+  "apiUrl": "api/notes/09-zustande-heilung-tod.json",
+  "tags": [],
+  "excerpt": "9. Zustände, Heilung und Tod 9.1 Zustände im Überblick 9.1.1 Positive Zustände (Buffs) 9.1.2 Negative Zustände (Debuffs, Kontrollverlust) 9.2 Schaden, Wunden und Erholung 9.2.1 Tre",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "# 9. Zustände, Heilung und Tod\n## 9.1 Zustände im Überblick\n\n### 9.1.1 Positive Zustände (Buffs)\n\n### 9.1.2 Negative Zustände (Debuffs, Kontrollverlust)\n\n## 9.2 Schaden, Wunden und Erholung\n\n### 9.2.1 Trefferpunkte / Lebenspunkte (falls genutzt)\n\n### 9.2.2 Kurzfristige vs. langfristige Verletzungen\n\n## 9.3 Bewusstlosigkeit und Tod\n\n### 9.3.1 Schwellenwerte\n\n### 9.3.2 Rettungswürfe, Stabilisierung, Folgeschäden\n\n## 9.4 Regeneration, Heilzauber und Heilmethoden\n\n### 9.4.1 Natürliche Heilung\n\n### 9.4.2 Magische Heilung und Balance"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Boris Drascoi",
+  "slug": "boris-drascoi",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Drascoi/Boris Drascoi.md",
+  "url": "notes/boris-drascoi.html",
+  "apiUrl": "api/notes/boris-drascoi.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "tot Beziehungen: Familie Drascoi Sohn von Alek Drascoi und Kala Drascoi Bruder von Ivana Drascoi KI Zusammenfassung Boris Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Familie Drascoi",
+      "label": "Familie Drascoi",
+      "slug": "familie-drascoi"
+    },
+    {
+      "target": "Alek Drascoi",
+      "label": "Alek Drascoi",
+      "slug": "alek-drascoi"
+    },
+    {
+      "target": "Kala Drascoi",
+      "label": "Kala Drascoi",
+      "slug": "kala-drascoi"
+    },
+    {
+      "target": "Ivana Drascoi",
+      "label": "Ivana Drascoi",
+      "slug": "ivana-drascoi"
+    },
+    {
+      "target": "S15 - Drascoi",
+      "label": "S15 - Drascoi",
+      "slug": "s15-drascoi"
+    }
+  ],
+  "markdown": "tot\n\n**Beziehungen:**\n- [[Familie Drascoi]]\n- Sohn von [[Alek Drascoi]] und [[Kala Drascoi]]\n- Bruder von [[Ivana Drascoi]]\n\n## KI-Zusammenfassung\n\nBoris Drascoi ist eine Figur aus dem Bereich Vallaki / Drascoi. Die lokalen Notizen halten dazu fest: Beziehungen: Familie Drascoi Sohn von Alek Drascoi und Kala Drascoi Bruder von Ivana Drascoi Direkte Bezüge bestehen zu [[Familie Drascoi]], [[Alek Drascoi]], [[Kala Drascoi]], [[Ivana Drascoi]]. Boris Drascoi wird außerdem in [[Alek Drascoi]], [[Ivana Drascoi]], [[Kala Drascoi]], [[S15 - Drascoi]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

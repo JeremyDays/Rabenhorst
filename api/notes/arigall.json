@@ -1,0 +1,35 @@
+{
+  "title": "Arigall",
+  "slug": "arigall",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Roten Vistani/Arigall.md",
+  "url": "notes/arigall.html",
+  "apiUrl": "api/notes/arigall.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Anführer der Roten VistaniRote Vistani. KI Zusammenfassung Arigall ist eine Figur aus dem Bereich Lager der Roten Vistani. Die lokalen Notize",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Roten Vistani",
+      "label": "Roten Vistani",
+      "slug": null
+    },
+    {
+      "target": "S19 - Die Blauen Vistani",
+      "label": "S19 - Die Blauen Vistani",
+      "slug": "s19-die-blauen-vistani"
+    }
+  ],
+  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\nAnführer der [[Rote Vistani|Roten Vistani]].\n\n## KI-Zusammenfassung\n\nArigall ist eine Figur aus dem Bereich Lager der Roten Vistani. Die lokalen Notizen halten dazu fest: Mitglied der Roten Vistani Anführer der Roten Vistani. Direkte Bezüge bestehen zu [[Roten Vistani]]. Arigall wird außerdem in [[S19 - Die Blauen Vistani]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}
