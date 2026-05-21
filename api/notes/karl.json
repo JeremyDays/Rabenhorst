@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Ungebildete Wache am Osttor Wo getroffen: Vallaki KI Zusammenfassung Karl ist ein NSC. Die Notiz ordnet Karl dem Bereich Vallaki / Wachen zu. Beruf / Rolle Nicht ausdrücklich genan",
+  "excerpt": "Ungebildete Wache am Osttor Wo getroffen: Vallaki KI Zusammenfassung Beruf / Rolle Vermutlich gehört Karl zur Rolle oder Machtstruktur von Wachen; das ist aus dem Ordnerkontext ers",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -19,12 +19,7 @@
       "target": "Vallaki",
       "label": "Vallaki",
       "slug": "vallaki"
-    },
-    {
-      "target": "Wachen",
-      "label": "Wachen",
-      "slug": null
     }
   ],
-  "markdown": "Ungebildete Wache am Osttor\n\n**Wo getroffen:** [[Vallaki]]\n\n## KI-Zusammenfassung\n\nKarl ist ein NSC. Die Notiz ordnet Karl dem Bereich [[Vallaki]] / [[Wachen]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nVallaki.\n\n### Beziehungen und Verbindungen\n\nWo getroffen: Vallaki.\n\n### Historie / Was wir wissen\n\nUngebildete Wache am Osttor.\n"
+  "markdown": "Ungebildete Wache am Osttor\n\n**Wo getroffen:** [[Vallaki]]\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Karl zur Rolle oder Machtstruktur von Wachen; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Vallaki|Vallaki]] | Wo getroffen\n\n### Historie\n\n- Ungebildete Wache am Osttor\n"
 }

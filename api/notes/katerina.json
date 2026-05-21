@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Wo getroffen: Weiler Verliebt in Michal KI Zusammenfassung Katerina ist ein NSC. Die Notiz ordnet Katerina dem Bereich Weiler zu. Beruf / Rolle Nicht ausdrücklich genannt. Wohnort ",
+  "excerpt": "Wo getroffen: Weiler Verliebt in Michal KI Zusammenfassung Beruf / Rolle Vermutlich gehört Katerina zur Rolle oder Machtstruktur von Weiler; das ist aus dem Ordnerkontext erschloss",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -24,7 +24,12 @@
       "target": "Michal",
       "label": "Michal",
       "slug": "michal"
+    },
+    {
+      "target": "Katerina",
+      "label": "Katerina",
+      "slug": "katerina"
     }
   ],
-  "markdown": "**Wo getroffen:** [[Weiler]]\n\n- Verliebt in [[Michal]]\n- \n\n## KI-Zusammenfassung\n\nKaterina ist ein NSC. Die Notiz ordnet Katerina dem Bereich [[Weiler]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nWeiler.\n\n### Beziehungen und Verbindungen\n\nWo getroffen: Weiler. Verliebt in Michal. Weiler: Katerina. Die Geschichte der Drei Gefährten: Dort fanden sie Grusha, Bran, Katerina und Faddey. Der Weiler lag unter einem Verschleierungszauber aus Schatten, Energie und Leben. Er war nicht friedlich. Nur versteckt. Und Verstecke machen Menschen nicht unbedingt sanfter. S37 - Ankunft im Weiler: Katerina: Junge Frau, feine Stickereien, gut aussehend.\n\n### Historie / Was wir wissen\n\nVerliebt in Michal.\n"
+  "markdown": "**Wo getroffen:** [[Weiler]]\n\n- Verliebt in [[Michal]]\n- \n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Katerina zur Rolle oder Machtstruktur von Weiler; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Weiler|Weiler]] | Wo getroffen\n- [[Michal|Michal]] | Verliebt in\n- [[Katerina|Katerina]] | Weiler\n- Die Geschichte der Drei Gefährten: Dort fanden sie Grusha, Bran, Katerina und Faddey. Der Weiler lag unter einem Verschleierungszauber aus Schatten, Energie und Leben. Er war nicht friedlich. Nur versteckt. Und Verstecke machen Menschen nicht unbedingt sanfter\n- [[Katerina|Katerina]] | S37 - Ankunft im Weiler: : Junge Frau, feine Stickereien, gut aussehend\n\n### Historie\n\n- Verliebt in Michal\n"
 }

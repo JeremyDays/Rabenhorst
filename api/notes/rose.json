@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Tochter der Familie Alkir Echter Name: Rosavalda Alkir Tot. Beziehungen: Tochter von Gustav Alkir und Elisabeth Alkir. Schwester von Dorn und Walter KI Zusammenfassung Rose, auch R",
+  "excerpt": "Tochter der Familie Alkir Echter Name: Rosavalda Alkir Tot. Beziehungen: Tochter von Gustav Alkir und Elisabeth Alkir. Schwester von Dorn und Walter KI Zusammenfassung Beruf / Roll",
   "frontmatter": {
     "aliases": [
       "Rose Alkir",
@@ -45,10 +45,10 @@
       "slug": "walter"
     },
     {
-      "target": "Haus Alkir",
-      "label": "Haus Alkir",
-      "slug": "haus-alkir"
+      "target": "Rose",
+      "label": "Rose",
+      "slug": "rose"
     }
   ],
-  "markdown": "Tochter der [[Familie Alkir]]\n**Echter Name:** Rosavalda Alkir\n\n![[Rose.png]]\n\nTot.\n\n**Beziehungen:**\n- Tochter von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Schwester von [[Dorn]] und [[Walter]]\n\n## KI-Zusammenfassung\n\nRose, auch Rose Alkir, Rosavalda Alkir genannt, ist ein NSC. Die Notiz ordnet Rose dem Bereich [[Haus Alkir]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Haus Alkir]] zu.\n\n### Beziehungen und Verbindungen\n\nTochter von Gustav Alkir und Elisabeth Alkir. Schwester von Dorn und Walter. Tochter der Familie Alkir. Dorn: Bruder von Rose und Walter. Elisabeth Alkir: Mutter von Rose, Dorn und Walter. Gustav Alkir: Vater von Rose, Dorn und Walter.\n\n### Historie / Was wir wissen\n\nTochter der Familie Alkir. Echter Name: Rosavalda Alkir. Tochter von Gustav Alkir und Elisabeth Alkir. Schwester von Dorn und Walter.\n"
+  "markdown": "Tochter der [[Familie Alkir]]\n**Echter Name:** Rosavalda Alkir\n\n![[Rose.png]]\n\nTot.\n\n**Beziehungen:**\n- Tochter von [[Gustav Alkir]] und [[Elisabeth Alkir]].\n- Schwester von [[Dorn]] und [[Walter]]\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Rose zur Rolle oder Machtstruktur von Haus Alkir; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Gustav Alkir|Gustav Alkir]] | Tochter von\n- [[Elisabeth Alkir|Elisabeth Alkir]] | Tochter von\n- [[Dorn|Dorn]] | Schwester von\n- [[Walter|Walter]] | Schwester von\n- [[Familie Alkir|Familie Alkir]] | Tochter der\n- [[Rose|Rose]] | Bruder von\n- [[Walter|Walter]] | Bruder von\n- [[Rose|Rose]] | Mutter von\n- [[Dorn|Dorn]] | Mutter von\n- [[Walter|Walter]] | Mutter von\n- [[Rose|Rose]] | Vater von\n- [[Dorn|Dorn]] | Vater von\n- [[Walter|Walter]] | Vater von\n\n### Historie\n\n- Tochter der Familie Alkir\n- Echter Name: Rosavalda Alkir\n- Tochter von Gustav Alkir und Elisabeth Alkir\n- Schwester von Dorn und Walter\n"
 }

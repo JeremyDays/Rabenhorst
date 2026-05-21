@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. KI Zusammenfassung RIPpy ist ein NSC. Beruf / Rolle Nicht ausdrücklich genannt",
+  "excerpt": "Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. KI Zusammenfassung Beruf / Rolle Nicht ausdrücklich genannt. Beschreibung Kein",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -29,7 +29,12 @@
       "target": "Gustav Alkir",
       "label": "Gustav Alkir",
       "slug": "gustav-alkir"
+    },
+    {
+      "target": "RIPpy",
+      "label": "RIPpy",
+      "slug": "rippy"
     }
   ],
-  "markdown": "Ein kleiner Fuchs, der [[Heinard]] geholfen hatte im [[Haus Alkir]].\n\n**Gefunden:** In der Gruft von [[Gustav Alkir]].\n\n## KI-Zusammenfassung\n\nRIPpy ist ein NSC.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nIn der Gruft von Gustav Alkir.\n\n### Beziehungen und Verbindungen\n\nEin kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir. Gefunden: In der Gruft von Gustav Alkir. Alle Gegenstände: RIPpy. Ein kleiner Fuchs. S08 - Grüfte: Ein Fuchs-Baby, RIPpy. (+). S10 - Katakomben: Michal opferte den Fuchs, RIPpy, nicht.\n\n### Historie / Was wir wissen\n\nEin kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir.\n"
+  "markdown": "Ein kleiner Fuchs, der [[Heinard]] geholfen hatte im [[Haus Alkir]].\n\n**Gefunden:** In der Gruft von [[Gustav Alkir]].\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir\n- [[Gustav Alkir|Gustav Alkir]] | Gefunden: In der Gruft von\n- [[RIPpy|RIPpy]] | Alle Gegenstände: . Ein kleiner Fuchs\n- [[RIPpy|RIPpy]] | S08 - Grüfte: Ein Fuchs-Baby, . (+)\n- S10 - Katakomben: Michal opferte den Fuchs, RIPpy, nicht\n\n### Historie\n\n- Ein kleiner Fuchs, der Heinard geholfen hatte im Haus Alkir\n"
 }

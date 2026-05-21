@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "HexeHexen der Hexenmühle Wo getroffen: Hexenmühle Beziehungen: Tochter von Morganta und Schwester von Bella Macht Puppen. Lässt ihre Puppen überall liegen. KI Zusammenfassung Offil",
+  "excerpt": "HexeHexen der Hexenmühle Wo getroffen: Hexenmühle Beziehungen: Tochter von Morganta und Schwester von Bella Macht Puppen. Lässt ihre Puppen überall liegen. KI Zusammenfassung Beruf",
   "frontmatter": {
     "aliases": [
       "Offilia Wurmschwanz"
@@ -37,7 +37,12 @@
       "target": "Bella",
       "label": "Bella",
       "slug": "bella"
+    },
+    {
+      "target": "Offilia",
+      "label": "Offilia",
+      "slug": "offilia"
     }
   ],
-  "markdown": "[[Hexen|Hexe]] der [[Hexenmühle]]\n\n![[Offilia.png]]\n\n**Wo getroffen:** [[Hexenmühle]]\n\n**Beziehungen:**\n- Tochter von [[Morganta]] und Schwester von [[Bella]]\n\n- Macht Puppen. Lässt ihre Puppen überall liegen.\n- \n\n## KI-Zusammenfassung\n\nOffilia, auch Offilia Wurmschwanz genannt, ist ein NSC. Die Notiz ordnet Offilia dem Bereich [[Hexenmühle]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nHexenmühle.\n\n### Beziehungen und Verbindungen\n\nTochter von Morganta und Schwester von Bella. Hexe der Hexenmühle. Wo getroffen: Hexenmühle. Hexen: Offilia. Magieanwender: Offilia. Bella: Tochter von Morganta und Schwester von Offilia.\n\n### Historie / Was wir wissen\n\nTochter von Morganta und Schwester von Bella. Macht Puppen. Lässt ihre Puppen überall liegen.\n"
+  "markdown": "[[Hexen|Hexe]] der [[Hexenmühle]]\n\n![[Offilia.png]]\n\n**Wo getroffen:** [[Hexenmühle]]\n\n**Beziehungen:**\n- Tochter von [[Morganta]] und Schwester von [[Bella]]\n\n- Macht Puppen. Lässt ihre Puppen überall liegen.\n- \n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Offilia zur Rolle oder Machtstruktur von Hexenmühle; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Morganta|Morganta]] | Tochter von\n- [[Bella|Bella]] | Tochter von\n- Hexe der Hexenmühle\n- [[Hexenmühle|Hexenmühle]] | Wo getroffen\n- [[Offilia|Offilia]] | Hexen\n- [[Offilia|Offilia]] | Magieanwender\n- [[Morganta|Morganta]] | Tochter von\n- [[Offilia|Offilia]] | Tochter von\n\n### Historie\n\n- Tochter von Morganta und Schwester von Bella\n- Macht Puppen. Lässt ihre Puppen überall liegen\n"
 }
