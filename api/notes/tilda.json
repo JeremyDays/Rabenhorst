@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Parriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern. KI Zusammenfassung Tilda ist ein NSC. Die Notiz ordnet Tilda dem Bereich Barovia zu. Beruf / Roll",
+  "excerpt": "Parriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern. KI Zusammenfassung Beruf / Rolle Vermutlich gehört Tilda zur Rolle oder Machtstruktur von Barovia",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -21,10 +21,10 @@
       "slug": "parriwimpel"
     },
     {
-      "target": "Barovia",
-      "label": "Barovia",
-      "slug": "barovia"
+      "target": "Tilda",
+      "label": "Tilda",
+      "slug": "tilda"
     }
   ],
-  "markdown": "[[Parriwimpel]] hat einen kleinen Ring für sie schmieden wollen. \nEr hat sie wohl gern.\n\n## KI-Zusammenfassung\n\nTilda ist ein NSC. Die Notiz ordnet Tilda dem Bereich [[Barovia]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Barovia]] zu.\n\n### Beziehungen und Verbindungen\n\nParriwimpel hat einen kleinen Ring für sie schmieden wollen. Parriwimpel: Ist verliebt in Tilda. S16 - Ein Handel mit Bildrath: Er will einen kleinen Ring machen. Für Tilda.\n\n### Historie / Was wir wissen\n\nParriwimpel hat einen kleinen Ring für sie schmieden wollen. Er hat sie wohl gern.\n"
+  "markdown": "[[Parriwimpel]] hat einen kleinen Ring für sie schmieden wollen. \nEr hat sie wohl gern.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Tilda zur Rolle oder Machtstruktur von Barovia; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Parriwimpel|Parriwimpel]] | hat einen kleinen Ring für sie schmieden wollen\n- [[Tilda|Tilda]] | Parriwimpel: Ist verliebt in\n- [[Tilda|Tilda]] | S16 - Ein Handel mit Bildrath: Er will einen kleinen Ring machen. Für\n\n### Historie\n\n- Parriwimpel hat einen kleinen Ring für sie schmieden wollen\n- Er hat sie wohl gern\n"
 }

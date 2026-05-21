@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Die Anführerin der Werwölfe Ein WerwolfWerwölfe Eine mächtige Antimagierin. Wir haben sie besiegt. KI Zusammenfassung Szlata, auch Alte Frau genannt, ist ein NSC. Die Notiz ordnet ",
+  "excerpt": "Die Anführerin der Werwölfe Ein WerwolfWerwölfe Eine mächtige Antimagierin. Wir haben sie besiegt. KI Zusammenfassung Beruf / Rolle Vermutlich gehört Szlata zur Rolle oder Machtstr",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -27,7 +27,12 @@
       "target": "Werwölfe",
       "label": "Werwolf",
       "slug": "werwolfe"
+    },
+    {
+      "target": "Szlata",
+      "label": "Szlata",
+      "slug": "szlata"
     }
   ],
-  "markdown": "- Die Anführerin der [[Werwölfe]]\n- Ein [[Werwölfe|Werwolf]]\n- Eine mächtige Antimagierin.\n- Wir haben sie besiegt.\n\n## KI-Zusammenfassung\n\nSzlata, auch Alte Frau genannt, ist ein NSC. Die Notiz ordnet Szlata dem Bereich [[Werwölfe]] zu.\n\n### Beruf / Rolle\n\nNicht ausdrücklich genannt.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Werwölfe]] zu.\n\n### Beziehungen und Verbindungen\n\nDie Anführerin der Werwölfe. Ein Werwolf. Schwarzfelsenrudel: Szlata ist das Oberhaupt. Stab der Entropie: Gefunden: Bei Szlata. Die Geschichte der Drei Gefährten: Es gab Rechtspruch. Heiligen Wasserschleier. Misstrauen. Szlata, mächtig, alt, gefährlich, erzählte vom Weiler, einem Ort, der durch Fey-Kraft verborgen war.\n\n### Historie / Was wir wissen\n\nDie Anführerin der Werwölfe. Eine mächtige Antimagierin. Wir haben sie besiegt.\n"
+  "markdown": "- Die Anführerin der [[Werwölfe]]\n- Ein [[Werwölfe|Werwolf]]\n- Eine mächtige Antimagierin.\n- Wir haben sie besiegt.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nVermutlich gehört Szlata zur Rolle oder Machtstruktur von Werwölfe; das ist aus dem Ordnerkontext erschlossen.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Werwölfe|Werwölfe]] | Die Anführerin der\n- [[Werwölfe|Werwolf]] | Ein\n- [[Szlata|Szlata]] | Schwarzfelsenrudel:  ist das Oberhaupt\n- [[Szlata|Szlata]] | Stab der Entropie: Gefunden: Bei\n- Die Geschichte der Drei Gefährten: Es gab Rechtspruch. Heiligen Wasserschleier. Misstrauen. Szlata, mächtig, alt, gefährlich, erzählte vom Weiler, einem Ort, der durch Fey-Kraft verborgen war\n\n### Historie\n\n- Die Anführerin der Werwölfe\n- Eine mächtige Antimagierin\n- Wir haben sie besiegt\n"
 }

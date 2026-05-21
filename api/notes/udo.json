@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Schuhmacher Sohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen. KI Zusammenfassung Udo ist ein NSC. Die Notiz ordnet Udo dem Bereich Vallaki / Wachter zu. Ber",
+  "excerpt": "Schuhmacher Sohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen. KI Zusammenfassung Beruf / Rolle Schuhmacher. Beschreibung Keine gesicherte textliche Beschrei",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -26,15 +26,10 @@
       "slug": "lady-fiona-wachter"
     },
     {
-      "target": "Vallaki",
-      "label": "Vallaki",
-      "slug": "vallaki"
-    },
-    {
-      "target": "Wachter",
-      "label": "Wachter",
-      "slug": null
+      "target": "Udo",
+      "label": "Udo",
+      "slug": "udo"
     }
   ],
-  "markdown": "Schuhmacher\n\nSohn von [[Willemina Rikalova]]. \nHat sich mit [[Lady Fiona Wachter]] eingelassen.\n\n## KI-Zusammenfassung\n\nUdo ist ein NSC. Die Notiz ordnet Udo dem Bereich [[Vallaki]] / [[Wachter]] zu.\n\n### Beruf / Rolle\n\nSchuhmacher.\n\n### Wohnort / Aufenthalt\n\nDer Ordnerkontext ordnet die Figur dem Bereich [[Vallaki]] / [[Wachter]] zu.\n\n### Beziehungen und Verbindungen\n\nSohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen. Nadja: Verlobte von Udo. Willemina Rikalova: Sie bittet, dass man ihrem Sohn Udo hilft. Die Geschichte der Drei Gefährten: Malduk sprach leise mit Lydia über ihren Bruder, Frau Rikalova und Udo. Er beugte sich nicht vertraulich zu ihr. Das hätte sie gefährdet. Er ließ die Worte fallen wie kleine, prüfbare Steine. Lydia antwortete vorsichtig. An ihrem Hals lagen blaue Flecken. Sie bestätigte, dass Udo im Haus festgehalten werde. Zugleich verteidigte sie Vargas, bevor sie richtig angeklagt war, weil Menschen in solchen Häusern lernen, den Schlag schon abzufangen, bevor er kommt.\n\n### Historie / Was wir wissen\n\nSohn von Willemina Rikalova. Hat sich mit Lady Fiona Wachter eingelassen.\n"
+  "markdown": "Schuhmacher\n\nSohn von [[Willemina Rikalova]]. \nHat sich mit [[Lady Fiona Wachter]] eingelassen.\n\n## KI-Zusammenfassung\n\n### Beruf / Rolle\n\nSchuhmacher.\n\n### Beschreibung\n\nKeine gesicherte textliche Beschreibung in den lokalen Notizen.\n\n### Beziehungen\n\n- [[Willemina Rikalova|Willemina Rikalova]] | Sohn von\n- [[Lady Fiona Wachter|Lady Fiona Wachter]] | Hat sich mit  eingelassen\n- [[Udo|Udo]] | Nadja: Verlobte von\n- [[Udo|Udo]] | Willemina Rikalova: Sie bittet, dass man ihrem Sohn  hilft\n- [[Udo|Udo]] | Die Geschichte der Drei Gefährten: Malduk sprach leise mit Lydia über ihren Bruder, Frau Rikalova und . Er beugte sich nicht vertraulich zu ihr. Das hätte sie gefährdet. Er ließ die Worte fallen wie kleine, prüfbare Steine. Lydia antwortete vorsichtig. An ihrem Hals lagen blaue Flecken. Sie bestätigte, dass Udo im Haus festgehalten werde. Zugleich verteidigte sie Vargas, bevor sie richtig angeklagt war, weil Menschen in solchen Häusern lernen, den Schlag schon abzufangen, bevor er kommt\n\n### Historie\n\n- Sohn von Willemina Rikalova\n- Hat sich mit Lady Fiona Wachter eingelassen\n"
 }
