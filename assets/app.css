@@ -16,7 +16,7 @@
 body { margin: 0; background: var(--bg); color: var(--ink); }
 a { color: inherit; }
 main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 56px; }
-.dashboard-page main { width: 100%; padding: 16px 16px 56px; }
+.dashboard-page main { width: 100%; padding: 0 0 56px; }
 .hero {
   align-items: end;
   aspect-ratio: 1824 / 862;
@@ -24,8 +24,8 @@ main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 56
     linear-gradient(180deg, rgb(0 0 0 / 2%) 0%, rgb(0 0 0 / 8%) 55%, rgb(0 0 0 / 40%) 100%),
     url("hero-group-banner.png") center / cover no-repeat,
     #120f0e;
-  border: 1px solid #31221d;
-  border-radius: 8px;
+  border: 0;
+  border-radius: 0;
   box-shadow: var(--shadow);
   display: block;
   margin: 0 0 24px;
@@ -75,7 +75,7 @@ input[type="search"] { width: 100%; border: 1px solid rgb(217 210 195 / 58%); bo
 }
 .stat span { color: var(--muted); display: block; font-size: 11px; line-height: 1.15; }
 .stat strong { display: block; font-size: 13px; line-height: 1.12; margin-left: 8px; text-align: right; overflow-wrap: anywhere; }
-.dashboard-grid, .note-section { margin-left: auto; margin-right: auto; width: min(1180px, 100%); }
+.dashboard-grid, .note-section { margin-left: auto; margin-right: auto; width: min(1180px, calc(100% - 32px)); }
 .dashboard-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 34px; }
 .dashboard-side { display: grid; align-content: start; gap: 12px; }
 .panel { padding: 20px; box-shadow: none; }
