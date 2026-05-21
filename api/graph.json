@@ -18243,11 +18243,6 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "schmiede-von-eichenfurt",
-      "label": "Schmiede von Eichenfurt"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
       "target": "heinard",
       "label": "Heinard"
     },
@@ -18283,13 +18278,13 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "dorn",
-      "label": "Dorn"
+      "target": "rose",
+      "label": "Rose"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "rose",
-      "label": "Rose"
+      "target": "dorn",
+      "label": "Dorn"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -18325,6 +18320,11 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "koljan-indirowitsch",
       "label": "Koljan Indirowitsch"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "kirche-von-barovia",
+      "label": "Kirche von Barovia"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -18384,7 +18384,7 @@
     {
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "hexenmuhle",
-      "label": "Alte Windmühle"
+      "label": "Hexenmühle"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -18403,18 +18403,13 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
+      "target": "fey",
+      "label": "Fey"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
       "target": "graf-strahd",
       "label": "Graf Strahd"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "lichtbringer",
-      "label": "Lichtbringer"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "henkersaxt",
-      "label": "Henkersaxt"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -18443,16 +18438,6 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "katerina",
-      "label": "Katerina"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "faddey",
-      "label": "Faddey"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
       "target": "hirsch-medaillon",
       "label": "Hirsch-Medaillon"
     },
@@ -18465,6 +18450,16 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "fest-der-brennenden-sonne",
       "label": "Fest der Brennenden Sonne"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "freek-2",
+      "label": "Freek"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "faddey",
+      "label": "Faddey"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -18523,6 +18518,11 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
+      "target": "herrenhaus-vallakovich",
+      "label": "Haus des Burgomeisters"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
       "target": "lydia-vallakovich",
       "label": "Lydia Vallakovich"
     },
@@ -18565,6 +18565,11 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "sabelzahntiger",
       "label": "Säbelzahntiger"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "henkersaxt",
+      "label": "Henkersaxt"
     },
     {
       "source": "s63-baron-vargas-summary",
