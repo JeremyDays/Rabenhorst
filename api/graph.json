@@ -19167,6 +19167,11 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
+      "target": "silvanfluss",
+      "label": "Silvanfluss"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
       "target": "michal",
       "label": "Michal"
     },
@@ -19194,11 +19199,6 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "malduk",
       "label": "Malduk"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "silvanfluss",
-      "label": "Silvanfluss"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -19232,38 +19232,13 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "graf-strahd",
-      "label": "Graf Strahd"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "gustav-alkir",
-      "label": "Gustav Alkir"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "elisabeth-alkir",
-      "label": "Elisabeth Alkir"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "walter",
-      "label": "Walter"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "vistani",
-      "label": "Vistani"
+      "target": "barovia-dorf",
+      "label": "Barovia (Dorf)"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "schloss-rabenhorst",
       "label": "Schloss Rabenhorst"
-    },
-    {
-      "source": "die-geschichte-der-drei-gefahrten",
-      "target": "barovia-dorf",
-      "label": "Barovia (Dorf)"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -19277,13 +19252,13 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "koljan-indirowitsch",
-      "label": "Koljan Indirowitsch"
+      "target": "vallaki",
+      "label": "Vallaki"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
-      "target": "vallaki",
-      "label": "Vallaki"
+      "target": "koljan-indirowitsch",
+      "label": "Koljan Indirowitsch"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -19294,6 +19269,16 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "doru-donavich",
       "label": "Doru Donavich"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "ivlis-kreuzung",
+      "label": "Ivlis-Kreuzung"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "vistani",
+      "label": "Vistani"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -19332,6 +19317,11 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
+      "target": "hexenmuhle",
+      "label": "Alte Windmühle"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
       "target": "bella",
       "label": "Bella"
     },
@@ -19344,6 +19334,11 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "morganta",
       "label": "Morganta"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "graf-strahd",
+      "label": "Graf Strahd"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
@@ -19442,6 +19437,11 @@
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
+      "target": "lady-fiona-wachter",
+      "label": "Lady Fiona Wachter"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
       "target": "cataryma",
       "label": "Cataryma"
     },
@@ -19484,6 +19484,11 @@
       "source": "die-geschichte-der-drei-gefahrten",
       "target": "dunkelheit",
       "label": "Dunkelheit"
+    },
+    {
+      "source": "die-geschichte-der-drei-gefahrten",
+      "target": "fest-der-brennenden-sonne",
+      "label": "Fests der Brennenden Sonne"
     },
     {
       "source": "die-geschichte-der-drei-gefahrten",
