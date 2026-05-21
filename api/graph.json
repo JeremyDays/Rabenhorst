@@ -3469,12 +3469,6 @@
       "url": "notes/s76-suche-nach-dem-hirsch-medaillon.html"
     },
     {
-      "id": "bergwolfe",
-      "title": "Bergwölfe",
-      "category": "creature",
-      "url": "notes/bergwolfe.html"
-    },
-    {
       "id": "alkir-damon",
       "title": "Alkir Dämon",
       "category": "creature",
@@ -3577,12 +3571,6 @@
       "url": "notes/satyre.html"
     },
     {
-      "id": "schreckenswolfe",
-      "title": "Schreckenswölfe",
-      "category": "creature",
-      "url": "notes/schreckenswolfe.html"
-    },
-    {
       "id": "geist-ritter",
       "title": "Geist-Ritter",
       "category": "creature",
@@ -3625,12 +3613,6 @@
       "url": "notes/zombies.html"
     },
     {
-      "id": "waldwolfe",
-      "title": "Waldwölfe",
-      "category": "creature",
-      "url": "notes/waldwolfe.html"
-    },
-    {
       "id": "wer-raben",
       "title": "Wer-Raben",
       "category": "creature",
@@ -3647,6 +3629,24 @@
       "title": "Wiedergänger",
       "category": "creature",
       "url": "notes/wiederganger.html"
+    },
+    {
+      "id": "bergwolfe",
+      "title": "Bergwölfe",
+      "category": "creature",
+      "url": "notes/bergwolfe.html"
+    },
+    {
+      "id": "schreckenswolfe",
+      "title": "Schreckenswölfe",
+      "category": "creature",
+      "url": "notes/schreckenswolfe.html"
+    },
+    {
+      "id": "waldwolfe",
+      "title": "Waldwölfe",
+      "category": "creature",
+      "url": "notes/waldwolfe.html"
     },
     {
       "id": "wolfe",
@@ -25392,26 +25392,6 @@
       "label": "Vasili von Holtz"
     },
     {
-      "source": "bergwolfe",
-      "target": "herrin-des-berges",
-      "label": "Herrin des Berges"
-    },
-    {
-      "source": "bergwolfe",
-      "target": "eisenberge",
-      "label": "Eisenbergen"
-    },
-    {
-      "source": "bergwolfe",
-      "target": "eichenfurt",
-      "label": "Eichenfurt"
-    },
-    {
-      "source": "bergwolfe",
-      "target": "bergwolfe",
-      "label": "Bergwölfe"
-    },
-    {
       "source": "alkir-damon",
       "target": "elisabeth-alkir",
       "label": "Elisabeth Alkir"
@@ -25587,16 +25567,6 @@
       "label": "Platz des Weißen Hirschs"
     },
     {
-      "source": "waldwolfe",
-      "target": "winterwald",
-      "label": "Winterwald"
-    },
-    {
-      "source": "waldwolfe",
-      "target": "eichenfurt",
-      "label": "Eichenfurt"
-    },
-    {
       "source": "wer-raben",
       "target": "fey",
       "label": "Fey"
@@ -25655,6 +25625,36 @@
       "source": "wiederganger",
       "target": "graf-strahd",
       "label": "Graf Strahd"
+    },
+    {
+      "source": "bergwolfe",
+      "target": "herrin-des-berges",
+      "label": "Herrin des Berges"
+    },
+    {
+      "source": "bergwolfe",
+      "target": "eisenberge",
+      "label": "Eisenbergen"
+    },
+    {
+      "source": "bergwolfe",
+      "target": "eichenfurt",
+      "label": "Eichenfurt"
+    },
+    {
+      "source": "bergwolfe",
+      "target": "bergwolfe",
+      "label": "Bergwölfe"
+    },
+    {
+      "source": "waldwolfe",
+      "target": "winterwald",
+      "label": "Winterwald"
+    },
+    {
+      "source": "waldwolfe",
+      "target": "eichenfurt",
+      "label": "Eichenfurt"
     },
     {
       "source": "blaue-rosen",

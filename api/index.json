@@ -14515,7 +14515,7 @@
         "slug": "vallaki"
       }
     ],
-    "markdown": "Band der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n>***Malduk:** Es nimmt [[Grusha]]s Blut aus der Distanz auf und stoppt [[Ireena]]s Hunger, verhindert, dass sie zu einem [[Vampire|Vampir]] wird.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nDas Hirsch-Medaillon ist für [[Ireena]] kein Schmuckstück, sondern ein magischer Schutzgegenstand. Es nimmt [[Grusha]]s Blut aus der Distanz auf, stillt Ireenas Hunger und verhindert, dass sie zu einem [[Vampire|Vampir]] wird.\n\n### Beschreibung\n\nDas Band der Kette ist weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n### Aufenthaltsort / Besitz\n\n- Das Medaillon gehört zu [[Ireena]] und stabilisiert ihren Zustand.\n- Wenn es fehlt, kehrt Ireenas Hunger zurück.\n\n### Historie\n\n- Das Medaillon entsteht nach dem gefährlichen Ritual am [[Platz des Weißen Hirschs]].\n- Der erste Ritualversuch scheitert; der zweite gelingt unter Angriffen und großer Gefahr.\n- Nach dem Gelingen ist die heilige Kraft des [[Weiler|Weilers]] geschwächt, aber Ireena erhält das Medaillon.\n- Als der Blutstropfen vom Medaillon aufgesaugt wird, sagt Ireena, der Hunger sei weg.\n- Später in [[Vallaki]] zeigt sich, dass Ireenas Stabilität vom Medaillon abhängt.\n"
+    "markdown": "![[Hirsch-Medaillon.png]]\n\nBand der Kette ist ein weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n>***Malduk:** Es nimmt [[Grusha]]s Blut aus der Distanz auf und stoppt [[Ireena]]s Hunger, verhindert, dass sie zu einem [[Vampire|Vampir]] wird.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nDas Hirsch-Medaillon ist für [[Ireena]] kein Schmuckstück, sondern ein magischer Schutzgegenstand. Es nimmt [[Grusha]]s Blut aus der Distanz auf, stillt Ireenas Hunger und verhindert, dass sie zu einem [[Vampire|Vampir]] wird.\n\n### Beschreibung\n\nDas Band der Kette ist weißes, geflochtenes Leder. Der Anhänger ist eine aus Gebein geschnitzte, sehr detaillierte Hirsch-Figur im Sprung mit hellblauen Augen.\n\n### Aufenthaltsort / Besitz\n\n- Das Medaillon gehört zu [[Ireena]] und stabilisiert ihren Zustand.\n- Wenn es fehlt, kehrt Ireenas Hunger zurück.\n\n### Historie\n\n- Das Medaillon entsteht nach dem gefährlichen Ritual am [[Platz des Weißen Hirschs]].\n- Der erste Ritualversuch scheitert; der zweite gelingt unter Angriffen und großer Gefahr.\n- Nach dem Gelingen ist die heilige Kraft des [[Weiler|Weilers]] geschwächt, aber Ireena erhält das Medaillon.\n- Als der Blutstropfen vom Medaillon aufgesaugt wird, sagt Ireena, der Hunger sei weg.\n- Später in [[Vallaki]] zeigt sich, dass Ireenas Stabilität vom Medaillon abhängt.\n"
   },
   {
     "title": "Ring der Geistabschirmung",
@@ -34244,44 +34244,6 @@
     "markdown": "\n[[14. Mart 755 EB]], 09:35 (21.05.2026)\n**Schwierigkeit:** 6/15 | **Gegner-Schwierigkeit:** 10/15\n**Entropie:** 1/6\n[[Marktplatz]]\n\n**KI-Protokoll:**\n\n\n\n---\n\n\n| Charakter | Leben | Zähigkeit | Mana  | Stab  |\n| --------- | ----- | --------- | ----- | ----- |\n| Malduk    | 17/17 | 25/25     | 14/30 | 29/50 |\n| Michal    | 17/25 | 28/35     |       |       |\n| Heinard   | 18/18 | 30/30     | 8/55  |       |\n\n---\n==11.KR==\n- [[Ireena]] manifestiert sich immer mehr. Lust, tödlich, Vampir.\n- Sie hat mich dazu gebracht, die Zauber zu verlieren. Sie will mich aussaugen.\n- [[Malduk]] ruft \"Heinard!\" und versucht, Ireena zurück in Nebel zu verwandeln. Schlagartig gelingt es.\n- [[Michal]] schreit, um Aufmerksamkeit zu erhalten und packt den Kopf des [[Säbelzahntiger]]s. \"Ruhe! Löscht das Feuer!\" Unglaublich laute Stimme. Wilde Korona aus Licht. Lichtbringer. ALLE schauen zu [[Michal]]. \n- [[Heinard]] bleibt bei [[Karl Wachter]]: \"Ich weiß nicht, welche Rolle ihr in dem Chaos spielt. Aber Jelen richtet euch, wie euren Bruder. Und ich hoffe für eure Seele und euren Verbleib auf dieser Welt, dass ihr euch gut überlegt, was ihr hier tun werdet. Unterstützt ihn, er schützt Kinder.\" Und dann will er zu Malduk.\n- Hauswachen von Wachter.\n- [[Vasili von Holtz]] kommt um eine Ecke. Erhebt seine Stimme: \"Achtet auf die Wachters! Ordnung.\" [[Vasili von Holtz]] schaut in Unglaube zu. Dann nickt er [[Michal]] zu.\n\n\n>[!dialogue2] Szene 0 - ...\n- \n\n\n\n"
   },
   {
-    "title": "Bergwölfe",
-    "slug": "bergwolfe",
-    "category": "creature",
-    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Bergwölfe.md",
-    "url": "notes/bergwolfe.html",
-    "apiUrl": "api/notes/bergwolfe.json",
-    "tags": [],
-    "excerpt": "Der Bergwolf ist das Schutztier der Herrin des Berges. In den EisenbergenEisenberge bei Eichenfurt leben viele Bergwölfe. In Wolfswintern, wenn es nichts mehr zu jagen gibt, kommen",
-    "frontmatter": {
-      "aliases": [
-        "Bergwolf"
-      ]
-    },
-    "links": [
-      {
-        "target": "Herrin des Berges",
-        "label": "Herrin des Berges",
-        "slug": "herrin-des-berges"
-      },
-      {
-        "target": "Eisenberge",
-        "label": "Eisenbergen",
-        "slug": "eisenberge"
-      },
-      {
-        "target": "Eichenfurt",
-        "label": "Eichenfurt",
-        "slug": "eichenfurt"
-      },
-      {
-        "target": "Bergwölfe",
-        "label": "Bergwölfe",
-        "slug": "bergwolfe"
-      }
-    ],
-    "markdown": "\n- Der Bergwolf ist das Schutztier der [[Herrin des Berges]].\n- In den [[Eisenberge|Eisenbergen]] bei [[Eichenfurt]] leben viele [[Bergwölfe]].\n- In Wolfswintern, wenn es nichts mehr zu jagen gibt, kommen sie auch in die Ebene.\n- Aggressiv\n"
-  },
-  {
     "title": "Alkir Dämon",
     "slug": "alkir-damon",
     "category": "creature",
@@ -34674,19 +34636,6 @@
     "markdown": ""
   },
   {
-    "title": "Schreckenswölfe",
-    "slug": "schreckenswolfe",
-    "category": "creature",
-    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Schreckenswölfe.md",
-    "url": "notes/schreckenswolfe.html",
-    "apiUrl": "api/notes/schreckenswolfe.json",
-    "tags": [],
-    "excerpt": "",
-    "frontmatter": {},
-    "links": [],
-    "markdown": ""
-  },
-  {
     "title": "Geist-Ritter",
     "slug": "geist-ritter",
     "category": "creature",
@@ -34858,30 +34807,6 @@
     "markdown": "- Sie haben uns beim [[Platz des Weißen Hirschs]] angegriffen\n- "
   },
   {
-    "title": "Waldwölfe",
-    "slug": "waldwolfe",
-    "category": "creature",
-    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Waldwölfe.md",
-    "url": "notes/waldwolfe.html",
-    "apiUrl": "api/notes/waldwolfe.json",
-    "tags": [],
-    "excerpt": "Im: Winterwald scheu Jagen die Jäger von Eichenfurt",
-    "frontmatter": {},
-    "links": [
-      {
-        "target": "Winterwald",
-        "label": "Winterwald",
-        "slug": "winterwald"
-      },
-      {
-        "target": "Eichenfurt",
-        "label": "Eichenfurt",
-        "slug": "eichenfurt"
-      }
-    ],
-    "markdown": "Im: [[Winterwald]]\n\n- scheu\n- Jagen die Jäger von [[Eichenfurt]]\n- "
-  },
-  {
     "title": "Wer-Raben",
     "slug": "wer-raben",
     "category": "creature",
@@ -35001,10 +34926,85 @@
     "markdown": "\nDie [[Ritter des Silbernen Drachen]] kamen als [[Wiedergänger]] zurück, um [[Graf Strahd]] auch im Tod zu bekämpfen."
   },
   {
+    "title": "Bergwölfe",
+    "slug": "bergwolfe",
+    "category": "creature",
+    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wölfe/Bergwölfe.md",
+    "url": "notes/bergwolfe.html",
+    "apiUrl": "api/notes/bergwolfe.json",
+    "tags": [],
+    "excerpt": "Der Bergwolf ist das Schutztier der Herrin des Berges. In den EisenbergenEisenberge bei Eichenfurt leben viele Bergwölfe. In Wolfswintern, wenn es nichts mehr zu jagen gibt, kommen",
+    "frontmatter": {
+      "aliases": [
+        "Bergwolf"
+      ]
+    },
+    "links": [
+      {
+        "target": "Herrin des Berges",
+        "label": "Herrin des Berges",
+        "slug": "herrin-des-berges"
+      },
+      {
+        "target": "Eisenberge",
+        "label": "Eisenbergen",
+        "slug": "eisenberge"
+      },
+      {
+        "target": "Eichenfurt",
+        "label": "Eichenfurt",
+        "slug": "eichenfurt"
+      },
+      {
+        "target": "Bergwölfe",
+        "label": "Bergwölfe",
+        "slug": "bergwolfe"
+      }
+    ],
+    "markdown": "\n- Der Bergwolf ist das Schutztier der [[Herrin des Berges]].\n- In den [[Eisenberge|Eisenbergen]] bei [[Eichenfurt]] leben viele [[Bergwölfe]].\n- In Wolfswintern, wenn es nichts mehr zu jagen gibt, kommen sie auch in die Ebene.\n- Aggressiv\n"
+  },
+  {
+    "title": "Schreckenswölfe",
+    "slug": "schreckenswolfe",
+    "category": "creature",
+    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wölfe/Schreckenswölfe.md",
+    "url": "notes/schreckenswolfe.html",
+    "apiUrl": "api/notes/schreckenswolfe.json",
+    "tags": [],
+    "excerpt": "",
+    "frontmatter": {},
+    "links": [],
+    "markdown": ""
+  },
+  {
+    "title": "Waldwölfe",
+    "slug": "waldwolfe",
+    "category": "creature",
+    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wölfe/Waldwölfe.md",
+    "url": "notes/waldwolfe.html",
+    "apiUrl": "api/notes/waldwolfe.json",
+    "tags": [],
+    "excerpt": "Im: Winterwald scheu Jagen die Jäger von Eichenfurt",
+    "frontmatter": {},
+    "links": [
+      {
+        "target": "Winterwald",
+        "label": "Winterwald",
+        "slug": "winterwald"
+      },
+      {
+        "target": "Eichenfurt",
+        "label": "Eichenfurt",
+        "slug": "eichenfurt"
+      }
+    ],
+    "markdown": "Im: [[Winterwald]]\n\n- scheu\n- Jagen die Jäger von [[Eichenfurt]]\n- "
+  },
+  {
     "title": "Wölfe",
     "slug": "wolfe",
     "category": "creature",
-    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wölfe.md",
+    "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Wölfe/Wölfe.md",
     "url": "notes/wolfe.html",
     "apiUrl": "api/notes/wolfe.json",
     "tags": [],
