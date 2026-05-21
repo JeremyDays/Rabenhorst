@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Kutschwagen + 2 rädriger Karren mit Deichsel. Größe des Wagens: 4 6 Fässer hätten Platz. 2 Fässer und wir 4 auch. Von Pferd gezogen. KI Zusammenfassung Kutschwagen der Drascoi ist ",
+  "excerpt": "Kutschwagen + 2 rädriger Karren mit Deichsel. Größe des Wagens: 4 6 Fässer hätten Platz. 2 Fässer und wir 4 auch. Von Pferd gezogen. KI Zusammenfassung Rolle Gegenstand, im Besitz ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,30 +16,20 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Kutschwagen der Drascoi",
+      "label": "Kutschwagen der Drascoi",
+      "slug": "kutschwagen-der-drascoi"
     },
     {
-      "target": "Holzschatulle der Drascois",
-      "label": "Holzschatulle der Drascois",
-      "slug": "holzschatulle-der-drascois"
+      "target": "Vater Donavich",
+      "label": "Vater Donavich",
+      "slug": "vater-donavich"
     },
     {
-      "target": "S15 - Drascoi",
-      "label": "S15 - Drascoi",
-      "slug": "s15-drascoi"
-    },
-    {
-      "target": "S16 - Ein Handel mit Bildrath",
-      "label": "S16 - Ein Handel mit Bildrath",
-      "slug": "s16-ein-handel-mit-bildrath"
-    },
-    {
-      "target": "S18 - Ivlis-Kreuzung",
-      "label": "S18 - Ivlis-Kreuzung",
-      "slug": "s18-ivlis-kreuzung"
+      "target": "Erna",
+      "label": "Erna",
+      "slug": "erna"
     }
   ],
-  "markdown": "Kutschwagen + 2-rädriger Karren mit Deichsel.  \nGröße des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch.  \nVon Pferd gezogen.\n\n## KI-Zusammenfassung\n\nKutschwagen der Drascoi ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Kutschwagen + 2-rädriger Karren mit Deichsel. Größe des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch. Von Pferd gezogen. Kutschwagen der Drascoi wird außerdem in [[Alle Gegenstände]], [[Holzschatulle der Drascois]], [[S15 - Drascoi]], [[S16 - Ein Handel mit Bildrath]], [[S18 - Ivlis-Kreuzung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Kutschwagen + 2-rädriger Karren mit Deichsel.  \nGröße des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch.  \nVon Pferd gezogen.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe. Kutschwagen + 2-rädriger Karren mit Deichsel.\n\n### Beschreibung\n\nKutschwagen + 2-rädriger Karren mit Deichsel. Größe des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch. Von Pferd gezogen. Alle Gegenstände: ## **[[Kutschwagen der Drascoi]]**.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand befindet sich im Besitz der Gruppe.\n\n### Historie\n\n- Kutschwagen + 2-rädriger Karren mit Deichsel.\n- Größe des Wagens: 4-6 Fässer hätten Platz. 2 Fässer und wir 4 auch.\n- Von Pferd gezogen.\n- Alle Gegenstände: ## **[[Kutschwagen der Drascoi]]**.\n- Holzschatulle der Drascois: **Wo:** [[Kutschwagen der Drascoi]].\n- S15 - Drascoi: - [[Vater Donavich]] hat den [[Kutschwagen der Drascoi]] im Wald gelassen.\n- S16 - Ein Handel mit Bildrath: - Im Wald finden wir den [[Kutschwagen der Drascoi]] und das Zugpferd [[Erna]].\n"
 }

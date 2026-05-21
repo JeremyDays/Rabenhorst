@@ -26,20 +26,20 @@
       "slug": "rote-vistani"
     },
     {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
       "target": "Roten Vistani",
       "label": "Roten Vistani",
       "slug": null
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S09 - Ghule",
-      "label": "S09 - Ghule",
-      "slug": "s09-ghule"
+      "target": "Geldbeutel mit Fingerknöchelchen",
+      "label": "Geldbeutel mit Fingerknöchelchen",
+      "slug": "geldbeutel-mit-fingerknochelchen"
     }
   ],
-  "markdown": "Lederner Geldbeutel mit Schnur mit Fingerknöchelchen\n\n**Gefunden:** [[Haus Alkir]]\n\nEr enthielt: 11 Groschen und 16 Pf.\n\n- Das Geld wurde von den [[Rote Vistani|Roten Vistani]] gestohlen\n\n## KI-Zusammenfassung\n\nGeldbeutel mit Fingerknöchelchen ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Lederner Geldbeutel mit Schnur mit Fingerknöchelchen Gefunden: Haus Alkir Er enthielt: 11 Groschen und 16 Pf. Das Geld wurde von den Roten Vistani gestohlen Direkte Bezüge bestehen zu [[Haus Alkir]], [[Roten Vistani]]. Geldbeutel mit Fingerknöchelchen wird außerdem in [[Alle Gegenstände]], [[S09 - Ghule]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Lederner Geldbeutel mit Schnur mit Fingerknöchelchen\n\n**Gefunden:** [[Haus Alkir]]\n\nEr enthielt: 11 Groschen und 16 Pf.\n\n- Das Geld wurde von den [[Rote Vistani|Roten Vistani]] gestohlen\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Lederner Geldbeutel mit Schnur mit Fingerknöchelchen.\n\n### Beschreibung\n\nLederner Geldbeutel mit Schnur mit Fingerknöchelchen. Er enthielt: 11 Groschen und 16 Pf. Das Geld wurde von den [[Roten Vistani]] gestohlen. Alle Gegenstände: - [[Geldbeutel mit Fingerknöchelchen]]. Lederner Geldbeutel. Schnur mit Fingerknöchelchen ~~mit Münzen. 11 Groschen. 16Pf.~~.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- Lederner Geldbeutel mit Schnur mit Fingerknöchelchen.\n- Er enthielt: 11 Groschen und 16 Pf.\n- Das Geld wurde von den [[Roten Vistani]] gestohlen.\n- Alle Gegenstände: - [[Geldbeutel mit Fingerknöchelchen]]. Lederner Geldbeutel. Schnur mit Fingerknöchelchen ~~mit Münzen. 11 Groschen. 16Pf.~~.\n- S09 - Ghule: - [[Geldbeutel mit Fingerknöchelchen]]. Lederbeutel mit Schnur mit Fingerknöchelchen mit Münzen. 11 Groschen 16 Pfennige (+).\n"
 }

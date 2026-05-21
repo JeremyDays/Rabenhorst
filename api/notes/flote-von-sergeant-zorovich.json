@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Haus Alkir KI Zusammenfassung Flöte von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir ",
+  "excerpt": "Gefunden: Haus Alkir KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Tasche von Sergeant Zorovich, Notizbuch von Sergeant Zorovich, Messer von Sergeant Zorov",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,15 +21,45 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     },
     {
-      "target": "S08 - Grüfte",
-      "label": "S08 - Grüfte",
-      "slug": "s08-grufte"
+      "target": "Tasche von Sergeant Zorovich",
+      "label": "Tasche von Sergeant Zorovich",
+      "slug": "tasche-von-sergeant-zorovich"
+    },
+    {
+      "target": "Notizbuch von Sergeant Zorovich",
+      "label": "Notizbuch von Sergeant Zorovich",
+      "slug": "notizbuch-von-sergeant-zorovich"
+    },
+    {
+      "target": "Messer von Sergeant Zorovich",
+      "label": "Messer von Sergeant Zorovich",
+      "slug": "messer-von-sergeant-zorovich"
+    },
+    {
+      "target": "Tabaksbeutel von Sergeant Zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich",
+      "slug": "tabaksbeutel-von-sergeant-zorovich"
+    },
+    {
+      "target": "Feuerstein und Stahl von Sergeant Zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich",
+      "slug": "feuerstein-und-stahl-von-sergeant-zorovich"
+    },
+    {
+      "target": "Flöte von Sergeant Zorovich",
+      "label": "Flöte von Sergeant Zorovich",
+      "slug": "flote-von-sergeant-zorovich"
+    },
+    {
+      "target": "Feldflasche von Sergeant Zorovich",
+      "label": "Feldflasche von Sergeant Zorovich",
+      "slug": "feldflasche-von-sergeant-zorovich"
     }
   ],
-  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nFlöte von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Direkte Bezüge bestehen zu [[Haus Alkir]]. Flöte von Sergeant Zorovich wird außerdem in [[Alle Gegenstände]], [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. - [[Tasche von Sergeant Zorovich]], [[Notizbuch von Sergeant Zorovich]], [[Messer von Sergeant Zorovich]], [[Tabaksbeutel von Sergeant Zorovich]], [[Feuerstein und Stahl von Sergeant Zorovich]], [[Flöte von Sergeant Zorovich]], [[Feldflasche von Sergeant Zorovich]] (+).\n\n### Beschreibung\n\nS08 - Grüfte: - [[Tasche von Sergeant Zorovich]], [[Notizbuch von Sergeant Zorovich]], [[Messer von Sergeant Zorovich]], [[Tabaksbeutel von Sergeant Zorovich]], [[Feuerstein und Stahl von Sergeant Zorovich]], [[Flöte von Sergeant Zorovich]], [[Feldflasche von Sergeant Zorovich]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- S08 - Grüfte: - [[Tasche von Sergeant Zorovich]], [[Notizbuch von Sergeant Zorovich]], [[Messer von Sergeant Zorovich]], [[Tabaksbeutel von Sergeant Zorovich]], [[Feuerstein und Stahl von Sergeant Zorovich]], [[Flöte von Sergeant Zorovich]], [[Feldflasche von Sergeant Zorovich]] (+).\n"
 }

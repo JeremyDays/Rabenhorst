@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Dornbüsche beim Tor von Barovia Malduk: Vermutlich von einem Boten, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte. KI Zusammenfassung Stofffetzen an Dornen ist",
+  "excerpt": "Wo: Dornbüsche beim Tor von Barovia Malduk: Vermutlich von einem Boten, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte. KI Zusammenfassung Rolle Gegenstand, im Besi",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,15 @@
       "slug": "brief-von-burgomeister-koljan-indirowitsch"
     },
     {
-      "target": "S11 - Tor von Barovia",
-      "label": "S11 - Tor von Barovia",
-      "slug": "s11-tor-von-barovia"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Stofffetzen an Dornen",
+      "label": "Stofffetzen an Dornen",
+      "slug": "stofffetzen-an-dornen"
     }
   ],
-  "markdown": "**Wo:** Dornbüsche beim [[Tor von Barovia]]\n\n>**Malduk:** Vermutlich von einem Boten, der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte.\n\n## KI-Zusammenfassung\n\nStofffetzen an Dornen ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Dornbüsche beim Tor von Barovia Malduk: Vermutlich von einem Boten, der den Brief von Burgomeister Koljan Indirowitsch dabei hatte. Direkte Bezüge bestehen zu [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]]. Stofffetzen an Dornen wird außerdem in [[Tor von Barovia]], [[Brief von Burgomeister Koljan Indirowitsch]], [[S11 - Tor von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Dornbüsche beim [[Tor von Barovia]]\n\n>**Malduk:** Vermutlich von einem Boten, der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. >**Malduk:** Vermutlich von einem Boten, der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte.\n\n### Beschreibung\n\n>**Malduk:** Vermutlich von einem Boten, der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte. S11 - Tor von Barovia: - Wir finden [[Stofffetzen an Dornen]], nachdem wir durch das [[Tor von Barovia]] gehen.\n\n### Aufenthaltsort / Besitz\n\n- Wo: Dornbüsche beim [[Tor von Barovia]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Wo: Dornbüsche beim [[Tor von Barovia]].\n- >**Malduk:** Vermutlich von einem Boten, der den [[Brief von Burgomeister Koljan Indirowitsch]] dabei hatte.\n- S11 - Tor von Barovia: - Wir finden [[Stofffetzen an Dornen]], nachdem wir durch das [[Tor von Barovia]] gehen.\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich Mehrfach neu gebundenes Buch KI Zusammenfassung Chroniken von Vallaki ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen h",
+  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich Mehrfach neu gebundenes Buch KI Zusammenfassung Rolle Buch, nicht im Besitz der Gruppe. Mehrfach neu gebundenes Buch. Beschreibung Mehrfac",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -19,12 +19,7 @@
       "target": "Baron Vargas Vallakovich",
       "label": "Baron Vargas Vallakovich",
       "slug": "baron-vargas-vallakovich"
-    },
-    {
-      "target": "S70 - Izek",
-      "label": "S70 - Izek",
-      "slug": "s70-izek"
     }
   ],
-  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\nMehrfach neu gebundenes Buch\n\n## KI-Zusammenfassung\n\nChroniken von Vallaki ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Im Salon von Baron Vargas Vallakovich Mehrfach neu gebundenes Buch Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]]. Chroniken von Vallaki wird außerdem in [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\nMehrfach neu gebundenes Buch\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, nicht im Besitz der Gruppe. Mehrfach neu gebundenes Buch.\n\n### Beschreibung\n\nMehrfach neu gebundenes Buch. S70 - Worte haben Bedeutung (Summary): Ein mehrfach neu gebundenes, sehr dickes Buch, das in der Bibliothek des Barons liegt und Malduks Aufmerksamkeit erregt.\n\n### Aufenthaltsort / Besitz\n\n- Wo: Im Salon von [[Baron Vargas Vallakovich]].\n\n### Historie\n\n- Wo: Im Salon von [[Baron Vargas Vallakovich]].\n- Mehrfach neu gebundenes Buch.\n- S70 - Worte haben Bedeutung (Summary): Ein mehrfach neu gebundenes, sehr dickes Buch, das in der Bibliothek des Barons liegt und Malduks Aufmerksamkeit erregt.\n"
 }

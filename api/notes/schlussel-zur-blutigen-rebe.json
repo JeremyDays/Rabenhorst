@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Frontschlüssel zum Gasthaus zur blutigen Rebe Im Besitz von Michal. KI Zusammenfassung Schlüssel zur blutigen Rebe ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen ",
+  "excerpt": "Frontschlüssel zum Gasthaus zur blutigen Rebe Im Besitz von Michal. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Frontschlüssel zum Gasthaus zur blutigen ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "michal"
     },
     {
-      "target": "S74 - Das Fest der Brennenden Sonne",
-      "label": "S74 - Das Fest der Brennenden Sonne",
-      "slug": "s74-das-fest-der-brennenden-sonne"
-    },
-    {
-      "target": "S75 - Der Tod des Barons",
-      "label": "S75 - Der Tod des Barons",
-      "slug": "s75-der-tod-des-barons"
+      "target": "Schlüssel zur blutigen Rebe",
+      "label": "Schlüssel zur blutigen Rebe",
+      "slug": "schlussel-zur-blutigen-rebe"
     }
   ],
-  "markdown": "Frontschlüssel zum [[Gasthaus zur blutigen Rebe]]\nIm Besitz von [[Michal]].\n\n## KI-Zusammenfassung\n\nSchlüssel zur blutigen Rebe ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Frontschlüssel zum Gasthaus zur blutigen Rebe Im Besitz von Michal. Direkte Bezüge bestehen zu [[Gasthaus zur blutigen Rebe]], [[Michal]]. Schlüssel zur blutigen Rebe wird außerdem in [[Gasthaus zur blutigen Rebe]], [[S74 - Das Fest der Brennenden Sonne]], [[S75 - Der Tod des Barons]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Frontschlüssel zum [[Gasthaus zur blutigen Rebe]]\nIm Besitz von [[Michal]].\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Frontschlüssel zum [[Gasthaus zur blutigen Rebe]].\n\n### Beschreibung\n\nFrontschlüssel zum [[Gasthaus zur blutigen Rebe]]. Im Besitz von [[Michal]]. S74 - Das Fest der Brennenden Sonne: - Ein Knecht: \"Ihr seid ein ehrlicher Mann.\" Er gibt ihm den [[Schlüssel zur blutigen Rebe]]. S74 - Das Fest der Brennenden Sonne: - Michal hat den [[Schlüssel zur blutigen Rebe]].\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Frontschlüssel zum [[Gasthaus zur blutigen Rebe]].\n- Im Besitz von [[Michal]].\n- S74 - Das Fest der Brennenden Sonne: - Ein Knecht: \"Ihr seid ein ehrlicher Mann.\" Er gibt ihm den [[Schlüssel zur blutigen Rebe]].\n- S74 - Das Fest der Brennenden Sonne: - Michal hat den [[Schlüssel zur blutigen Rebe]].\n- S75 - Der Tod des Barons: - Michal hat den [[Schlüssel zur blutigen Rebe]].\n"
 }

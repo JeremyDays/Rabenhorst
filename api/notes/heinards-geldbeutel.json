@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Inhalt: 9 Pf. KI Zusammenfassung Heinards Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Inhalt: 9 Pf. Heinards Geldbeutel w",
+  "excerpt": "Inhalt: 9 Pf. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Heinard. Inhalt: 9 Pf. Beschreibung Inhalt: 9 Pf. Aufenthaltsort / Besitz Der Gegenstand liegt derzeit ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,10 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
     }
   ],
-  "markdown": "**Inhalt:** 9 Pf.\n\n## KI-Zusammenfassung\n\nHeinards Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Inhalt: 9 Pf. Heinards Geldbeutel wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Inhalt:** 9 Pf.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Heinard]]. Inhalt: 9 Pf.\n\n### Beschreibung\n\nInhalt: 9 Pf.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Heinard]].\n\n### Historie\n\n- Inhalt: 9 Pf.\n"
 }

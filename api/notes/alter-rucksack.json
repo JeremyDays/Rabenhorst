@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Dachboden im Haus des Burgomeisters Michal KI Zusammenfassung Alter Rucksack ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dach",
+  "excerpt": "Wo: Dachboden im Haus des Burgomeisters Michal KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Eine genauere Funktion ist bislang nicht gesichert. Beschreibu",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,10 @@
       "slug": "michal"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "Alter Rucksack",
+      "label": "Alter Rucksack",
+      "slug": "alter-rucksack"
     }
   ],
-  "markdown": "**Wo:** Dachboden im [[Haus des Burgomeisters]] -> [[Michal]]\n\n## KI-Zusammenfassung\n\nAlter Rucksack ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dachboden im Haus des Burgomeisters -> Michal Direkte Bezüge bestehen zu [[Haus des Burgomeisters]], [[Michal]]. Alter Rucksack wird außerdem in [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Dachboden im [[Haus des Burgomeisters]] -> [[Michal]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nS13 - Haus des Burgomeisters: - [[Alter Rucksack]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Wo: Dachboden im [[Haus des Burgomeisters]] -> [[Michal]].\n\n### Historie\n\n- Wo: Dachboden im [[Haus des Burgomeisters]] -> [[Michal]].\n- S13 - Haus des Burgomeisters: - [[Alter Rucksack]] (+).\n"
 }

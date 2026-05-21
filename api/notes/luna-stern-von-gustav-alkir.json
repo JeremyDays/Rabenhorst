@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Uniform Abzeichen. Gefunden: Haus Alkir Aussehen: Silberner Stern mit rotem Band. KI Zusammenfassung Luna Stern von Gustav Alkir ist ein Gegenstand im Besitz der Gruppe, bei Michal",
+  "excerpt": "Uniform Abzeichen. Gefunden: Haus Alkir Aussehen: Silberner Stern mit rotem Band. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Uniform Abzeichen. Beschrei",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,15 +21,15 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     },
     {
-      "target": "S06 - 2.OG",
-      "label": "S06 - 2.OG",
-      "slug": "s06-2-og"
+      "target": "Luna-Stern von Gustav Alkir",
+      "label": "Luna-Stern von Gustav Alkir",
+      "slug": "luna-stern-von-gustav-alkir"
     }
   ],
-  "markdown": "Uniform-Abzeichen. \n\n**Gefunden:** [[Haus Alkir]]\n\n**Aussehen:**\nSilberner Stern mit rotem Band.\n\n## KI-Zusammenfassung\n\nLuna-Stern von Gustav Alkir ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Uniform-Abzeichen. Gefunden: Haus Alkir Aussehen: Silberner Stern mit rotem Band. Direkte Bezüge bestehen zu [[Haus Alkir]]. Luna-Stern von Gustav Alkir wird außerdem in [[Alle Gegenstände]], [[S06 - 2.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Uniform-Abzeichen. \n\n**Gefunden:** [[Haus Alkir]]\n\n**Aussehen:**\nSilberner Stern mit rotem Band.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Uniform-Abzeichen.\n\n### Beschreibung\n\nUniform-Abzeichen. Aussehen:. Silberner Stern mit rotem Band. Alle Gegenstände: - **[[Luna-Stern von Gustav Alkir]].** Uniform-Abzeichen. Silberner Stern mit rotem Band.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- Uniform-Abzeichen.\n- Aussehen:.\n- Silberner Stern mit rotem Band.\n- Alle Gegenstände: - **[[Luna-Stern von Gustav Alkir]].** Uniform-Abzeichen. Silberner Stern mit rotem Band.\n- S06 - 2.OG: - [[Luna-Stern von Gustav Alkir]] (+).\n"
 }

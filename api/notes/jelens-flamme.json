@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Geschaffen aus Izeks rechter Arm Eine silberne Flamme mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Jelens Flamme ist ein Gegenstand im Besitz der Gruppe, bei He",
+  "excerpt": "Geschaffen aus Izeks rechter Arm Eine silberne Flamme mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, im Besitz der Gruppe, b",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,20 +26,25 @@
       "slug": "knochen-des-st-andral"
     },
     {
-      "target": "Die Geschichte der Drei Gefährten",
-      "label": "Die Geschichte der Drei Gefährten",
-      "slug": "die-geschichte-der-drei-gefahrten"
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
     },
     {
-      "target": "Was bisher geschah...",
-      "label": "Was bisher geschah...",
-      "slug": "was-bisher-geschah"
+      "target": "Jelens Auge",
+      "label": "Jelens Auge",
+      "slug": "jelens-auge"
     },
     {
-      "target": "S73 - Der Jelen-Handschuh",
-      "label": "S73 - Der Jelen-Handschuh",
-      "slug": "s73-der-jelen-handschuh"
+      "target": "Jelens Flamme",
+      "label": "Jelens Flamme",
+      "slug": "jelens-flamme"
+    },
+    {
+      "target": "Jelens Tropfen",
+      "label": "Jelens Tropfen",
+      "slug": "jelens-tropfen"
     }
   ],
-  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\nJelens Flamme ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Geschaffen aus Izeks rechter Arm Eine silberne Flamme mit einen Splitter von Knochen des St. Andral Direkte Bezüge bestehen zu [[Izeks rechter Arm]], [[Knochen des St. Andral]]. Jelens Flamme wird außerdem in [[Izeks rechter Arm]], [[Knochen des St. Andral]], [[Die Geschichte der Drei Gefährten]], [[Was bisher geschah...]], [[S73 - Der Jelen-Handschuh]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. Geschaffen aus [[Izeks rechter Arm]].\n\n### Beschreibung\n\nGeschaffen aus [[Izeks rechter Arm]]. Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]]. Izeks rechter Arm: - Nur [[Jelens Auge]], [[Jelens Flamme]] und [[Jelens Tropfen]] sind zurückgeblieben für uns. S73 - Der Jelen-Handschuh: - Heinard: Das Metall zieht sich zusammen. Eine einzelne stilisierte Flamme mit leichtem schwarzem Knochenstück. [[Jelens Flamme]].\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Heinard]].\n\n### Historie\n\n- Geschaffen aus [[Izeks rechter Arm]].\n- Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]].\n- Izeks rechter Arm: - Nur [[Jelens Auge]], [[Jelens Flamme]] und [[Jelens Tropfen]] sind zurückgeblieben für uns.\n- S73 - Der Jelen-Handschuh: - Heinard: Das Metall zieht sich zusammen. Eine einzelne stilisierte Flamme mit leichtem schwarzem Knochenstück. [[Jelens Flamme]].\n- S74 - Das Fest der Brennenden Sonne: - [[Heinard]] versucht [[Jelens Flamme]] in den Bart zu flechten.\n"
 }

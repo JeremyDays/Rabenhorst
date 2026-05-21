@@ -71,25 +71,20 @@
       "slug": "rose"
     },
     {
-      "target": "Weißen Hirsch",
-      "label": "Weißen Hirsch",
-      "slug": null
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
     },
     {
-      "target": "Weißer Hirsch",
-      "label": "Weißer Hirsch",
-      "slug": "wei-er-hirsch"
+      "target": "Notizbuch von Sergeant Zorovich",
+      "label": "Notizbuch von Sergeant Zorovich",
+      "slug": "notizbuch-von-sergeant-zorovich"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S08 - Grüfte",
-      "label": "S08 - Grüfte",
-      "slug": "s08-grufte"
+      "target": "Barovia",
+      "label": "Barovia",
+      "slug": "barovia"
     }
   ],
-  "markdown": "**Gefunden:** [[Michal]] hat es im [[Haus Alkir]] gefunden.\n\n- Es ist von [[Sergeant Zorovich]], seinem Mentor. \n\n**Inhalt:**\n- Gespräche mit Rekruten, Sold, etc.\n- Schlacht kurz nach [[Michal]]s Ausbildung (vor 15-16 Jahren)\n- Vor 11-13 Jahren hat er folgendes beschrieben:\n\t- [[Sergeant Zorovich]] hat einen [[Weißer Hirsch|Weißen Hirsch]] in [[Luna]]s Lichte gesehen. Er war sehr schön. Der Hirsch war weiß und hatte einen 12-Ender (Geweih)\n\t- [[Nebel]] kam auf und er hörte das Heulen von [[Wölfe|Wölfen]].\n\t- Er sagte zu [[Borosh]]: \"...\"\n\t- Aufgewacht. Die Sternenkonstellationen sind anders\n\t- Sie haben einen bunten Wagen gesehen und dann Musik von der Ferne gehört. Fahrendes Volk ([[Rote Vistani]])\n\t- Sie haben dann zwei Kinder getroffen ([[Dorn]] und [[Rose]]) und sind ihnen gefolgt.\n\n## KI-Zusammenfassung\n\nNotizbuch von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Michal hat es im Haus Alkir gefunden. Es ist von Sergeant Zorovich, seinem Mentor. Gespräche mit Rekruten, Sold, etc. Schlacht kurz nach Michals Ausbildung (vor 15-16 Jahren) Direkte Bezüge bestehen zu [[Michal]], [[Haus Alkir]], [[Sergeant Zorovich]], [[Weißen Hirsch]], [[Luna]]. Notizbuch von Sergeant Zorovich wird außerdem in [[Borosh]], [[Sergeant Zorovich]], [[Weißer Hirsch]], [[Alle Gegenstände]], [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Michal]] hat es im [[Haus Alkir]] gefunden.\n\n- Es ist von [[Sergeant Zorovich]], seinem Mentor. \n\n**Inhalt:**\n- Gespräche mit Rekruten, Sold, etc.\n- Schlacht kurz nach [[Michal]]s Ausbildung (vor 15-16 Jahren)\n- Vor 11-13 Jahren hat er folgendes beschrieben:\n\t- [[Sergeant Zorovich]] hat einen [[Weißer Hirsch|Weißen Hirsch]] in [[Luna]]s Lichte gesehen. Er war sehr schön. Der Hirsch war weiß und hatte einen 12-Ender (Geweih)\n\t- [[Nebel]] kam auf und er hörte das Heulen von [[Wölfe|Wölfen]].\n\t- Er sagte zu [[Borosh]]: \"...\"\n\t- Aufgewacht. Die Sternenkonstellationen sind anders\n\t- Sie haben einen bunten Wagen gesehen und dann Musik von der Ferne gehört. Fahrendes Volk ([[Rote Vistani]])\n\t- Sie haben dann zwei Kinder getroffen ([[Dorn]] und [[Rose]]) und sind ihnen gefolgt.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, im Besitz der Gruppe, bei [[Michal]]. Es ist von [[Sergeant Zorovich]], seinem Mentor.\n\n### Beschreibung\n\nEs ist von [[Sergeant Zorovich]], seinem Mentor. Inhalt:. Gespräche mit Rekruten, Sold, etc. Schlacht kurz nach [[Michal]]s Ausbildung (vor 15-16 Jahren).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Michal]] hat es im [[Haus Alkir]] gefunden.\n\n### Historie\n\n- Gefunden: [[Michal]] hat es im [[Haus Alkir]] gefunden.\n- Es ist von [[Sergeant Zorovich]], seinem Mentor.\n- Inhalt:.\n- Gespräche mit Rekruten, Sold, etc.\n- Schlacht kurz nach [[Michal]]s Ausbildung (vor 15-16 Jahren).\n- Borosh: Ein Soldat aus [[Kronenstadt]], der im [[Notizbuch von Sergeant Zorovich]] erwähnt wird.\n- Sergeant Zorovich: - Wir wissen durch das [[Notizbuch von Sergeant Zorovich]], dass er durch den [[Nebel]] nach [[Barovia]] kam und im [[Haus Alkir]] gestorben ist.\n"
 }

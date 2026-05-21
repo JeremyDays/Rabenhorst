@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Malduk in Haus Alkir. Betraum. KI Zusammenfassung Dietriche ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in",
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Betraum. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung All",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Dietriche",
+      "label": "Dietriche",
+      "slug": "dietriche"
     }
   ],
-  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Betraum.\n\n## KI-Zusammenfassung\n\nDietriche ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Betraum. Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Dietriche wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Betraum.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Dietriche]].**. S10 - Katakomben: - [[Dietriche]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Betraum.\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Betraum.\n- Alle Gegenstände: - **[[Dietriche]].**.\n- S10 - Katakomben: - [[Dietriche]] (+).\n"
 }

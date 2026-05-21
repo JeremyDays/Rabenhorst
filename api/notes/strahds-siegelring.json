@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Messingring mit Graf Strahds Siegel Gefunden: Malduk findet es ihn im Haus Alkir KI Zusammenfassung Strahds Siegelring ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die loka",
+  "excerpt": "Messingring mit Graf Strahds Siegel Gefunden: Malduk findet es ihn im Haus Alkir KI Zusammenfassung Rolle Ring, im Besitz der Gruppe, bei Malduk. Messingring mit Graf Strahds Siege",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -31,15 +31,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S04 - EG",
-      "label": "S04 - EG",
-      "slug": "s04-eg"
+      "target": "Strahds Siegelring",
+      "label": "Strahds Siegelring",
+      "slug": "strahds-siegelring"
     }
   ],
-  "markdown": "Messingring mit [[Graf Strahd]]s Siegel\n\n**Gefunden:** [[Malduk]] findet es ihn im [[Haus Alkir]]\n\n![[Wappen Graf Strahd.jpg]]\n\n## KI-Zusammenfassung\n\nStrahds Siegelring ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Messingring mit Graf Strahds Siegel Gefunden: Malduk findet es ihn im Haus Alkir Direkte Bezüge bestehen zu [[Graf Strahd]], [[Malduk]], [[Haus Alkir]]. Strahds Siegelring wird außerdem in [[Alle Gegenstände]], [[S04 - EG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Messingring mit [[Graf Strahd]]s Siegel\n\n**Gefunden:** [[Malduk]] findet es ihn im [[Haus Alkir]]\n\n![[Wappen Graf Strahd.jpg]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nRing, im Besitz der Gruppe, bei [[Malduk]]. Messingring mit [[Graf Strahd]]s Siegel.\n\n### Beschreibung\n\nMessingring mit [[Graf Strahd]]s Siegel. Alle Gegenstände: - **[[Strahds Siegelring]].** Messingring mit Strahds Siegel. S04 - EG: - [[Strahds Siegelring]]. Messingring mit dem Siegel von [[Graf Strahd]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] findet es ihn im [[Haus Alkir]].\n\n### Historie\n\n- Gefunden: [[Malduk]] findet es ihn im [[Haus Alkir]].\n- Messingring mit [[Graf Strahd]]s Siegel.\n- Alle Gegenstände: - **[[Strahds Siegelring]].** Messingring mit Strahds Siegel.\n- S04 - EG: - [[Strahds Siegelring]]. Messingring mit dem Siegel von [[Graf Strahd]] (+).\n"
 }

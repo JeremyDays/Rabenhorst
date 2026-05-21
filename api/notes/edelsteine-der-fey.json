@@ -87,30 +87,35 @@
       "slug": null
     },
     {
-      "target": "Fey von Barovia",
-      "label": "Fey von Barovia",
-      "slug": "fey-von-barovia"
+      "target": "Blaue Edelstein",
+      "label": "Blaue Edelstein",
+      "slug": null
     },
     {
-      "target": "Tarokka",
-      "label": "Tarokka",
-      "slug": "tarokka"
+      "target": "Magischem Bernstein",
+      "label": "Magischem Bernstein",
+      "slug": null
     },
     {
-      "target": "Edelstein (Blau)",
-      "label": "Edelstein (Blau)",
-      "slug": "edelstein-blau"
+      "target": "Feensteine",
+      "label": "Feensteine",
+      "slug": null
     },
     {
-      "target": "Edelstein (Grün)",
-      "label": "Edelstein (Grün)",
-      "slug": "edelstein-grun"
+      "target": "Bernsteinsplitter",
+      "label": "Bernsteinsplitter",
+      "slug": null
     },
     {
-      "target": "Edelstein (Rot)",
-      "label": "Edelstein (Rot)",
-      "slug": "edelstein-rot"
+      "target": "Fey-Edelstein",
+      "label": "Fey-Edelstein",
+      "slug": null
+    },
+    {
+      "target": "Magie",
+      "label": "Magie",
+      "slug": "magie"
     }
   ],
-  "markdown": "Drei magische, mächtige Artefakte der [[Fey]].\n\n- Der [[Edelstein (Grün)|Grüne Edelstein]] der [[Waldfey]]\n- Der [[Edelstein (Rot)|Rote Edelstein]] der [[Bergfey]]\n- Der [[Edelstein (Blau)|Blaue Edelstein]] der [[Wasserfey]]\n\n- Sie bestehen aus [[Magischer Bernstein|Magischem Bernstein]].\n- Sie sind unter den [[Steinkreise der Fey|Steinkreisen der Fey]] von den [[Druiden]] vergraben worden.\n- Sie sind für die Schaffung des [[Herz des Kummers]] halbiert worden.\n\n## KI-Zusammenfassung\n\nEdelsteine der Fey, auch drei Edelsteine, Fey-Edelsteine, Feensteine, Edelsteine genannt, ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Drei magische, mächtige Artefakte der Fey. Der Grüne Edelstein der Waldfey Der Rote Edelstein der Bergfey Der Blaue Edelstein der Wasserfey Direkte Bezüge bestehen zu [[Fey]], [[Grüne Edelstein]], [[Waldfey]], [[Rote Edelstein]], [[Bergfey]]. Edelsteine der Fey wird außerdem in [[Fey von Barovia]], [[Tarokka]], [[Edelstein (Blau)]], [[Edelstein (Grün)]], [[Edelstein (Rot)]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Drei magische, mächtige Artefakte der [[Fey]].\n\n- Der [[Edelstein (Grün)|Grüne Edelstein]] der [[Waldfey]]\n- Der [[Edelstein (Rot)|Rote Edelstein]] der [[Bergfey]]\n- Der [[Edelstein (Blau)|Blaue Edelstein]] der [[Wasserfey]]\n\n- Sie bestehen aus [[Magischer Bernstein|Magischem Bernstein]].\n- Sie sind unter den [[Steinkreise der Fey|Steinkreisen der Fey]] von den [[Druiden]] vergraben worden.\n- Sie sind für die Schaffung des [[Herz des Kummers]] halbiert worden.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nArtefakt mit magischem Bezug, nicht im Besitz der Gruppe. Drei magische, mächtige Artefakte der [[Fey]].\n\n### Beschreibung\n\nDrei magische, mächtige Artefakte der [[Fey]]. Der [[Grüne Edelstein]] der [[Waldfey]]. Der [[Rote Edelstein]] der [[Bergfey]]. Der [[Blaue Edelstein]] der [[Wasserfey]].\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Drei magische, mächtige Artefakte der [[Fey]].\n- Der [[Grüne Edelstein]] der [[Waldfey]].\n- Der [[Rote Edelstein]] der [[Bergfey]].\n- Der [[Blaue Edelstein]] der [[Wasserfey]].\n- Sie bestehen aus [[Magischem Bernstein]].\n- Fey von Barovia: ###### Erschaffung der [[Feensteine]].\n- Fey von Barovia: Jede [[Fey]] sammelte einen [[Bernsteinsplitter]] aus dem Berg und erschuf einen [[Fey-Edelstein]], wobei sie einen Teil ihrer himmlischen [[Magie]] in jeden Edelstein legte.\n"
 }

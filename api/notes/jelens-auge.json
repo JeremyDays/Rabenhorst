@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Geschaffen aus Izeks rechter Arm Ein silbernes Auge mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Jelens Auge ist ein Gegenstand im Besitz der Gruppe, bei Michal",
+  "excerpt": "Geschaffen aus Izeks rechter Arm Ein silbernes Auge mit einen Splitter von Knochen des St. Andral KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, im Besitz der Gruppe, bei",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,25 @@
       "slug": "knochen-des-st-andral"
     },
     {
-      "target": "S73 - Der Jelen-Handschuh",
-      "label": "S73 - Der Jelen-Handschuh",
-      "slug": "s73-der-jelen-handschuh"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Jelens Auge",
+      "label": "Jelens Auge",
+      "slug": "jelens-auge"
+    },
+    {
+      "target": "Jelens Flamme",
+      "label": "Jelens Flamme",
+      "slug": "jelens-flamme"
+    },
+    {
+      "target": "Jelens Tropfen",
+      "label": "Jelens Tropfen",
+      "slug": "jelens-tropfen"
     }
   ],
-  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Ein silbernes Auge mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\nJelens Auge ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Geschaffen aus Izeks rechter Arm Ein silbernes Auge mit einen Splitter von Knochen des St. Andral Direkte Bezüge bestehen zu [[Izeks rechter Arm]], [[Knochen des St. Andral]]. Jelens Auge wird außerdem in [[Izeks rechter Arm]], [[S73 - Der Jelen-Handschuh]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Geschaffen aus [[Izeks rechter Arm]]\n- Ein silbernes Auge mit einen Splitter von [[Knochen des St. Andral]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, im Besitz der Gruppe, bei [[Michal]]. Geschaffen aus [[Izeks rechter Arm]].\n\n### Beschreibung\n\nGeschaffen aus [[Izeks rechter Arm]]. Ein silbernes Auge mit einen Splitter von [[Knochen des St. Andral]]. Izeks rechter Arm: - Nur [[Jelens Auge]], [[Jelens Flamme]] und [[Jelens Tropfen]] sind zurückgeblieben für uns. S73 - Der Jelen-Handschuh: - Michal: Das Metall bewegt sich auf einander zu, ein kleiner Knochen bohrt sich in Auge hinein. [[Jelens Auge]].\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Geschaffen aus [[Izeks rechter Arm]].\n- Ein silbernes Auge mit einen Splitter von [[Knochen des St. Andral]].\n- Izeks rechter Arm: - Nur [[Jelens Auge]], [[Jelens Flamme]] und [[Jelens Tropfen]] sind zurückgeblieben für uns.\n- S73 - Der Jelen-Handschuh: - Michal: Das Metall bewegt sich auf einander zu, ein kleiner Knochen bohrt sich in Auge hinein. [[Jelens Auge]].\n- S74 - Das Fest der Brennenden Sonne: ==Robert sagt, dass das der Effekt von[[ Jelens Auge]] war==.\n"
 }

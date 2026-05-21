@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Izek Strazni Schutzmagie KI Zusammenfassung Izeks Umhang ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Izek Strazni Schutzmagie Direk",
+  "excerpt": "Wo: Izek Strazni Schutzmagie KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Schutzmagie. Beschreibung Schutzmagie. S50 St. Andrals Kirche: Ize",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,10 @@
       "slug": "izek-strazni"
     },
     {
-      "target": "S50 - St. Andrals Kirche",
-      "label": "S50 - St. Andrals Kirche",
-      "slug": "s50-st-andrals-kirche"
+      "target": "Izeks Umhang",
+      "label": "Izeks Umhang",
+      "slug": "izeks-umhang"
     }
   ],
-  "markdown": "**Wo:** [[Izek Strazni]]\nSchutzmagie\n\n## KI-Zusammenfassung\n\nIzeks Umhang ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Izek Strazni Schutzmagie Direkte Bezüge bestehen zu [[Izek Strazni]]. Izeks Umhang wird außerdem in [[S50 - St. Andrals Kirche]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** [[Izek Strazni]]\nSchutzmagie\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Schutzmagie.\n\n### Beschreibung\n\nSchutzmagie. S50 - St. Andrals Kirche: - [[Izeks Umhang]]: Schutz.\n\n### Aufenthaltsort / Besitz\n\n- Wo: [[Izek Strazni]].\n\n### Historie\n\n- Wo: [[Izek Strazni]].\n- Schutzmagie.\n- S50 - St. Andrals Kirche: - [[Izeks Umhang]]: Schutz.\n"
 }

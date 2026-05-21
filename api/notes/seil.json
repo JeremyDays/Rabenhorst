@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "10m Wo: Dachboden vom Haus des Burgomeisters KI Zusammenfassung Seil ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dachboden vom Ha",
+  "excerpt": "10m Wo: Dachboden vom Haus des Burgomeisters KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. 10m. Beschreibung 10m. S13 Haus des Burgomeisters: 10m Seil Mich",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,15 @@
       "slug": "haus-des-burgomeisters"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Seil",
+      "label": "Seil",
+      "slug": "seil"
     }
   ],
-  "markdown": "10m\n\n**Wo:** Dachboden vom [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\nSeil ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Wo: Dachboden vom Haus des Burgomeisters Direkte Bezüge bestehen zu [[Haus des Burgomeisters]]. Seil wird außerdem in [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "10m\n\n**Wo:** Dachboden vom [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. 10m.\n\n### Beschreibung\n\n10m. S13 - Haus des Burgomeisters: - 10m [[Seil]] -> [[Michal]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Wo: Dachboden vom [[Haus des Burgomeisters]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Wo: Dachboden vom [[Haus des Burgomeisters]].\n- 10m.\n- S13 - Haus des Burgomeisters: - 10m [[Seil]] -> [[Michal]] (+).\n"
 }

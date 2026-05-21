@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Achtsam geflochtene Locke kastanienbraunes Haar Gefunden: Malduk in Haus Alkir. Nischenwände Malduk: Wer hatte kastanienbraunes Haar? KI Zusammenfassung Haarlocke ist ein Gegenstan",
+  "excerpt": "Achtsam geflochtene Locke kastanienbraunes Haar Gefunden: Malduk in Haus Alkir. Nischenwände Malduk: Wer hatte kastanienbraunes Haar? KI Zusammenfassung Rolle Gegenstand, im Besitz",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Haarlocke",
+      "label": "Haarlocke",
+      "slug": "haarlocke"
     }
   ],
-  "markdown": "Achtsam geflochtene Locke kastanienbraunes Haar\n\n**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n>***Malduk:** Wer hatte kastanienbraunes Haar?*\n\n## KI-Zusammenfassung\n\nHaarlocke ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Achtsam geflochtene Locke kastanienbraunes Haar Gefunden: Malduk in Haus Alkir. Nischenwände Malduk: Wer hatte kastanienbraunes Haar? Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Haarlocke wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Achtsam geflochtene Locke kastanienbraunes Haar\n\n**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n>***Malduk:** Wer hatte kastanienbraunes Haar?*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Achtsam geflochtene Locke kastanienbraunes Haar.\n\n### Beschreibung\n\nAchtsam geflochtene Locke kastanienbraunes Haar. >***Malduk:** Wer hatte kastanienbraunes Haar?*. S10 - Katakomben: 2. [[Haarlocke]]. Achtsam geflochtene Locke kastanienbraunes Haar (+) -> Malduk.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n- Achtsam geflochtene Locke kastanienbraunes Haar.\n- >***Malduk:** Wer hatte kastanienbraunes Haar?*.\n- S10 - Katakomben: 2. [[Haarlocke]]. Achtsam geflochtene Locke kastanienbraunes Haar (+) -> Malduk.\n"
 }

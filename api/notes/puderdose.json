@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Haus Alkir KI Zusammenfassung Puderdose ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Direkte Bezüge bestehen zu Hau",
+  "excerpt": "Gefunden: Haus Alkir KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Ireena. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Alle Gegenstände: Puder",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,15 +21,20 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
     },
     {
-      "target": "S05 - 1.OG",
-      "label": "S05 - 1.OG",
-      "slug": "s05-1-og"
+      "target": "Puderdose",
+      "label": "Puderdose",
+      "slug": "puderdose"
+    },
+    {
+      "target": "Handspiegel",
+      "label": "Handspiegel",
+      "slug": "handspiegel"
     }
   ],
-  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nPuderdose ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Direkte Bezüge bestehen zu [[Haus Alkir]]. Puderdose wird außerdem in [[Alle Gegenstände]], [[S05 - 1.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Ireena]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Puderdose]].**. S05 - 1.OG: - Kämme, Spangen, [[Handspiegel]], [[Puderdose]].\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Ireena]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- Alle Gegenstände: - **[[Puderdose]].**.\n- S05 - 1.OG: - Kämme, Spangen, [[Handspiegel]], [[Puderdose]].\n"
 }

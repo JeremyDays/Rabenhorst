@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Auf dem Dachboden bei Victor Vallakovich KI Zusammenfassung Liber Mortis Domesticus ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: W",
+  "excerpt": "Wo: Auf dem Dachboden bei Victor Vallakovich KI Zusammenfassung Rolle Magisches Buch aus VictorsVictor Vallakovich Sammlung, inzwischen im Besitz der Gruppe bei Malduk. Schon der T",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,30 @@
       "slug": "victor-vallakovich"
     },
     {
-      "target": "S70 - Izek",
-      "label": "S70 - Izek",
-      "slug": "s70-izek"
+      "target": "Victor Vallakovich",
+      "label": "Victors",
+      "slug": "victor-vallakovich"
+    },
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
+      "label": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht",
+      "slug": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht"
+    },
+    {
+      "target": "Codex der Hydromantie",
+      "label": "Codex der Hydromantie",
+      "slug": "codex-der-hydromantie"
+    },
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
     }
   ],
-  "markdown": "**Wo:** Auf dem Dachboden bei [[Victor Vallakovich]]\n\n## KI-Zusammenfassung\n\nLiber Mortis Domesticus ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Auf dem Dachboden bei Victor Vallakovich Direkte Bezüge bestehen zu [[Victor Vallakovich]]. Liber Mortis Domesticus wird außerdem in [[Victor Vallakovich]], [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Auf dem Dachboden bei [[Victor Vallakovich]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nMagisches Buch aus [[Victor Vallakovich|Victors]] Sammlung, inzwischen im Besitz der Gruppe bei [[Malduk]]. Schon der Titel ordnet den Gegenstand ein: \"Liber\" bezeichnet ein Buch, \"Mortis\" verweist auf Tod, und \"Domesticus\" auf das Häusliche beziehungsweise zum Haus Gehörige. Gesichert ist damit: Es ist ein Buch mit Todesbezug aus Victors magischer Bibliothek; der genaue Inhalt ist noch nicht ausgelesen.\n\n### Beschreibung\n\nEine äußere Beschreibung des Einbands oder der Seiten ist bislang nicht festgehalten. Aus S70 ist aber gesichert, dass es zu den magischen Büchern in Victors Zimmer gehört und für Malduk interessant genug war, um es heimlich mitzunehmen.\n\n### Aufenthaltsort / Besitz\n\n- Vor dem Mitnehmen: auf dem Dachboden beziehungsweise in Victors Zimmer bei [[Victor Vallakovich]].\n- Danach: bei [[Malduk]], nachdem er es in Wassernebel verwandelte und in seine Robe gleiten ließ.\n\n### Historie\n\n- In S70 findet Malduk das Buch in Victors Zimmer zusammen mit [[Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht]] und [[Codex der Hydromantie]].\n- Während [[Izek Strazni]] nach Victor fragt und die Lage gefährlich bleibt, lässt Malduk das Buch zu Wassernebel zerfallen.\n- Das Buch gelangt dadurch unauffällig aus Victors Besitz in Malduks Besitz.\n- Aus der S70-Zusammenfassung geht hervor, dass es ein magisches Buch ist; konkrete Zauber, Regeln oder vollständige Inhalte sind noch nicht notiert.\n"
 }

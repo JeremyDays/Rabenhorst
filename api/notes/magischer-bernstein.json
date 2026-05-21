@@ -45,15 +45,15 @@
       "slug": "bernsteintempel"
     },
     {
-      "target": "Fey von Barovia",
-      "label": "Fey von Barovia",
-      "slug": "fey-von-barovia"
+      "target": "Magische Bernstein",
+      "label": "Magische Bernstein",
+      "slug": null
     },
     {
-      "target": "Bernsteinscherbe",
-      "label": "Bernsteinscherbe",
-      "slug": "bernsteinscherbe"
+      "target": "Magischem Bernstein",
+      "label": "Magischem Bernstein",
+      "slug": null
     }
   ],
-  "markdown": "- Dieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können.\n- Die [[Fey]] haben ihn entdeckt in einem Berg, dem [[Bernsteinberg]].\n- Aus ihm sind die [[Edelsteine der Fey]].\n- Dort wurde der [[Bernsteintempel]] errichtet.\n- \n\n## KI-Zusammenfassung\n\nMagischer Bernstein, auch Magischen Bernsteins, Bernsteinsplitter genannt, ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Dieser Bernstein hat die magische Eigenschaft, Magie und Macht nutzbar machen zu können. Die Fey haben ihn entdeckt in einem Berg, dem Bernsteinberg. Aus ihm sind die Edelsteine der Fey. Dort wurde der Bernsteintempel errichtet. Direkte Bezüge bestehen zu [[Magie]], [[Fey]], [[Bernsteinberg]], [[Edelsteine der Fey]], [[Bernsteintempel]]. Magischer Bernstein wird außerdem in [[Bernsteinberg]], [[Bernsteintempel]], [[Fey von Barovia]], [[Bernsteinscherbe]], [[Edelsteine der Fey]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Dieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können.\n- Die [[Fey]] haben ihn entdeckt in einem Berg, dem [[Bernsteinberg]].\n- Aus ihm sind die [[Edelsteine der Fey]].\n- Dort wurde der [[Bernsteintempel]] errichtet.\n-\n\n## KI-Zusammenfassung\n\n### Rolle\n\nArtefakt mit magischem Bezug, nicht im Besitz der Gruppe. Dieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können.\n\n### Beschreibung\n\nDieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können. Die [[Fey]] haben ihn entdeckt in einem Berg, dem [[Bernsteinberg]]. Aus ihm sind die [[Edelsteine der Fey]]. Dort wurde der [[Bernsteintempel]] errichtet.\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Dieser Bernstein hat die magische Eigenschaft, [[Magie]] und Macht nutzbar machen zu können.\n- Die [[Fey]] haben ihn entdeckt in einem Berg, dem [[Bernsteinberg]].\n- Aus ihm sind die [[Edelsteine der Fey]].\n- Dort wurde der [[Bernsteintempel]] errichtet.\n- -.\n- Bernsteinberg: - Dort wurde der [[Magische Bernstein]] gefunden.\n- Bernsteintempel: - Er besteht aus [[Magischem Bernstein]].\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Der Schädel des Silberdrachen Graf Argynvost. Dieser ist nun in Schloss Rabenhorst. KI Zusammenfassung Drachenschädel ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Not",
+  "excerpt": "Der Schädel des Silberdrachen Graf Argynvost. Dieser ist nun in Schloss Rabenhorst. KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Der Schädel",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,30 +26,45 @@
       "slug": "schloss-rabenhorst"
     },
     {
+      "target": "Drachenschädel",
+      "label": "Drachenschädel",
+      "slug": "drachenschadel"
+    },
+    {
+      "target": "Argynvostholt",
+      "label": "Argynvostholt",
+      "slug": "argynvostholt"
+    },
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
       "target": "Quest",
       "label": "Quest",
       "slug": "quest"
     },
     {
-      "target": "Khazan",
-      "label": "Khazan",
-      "slug": "khazan"
+      "target": "dunkle Fürst",
+      "label": "dunkle Fürst",
+      "slug": null
     },
     {
-      "target": "Der Fall von Argynvost",
-      "label": "Der Fall von Argynvost",
-      "slug": "der-fall-von-argynvost"
+      "target": "Vladimir Horngaard",
+      "label": "Vladimir Horngaard",
+      "slug": "vladimir-horngaard"
     },
     {
-      "target": "Die Legende von Lugdana",
-      "label": "Die Legende von Lugdana",
-      "slug": "die-legende-von-lugdana"
-    },
-    {
-      "target": "Fey von Barovia",
-      "label": "Fey von Barovia",
-      "slug": "fey-von-barovia"
+      "target": "Argynvost",
+      "label": "Argynvost",
+      "slug": "argynvost"
     }
   ],
-  "markdown": "Der Schädel des Silberdrachen [[Graf Argynvost]].\nDieser ist nun in [[Schloss Rabenhorst]].\n\n## KI-Zusammenfassung\n\nDrachenschädel ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Der Schädel des Silberdrachen Graf Argynvost. Dieser ist nun in Schloss Rabenhorst. Direkte Bezüge bestehen zu [[Graf Argynvost]], [[Schloss Rabenhorst]]. Drachenschädel wird außerdem in [[Quest]], [[Khazan]], [[Der Fall von Argynvost]], [[Die Legende von Lugdana]], [[Fey von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Der Schädel des Silberdrachen [[Graf Argynvost]].\nDieser ist nun in [[Schloss Rabenhorst]].\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Der Schädel des Silberdrachen [[Graf Argynvost]].\n\n### Beschreibung\n\nDer Schädel des Silberdrachen [[Graf Argynvost]]. Dieser ist nun in [[Schloss Rabenhorst]]. Quest: - Den [[Drachenschädel]] wieder nach [[Argynvostholt]] zurück bringen. Khazan: >***Malduk:** Das war, um die [[Wasserfey]] zu befreien. Er kämpfte mit [[Graf Strahd]]. Und die [[Wasserfey]] floh auf dem [[Drachenschädel]].*.\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Der Schädel des Silberdrachen [[Graf Argynvost]].\n- Dieser ist nun in [[Schloss Rabenhorst]].\n- Quest: - Den [[Drachenschädel]] wieder nach [[Argynvostholt]] zurück bringen.\n- Khazan: >***Malduk:** Das war, um die [[Wasserfey]] zu befreien. Er kämpfte mit [[Graf Strahd]]. Und die [[Wasserfey]] floh auf dem [[Drachenschädel]].*.\n- Der Fall von Argynvost: >**[[Quest]]:** Den [[Drachenschädel]] wieder nach [[Argynvostholt]] zurück bringen.\n- Der Fall von Argynvost: Der [[dunkle Fürst]] hielt den größten der Ritter, [[Vladimir Horngaard]], am Leben und folterte ihn tagelang in den Kerkern von [[Schloss Rabenhorst]]. An dem Tag, an dem [[Vladimir Horngaard]] sterben sollte, erzählte ihm der [[dunkle Fürst]], wie er [[Argynvost]] erschlug, seinen Körper zerhackte und den [[Drachenschädel]] als große Trophäe aufstellte.\n"
 }

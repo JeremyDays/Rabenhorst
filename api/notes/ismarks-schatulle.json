@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Haben wir von Ismark Kolyanowitsch erhalten, um Ireena nach Krezk zu bringen. Ursprünglicher Inhalt: Wegegeld 500 Pf. Inhalt: leer KI Zusammenfassung Ismarks Schatulle ist ein Gege",
+  "excerpt": "Haben wir von Ismark Kolyanowitsch erhalten, um Ireena nach Krezk zu bringen. Ursprünglicher Inhalt: Wegegeld 500 Pf. Inhalt: leer KI Zusammenfassung Rolle Ring, im Besitz der Grup",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -31,15 +31,20 @@
       "slug": "krezk"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     },
     {
-      "target": "S17 - Angriff der Vampirin",
-      "label": "S17 - Angriff der Vampirin",
-      "slug": "s17-angriff-der-vampirin"
+      "target": "Ismarks Schatulle",
+      "label": "Ismarks Schatulle",
+      "slug": "ismarks-schatulle"
+    },
+    {
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
     }
   ],
-  "markdown": "- Haben wir von [[Ismark Kolyanowitsch]] erhalten, um [[Ireena]] nach [[Krezk]] zu bringen.\n- Ursprünglicher Inhalt: Wegegeld 500 Pf.\n\n**Inhalt:** leer\n\n## KI-Zusammenfassung\n\nIsmarks Schatulle ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Haben wir von Ismark Kolyanowitsch erhalten, um Ireena nach Krezk zu bringen. Ursprünglicher Inhalt: Wegegeld 500 Pf. Inhalt: leer Direkte Bezüge bestehen zu [[Ismark Kolyanowitsch]], [[Ireena]], [[Krezk]]. Ismarks Schatulle wird außerdem in [[Alle Gegenstände]], [[S17 - Angriff der Vampirin]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Haben wir von [[Ismark Kolyanowitsch]] erhalten, um [[Ireena]] nach [[Krezk]] zu bringen.\n- Ursprünglicher Inhalt: Wegegeld 500 Pf.\n\n**Inhalt:** leer\n\n## KI-Zusammenfassung\n\n### Rolle\n\nRing, im Besitz der Gruppe, bei [[Malduk]]. Haben wir von [[Ismark Kolyanowitsch]] erhalten, um [[Ireena]] nach [[Krezk]] zu bringen.\n\n### Beschreibung\n\nHaben wir von [[Ismark Kolyanowitsch]] erhalten, um [[Ireena]] nach [[Krezk]] zu bringen. Ursprünglicher Inhalt: Wegegeld 500 Pf. Inhalt: leer. Alle Gegenstände: - **[[Ismarks Schatulle]] für Geld.** ~~500 Pf.~~ (Wegegeld um [[Ireena]] nach [[Krezk]] zu bringen).\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Haben wir von [[Ismark Kolyanowitsch]] erhalten, um [[Ireena]] nach [[Krezk]] zu bringen.\n- Ursprünglicher Inhalt: Wegegeld 500 Pf.\n- Inhalt: leer.\n- Alle Gegenstände: - **[[Ismarks Schatulle]] für Geld.** ~~500 Pf.~~ (Wegegeld um [[Ireena]] nach [[Krezk]] zu bringen).\n- S17 - Angriff der Vampirin: - [[Quest]]: Wir erhalten eine Schatulle mit Geld, wenn wir [[Ireena]] nach [[Krezk]] bringen ([[Ismarks Schatulle]]). (+).\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Malduk in Haus Alkir. NIschenwände Halbelfenohr KI Zusammenfassung Vertrocknetes Spitzohr ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten ",
+  "excerpt": "Gefunden: Malduk in Haus Alkir. NIschenwände Halbelfenohr KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Halbelfenohr. Beschreibung Halbelfenohr. S10 Katako",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,30 +26,20 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Vertrocknetes Spitzohr",
+      "label": "Vertrocknetes Spitzohr",
+      "slug": "vertrocknetes-spitzohr"
     },
     {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Rictavio",
+      "label": "Rictavio",
+      "slug": "rictavio"
     },
     {
-      "target": "S62 - Zuber und Kleider",
-      "label": "S62 - Zuber und Kleider",
-      "slug": "s62-zuber-und-kleider"
-    },
-    {
-      "target": "S63 - Baron Vargas",
-      "label": "S63 - Baron Vargas",
-      "slug": "s63-baron-vargas"
-    },
-    {
-      "target": "S64 - Der Baron bittet zu Tisch",
-      "label": "S64 - Der Baron bittet zu Tisch",
-      "slug": "s64-der-baron-bittet-zu-tisch"
+      "target": "Vertrocknete Spitzohr",
+      "label": "Vertrocknete Spitzohr",
+      "slug": null
     }
   ],
-  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. NIschenwände\n\nHalbelfenohr\n\n## KI-Zusammenfassung\n\nVertrocknetes Spitzohr ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. NIschenwände Halbelfenohr Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Vertrocknetes Spitzohr wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]], [[S62 - Zuber und Kleider]], [[S63 - Baron Vargas]], [[S64 - Der Baron bittet zu Tisch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. NIschenwände\n\nHalbelfenohr\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Halbelfenohr.\n\n### Beschreibung\n\nHalbelfenohr. S10 - Katakomben: 13. [[Vertrocknetes Spitzohr]] (+). S62 - Zuber und Kleider: - [[Rictavio]] wird sicher auch viele Geschichten kennen. Ob er etwas über das [[Vertrocknete Spitzohr]] weiß? S63 - Baron Vargas: - [[Rictavio]] wird sicher auch viele Geschichten kennen. Ob er etwas über das [[Vertrocknete Spitzohr]] weiß?\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. NIschenwände.\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. NIschenwände.\n- Halbelfenohr.\n- S10 - Katakomben: 13. [[Vertrocknetes Spitzohr]] (+).\n- S62 - Zuber und Kleider: - [[Rictavio]] wird sicher auch viele Geschichten kennen. Ob er etwas über das [[Vertrocknete Spitzohr]] weiß?\n- S63 - Baron Vargas: - [[Rictavio]] wird sicher auch viele Geschichten kennen. Ob er etwas über das [[Vertrocknete Spitzohr]] weiß?\n- S64 - Der Baron bittet zu Tisch: - [[Rictavio]] wird sicher auch viele Geschichten kennen. Ob er etwas über das [[Vertrocknete Spitzohr]] weiß?\n"
 }

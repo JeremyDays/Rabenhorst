@@ -36,6 +36,11 @@
       "slug": "druiden"
     },
     {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
       "target": "Strahd von Zarovich",
       "label": "Strahd von Zarovich",
       "slug": null
@@ -46,20 +51,15 @@
       "slug": null
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Chroniken eines Kriegsfürsten",
+      "label": "Chroniken eines Kriegsfürsten",
+      "slug": "chroniken-eines-kriegsfursten"
     },
     {
-      "target": "00 - Übersicht",
-      "label": "00 - Übersicht",
-      "slug": "00-ubersicht"
-    },
-    {
-      "target": "S04 - EG",
-      "label": "S04 - EG",
-      "slug": "s04-eg"
+      "target": "Prinz Strahd studiert Kriegskunst an der Akademie in Kronenstadt",
+      "label": "Prinz Strahd studiert Kriegskunst an der Akademie in Kronenstadt",
+      "slug": null
     }
   ],
-  "markdown": "Bericht über [[Graf Strahd|Strahd von Zarovich]]. \n- Altes Adelsgeschlecht. \n- Eroberer und Kriegsherr. \n- Kriegskunst an der [[Akademie von Kronenstadt|Akademie]] in [[Kronenstadt]]. \n- Er hat die Bergvölker und [[Druiden]] besiegt. \n- Vor 700 Jahren?\n\n## KI-Zusammenfassung\n\nChroniken eines Kriegsfürsten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Bericht über Strahd von Zarovich. Altes Adelsgeschlecht. Eroberer und Kriegsherr. Kriegskunst an der Akademie in Kronenstadt. Direkte Bezüge bestehen zu [[Strahd von Zarovich]], [[Akademie]], [[Kronenstadt]], [[Druiden]]. Chroniken eines Kriegsfürsten wird außerdem in [[Alle Gegenstände]], [[00 - Übersicht]], [[S04 - EG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Bericht über [[Graf Strahd|Strahd von Zarovich]]. \n- Altes Adelsgeschlecht. \n- Eroberer und Kriegsherr. \n- Kriegskunst an der [[Akademie von Kronenstadt|Akademie]] in [[Kronenstadt]]. \n- Er hat die Bergvölker und [[Druiden]] besiegt. \n- Vor 700 Jahren?\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, im Besitz der Gruppe, bei [[Malduk]]. Bericht über [[Strahd von Zarovich]].\n\n### Beschreibung\n\nBericht über [[Strahd von Zarovich]]. Altes Adelsgeschlecht. Eroberer und Kriegsherr. Kriegskunst an der [[Akademie]] in [[Kronenstadt]].\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Bericht über [[Strahd von Zarovich]].\n- Altes Adelsgeschlecht.\n- Eroberer und Kriegsherr.\n- Kriegskunst an der [[Akademie]] in [[Kronenstadt]].\n- Er hat die Bergvölker und [[Druiden]] besiegt.\n- Alle Gegenstände: - **[[Chroniken eines Kriegsfürsten]].** Bericht über Strahd von Zarovich. Altes Adelsgeschlecht. Eroberer und Kriegsherr. Kriegskunst an der Akademie in Kronenstadt. Er hat die Bergvölker und Druiden besiegt. Vor 700 Jahren?\n- 00 - Übersicht: | | [[Prinz Strahd studiert Kriegskunst an der Akademie in Kronenstadt]] | [[Chroniken eines Kriegsfürsten]] |.\n"
 }

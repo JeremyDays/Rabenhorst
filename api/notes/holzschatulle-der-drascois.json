@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Kutschwagen der Drascoi Ursprünglicher Inhalt: Silberne Mondkette Inhalt: leer KI Zusammenfassung Holzschatulle der Drascois ist ein Gegenstand im Besitz der Gruppe, bei Malduk",
+  "excerpt": "Wo: Kutschwagen der Drascoi Ursprünglicher Inhalt: Silberne Mondkette Inhalt: leer KI Zusammenfassung Rolle Behältnis, im Besitz der Gruppe, bei Malduk. Ursprünglicher Inhalt: Silb",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,20 @@
       "slug": null
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     },
     {
-      "target": "S18 - Ivlis-Kreuzung",
-      "label": "S18 - Ivlis-Kreuzung",
-      "slug": "s18-ivlis-kreuzung"
+      "target": "Holzschatulle der Drascois",
+      "label": "Holzschatulle der Drascois",
+      "slug": "holzschatulle-der-drascois"
+    },
+    {
+      "target": "Silberner Mondkette",
+      "label": "Silberner Mondkette",
+      "slug": null
     }
   ],
-  "markdown": "**Wo:** [[Kutschwagen der Drascoi]]\n- Ursprünglicher Inhalt: [[Silberne Mondkette]]\n\n**Inhalt:** leer\n\n## KI-Zusammenfassung\n\nHolzschatulle der Drascois ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Kutschwagen der Drascoi Ursprünglicher Inhalt: Silberne Mondkette Inhalt: leer Direkte Bezüge bestehen zu [[Kutschwagen der Drascoi]], [[Silberne Mondkette]]. Holzschatulle der Drascois wird außerdem in [[Alle Gegenstände]], [[Kutschwagen der Drascoi]], [[S18 - Ivlis-Kreuzung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** [[Kutschwagen der Drascoi]]\n- Ursprünglicher Inhalt: [[Silberne Mondkette]]\n\n**Inhalt:** leer\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBehältnis, im Besitz der Gruppe, bei [[Malduk]]. Ursprünglicher Inhalt: [[Silberne Mondkette]].\n\n### Beschreibung\n\nUrsprünglicher Inhalt: [[Silberne Mondkette]]. Inhalt: leer. Alle Gegenstände: - **[[Holzschatulle der Drascois]].** Ohne einfache Kette mit silbernem Mondsymbol. S18 - Ivlis-Kreuzung: - [[Holzschatulle der Drascois]] mit [[Silberner Mondkette]]. Einfache Kette aus Silber mit Mondsymbol.\n\n### Aufenthaltsort / Besitz\n\n- Wo: [[Kutschwagen der Drascoi]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Wo: [[Kutschwagen der Drascoi]].\n- Ursprünglicher Inhalt: [[Silberne Mondkette]].\n- Inhalt: leer.\n- Alle Gegenstände: - **[[Holzschatulle der Drascois]].** Ohne einfache Kette mit silbernem Mondsymbol.\n- S18 - Ivlis-Kreuzung: - [[Holzschatulle der Drascois]] mit [[Silberner Mondkette]]. Einfache Kette aus Silber mit Mondsymbol.\n"
 }

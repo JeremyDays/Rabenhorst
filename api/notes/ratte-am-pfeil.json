@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: In Ireenas Zimmer im Haus des Burgomeisters. Heinard hat sie eingesteckt. KI Zusammenfassung Ratte am Pfeil ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen No",
+  "excerpt": "Wo: In Ireenas Zimmer im Haus des Burgomeisters. Heinard hat sie eingesteckt. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Heinard. Geruch von Blut. Ireena hat ei",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -31,10 +31,15 @@
       "slug": "heinard"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "Ratte",
+      "label": "Ratte",
+      "slug": null
+    },
+    {
+      "target": "Ratte am Pfeil",
+      "label": "Ratte am Pfeil",
+      "slug": "ratte-am-pfeil"
     }
   ],
-  "markdown": "**Wo:** In [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]. [[Heinard]] hat sie eingesteckt.\n\n## KI-Zusammenfassung\n\nRatte am Pfeil ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Wo: In Ireenas Zimmer im Haus des Burgomeisters. Heinard hat sie eingesteckt. Direkte Bezüge bestehen zu [[Ireena]], [[Haus des Burgomeisters]], [[Heinard]]. Ratte am Pfeil wird außerdem in [[Haus des Burgomeisters]], [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** In [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]. [[Heinard]] hat sie eingesteckt.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Heinard]]. - Geruch von Blut. [[Ireena]] hat eine große tote [[Ratte]] im Zimmer mit einem Pfeil im Körper -> [[Heinard]] steckt die [[Ratte am Pfeil]] ein. (+).\n\n### Beschreibung\n\nS13 - Haus des Burgomeisters: - Geruch von Blut. [[Ireena]] hat eine große tote [[Ratte]] im Zimmer mit einem Pfeil im Körper -> [[Heinard]] steckt die [[Ratte am Pfeil]] ein. (+).\n\n### Aufenthaltsort / Besitz\n\n- Wo: In [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]. [[Heinard]] hat sie eingesteckt.\n\n### Historie\n\n- Wo: In [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]. [[Heinard]] hat sie eingesteckt.\n- S13 - Haus des Burgomeisters: - Geruch von Blut. [[Ireena]] hat eine große tote [[Ratte]] im Zimmer mit einem Pfeil im Körper -> [[Heinard]] steckt die [[Ratte am Pfeil]] ein. (+).\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände Gewöhnlicher Bernstein Malduk: Kein Magischer Bernstein. KI Zusammenfassung Bernsteinscherbe ist ein Gegenstand im Besitz der Gruppe, b",
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände Gewöhnlicher Bernstein Malduk: Kein Magischer Bernstein. KI Zusammenfassung Rolle Artefakt, im Besitz der Gruppe, bei Malduk. Gewöhnlic",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -31,15 +31,10 @@
       "slug": "magischer-bernstein"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Bernsteinscherbe",
+      "label": "Bernsteinscherbe",
+      "slug": "bernsteinscherbe"
     }
   ],
-  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\nGewöhnlicher Bernstein\n\n>***Malduk:** Kein [[Magischer Bernstein]].*\n\n## KI-Zusammenfassung\n\nBernsteinscherbe ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände Gewöhnlicher Bernstein Malduk: Kein Magischer Bernstein. Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]], [[Magischer Bernstein]]. Bernsteinscherbe wird außerdem in [[Alle Gegenstände]], [[Magischer Bernstein]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\nGewöhnlicher Bernstein\n\n>***Malduk:** Kein [[Magischer Bernstein]].*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nArtefakt, im Besitz der Gruppe, bei [[Malduk]]. Gewöhnlicher Bernstein.\n\n### Beschreibung\n\nGewöhnlicher Bernstein. >***Malduk:** Kein [[Magischer Bernstein]].*. S10 - Katakomben: 11. [[Bernsteinscherbe]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n- Gewöhnlicher Bernstein.\n- >***Malduk:** Kein [[Magischer Bernstein]].*.\n- S10 - Katakomben: 11. [[Bernsteinscherbe]] (+).\n"
 }

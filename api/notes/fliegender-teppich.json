@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Angeblich hat Petra einen Fliegenden Teppich, den er uns für eine Flasche Champagner de Sol anbietet. KI Zusammenfassung Fliegender Teppich ist ein Gegenstand nicht im Besitz der G",
+  "excerpt": "Angeblich hat Petra einen Fliegenden Teppich, den er uns für eine Flasche Champagner de Sol anbietet. KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, nicht im Besitz der G",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,30 @@
       "slug": null
     },
     {
-      "target": "S20 - Madame Eva",
-      "label": "S20 - Madame Eva",
-      "slug": "s20-madame-eva"
+      "target": "Quest",
+      "label": "Quest",
+      "slug": "quest"
+    },
+    {
+      "target": "Wein der Zauberer",
+      "label": "Wein der Zauberer",
+      "slug": null
+    },
+    {
+      "target": "Zauberern der Weine",
+      "label": "Zauberern der Weine",
+      "slug": null
+    },
+    {
+      "target": "Fliegenden Teppich",
+      "label": "Fliegenden Teppich",
+      "slug": null
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
     }
   ],
-  "markdown": "Angeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet.\n\n## KI-Zusammenfassung\n\nFliegender Teppich ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Angeblich hat Petra einen Fliegenden Teppich, den er uns für eine Flasche Champagner de Sol anbietet. Direkte Bezüge bestehen zu [[Petra]], [[Champagner de Sol]]. Fliegender Teppich wird außerdem in [[S20 - Madame Eva]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Angeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Angeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet.\n\n### Beschreibung\n\nAngeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet. S20 - Madame Eva: - [[Quest]]: [[Petra]] will ein Fass [[Wein der Zauberer]]. Für 1 Flasche von den [[Zauberern der Weine]] \"[[Champagner de Sol]]\" bietet er 500 Pf. und einen [[Fliegenden Teppich]] oder so. Wir bekämen ihn in [[Vallaki]].\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Angeblich hat [[Petra]] einen Fliegenden Teppich, den er uns für eine Flasche [[Champagner de Sol]] anbietet.\n- S20 - Madame Eva: - [[Quest]]: [[Petra]] will ein Fass [[Wein der Zauberer]]. Für 1 Flasche von den [[Zauberern der Weine]] \"[[Champagner de Sol]]\" bietet er 500 Pf. und einen [[Fliegenden Teppich]] oder so. Wir bekämen ihn in [[Vallaki]].\n"
 }

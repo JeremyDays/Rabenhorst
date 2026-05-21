@@ -6,7 +6,7 @@
   "url": "notes/zombie-teile.html",
   "apiUrl": "api/notes/zombie-teile.json",
   "tags": [],
-  "excerpt": "Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis Kreuzung KI Zusammenfassung Zombie Teile ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu",
+  "excerpt": "Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis Kreuzung KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Fingernägel, Haar und Haut von Zombies. Besch",
   "frontmatter": {},
   "links": [
     {
@@ -20,10 +20,15 @@
       "slug": "ivlis-kreuzung"
     },
     {
-      "target": "S19 - Die Blauen Vistani",
-      "label": "S19 - Die Blauen Vistani",
-      "slug": "s19-die-blauen-vistani"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Zombie-Teile",
+      "label": "Zombie-Teile",
+      "slug": "zombie-teile"
     }
   ],
-  "markdown": "Fingernägel, Haar und Haut von [[Zombies]]\n\n**Gefunden:** [[Ivlis-Kreuzung]]\n\n## KI-Zusammenfassung\n\nZombie-Teile ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Fingernägel, Haar und Haut von Zombies Gefunden: Ivlis-Kreuzung Direkte Bezüge bestehen zu [[Zombies]], [[Ivlis-Kreuzung]]. Zombie-Teile wird außerdem in [[Ivlis-Kreuzung]], [[S19 - Die Blauen Vistani]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Fingernägel, Haar und Haut von [[Zombies]]\n\n**Gefunden:** [[Ivlis-Kreuzung]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Fingernägel, Haar und Haut von [[Zombies]].\n\n### Beschreibung\n\nFingernägel, Haar und Haut von [[Zombies]]. S19 - Die Blauen Vistani: - [[Malduk]] sammelt [[Zombie-Teile]] ein, Fingernägel, Haar, Haut (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Ivlis-Kreuzung]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Gefunden: [[Ivlis-Kreuzung]].\n- Fingernägel, Haar und Haut von [[Zombies]].\n- S19 - Die Blauen Vistani: - [[Malduk]] sammelt [[Zombie-Teile]] ein, Fingernägel, Haar, Haut (+).\n"
 }

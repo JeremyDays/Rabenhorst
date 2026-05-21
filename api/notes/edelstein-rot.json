@@ -71,15 +71,20 @@
       "slug": null
     },
     {
-      "target": "Quest",
-      "label": "Quest",
-      "slug": "quest"
+      "target": "Roten Edelstein",
+      "label": "Roten Edelstein",
+      "slug": null
     },
     {
-      "target": "Fey von Barovia",
-      "label": "Fey von Barovia",
-      "slug": "fey-von-barovia"
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Turm",
+      "label": "Turm",
+      "slug": null
     }
   ],
-  "markdown": "Einer der [[Edelsteine der Fey]].\n\n- Der Edelstein der [[Bergfey]], der unter dem [[Heiligtum der Bergfey]], dem [[Steinkreis der Bergfey]] vergraben wurde.\n- Er soll (Ort?) gewesen sein.\n\n- Der [[Edelstein (Rot)|Rote Edelstein]] wurde halbiert, um das [[Herz des Kummers]] zu schaffen.\n- Der (halbe) [[Edelstein (Rot)|Rote Edelstein]] ist von der [[Bergfey]] wieder ausgegraben worden.\n\n- Die [[Bergfey]] vertraute [[Khazan]] und traute ihm ihren (halben) [[Edelstein (Rot)|Roten Edelstein]] an.\n- Bei [[Khazans Turm]] kann man wohl herausfinden, wo der [[Edelstein (Rot)|Rote Edelstein]] jetzt ist.\n\n## KI-Zusammenfassung\n\nEdelstein (Rot), auch Roter Edelstein, Rote Edelstein, Roten Edelstein genannt, ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Einer der Edelsteine der Fey. Der Edelstein der Bergfey, der unter dem Heiligtum der Bergfey, dem Steinkreis der Bergfey vergraben wurde. Er soll (Ort?) gewesen sein. Der Rote Edelstein wurde halbiert, um das Herz des Kummers zu schaffen. Direkte Bezüge bestehen zu [[Edelsteine der Fey]], [[Bergfey]], [[Heiligtum der Bergfey]], [[Steinkreis der Bergfey]], [[Rote Edelstein]]. Edelstein (Rot) wird außerdem in [[Quest]], [[Khazan]], [[Heiligtum der Bergfey]], [[Steinkreis der Bergfey]], [[Fey von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Einer der [[Edelsteine der Fey]].\n\n- Der Edelstein der [[Bergfey]], der unter dem [[Heiligtum der Bergfey]], dem [[Steinkreis der Bergfey]] vergraben wurde.\n- Er soll (Ort?) gewesen sein.\n\n- Der [[Edelstein (Rot)|Rote Edelstein]] wurde halbiert, um das [[Herz des Kummers]] zu schaffen.\n- Der (halbe) [[Edelstein (Rot)|Rote Edelstein]] ist von der [[Bergfey]] wieder ausgegraben worden.\n\n- Die [[Bergfey]] vertraute [[Khazan]] und traute ihm ihren (halben) [[Edelstein (Rot)|Roten Edelstein]] an.\n- Bei [[Khazans Turm]] kann man wohl herausfinden, wo der [[Edelstein (Rot)|Rote Edelstein]] jetzt ist.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nArtefakt mit magischem Bezug, nicht im Besitz der Gruppe. Einer der [[Edelsteine der Fey]].\n\n### Beschreibung\n\nEiner der [[Edelsteine der Fey]]. Der Edelstein der [[Bergfey]], der unter dem [[Heiligtum der Bergfey]], dem [[Steinkreis der Bergfey]] vergraben wurde. Er soll (Ort?) gewesen sein. Der [[Rote Edelstein]] wurde halbiert, um das [[Herz des Kummers]] zu schaffen.\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Einer der [[Edelsteine der Fey]].\n- Der Edelstein der [[Bergfey]], der unter dem [[Heiligtum der Bergfey]], dem [[Steinkreis der Bergfey]] vergraben wurde.\n- Er soll (Ort?) gewesen sein.\n- Der [[Rote Edelstein]] wurde halbiert, um das [[Herz des Kummers]] zu schaffen.\n- Der (halbe) [[Rote Edelstein]] ist von der [[Bergfey]] wieder ausgegraben worden.\n- Quest: ==um den [[Roten Edelstein]] zu finden.==.\n- Khazan: >***Malduk:** Wann hat in diesem Kontext die [[Bergfey]] ihren (halben) [[Roten Edelstein]] [[Khazan]] anvertraut? Er hat ihn ja sicher nicht mit zu [[Graf Strahd]] genommen, sondern im [[Turm]] gelassen...*.\n"
 }

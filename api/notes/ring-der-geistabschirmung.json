@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Kleiner Silberring Gefunden: Unklar Spieltechnisch: Malduk: Magisch. Geistabschirmung. KI Zusammenfassung Ring der Geistabschirmung ist ein Gegenstand im Besitz der Gruppe. Die lok",
+  "excerpt": "Kleiner Silberring Gefunden: Unklar Spieltechnisch: Malduk: Magisch. Geistabschirmung. KI Zusammenfassung Rolle Ring mit magischem Bezug, im Besitz der Gruppe, bei Ireena. Kleiner ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,20 +16,15 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
     },
     {
-      "target": "S31 - Die Opfer der Hexen",
-      "label": "S31 - Die Opfer der Hexen",
-      "slug": "s31-die-opfer-der-hexen"
-    },
-    {
-      "target": "S70 - Izek",
-      "label": "S70 - Izek",
-      "slug": "s70-izek"
+      "target": "Ring der Geistabschirmung",
+      "label": "Ring der Geistabschirmung",
+      "slug": "ring-der-geistabschirmung"
     }
   ],
-  "markdown": "Kleiner Silberring\n\n**Gefunden:** Unklar\n\n**Spieltechnisch:**\n>***Malduk:** Magisch. Geistabschirmung.*\n\n## KI-Zusammenfassung\n\nRing der Geistabschirmung ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Kleiner Silberring Gefunden: Unklar Spieltechnisch: Malduk: Magisch. Geistabschirmung. Ring der Geistabschirmung wird außerdem in [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]], [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Kleiner Silberring\n\n**Gefunden:** Unklar\n\n**Spieltechnisch:**\n>***Malduk:** Magisch. Geistabschirmung.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nRing mit magischem Bezug, im Besitz der Gruppe, bei [[Ireena]]. Kleiner Silberring.\n\n### Beschreibung\n\nKleiner Silberring. Spieltechnisch:. >***Malduk:** Magisch. Geistabschirmung.*. Alle Gegenstände: - **[[Ring der Geistabschirmung]].**.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: Unklar.\n- Der Gegenstand liegt derzeit bei [[Ireena]].\n\n### Historie\n\n- Gefunden: Unklar.\n- Kleiner Silberring.\n- Spieltechnisch:.\n- >***Malduk:** Magisch. Geistabschirmung.*.\n- Alle Gegenstände: - **[[Ring der Geistabschirmung]].**.\n- S31 - Die Opfer der Hexen: - 1 kleiner silberner [[Ring der Geistabschirmung]].\n- S70 - Izek: - Michal streift Ireena den [[Ring der Geistabschirmung]] über den Finger.\n"
 }

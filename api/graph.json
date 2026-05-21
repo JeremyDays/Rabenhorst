@@ -3463,6 +3463,12 @@
       "url": "notes/s75-der-tod-des-barons.html"
     },
     {
+      "id": "s76-suche-nach-dem-hirsch-medaillon",
+      "title": "S76 - Suche nach dem Hirsch-Medaillon",
+      "category": "session",
+      "url": "notes/s76-suche-nach-dem-hirsch-medaillon.html"
+    },
+    {
       "id": "bergwolfe",
       "title": "Bergwölfe",
       "category": "creature",
@@ -11657,8 +11663,8 @@
     },
     {
       "source": "gebetsbuch-des-morgenfursten",
-      "target": "s14-die-kirche-von-barovia",
-      "label": "S14 - Die Kirche von Barovia"
+      "target": "heinard",
+      "label": "Heinard"
     },
     {
       "source": "heilige-schrift-von-jelen-und-luna",
@@ -11672,13 +11678,8 @@
     },
     {
       "source": "heilige-schrift-von-jelen-und-luna",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "heilige-schrift-von-jelen-und-luna",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "heilige-schrift-von-jelen-und-luna",
+      "label": "Heilige Schrift von Jelen und Luna"
     },
     {
       "source": "alchimistenfeuer",
@@ -11692,13 +11693,8 @@
     },
     {
       "source": "alchimistenfeuer",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "alchimistenfeuer",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "alchimistenfeuer",
+      "label": "Alchimistenfeuer"
     },
     {
       "source": "bitterwurz",
@@ -11706,6 +11702,11 @@
       "label": "Haus Alkir"
     },
     {
+      "source": "bitterwurz",
+      "target": "heinard",
+      "label": "Heinard"
+    },
+    {
       "source": "feuerschutztrank",
       "target": "heinard",
       "label": "Heinard"
@@ -11717,13 +11718,8 @@
     },
     {
       "source": "feuerschutztrank",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "feuerschutztrank",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
+      "target": "feuerschutztrank",
+      "label": "Feuerschutztrank"
     },
     {
       "source": "heiltrank-der-hexen",
@@ -11736,19 +11732,14 @@
       "label": "Hexenmühle"
     },
     {
-      "source": "heiltrank-der-hexen",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
-    },
-    {
       "source": "heiltrank-von-grusha-1",
       "target": "weiler",
       "label": "Weiler"
     },
     {
       "source": "heiltrank-von-grusha-1",
-      "target": "s40-ritual-1-versuch",
-      "label": "S40 - Ritual, 1. Versuch"
+      "target": "heinard",
+      "label": "Heinard"
     },
     {
       "source": "hoffnungsschimmer",
@@ -11762,28 +11753,8 @@
     },
     {
       "source": "hoffnungsschimmer",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "hoffnungsschimmer",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
-    },
-    {
-      "source": "hoffnungsschimmer",
-      "target": "s22-die-uralte-steinbrucke",
-      "label": "S22 - Die Uralte Steinbrücke"
-    },
-    {
-      "source": "hoffnungsschimmer",
-      "target": "s26-engelstod",
-      "label": "S26 - Engelstod"
-    },
-    {
-      "source": "hoffnungsschimmer",
-      "target": "s72-udo-und-arm",
-      "label": "S72 - Udo und Arm"
+      "target": "hoffnungsschimmer",
+      "label": "Hoffnungsschimmer"
     },
     {
       "source": "jelens-flamme",
@@ -11797,18 +11768,23 @@
     },
     {
       "source": "jelens-flamme",
-      "target": "die-geschichte-der-drei-gefahrten",
-      "label": "Die Geschichte der Drei Gefährten"
+      "target": "heinard",
+      "label": "Heinard"
     },
     {
       "source": "jelens-flamme",
-      "target": "was-bisher-geschah",
-      "label": "Was bisher geschah..."
+      "target": "jelens-auge",
+      "label": "Jelens Auge"
     },
     {
       "source": "jelens-flamme",
-      "target": "s73-der-jelen-handschuh",
-      "label": "S73 - Der Jelen-Handschuh"
+      "target": "jelens-flamme",
+      "label": "Jelens Flamme"
+    },
+    {
+      "source": "jelens-flamme",
+      "target": "jelens-tropfen",
+      "label": "Jelens Tropfen"
     },
     {
       "source": "zwielicht-amulett",
@@ -11832,8 +11808,8 @@
     },
     {
       "source": "zwielicht-amulett",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "zwielicht-amulett",
+      "label": "Zwielicht-Amulett"
     },
     {
       "source": "flaschchen-geronnenes-blut",
@@ -11847,13 +11823,8 @@
     },
     {
       "source": "flaschchen-geronnenes-blut",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "flaschchen-geronnenes-blut",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "flaschchen-geronnenes-blut",
+      "label": "Fläschchen geronnenes Blut"
     },
     {
       "source": "flaschchen-truben-sumpfwassers-ohne-korken",
@@ -11867,13 +11838,8 @@
     },
     {
       "source": "flaschchen-truben-sumpfwassers-ohne-korken",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "flaschchen-truben-sumpfwassers-ohne-korken",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "flaschchen-truben-sumpfwassers-ohne-korken",
+      "label": "Fläschchen trüben Sumpfwassers ohne Korken"
     },
     {
       "source": "ratte-am-pfeil",
@@ -11892,8 +11858,8 @@
     },
     {
       "source": "ratte-am-pfeil",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "ratte-am-pfeil",
+      "label": "Ratte am Pfeil"
     },
     {
       "source": "stuck-getrockneter-haut-mit-mond-tatowierung",
@@ -11907,13 +11873,8 @@
     },
     {
       "source": "stuck-getrockneter-haut-mit-mond-tatowierung",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "stuck-getrockneter-haut-mit-mond-tatowierung",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "stuck-getrockneter-haut-mit-mond-tatowierung",
+      "label": "Stück getrockneter Haut mit Mond-Tätowierung"
     },
     {
       "source": "weidensymbol-von-jelen",
@@ -11927,23 +11888,28 @@
     },
     {
       "source": "weidensymbol-von-jelen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "weidensymbol-von-jelen",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "weidensymbol-von-jelen",
+      "label": "Weidensymbol von Jelen"
     },
     {
       "source": "heinards-decke",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "heinard",
+      "label": "Heinard"
+    },
+    {
+      "source": "heinards-decke",
+      "target": "heinards-decke",
+      "label": "Heinards Decke"
     },
     {
       "source": "heinards-geldbeutel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "heinard",
+      "label": "Heinard"
+    },
+    {
+      "source": "heinards-vornehme-kleidung",
+      "target": "heinard",
+      "label": "Heinard"
     },
     {
       "source": "lederner-schultergurtel",
@@ -11962,13 +11928,8 @@
     },
     {
       "source": "lederner-schultergurtel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "lederner-schultergurtel",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "lederner-schultergurtel",
+      "label": "Lederner Schultergürtel"
     },
     {
       "source": "hirsch-medaillon",
@@ -11987,63 +11948,28 @@
     },
     {
       "source": "hirsch-medaillon",
-      "target": "vallaki",
-      "label": "Vallaki"
-    },
-    {
-      "source": "hirsch-medaillon",
-      "target": "malduk",
-      "label": "Malduk"
-    },
-    {
-      "source": "hirsch-medaillon",
-      "target": "fest-der-brennenden-sonne",
-      "label": "Fest der Brennenden Sonne"
-    },
-    {
-      "source": "hirsch-medaillon",
-      "target": "baron-vargas-vallakovich",
-      "label": "Baron Vargas Vallakovich"
-    },
-    {
-      "source": "hirsch-medaillon",
-      "target": "weiler",
-      "label": "Weiler"
-    },
-    {
-      "source": "hirsch-medaillon",
       "target": "platz-des-wei-en-hirschs",
       "label": "Platz des Weißen Hirschs"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "heinard",
-      "label": "Heinard"
+      "target": "weiler",
+      "label": "Weilers"
     },
     {
       "source": "hirsch-medaillon",
-      "target": "dunkelheit",
-      "label": "Dunkelheit"
-    },
-    {
-      "source": "hirsch-medaillon",
-      "target": "michal",
-      "label": "Michal"
+      "target": "vallaki",
+      "label": "Vallaki"
     },
     {
       "source": "ring-der-geistabschirmung",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "ring-der-geistabschirmung",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
-    },
-    {
-      "source": "ring-der-geistabschirmung",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
+      "target": "ring-der-geistabschirmung",
+      "label": "Ring der Geistabschirmung"
     },
     {
       "source": "unsichtbarkeitstrank",
@@ -12052,18 +11978,13 @@
     },
     {
       "source": "unsichtbarkeitstrank",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "unsichtbarkeitstrank",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
-    },
-    {
-      "source": "unsichtbarkeitstrank",
-      "target": "s32-danika-und-grigor",
-      "label": "S32 - Danika und Grigor"
+      "target": "unsichtbarkeitstrank",
+      "label": "Unsichtbarkeitstrank"
     },
     {
       "source": "angespitzte-pfahle",
@@ -12077,8 +11998,8 @@
     },
     {
       "source": "angespitzte-pfahle",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "handspiegel",
@@ -12087,13 +12008,18 @@
     },
     {
       "source": "handspiegel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "handspiegel",
-      "target": "s05-1-og",
-      "label": "S05 - 1.OG"
+      "target": "handspiegel",
+      "label": "Handspiegel"
+    },
+    {
+      "source": "handspiegel",
+      "target": "puderdose",
+      "label": "Puderdose"
     },
     {
       "source": "ireenas-rucksack",
@@ -12107,13 +12033,13 @@
     },
     {
       "source": "ireenas-rucksack",
-      "target": "angespitzte-pfahle",
-      "label": "Angespitzte Pfähle"
+      "target": "ireenas-rucksack",
+      "label": "Ireenas Rucksack"
     },
     {
-      "source": "ireenas-rucksack",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "source": "ireenas-vornehme-kleidung",
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "kamm",
@@ -12122,13 +12048,13 @@
     },
     {
       "source": "kamm",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "kamm",
-      "target": "s05-1-og",
-      "label": "S05 - 1.OG"
+      "target": "kamm",
+      "label": "Kamm"
     },
     {
       "source": "puderdose",
@@ -12137,43 +12063,43 @@
     },
     {
       "source": "puderdose",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "ireena",
+      "label": "Ireena"
     },
     {
       "source": "puderdose",
-      "target": "s05-1-og",
-      "label": "S05 - 1.OG"
+      "target": "puderdose",
+      "label": "Puderdose"
+    },
+    {
+      "source": "puderdose",
+      "target": "handspiegel",
+      "label": "Handspiegel"
     },
     {
       "source": "kutschwagen-der-drascoi",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "kutschwagen-der-drascoi",
+      "label": "Kutschwagen der Drascoi"
     },
     {
       "source": "kutschwagen-der-drascoi",
-      "target": "holzschatulle-der-drascois",
-      "label": "Holzschatulle der Drascois"
+      "target": "vater-donavich",
+      "label": "Vater Donavich"
     },
     {
       "source": "kutschwagen-der-drascoi",
-      "target": "s15-drascoi",
-      "label": "S15 - Drascoi"
-    },
-    {
-      "source": "kutschwagen-der-drascoi",
-      "target": "s16-ein-handel-mit-bildrath",
-      "label": "S16 - Ein Handel mit Bildrath"
-    },
-    {
-      "source": "kutschwagen-der-drascoi",
-      "target": "s18-ivlis-kreuzung",
-      "label": "S18 - Ivlis-Kreuzung"
+      "target": "erna",
+      "label": "Erna"
     },
     {
       "source": "beutel-mit-edelsteinen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "beutel-mit-edelsteinen",
+      "target": "beutel-mit-edelsteinen",
+      "label": "Beutel mit Edelsteinen"
     },
     {
       "source": "flusssackchen",
@@ -12187,8 +12113,13 @@
     },
     {
       "source": "flusssackchen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "flusssackchen",
+      "target": "flusssackchen",
+      "label": "Flusssäckchen"
     },
     {
       "source": "holzschatulle-der-drascois",
@@ -12197,13 +12128,13 @@
     },
     {
       "source": "holzschatulle-der-drascois",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "holzschatulle-der-drascois",
-      "target": "s18-ivlis-kreuzung",
-      "label": "S18 - Ivlis-Kreuzung"
+      "target": "holzschatulle-der-drascois",
+      "label": "Holzschatulle der Drascois"
     },
     {
       "source": "ismarks-schatulle",
@@ -12222,18 +12153,28 @@
     },
     {
       "source": "ismarks-schatulle",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "ismarks-schatulle",
-      "target": "s17-angriff-der-vampirin",
-      "label": "S17 - Angriff der Vampirin"
+      "target": "ismarks-schatulle",
+      "label": "Ismarks Schatulle"
+    },
+    {
+      "source": "ismarks-schatulle",
+      "target": "quest",
+      "label": "Quest"
     },
     {
       "source": "malduks-geldbeutel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "malduks-geldbeutel",
+      "target": "malduks-geldbeutel",
+      "label": "Malduks Geldbeutel"
     },
     {
       "source": "abschiedsbrief-von-gustav-alkir-an-seine-kinder",
@@ -12257,13 +12198,13 @@
     },
     {
       "source": "abschiedsbrief-von-gustav-alkir-an-seine-kinder",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "abschiedsbrief-von-gustav-alkir-an-seine-kinder",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "abschiedsbrief-von-gustav-alkir-an-seine-kinder",
+      "label": "Abschiedsbrief von Gustav Alkir an seine Kinder"
     },
     {
       "source": "brief-eines-soldaten",
@@ -12361,6 +12302,16 @@
       "label": "Beniamin Octavious"
     },
     {
+      "source": "brief-eines-soldaten",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "brief-eines-soldaten",
+      "target": "brief-eines-soldaten",
+      "label": "Brief eines Soldaten"
+    },
+    {
       "source": "brief-von-burgomeister-koljan-indirowitsch",
       "target": "koljan-indirowitsch",
       "label": "Koljan Indirowitsch"
@@ -12397,23 +12348,18 @@
     },
     {
       "source": "brief-von-burgomeister-koljan-indirowitsch",
-      "target": "dulvan",
-      "label": "Dulvan"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "brief-von-burgomeister-koljan-indirowitsch",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "tor-von-barovia",
+      "label": "Tor von Barovia"
     },
     {
       "source": "brief-von-burgomeister-koljan-indirowitsch",
-      "target": "stofffetzen-an-dornen",
-      "label": "Stofffetzen an Dornen"
-    },
-    {
-      "source": "brief-von-burgomeister-koljan-indirowitsch",
-      "target": "s11-tor-von-barovia",
-      "label": "S11 - Tor von Barovia"
+      "target": "brief-von-burgomeister-koljan-indirowitsch",
+      "label": "Brief von Burgomeister Koljan Indirowitsch"
     },
     {
       "source": "brief-von-elisabeth-alkir-an-frau-petrowna",
@@ -12429,6 +12375,16 @@
       "source": "brief-von-elisabeth-alkir-an-frau-petrowna",
       "target": "elisabeth-alkir",
       "label": "Elisabeth Alkir"
+    },
+    {
+      "source": "brief-von-elisabeth-alkir-an-frau-petrowna",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "brief-von-elisabeth-alkir-an-frau-petrowna",
+      "target": "brief-von-elisabeth-alkir-an-frau-petrowna",
+      "label": "Brief von Elisabeth Alkir an Frau Petrowna"
     },
     {
       "source": "brief-von-strahd-an-alkir",
@@ -12457,13 +12413,8 @@
     },
     {
       "source": "brief-von-strahd-an-alkir",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "brief-von-strahd-an-alkir",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "brief-von-strahd-an-alkir",
+      "label": "Brief von Strahd an Alkir"
     },
     {
       "source": "chroniken-eines-kriegsfursten",
@@ -12487,18 +12438,13 @@
     },
     {
       "source": "chroniken-eines-kriegsfursten",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "chroniken-eines-kriegsfursten",
-      "target": "00-ubersicht",
-      "label": "00 - Übersicht"
-    },
-    {
-      "source": "chroniken-eines-kriegsfursten",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "chroniken-eines-kriegsfursten",
+      "label": "Chroniken eines Kriegsfürsten"
     },
     {
       "source": "das-leben-des-khazan",
@@ -12712,8 +12658,13 @@
     },
     {
       "source": "das-leben-des-khazan",
-      "target": "ghakis-berge",
-      "label": "Ghakis-Berge"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "das-leben-des-khazan",
+      "target": "das-leben-des-khazan",
+      "label": "Das Leben des Khazan"
     },
     {
       "source": "der-fall-von-argynvost",
@@ -12976,6 +12927,16 @@
       "label": "Schlosses"
     },
     {
+      "source": "der-fall-von-argynvost",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "der-fall-von-argynvost",
+      "target": "der-fall-von-argynvost",
+      "label": "Der Fall von Argynvost"
+    },
+    {
       "source": "der-hof-von-rabenhorst",
       "target": "malduk",
       "label": "Malduk"
@@ -13236,6 +13197,11 @@
       "label": "Bergfried in Berez"
     },
     {
+      "source": "der-hof-von-rabenhorst",
+      "target": "der-hof-von-rabenhorst",
+      "label": "Der Hof von Rabenhorst"
+    },
+    {
       "source": "die-legende-von-lugdana",
       "target": "altes-handelshaus",
       "label": "Altes Handelshaus"
@@ -13494,6 +13460,16 @@
       "source": "die-legende-von-lugdana",
       "target": "wiederganger",
       "label": "Wiedergänger"
+    },
+    {
+      "source": "die-legende-von-lugdana",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "die-legende-von-lugdana",
+      "target": "die-legende-von-lugdana",
+      "label": "Die Legende von Lugdana"
     },
     {
       "source": "fey-von-barovia",
@@ -14016,6 +13992,16 @@
       "label": "Sumpfgeister"
     },
     {
+      "source": "fey-von-barovia",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "fey-von-barovia",
+      "target": "fey-von-barovia",
+      "label": "Fey von Barovia"
+    },
+    {
       "source": "gesegnetes-leben-von-dem-heiligen-sankt-andral",
       "target": "vater-lucian-petrovich",
       "label": "Vater Lucian Petrovich"
@@ -14112,8 +14098,13 @@
     },
     {
       "source": "gesegnetes-leben-von-dem-heiligen-sankt-andral",
-      "target": "00-ubersicht",
-      "label": "00 - Übersicht"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "gesegnetes-leben-von-dem-heiligen-sankt-andral",
+      "target": "gesegnetes-leben-von-dem-heiligen-sankt-andral",
+      "label": "Gesegnetes Leben von dem Heiligen Sankt Andral"
     },
     {
       "source": "kampf-am-tsolenka-pass",
@@ -14282,13 +14273,18 @@
     },
     {
       "source": "kampf-am-tsolenka-pass",
-      "target": "bargau",
-      "label": "Bârgau"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "kampf-am-tsolenka-pass",
-      "target": "heiligtum-der-bergfey",
-      "label": "Heiligtum der Bergfey"
+      "target": "kampf-am-tsolenka-pass",
+      "label": "Kampf am Tsolenka Pass"
+    },
+    {
+      "source": "kampf-am-tsolenka-pass",
+      "target": "gro-er-krieg",
+      "label": "Großer Krieg"
     },
     {
       "source": "kult-logbuch",
@@ -14341,14 +14337,24 @@
       "label": "Elisabeta Barthos"
     },
     {
+      "source": "kult-logbuch",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
       "source": "sagen-gedichte",
       "target": "altes-handelshaus",
       "label": "Altes Handelshaus"
     },
     {
       "source": "sagen-gedichte",
-      "target": "s16-ein-handel-mit-bildrath",
-      "label": "S16 - Ein Handel mit Bildrath"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "sagen-gedichte",
+      "target": "sagen-gedichte",
+      "label": "Sagen & Gedichte"
     },
     {
       "source": "tarokka",
@@ -14522,18 +14528,18 @@
     },
     {
       "source": "tarokka",
-      "target": "einsame-vistana",
-      "label": "Einsame Vistana"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "tarokka",
-      "target": "rictavio",
-      "label": "Rictavio"
+      "target": "tarokka",
+      "label": "Tarokka"
     },
     {
       "source": "tarokka",
-      "target": "edelstein-grun",
-      "label": "Edelstein (Grün)"
+      "target": "madame-eva",
+      "label": "Madame Eva"
     },
     {
       "source": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht",
@@ -14542,8 +14548,8 @@
     },
     {
       "source": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "codex-der-hydromantie",
@@ -14552,8 +14558,8 @@
     },
     {
       "source": "codex-der-hydromantie",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "liber-mortis-domesticus",
@@ -14562,23 +14568,48 @@
     },
     {
       "source": "liber-mortis-domesticus",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
+      "target": "victor-vallakovich",
+      "label": "Victors"
+    },
+    {
+      "source": "liber-mortis-domesticus",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "liber-mortis-domesticus",
+      "target": "arcanum-der-ebenen-knotenkoordinaten-und-die-luge-der-flucht",
+      "label": "Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht"
+    },
+    {
+      "source": "liber-mortis-domesticus",
+      "target": "codex-der-hydromantie",
+      "label": "Codex der Hydromantie"
+    },
+    {
+      "source": "liber-mortis-domesticus",
+      "target": "izek-strazni",
+      "label": "Izek Strazni"
     },
     {
       "source": "rotes-buch",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "rotes-buch",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "rotes-buch",
+      "label": "Rotes Buch"
     },
     {
       "source": "rotes-buch",
-      "target": "s12-ankunft-barovia",
-      "label": "S12 - Ankunft Barovia"
+      "target": "schwarzes-buch",
+      "label": "Schwarzes Buch"
+    },
+    {
+      "source": "rotes-buch",
+      "target": "wei-es-buch",
+      "label": "Weißes Buch"
     },
     {
       "source": "scharlachroter-umhang",
@@ -14592,63 +14623,53 @@
     },
     {
       "source": "scharlachroter-umhang",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "scharlachroter-umhang",
+      "label": "Scharlachroter Umhang"
     },
     {
       "source": "scharlachroter-umhang",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
-    },
-    {
-      "source": "scharlachroter-umhang",
-      "target": "s42-ankunft-in-vallaki",
-      "label": "S42 - Ankunft in Vallaki"
+      "target": "ring-der-herrschaft-uber-das-arkana-wasser",
+      "label": "Ring der Herrschaft über das Arkana Wasser"
     },
     {
       "source": "schwarzes-buch",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "schwarzes-buch",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "schwarzes-buch",
+      "label": "Schwarzes Buch"
     },
     {
       "source": "schwarzes-buch",
-      "target": "s12-ankunft-barovia",
-      "label": "S12 - Ankunft Barovia"
+      "target": "rotes-buch",
+      "label": "Rotes Buch"
     },
     {
       "source": "schwarzes-buch",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
+      "target": "wei-es-buch",
+      "label": "Weißes Buch"
     },
     {
       "source": "wei-es-buch",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "wei-es-buch",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "wei-es-buch",
+      "label": "Weißes Buch"
     },
     {
       "source": "wei-es-buch",
-      "target": "s12-ankunft-barovia",
-      "label": "S12 - Ankunft Barovia"
+      "target": "schwarzes-buch",
+      "label": "Schwarzes Buch"
     },
     {
       "source": "wei-es-buch",
-      "target": "s39-brans-wut",
-      "label": "S39 - Brans Wut"
-    },
-    {
-      "source": "wei-es-buch",
-      "target": "s40-ritual-1-versuch",
-      "label": "S40 - Ritual, 1. Versuch"
+      "target": "rotes-buch",
+      "label": "Rotes Buch"
     },
     {
       "source": "heiltrank-von-grusha-3",
@@ -14657,8 +14678,13 @@
     },
     {
       "source": "heiltrank-von-grusha-3",
-      "target": "s69-von-golems-und-ritualen",
-      "label": "S69 - Von Golems und Ritualen"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "heiltrank-von-grusha-3",
+      "target": "heiltrank-von-grusha-3",
+      "label": "Heiltrank von Grusha 3"
     },
     {
       "source": "jelens-tropfen",
@@ -14672,13 +14698,33 @@
     },
     {
       "source": "jelens-tropfen",
-      "target": "s73-der-jelen-handschuh",
-      "label": "S73 - Der Jelen-Handschuh"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "jelens-tropfen",
+      "target": "jelens-auge",
+      "label": "Jelens Auge"
+    },
+    {
+      "source": "jelens-tropfen",
+      "target": "jelens-flamme",
+      "label": "Jelens Flamme"
+    },
+    {
+      "source": "jelens-tropfen",
+      "target": "jelens-tropfen",
+      "label": "Jelens Tropfen"
     },
     {
       "source": "malduks-zauberstab",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "malduks-zauberstab",
+      "target": "malduks-zauberstab",
+      "label": "Malduks Zauberstab"
     },
     {
       "source": "riesen-zahn",
@@ -14692,38 +14738,23 @@
     },
     {
       "source": "riesen-zahn",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "riesen-zahn",
+      "label": "Riesen-Zahn"
     },
     {
       "source": "riesen-zahn",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
-    },
-    {
-      "source": "riesen-zahn",
-      "target": "s39-brans-wut",
-      "label": "S39 - Brans Wut"
+      "target": "grusha",
+      "label": "Grusha"
     },
     {
       "source": "ring-der-herrschaft-uber-das-arkana-wasser",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "ring-der-herrschaft-uber-das-arkana-wasser",
-      "target": "s21-tser-falle",
-      "label": "S21 - Tser-Fälle"
-    },
-    {
-      "source": "ring-der-herrschaft-uber-das-arkana-wasser",
-      "target": "s42-ankunft-in-vallaki",
-      "label": "S42 - Ankunft in Vallaki"
-    },
-    {
-      "source": "ring-der-herrschaft-uber-das-arkana-wasser",
-      "target": "s72-udo-und-arm",
-      "label": "S72 - Udo und Arm"
+      "target": "ring-der-herrschaft-uber-das-arkana-wasser",
+      "label": "Ring der Herrschaft über das Arkana Wasser"
     },
     {
       "source": "ring-der-magieabwehr",
@@ -14747,8 +14778,8 @@
     },
     {
       "source": "ring-der-magieabwehr",
-      "target": "s74-das-fest-der-brennenden-sonne",
-      "label": "S74 - Das Fest der Brennenden Sonne"
+      "target": "ring-der-magieabwehr",
+      "label": "Ring der Magieabwehr"
     },
     {
       "source": "silber-medaillon",
@@ -14767,8 +14798,8 @@
     },
     {
       "source": "silber-medaillon",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "silber-medaillon",
+      "label": "Silber-Medaillon"
     },
     {
       "source": "spiegel-der-wahrheit",
@@ -14782,33 +14813,18 @@
     },
     {
       "source": "spiegel-der-wahrheit",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "spiegel-der-wahrheit",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
-    },
-    {
-      "source": "spiegel-der-wahrheit",
-      "target": "s32-danika-und-grigor",
-      "label": "S32 - Danika und Grigor"
-    },
-    {
-      "source": "spiegel-der-wahrheit",
-      "target": "s44-st-andrals-waisenhaus",
-      "label": "S44 - St. Andrals Waisenhaus"
+      "target": "spiegel-der-wahrheit",
+      "label": "Spiegel der Wahrheit"
     },
     {
       "source": "stiefel-der-geschwindigkeit",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "stiefel-der-geschwindigkeit",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
+      "target": "stiefel-der-geschwindigkeit",
+      "label": "Stiefel der Geschwindigkeit"
     },
     {
       "source": "abgetrennte-finger-mit-langem-fingernagel",
@@ -14822,13 +14838,8 @@
     },
     {
       "source": "abgetrennte-finger-mit-langem-fingernagel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "abgetrennte-finger-mit-langem-fingernagel",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "abgetrennte-finger-mit-langem-fingernagel",
+      "label": "Abgetrennte Finger mit langem Fingernagel"
     },
     {
       "source": "bernsteinscherbe",
@@ -14847,13 +14858,8 @@
     },
     {
       "source": "bernsteinscherbe",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "bernsteinscherbe",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "bernsteinscherbe",
+      "label": "Bernsteinscherbe"
     },
     {
       "source": "getrockneter-strau-wolfsmilch",
@@ -14867,13 +14873,8 @@
     },
     {
       "source": "getrockneter-strau-wolfsmilch",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "getrockneter-strau-wolfsmilch",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "getrockneter-strau-wolfsmilch",
+      "label": "Getrockneter Strauß Wolfsmilch"
     },
     {
       "source": "haarlocke",
@@ -14887,13 +14888,8 @@
     },
     {
       "source": "haarlocke",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "haarlocke",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "haarlocke",
+      "label": "Haarlocke"
     },
     {
       "source": "klaue-eines-raben",
@@ -14907,13 +14903,8 @@
     },
     {
       "source": "klaue-eines-raben",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "klaue-eines-raben",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "klaue-eines-raben",
+      "label": "Klaue eines Raben"
     },
     {
       "source": "schwarzer-zweig-mit-blutroten-dornen",
@@ -14927,13 +14918,8 @@
     },
     {
       "source": "schwarzer-zweig-mit-blutroten-dornen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "schwarzer-zweig-mit-blutroten-dornen",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "schwarzer-zweig-mit-blutroten-dornen",
+      "label": "Schwarzer Zweig mit blutroten Dornen"
     },
     {
       "source": "stofffetzen-an-dornen",
@@ -14947,8 +14933,13 @@
     },
     {
       "source": "stofffetzen-an-dornen",
-      "target": "s11-tor-von-barovia",
-      "label": "S11 - Tor von Barovia"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "stofffetzen-an-dornen",
+      "target": "stofffetzen-an-dornen",
+      "label": "Stofffetzen an Dornen"
     },
     {
       "source": "vertrocknetes-spitzohr",
@@ -14962,33 +14953,23 @@
     },
     {
       "source": "vertrocknetes-spitzohr",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "vertrocknetes-spitzohr",
+      "label": "Vertrocknetes Spitzohr"
     },
     {
       "source": "vertrocknetes-spitzohr",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
-    },
-    {
-      "source": "vertrocknetes-spitzohr",
-      "target": "s62-zuber-und-kleider",
-      "label": "S62 - Zuber und Kleider"
-    },
-    {
-      "source": "vertrocknetes-spitzohr",
-      "target": "s63-baron-vargas",
-      "label": "S63 - Baron Vargas"
-    },
-    {
-      "source": "vertrocknetes-spitzohr",
-      "target": "s64-der-baron-bittet-zu-tisch",
-      "label": "S64 - Der Baron bittet zu Tisch"
+      "target": "rictavio",
+      "label": "Rictavio"
     },
     {
       "source": "zauberkomponenten",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "zauberkomponenten",
+      "target": "zauberkomponenten",
+      "label": "Zauberkomponenten"
     },
     {
       "source": "zerfetzte-uberreste-von-vogelfeder",
@@ -15002,13 +14983,8 @@
     },
     {
       "source": "zerfetzte-uberreste-von-vogelfeder",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "zerfetzte-uberreste-von-vogelfeder",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "zerfetzte-uberreste-von-vogelfeder",
+      "label": "Zerfetzte Überreste von Vogelfeder"
     },
     {
       "source": "zombie-teile",
@@ -15022,8 +14998,13 @@
     },
     {
       "source": "zombie-teile",
-      "target": "s19-die-blauen-vistani",
-      "label": "S19 - Die Blauen Vistani"
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "zombie-teile",
+      "target": "zombie-teile",
+      "label": "Zombie-Teile"
     },
     {
       "source": "dietriche",
@@ -15037,13 +15018,8 @@
     },
     {
       "source": "dietriche",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "dietriche",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "dietriche",
+      "label": "Dietriche"
     },
     {
       "source": "eiserner-schlussel-von-haus-alkir",
@@ -15057,13 +15033,8 @@
     },
     {
       "source": "eiserner-schlussel-von-haus-alkir",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "eiserner-schlussel-von-haus-alkir",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "eiserner-schlussel-von-haus-alkir",
+      "label": "Eiserner Schlüssel von Haus Alkir"
     },
     {
       "source": "gruner-leder-regenschirm",
@@ -15076,14 +15047,19 @@
       "label": "Hexenmühle"
     },
     {
-      "source": "gruner-leder-regenschirm",
-      "target": "s24-steinkreis",
-      "label": "S24 - Steinkreis"
+      "source": "malduks-messer",
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "malduks-messer",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduks-messer",
+      "label": "Malduks Messer"
+    },
+    {
+      "source": "malduks-vornehme-kleidung",
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "strahds-siegelring",
@@ -15102,13 +15078,8 @@
     },
     {
       "source": "strahds-siegelring",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "strahds-siegelring",
-      "target": "s04-eg",
-      "label": "S04 - EG"
+      "target": "strahds-siegelring",
+      "label": "Strahds Siegelring"
     },
     {
       "source": "umhangetasche",
@@ -15117,13 +15088,13 @@
     },
     {
       "source": "umhangetasche",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "malduk",
+      "label": "Malduk"
     },
     {
       "source": "umhangetasche",
-      "target": "s05-1-og",
-      "label": "S05 - 1.OG"
+      "target": "umhangetasche",
+      "label": "Umhängetasche"
     },
     {
       "source": "alkir-schild",
@@ -15157,18 +15128,18 @@
     },
     {
       "source": "alkir-schild",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "alkir-schild",
-      "target": "s24-steinkreis",
-      "label": "S24 - Steinkreis"
+      "target": "alkir-schild",
+      "label": "Alkir-Schild"
     },
     {
       "source": "heiltrank-von-grusha-2",
       "target": "weiler",
       "label": "Weiler"
+    },
+    {
+      "source": "heiltrank-von-grusha-2",
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "henkersaxt",
@@ -15182,28 +15153,13 @@
     },
     {
       "source": "henkersaxt",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "lichtbringer",
+      "label": "Lichtbringer"
     },
     {
       "source": "henkersaxt",
-      "target": "die-geschichte-der-drei-gefahrten",
-      "label": "Die Geschichte der Drei Gefährten"
-    },
-    {
-      "source": "henkersaxt",
-      "target": "was-bisher-geschah",
-      "label": "Was bisher geschah..."
-    },
-    {
-      "source": "henkersaxt",
-      "target": "s24-steinkreis",
-      "label": "S24 - Steinkreis"
-    },
-    {
-      "source": "henkersaxt",
-      "target": "s31-die-opfer-der-hexen",
-      "label": "S31 - Die Opfer der Hexen"
+      "target": "henkersaxt",
+      "label": "Henkersaxt"
     },
     {
       "source": "jelens-auge",
@@ -15217,8 +15173,23 @@
     },
     {
       "source": "jelens-auge",
-      "target": "s73-der-jelen-handschuh",
-      "label": "S73 - Der Jelen-Handschuh"
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "jelens-auge",
+      "target": "jelens-auge",
+      "label": "Jelens Auge"
+    },
+    {
+      "source": "jelens-auge",
+      "target": "jelens-flamme",
+      "label": "Jelens Flamme"
+    },
+    {
+      "source": "jelens-auge",
+      "target": "jelens-tropfen",
+      "label": "Jelens Tropfen"
     },
     {
       "source": "kettenhemd-der-erde",
@@ -15232,13 +15203,8 @@
     },
     {
       "source": "kettenhemd-der-erde",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "kettenhemd-der-erde",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "kettenhemd-der-erde",
+      "label": "Kettenhemd der Erde"
     },
     {
       "source": "lichtbringer",
@@ -15252,28 +15218,13 @@
     },
     {
       "source": "lichtbringer",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "lichtbringer",
+      "label": "Lichtbringer"
     },
     {
       "source": "lichtbringer",
-      "target": "die-geschichte-der-drei-gefahrten",
-      "label": "Die Geschichte der Drei Gefährten"
-    },
-    {
-      "source": "lichtbringer",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
-    },
-    {
-      "source": "lichtbringer",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
-    },
-    {
-      "source": "lichtbringer",
-      "target": "s17-angriff-der-vampirin",
-      "label": "S17 - Angriff der Vampirin"
+      "target": "henkersaxt",
+      "label": "Henkersaxt"
     },
     {
       "source": "riesenfigur",
@@ -15287,8 +15238,8 @@
     },
     {
       "source": "riesenfigur",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "riesenfigur",
+      "label": "Riesenfigur"
     },
     {
       "source": "schutzkerze",
@@ -15297,13 +15248,13 @@
     },
     {
       "source": "schutzkerze",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "schutzkerze",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "schutzkerze",
+      "label": "Schutzkerze"
     },
     {
       "source": "silberklinge",
@@ -15317,13 +15268,8 @@
     },
     {
       "source": "silberklinge",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "silberklinge",
-      "target": "s09-ghule",
-      "label": "S09 - Ghule"
+      "target": "silberklinge",
+      "label": "Silberklinge"
     },
     {
       "source": "alte-axt",
@@ -15332,8 +15278,8 @@
     },
     {
       "source": "alte-axt",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "alte-axt",
+      "label": "Alte Axt"
     },
     {
       "source": "alter-rucksack",
@@ -15347,8 +15293,8 @@
     },
     {
       "source": "alter-rucksack",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "alter-rucksack",
+      "label": "Alter Rucksack"
     },
     {
       "source": "bullaugen-laterne",
@@ -15362,13 +15308,8 @@
     },
     {
       "source": "bullaugen-laterne",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
-    },
-    {
-      "source": "bullaugen-laterne",
-      "target": "s10-katakomben",
-      "label": "S10 - Katakomben"
+      "target": "bullaugen-laterne",
+      "label": "Bullaugen-Laterne"
     },
     {
       "source": "geldbeutel-mit-fingerknochelchen",
@@ -15382,13 +15323,13 @@
     },
     {
       "source": "geldbeutel-mit-fingerknochelchen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "geldbeutel-mit-fingerknochelchen",
-      "target": "s09-ghule",
-      "label": "S09 - Ghule"
+      "target": "geldbeutel-mit-fingerknochelchen",
+      "label": "Geldbeutel mit Fingerknöchelchen"
     },
     {
       "source": "geschnitzter-rabe",
@@ -15426,21 +15367,6 @@
       "label": "Rabe"
     },
     {
-      "source": "geschnitzter-rabe",
-      "target": "s20-madame-eva",
-      "label": "S20 - Madame Eva"
-    },
-    {
-      "source": "geschnitzter-rabe",
-      "target": "s63-baron-vargas",
-      "label": "S63 - Baron Vargas"
-    },
-    {
-      "source": "geschnitzter-rabe",
-      "target": "s64-der-baron-bittet-zu-tisch",
-      "label": "S64 - Der Baron bittet zu Tisch"
-    },
-    {
       "source": "handarmbrust",
       "target": "ireena",
       "label": "Ireena"
@@ -15452,13 +15378,13 @@
     },
     {
       "source": "handarmbrust",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "handarmbrust",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "handarmbrust",
+      "label": "Handarmbrust"
     },
     {
       "source": "kleiner-stofffetzen",
@@ -15472,13 +15398,23 @@
     },
     {
       "source": "kleiner-stofffetzen",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "kleiner-stofffetzen",
+      "target": "kleiner-stofffetzen",
+      "label": "Kleiner Stofffetzen"
     },
     {
       "source": "michals-geldbeutel",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "michals-vornehme-kleidung",
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "schlussel-zur-blutigen-rebe",
@@ -15492,13 +15428,8 @@
     },
     {
       "source": "schlussel-zur-blutigen-rebe",
-      "target": "s74-das-fest-der-brennenden-sonne",
-      "label": "S74 - Das Fest der Brennenden Sonne"
-    },
-    {
-      "source": "schlussel-zur-blutigen-rebe",
-      "target": "s75-der-tod-des-barons",
-      "label": "S75 - Der Tod des Barons"
+      "target": "schlussel-zur-blutigen-rebe",
+      "label": "Schlüssel zur blutigen Rebe"
     },
     {
       "source": "seil",
@@ -15507,8 +15438,13 @@
     },
     {
       "source": "seil",
-      "target": "s13-haus-des-burgomeisters",
-      "label": "S13 - Haus des Burgomeisters"
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "seil",
+      "target": "seil",
+      "label": "Seil"
     },
     {
       "source": "anhanger-der-herrinnen",
@@ -15527,13 +15463,13 @@
     },
     {
       "source": "anhanger-der-herrinnen",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "anhanger-der-herrinnen",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "anhanger-der-herrinnen",
+      "label": "Anhänger der Herrinnen"
     },
     {
       "source": "feldflasche-von-sergeant-zorovich",
@@ -15542,8 +15478,43 @@
     },
     {
       "source": "feldflasche-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "feldflasche-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "feuerstein-und-stahl-von-sergeant-zorovich",
@@ -15552,13 +15523,43 @@
     },
     {
       "source": "feuerstein-und-stahl-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "feuerstein-und-stahl-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "flote-von-sergeant-zorovich",
@@ -15567,13 +15568,43 @@
     },
     {
       "source": "flote-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "flote-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "flote-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "gurtel-von-gustav-alkir",
@@ -15582,13 +15613,13 @@
     },
     {
       "source": "gurtel-von-gustav-alkir",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "gurtel-von-gustav-alkir",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "gurtel-von-gustav-alkir",
+      "label": "Gürtel von Gustav Alkir"
     },
     {
       "source": "luna-stern-von-gustav-alkir",
@@ -15597,13 +15628,13 @@
     },
     {
       "source": "luna-stern-von-gustav-alkir",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "luna-stern-von-gustav-alkir",
-      "target": "s06-2-og",
-      "label": "S06 - 2.OG"
+      "target": "luna-stern-von-gustav-alkir",
+      "label": "Luna-Stern von Gustav Alkir"
     },
     {
       "source": "messer-von-sergeant-zorovich",
@@ -15612,13 +15643,43 @@
     },
     {
       "source": "messer-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "messer-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "messer-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "notizbuch-von-sergeant-zorovich",
@@ -15677,18 +15738,18 @@
     },
     {
       "source": "notizbuch-von-sergeant-zorovich",
-      "target": "wei-er-hirsch",
-      "label": "Weißer Hirsch"
+      "target": "kronenstadt",
+      "label": "Kronenstadt"
     },
     {
       "source": "notizbuch-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
     },
     {
       "source": "notizbuch-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "barovia",
+      "label": "Barovia"
     },
     {
       "source": "tabaksbeutel-von-sergeant-zorovich",
@@ -15697,13 +15758,43 @@
     },
     {
       "source": "tabaksbeutel-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "tabaksbeutel-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "tabaksbeutel-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "tasche-von-sergeant-zorovich",
@@ -15712,13 +15803,43 @@
     },
     {
       "source": "tasche-von-sergeant-zorovich",
-      "target": "alle-gegenstande",
-      "label": "Alle Gegenstände"
+      "target": "michal",
+      "label": "Michal"
     },
     {
       "source": "tasche-von-sergeant-zorovich",
-      "target": "s08-grufte",
-      "label": "S08 - Grüfte"
+      "target": "tasche-von-sergeant-zorovich",
+      "label": "Tasche von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "notizbuch-von-sergeant-zorovich",
+      "label": "Notizbuch von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "messer-von-sergeant-zorovich",
+      "label": "Messer von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "tabaksbeutel-von-sergeant-zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "feuerstein-und-stahl-von-sergeant-zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "flote-von-sergeant-zorovich",
+      "label": "Flöte von Sergeant Zorovich"
+    },
+    {
+      "source": "tasche-von-sergeant-zorovich",
+      "target": "feldflasche-von-sergeant-zorovich",
+      "label": "Feldflasche von Sergeant Zorovich"
     },
     {
       "source": "berichte-uber-unruhen-und-aufstande-und-ihre-niederschlagung",
@@ -15726,19 +15847,9 @@
       "label": "Baron Vargas Vallakovich"
     },
     {
-      "source": "berichte-uber-unruhen-und-aufstande-und-ihre-niederschlagung",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
-    },
-    {
       "source": "chroniken-von-vallaki",
       "target": "baron-vargas-vallakovich",
       "label": "Baron Vargas Vallakovich"
-    },
-    {
-      "source": "chroniken-von-vallaki",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
     },
     {
       "source": "den-augen-des-morgenlords-entschwunden",
@@ -15757,13 +15868,8 @@
     },
     {
       "source": "den-augen-des-morgenlords-entschwunden",
-      "target": "st-andrals-waisenhaus",
-      "label": "St. Andrals Waisenhaus"
-    },
-    {
-      "source": "den-augen-des-morgenlords-entschwunden",
-      "target": "s44-st-andrals-waisenhaus",
-      "label": "S44 - St. Andrals Waisenhaus"
+      "target": "den-augen-des-morgenlords-entschwunden",
+      "label": "Den Augen des Morgenlords entschwunden"
     },
     {
       "source": "die-klinge-der-wahrheit-der-nutzen-der-logik-im-kampf-gegen-diabolische-irrlehre",
@@ -15774,11 +15880,6 @@
       "source": "die-klinge-der-wahrheit-der-nutzen-der-logik-im-kampf-gegen-diabolische-irrlehre",
       "target": "barovia",
       "label": "Barovia"
-    },
-    {
-      "source": "die-klinge-der-wahrheit-der-nutzen-der-logik-im-kampf-gegen-diabolische-irrlehre",
-      "target": "kirche-von-barovia",
-      "label": "Kirche von Barovia"
     },
     {
       "source": "rictavios-buch",
@@ -15792,18 +15893,18 @@
     },
     {
       "source": "rictavios-buch",
-      "target": "s20-madame-eva",
-      "label": "S20 - Madame Eva"
+      "target": "tarokka",
+      "label": "Tarokka"
     },
     {
       "source": "rictavios-buch",
-      "target": "s63-baron-vargas",
-      "label": "S63 - Baron Vargas"
+      "target": "vasili-von-holtz",
+      "label": "Vasili von Holtz"
     },
     {
       "source": "rictavios-buch",
-      "target": "s64-der-baron-bittet-zu-tisch",
-      "label": "S64 - Der Baron bittet zu Tisch"
+      "target": "rictavios-buch",
+      "label": "Rictavios Buch"
     },
     {
       "source": "tagebuch-von-frau-belasco",
@@ -15817,8 +15918,8 @@
     },
     {
       "source": "tagebuch-von-frau-belasco",
-      "target": "s45-der-dunkelheit-auf-der-spur",
-      "label": "S45 - Der Dunkelheit auf der Spur"
+      "target": "tagebuch-von-frau-belasco",
+      "label": "Tagebuch von Frau Belasco"
     },
     {
       "source": "tagebuch-von-graf-stahbal-indi-bhak",
@@ -15837,8 +15938,8 @@
     },
     {
       "source": "tagebuch-von-graf-stahbal-indi-bhak",
-      "target": "der-hof-von-rabenhorst",
-      "label": "Der Hof von Rabenhorst"
+      "target": "tagebuch-von-graf-stahbal-indi-bhak",
+      "label": "Tagebuch von Graf Stahbal Indi-Bhak"
     },
     {
       "source": "toxische-erziehung-das-verletzende-erbe-der-korperlichen-bestrafung",
@@ -15857,18 +15958,13 @@
     },
     {
       "source": "toxische-erziehung-das-verletzende-erbe-der-korperlichen-bestrafung",
-      "target": "s44-st-andrals-waisenhaus",
-      "label": "S44 - St. Andrals Waisenhaus"
+      "target": "toxische-erziehung-das-verletzende-erbe-der-korperlichen-bestrafung",
+      "label": "Toxische Erziehung. Das verletzende Erbe der körperlichen Bestrafung"
     },
     {
       "source": "uber-gluck-und-gehorsam-und-das-gluck-des-volkes",
       "target": "baron-vargas-vallakovich",
       "label": "Baron Vargas Vallakovich"
-    },
-    {
-      "source": "uber-gluck-und-gehorsam-und-das-gluck-des-volkes",
-      "target": "s70-izek",
-      "label": "S70 - Izek"
     },
     {
       "source": "drachenschadel",
@@ -15882,28 +15978,38 @@
     },
     {
       "source": "drachenschadel",
+      "target": "drachenschadel",
+      "label": "Drachenschädel"
+    },
+    {
+      "source": "drachenschadel",
+      "target": "argynvostholt",
+      "label": "Argynvostholt"
+    },
+    {
+      "source": "drachenschadel",
+      "target": "wasserfey",
+      "label": "Wasserfey"
+    },
+    {
+      "source": "drachenschadel",
+      "target": "graf-strahd",
+      "label": "Graf Strahd"
+    },
+    {
+      "source": "drachenschadel",
       "target": "quest",
       "label": "Quest"
     },
     {
       "source": "drachenschadel",
-      "target": "khazan",
-      "label": "Khazan"
+      "target": "vladimir-horngaard",
+      "label": "Vladimir Horngaard"
     },
     {
       "source": "drachenschadel",
-      "target": "der-fall-von-argynvost",
-      "label": "Der Fall von Argynvost"
-    },
-    {
-      "source": "drachenschadel",
-      "target": "die-legende-von-lugdana",
-      "label": "Die Legende von Lugdana"
-    },
-    {
-      "source": "drachenschadel",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
+      "target": "argynvost",
+      "label": "Argynvost"
     },
     {
       "source": "edelstein-blau",
@@ -15956,16 +16062,6 @@
       "label": "Blauen Edelstein"
     },
     {
-      "source": "edelstein-blau",
-      "target": "quest",
-      "label": "Quest"
-    },
-    {
-      "source": "edelstein-blau",
-      "target": "ben-otvos",
-      "label": "Ben Otvos"
-    },
-    {
       "source": "edelstein-grun",
       "target": "edelsteine-der-fey",
       "label": "Edelsteine der Fey"
@@ -16009,21 +16105,6 @@
       "source": "edelstein-grun",
       "target": "wer-raben",
       "label": "Wer-Raben"
-    },
-    {
-      "source": "edelstein-grun",
-      "target": "quest",
-      "label": "Quest"
-    },
-    {
-      "source": "edelstein-grun",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
-    },
-    {
-      "source": "edelstein-grun",
-      "target": "tarokka",
-      "label": "Tarokka"
     },
     {
       "source": "edelstein-rot",
@@ -16072,13 +16153,8 @@
     },
     {
       "source": "edelstein-rot",
-      "target": "quest",
-      "label": "Quest"
-    },
-    {
-      "source": "edelstein-rot",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
+      "target": "graf-strahd",
+      "label": "Graf Strahd"
     },
     {
       "source": "edelsteine-der-fey",
@@ -16137,28 +16213,8 @@
     },
     {
       "source": "edelsteine-der-fey",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
-    },
-    {
-      "source": "edelsteine-der-fey",
-      "target": "tarokka",
-      "label": "Tarokka"
-    },
-    {
-      "source": "edelsteine-der-fey",
-      "target": "edelstein-blau",
-      "label": "Edelstein (Blau)"
-    },
-    {
-      "source": "edelsteine-der-fey",
-      "target": "edelstein-grun",
-      "label": "Edelstein (Grün)"
-    },
-    {
-      "source": "edelsteine-der-fey",
-      "target": "edelstein-rot",
-      "label": "Edelstein (Rot)"
+      "target": "magie",
+      "label": "Magie"
     },
     {
       "source": "felix-medaillon",
@@ -16196,34 +16252,19 @@
       "label": "Knochen des St. Andral"
     },
     {
-      "source": "felix-medaillon",
-      "target": "claudia-belasco",
-      "label": "Claudia Belasco"
-    },
-    {
-      "source": "felix-medaillon",
-      "target": "s45-der-dunkelheit-auf-der-spur",
-      "label": "S45 - Der Dunkelheit auf der Spur"
-    },
-    {
-      "source": "felix-medaillon",
-      "target": "s46-ein-dunkles-spiel-mit-lebenskraft",
-      "label": "S46 - Ein Dunkles Spiel mit Lebenskraft"
-    },
-    {
-      "source": "felix-medaillon",
-      "target": "s48-ein-gemeinsames-mahl",
-      "label": "S48 - Ein gemeinsames Mahl"
-    },
-    {
       "source": "fliegender-teppich",
       "target": "petra",
       "label": "Petra"
     },
     {
       "source": "fliegender-teppich",
-      "target": "s20-madame-eva",
-      "label": "S20 - Madame Eva"
+      "target": "quest",
+      "label": "Quest"
+    },
+    {
+      "source": "fliegender-teppich",
+      "target": "vallaki",
+      "label": "Vallaki"
     },
     {
       "source": "heiliges-symbol-der-sonne",
@@ -16282,13 +16323,8 @@
     },
     {
       "source": "heiliges-symbol-der-sonne",
-      "target": "die-legende-von-lugdana",
-      "label": "Die Legende von Lugdana"
-    },
-    {
-      "source": "heiliges-symbol-der-sonne",
-      "target": "heiliges-symbol-des-sankt-andral",
-      "label": "Heiliges Symbol des Sankt Andral"
+      "target": "argynvostholt",
+      "label": "Argynvostholt"
     },
     {
       "source": "heiliges-symbol-des-sankt-andral",
@@ -16309,6 +16345,11 @@
       "source": "heiliges-symbol-des-sankt-andral",
       "target": "waldfey",
       "label": "Waldfey"
+    },
+    {
+      "source": "heiliges-symbol-des-sankt-andral",
+      "target": "heiliges-symbol-des-sankt-andral",
+      "label": "Heiliges Symbol des Sankt Andral"
     },
     {
       "source": "herz-des-kummers",
@@ -16377,23 +16418,8 @@
     },
     {
       "source": "herz-des-kummers",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
-    },
-    {
-      "source": "herz-des-kummers",
-      "target": "edelstein-blau",
-      "label": "Edelstein (Blau)"
-    },
-    {
-      "source": "herz-des-kummers",
-      "target": "edelstein-grun",
-      "label": "Edelstein (Grün)"
-    },
-    {
-      "source": "herz-des-kummers",
-      "target": "edelstein-rot",
-      "label": "Edelstein (Rot)"
+      "target": "herz-des-kummers",
+      "label": "Herz des Kummers"
     },
     {
       "source": "izeks-rechter-arm",
@@ -16422,8 +16448,8 @@
     },
     {
       "source": "izeks-rechter-arm",
-      "target": "s50-st-andrals-kirche",
-      "label": "S50 - St. Andrals Kirche"
+      "target": "izeks-rechter-arm",
+      "label": "Izeks rechter Arm"
     },
     {
       "source": "izeks-umhang",
@@ -16432,8 +16458,8 @@
     },
     {
       "source": "izeks-umhang",
-      "target": "s50-st-andrals-kirche",
-      "label": "S50 - St. Andrals Kirche"
+      "target": "izeks-umhang",
+      "label": "Izeks Umhang"
     },
     {
       "source": "izeks-wams",
@@ -16442,28 +16468,13 @@
     },
     {
       "source": "izeks-wams",
-      "target": "s50-st-andrals-kirche",
-      "label": "S50 - St. Andrals Kirche"
-    },
-    {
-      "source": "izeks-wams",
-      "target": "s64-der-baron-bittet-zu-tisch",
-      "label": "S64 - Der Baron bittet zu Tisch"
+      "target": "izeks-wams",
+      "label": "Izeks Wams"
     },
     {
       "source": "kiste-von-graf-strahd",
-      "target": "henrik-van-der-voort",
-      "label": "Henrik van der Voort"
-    },
-    {
-      "source": "kiste-von-graf-strahd",
-      "target": "lady-fiona-wachter",
-      "label": "Lady Fiona Wachter"
-    },
-    {
-      "source": "kiste-von-graf-strahd",
-      "target": "spinnendamon",
-      "label": "Spinnendämon"
+      "target": "kiste-von-graf-strahd",
+      "label": "Kiste von Graf Strahd"
     },
     {
       "source": "klinge-des-sonnenlichts",
@@ -16482,8 +16493,8 @@
     },
     {
       "source": "klinge-des-sonnenlichts",
-      "target": "s20-madame-eva",
-      "label": "S20 - Madame Eva"
+      "target": "klinge-des-sonnenlichts",
+      "label": "Klinge des Sonnenlichts"
     },
     {
       "source": "knochen-des-st-andral",
@@ -16492,23 +16503,13 @@
     },
     {
       "source": "knochen-des-st-andral",
-      "target": "henrik-van-der-voort",
-      "label": "Henrik van der Voort"
+      "target": "knochen-des-st-andral",
+      "label": "Knochen des St. Andral"
     },
     {
       "source": "knochen-des-st-andral",
       "target": "milivoj",
       "label": "Milivoj"
-    },
-    {
-      "source": "knochen-des-st-andral",
-      "target": "jelens-flamme",
-      "label": "Jelens Flamme"
-    },
-    {
-      "source": "knochen-des-st-andral",
-      "target": "jelens-tropfen",
-      "label": "Jelens Tropfen"
     },
     {
       "source": "magischer-bernstein",
@@ -16536,16 +16537,6 @@
       "label": "Bernsteintempel"
     },
     {
-      "source": "magischer-bernstein",
-      "target": "fey-von-barovia",
-      "label": "Fey von Barovia"
-    },
-    {
-      "source": "magischer-bernstein",
-      "target": "bernsteinscherbe",
-      "label": "Bernsteinscherbe"
-    },
-    {
       "source": "schere-der-luft",
       "target": "hewin-yustov",
       "label": "Hewin Yustov"
@@ -16557,8 +16548,8 @@
     },
     {
       "source": "schere-der-luft",
-      "target": "s63-baron-vargas",
-      "label": "S63 - Baron Vargas"
+      "target": "schere-der-luft",
+      "label": "Schere der Luft"
     },
     {
       "source": "stab-der-entropie",
@@ -16567,8 +16558,8 @@
     },
     {
       "source": "stab-der-entropie",
-      "target": "s34-werwolfshohle",
-      "label": "S34 - Werwolfshöhle"
+      "target": "stab-der-entropie",
+      "label": "Stab der Entropie"
     },
     {
       "source": "00-ubersicht",
@@ -25352,6 +25343,46 @@
     },
     {
       "source": "s75-der-tod-des-barons",
+      "target": "vasili-von-holtz",
+      "label": "Vasili von Holtz"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "14-mart-755-eb",
+      "label": "14. Mart 755 EB"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "ireena",
+      "label": "Ireena"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "malduk",
+      "label": "Malduk"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "michal",
+      "label": "Michal"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "sabelzahntiger",
+      "label": "Säbelzahntiger"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "heinard",
+      "label": "Heinard"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "target": "karl-wachter",
+      "label": "Karl Wachter"
+    },
+    {
+      "source": "s76-suche-nach-dem-hirsch-medaillon",
       "target": "vasili-von-holtz",
       "label": "Vasili von Holtz"
     },

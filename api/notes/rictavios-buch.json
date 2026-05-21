@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Laut Madame Eva wird uns das Buch von Rictavio sehr nützlich sein. KI Zusammenfassung Rictavios Buch ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu ",
+  "excerpt": "Laut Madame Eva wird uns das Buch von Rictavio sehr nützlich sein. KI Zusammenfassung Rolle Buch, nicht im Besitz der Gruppe. Laut Madame Eva wird uns das Buch von Rictavio sehr nü",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,20 +26,25 @@
       "slug": "rictavio"
     },
     {
-      "target": "S20 - Madame Eva",
-      "label": "S20 - Madame Eva",
-      "slug": "s20-madame-eva"
+      "target": "Tarokka",
+      "label": "Tarokka",
+      "slug": "tarokka"
     },
     {
-      "target": "S63 - Baron Vargas",
-      "label": "S63 - Baron Vargas",
-      "slug": "s63-baron-vargas"
+      "target": "Buch",
+      "label": "Buch",
+      "slug": null
     },
     {
-      "target": "S64 - Der Baron bittet zu Tisch",
-      "label": "S64 - Der Baron bittet zu Tisch",
-      "slug": "s64-der-baron-bittet-zu-tisch"
+      "target": "Vasili von Holtz",
+      "label": "Vasili von Holtz",
+      "slug": "vasili-von-holtz"
+    },
+    {
+      "target": "Rictavios Buch",
+      "label": "Rictavios Buch",
+      "slug": "rictavios-buch"
     }
   ],
-  "markdown": "Laut [[Madame Eva]] wird uns das Buch von [[Rictavio]] sehr nützlich sein.\n\n## KI-Zusammenfassung\n\nRictavios Buch ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Laut Madame Eva wird uns das Buch von Rictavio sehr nützlich sein. Direkte Bezüge bestehen zu [[Madame Eva]], [[Rictavio]]. Rictavios Buch wird außerdem in [[Rictavio]], [[S20 - Madame Eva]], [[S63 - Baron Vargas]], [[S64 - Der Baron bittet zu Tisch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Laut [[Madame Eva]] wird uns das Buch von [[Rictavio]] sehr nützlich sein.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, nicht im Besitz der Gruppe. Laut [[Madame Eva]] wird uns das Buch von [[Rictavio]] sehr nützlich sein.\n\n### Beschreibung\n\nLaut [[Madame Eva]] wird uns das Buch von [[Rictavio]] sehr nützlich sein. Rictavio: - Laut dem [[Tarokka]] von [[Madame Eva]] ist sein [[Buch]] für uns nützlich. S20 - Madame Eva: >***Malduk:** Das beschreibt einerseits [[Vasili von Holtz]] als den Adligen, der nach Macht und Anerkennung strebt, andererseits [[Rictavio]] mit seinem [[Buch]].*. S63 - Baron Vargas: - Wir brauchen [[Rictavios Buch]]!\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Laut [[Madame Eva]] wird uns das Buch von [[Rictavio]] sehr nützlich sein.\n- Rictavio: - Laut dem [[Tarokka]] von [[Madame Eva]] ist sein [[Buch]] für uns nützlich.\n- S20 - Madame Eva: >***Malduk:** Das beschreibt einerseits [[Vasili von Holtz]] als den Adligen, der nach Macht und Anerkennung strebt, andererseits [[Rictavio]] mit seinem [[Buch]].*.\n- S63 - Baron Vargas: - Wir brauchen [[Rictavios Buch]]!\n- S64 - Der Baron bittet zu Tisch: - Wir brauchen [[Rictavios Buch]]!\n"
 }

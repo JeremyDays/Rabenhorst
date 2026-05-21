@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Haus Alkir Geruch nach scharfem Jägermeister; Antidot gegen Gift KI Zusammenfassung Bitterwurz ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen h",
+  "excerpt": "Gefunden: Haus Alkir Geruch nach scharfem Jägermeister; Antidot gegen Gift KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, im Besitz der Gruppe, bei Heinard. Geruch nach s",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -19,7 +19,12 @@
       "target": "Haus Alkir",
       "label": "Haus Alkir",
       "slug": "haus-alkir"
+    },
+    {
+      "target": "Heinard",
+      "label": "Heinard",
+      "slug": "heinard"
     }
   ],
-  "markdown": "**Gefunden:** [[Haus Alkir]]\nGeruch nach scharfem Jägermeister; Antidot gegen Gift\n\n## KI-Zusammenfassung\n\nBitterwurz ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Haus Alkir Geruch nach scharfem Jägermeister; Antidot gegen Gift Direkte Bezüge bestehen zu [[Haus Alkir]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Haus Alkir]]\nGeruch nach scharfem Jägermeister; Antidot gegen Gift\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. Geruch nach scharfem Jägermeister; Antidot gegen Gift.\n\n### Beschreibung\n\nGeruch nach scharfem Jägermeister; Antidot gegen Gift.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Heinard]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- Geruch nach scharfem Jägermeister; Antidot gegen Gift.\n"
 }

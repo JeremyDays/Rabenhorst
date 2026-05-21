@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Aus dem Ivlis Fluss bei den Tser Fällen Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf. Inhalt: 305 Pf. KI Zusammenfassung Flusssäckchen ist ein Gegenstand im Besitz d",
+  "excerpt": "Wo: Aus dem Ivlis Fluss bei den Tser Fällen Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf. Inhalt: 305 Pf. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,15 @@
       "slug": "tser-falle"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Flusssäckchen",
+      "label": "Flusssäckchen",
+      "slug": "flusssackchen"
     }
   ],
-  "markdown": "**Wo:** Aus dem [[Ivlis-Fluss]] bei den [[Tser-Fälle]]n\nUrsprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf.\n\n**Inhalt:** 305 Pf.\n\n## KI-Zusammenfassung\n\nFlusssäckchen ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Aus dem Ivlis-Fluss bei den Tser-Fällen Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf. Inhalt: 305 Pf. Direkte Bezüge bestehen zu [[Ivlis-Fluss]], [[Tser-Fälle]]. Flusssäckchen wird außerdem in [[Ivlis-Fluss]], [[Tser-Fälle]], [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Aus dem [[Ivlis-Fluss]] bei den [[Tser-Fälle]]n\nUrsprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf.\n\n**Inhalt:** 305 Pf.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf.\n\n### Beschreibung\n\nUrsprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf. Inhalt: 305 Pf. Alle Gegenstände: - **[[Flusssäckchen]].** für Geld. ~~650 Pf. (Aus dem Fluss. 500 Pfennige, 1 Dutzend Groschen (=120 Pf.))~~ 305 Pf.\n\n### Aufenthaltsort / Besitz\n\n- Wo: Aus dem [[Ivlis-Fluss]] bei den [[Tser-Fälle]]n.\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Wo: Aus dem [[Ivlis-Fluss]] bei den [[Tser-Fälle]]n.\n- Ursprünglicher Inhalt: 500 Pf. und 12 Groschen = 650 Pf.\n- Inhalt: 305 Pf.\n- Alle Gegenstände: - **[[Flusssäckchen]].** für Geld. ~~650 Pf. (Aus dem Fluss. 500 Pfennige, 1 Dutzend Groschen (=120 Pf.))~~ 305 Pf.\n"
 }

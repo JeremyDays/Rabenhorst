@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Von Malduk erhalten Malduk: Magisch. Unsichtbarkeit. Wirkung: 1 Stunde. KI Zusammenfassung Unsichtbarkeitstrank ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten ",
+  "excerpt": "Von Malduk erhalten Malduk: Magisch. Unsichtbarkeit. Wirkung: 1 Stunde. KI Zusammenfassung Rolle Trank mit magischem Bezug, im Besitz der Gruppe, bei Ireena. Von Malduk erhalten. B",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,20 +21,15 @@
       "slug": "malduk"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
     },
     {
-      "target": "S31 - Die Opfer der Hexen",
-      "label": "S31 - Die Opfer der Hexen",
-      "slug": "s31-die-opfer-der-hexen"
-    },
-    {
-      "target": "S32 - Danika und Grigor",
-      "label": "S32 - Danika und Grigor",
-      "slug": "s32-danika-und-grigor"
+      "target": "Unsichtbarkeitstrank",
+      "label": "Unsichtbarkeitstrank",
+      "slug": "unsichtbarkeitstrank"
     }
   ],
-  "markdown": "- Von [[Malduk]] erhalten\n\n>***Malduk:** Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.*\n\n## KI-Zusammenfassung\n\nUnsichtbarkeitstrank ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Von Malduk erhalten Malduk: Magisch. Unsichtbarkeit. Wirkung: 1 Stunde. Direkte Bezüge bestehen zu [[Malduk]]. Unsichtbarkeitstrank wird außerdem in [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]], [[S32 - Danika und Grigor]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Von [[Malduk]] erhalten\n\n>***Malduk:** Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nTrank mit magischem Bezug, im Besitz der Gruppe, bei [[Ireena]]. Von [[Malduk]] erhalten.\n\n### Beschreibung\n\nVon [[Malduk]] erhalten. >***Malduk:** Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.*. Alle Gegenstände: - **[[Unsichtbarkeitstrank]].**. S31 - Die Opfer der Hexen: - 1 [[Unsichtbarkeitstrank]], der 1h hält.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Ireena]].\n\n### Historie\n\n- Von [[Malduk]] erhalten.\n- >***Malduk:** Magisch. Unsichtbarkeit. Wirkung: 1 Stunde.*.\n- Alle Gegenstände: - **[[Unsichtbarkeitstrank]].**.\n- S31 - Die Opfer der Hexen: - 1 [[Unsichtbarkeitstrank]], der 1h hält.\n- S32 - Danika und Grigor: - [[Malduk]] lässt [[Ireena]] den [[Unsichtbarkeitstrank]] da.\n"
 }

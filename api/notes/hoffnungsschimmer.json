@@ -26,30 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
-    },
-    {
-      "target": "S22 - Die Uralte Steinbrücke",
-      "label": "S22 - Die Uralte Steinbrücke",
-      "slug": "s22-die-uralte-steinbrucke"
-    },
-    {
-      "target": "S26 - Engelstod",
-      "label": "S26 - Engelstod",
-      "slug": "s26-engelstod"
-    },
-    {
-      "target": "S72 - Udo und Arm",
-      "label": "S72 - Udo und Arm",
-      "slug": "s72-udo-und-arm"
+      "target": "Hoffnungsschimmer",
+      "label": "Hoffnungsschimmer",
+      "slug": "hoffnungsschimmer"
     }
   ],
-  "markdown": "Ein Streitkolben. \n\n**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n**Beschreibung:**\nSilbernes Metall. \n\n**Spieltechnisch:**\n1W6+1 Schaden.  \n\n>***Malduk:** Magisch. Diese Waffe schlägt vermutlich auch Wesen Schaden, die nicht von gewöhnlichen Waffen verwundet werden können.  \n>Zudem scheint sie noch verborgene Kräfte zu besitzen. Eine Blutbindung scheint für die erste Stufe notwendig, das Niederschlagen eines ihr gewidmeten Feindes die zweite Stufe freizuschalten. Wie interessant!*\n\n## KI-Zusammenfassung\n\nHoffnungsschimmer ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Ein Streitkolben. Gefunden: Heinard in Haus Alkir. Betraum. Beschreibung: Silbernes Metall. Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Hoffnungsschimmer wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]], [[S22 - Die Uralte Steinbrücke]], [[S26 - Engelstod]], [[S72 - Udo und Arm]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Ein Streitkolben. \n\n**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n**Beschreibung:**\nSilbernes Metall. \n\n**Spieltechnisch:**\n1W6+1 Schaden.  \n\n>***Malduk:** Magisch. Diese Waffe schlägt vermutlich auch Wesen Schaden, die nicht von gewöhnlichen Waffen verwundet werden können.  \n>Zudem scheint sie noch verborgene Kräfte zu besitzen. Eine Blutbindung scheint für die erste Stufe notwendig, das Niederschlagen eines ihr gewidmeten Feindes die zweite Stufe freizuschalten. Wie interessant!*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. Ein Streitkolben.\n\n### Beschreibung\n\nEin Streitkolben. Beschreibung:. Silbernes Metall. Spieltechnisch:.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n### Historie\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Betraum.\n- Ein Streitkolben.\n- Beschreibung:.\n- Silbernes Metall.\n- Spieltechnisch:.\n- Alle Gegenstände: - **\"[[Hoffnungsschimmer]]\" Streitkolben.** Silbernes Metall. 1W6+1 Schaden.\n- S10 - Katakomben: - [[Hoffnungsschimmer]]. Ein Streitkolben aus silbernem Metall. (+).\n"
 }

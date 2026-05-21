@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Jeder einen. Weiler 0/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Heiltrank von Grusha 3 ist ein Gegenstand im Besitz der",
+  "excerpt": "Gefunden: Jeder einen. Weiler 0/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Rolle Trank mit magischem Bezug, im Besitz der Gruppe, ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -22,10 +22,15 @@
       "slug": "weiler"
     },
     {
-      "target": "S69 - Von Golems und Ritualen",
-      "label": "S69 - Von Golems und Ritualen",
-      "slug": "s69-von-golems-und-ritualen"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Heiltrank von Grusha 3",
+      "label": "Heiltrank von Grusha 3",
+      "slug": "heiltrank-von-grusha-3"
     }
   ],
-  "markdown": "**Gefunden:** Jeder einen. [[Weiler]]\n0/1 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\nHeiltrank von Grusha 3 ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Jeder einen. Weiler 0/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. Direkte Bezüge bestehen zu [[Weiler]]. Heiltrank von Grusha 3 wird außerdem in [[S69 - Von Golems und Ritualen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** Jeder einen. [[Weiler]]\n0/1 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nTrank mit magischem Bezug, im Besitz der Gruppe, bei [[Malduk]]. 0/1 Stück übrig!\n\n### Beschreibung\n\n0/1 Stück übrig! Spieltechnisch:. >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*. S69 - Von Golems und Ritualen: - Malduk trinkt [[Heiltrank von Grusha 3]] LeP 2 -> 13.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: Jeder einen. [[Weiler]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Gefunden: Jeder einen. [[Weiler]].\n- 0/1 Stück übrig!\n- Spieltechnisch:.\n- >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*.\n- S69 - Von Golems und Ritualen: - Malduk trinkt [[Heiltrank von Grusha 3]] LeP 2 -> 13.\n"
 }

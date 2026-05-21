@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Altes Handelshaus Dunkel, düster, über die Schrecken der Nacht KI Zusammenfassung Sagen & Gedichte ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halt",
+  "excerpt": "Wo: Altes Handelshaus Dunkel, düster, über die Schrecken der Nacht KI Zusammenfassung Rolle Buch, im Besitz der Gruppe, bei Malduk. Dunkel, düster, über die Schrecken der Nacht. Be",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,15 @@
       "slug": "altes-handelshaus"
     },
     {
-      "target": "S16 - Ein Handel mit Bildrath",
-      "label": "S16 - Ein Handel mit Bildrath",
-      "slug": "s16-ein-handel-mit-bildrath"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Sagen & Gedichte",
+      "label": "Sagen & Gedichte",
+      "slug": "sagen-gedichte"
     }
   ],
-  "markdown": "**Wo:** [[Altes Handelshaus]]\n\n- Dunkel, düster, über die Schrecken der Nacht\n\n## KI-Zusammenfassung\n\nSagen & Gedichte ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Altes Handelshaus Dunkel, düster, über die Schrecken der Nacht Direkte Bezüge bestehen zu [[Altes Handelshaus]]. Sagen & Gedichte wird außerdem in [[Altes Handelshaus]], [[S16 - Ein Handel mit Bildrath]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** [[Altes Handelshaus]]\n\n- Dunkel, düster, über die Schrecken der Nacht\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, im Besitz der Gruppe, bei [[Malduk]]. Dunkel, düster, über die Schrecken der Nacht.\n\n### Beschreibung\n\nDunkel, düster, über die Schrecken der Nacht. S16 - Ein Handel mit Bildrath: - [[Sagen & Gedichte]]: Dunkel, düster, über die Schrecken der Nacht.\n\n### Aufenthaltsort / Besitz\n\n- Wo: [[Altes Handelshaus]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Wo: [[Altes Handelshaus]].\n- Dunkel, düster, über die Schrecken der Nacht.\n- S16 - Ein Handel mit Bildrath: - [[Sagen & Gedichte]]: Dunkel, düster, über die Schrecken der Nacht.\n"
 }

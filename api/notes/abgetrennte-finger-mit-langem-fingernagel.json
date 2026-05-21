@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände. Weiblich, ältere Frau, Hexenfinger? KI Zusammenfassung Abgetrennte Finger mit langem Fingernagel ist ein Gegenstand im Besitz der Grup",
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände. Weiblich, ältere Frau, Hexenfinger? KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Weiblich, ältere Frau, Hexe",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Abgetrennte Finger mit langem Fingernagel",
+      "label": "Abgetrennte Finger mit langem Fingernagel",
+      "slug": "abgetrennte-finger-mit-langem-fingernagel"
     }
   ],
-  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n\nWeiblich, ältere Frau, Hexenfinger?\n\n## KI-Zusammenfassung\n\nAbgetrennte Finger mit langem Fingernagel ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände. Weiblich, ältere Frau, Hexenfinger? Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Abgetrennte Finger mit langem Fingernagel wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n\nWeiblich, ältere Frau, Hexenfinger?\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Weiblich, ältere Frau, Hexenfinger?\n\n### Beschreibung\n\nWeiblich, ältere Frau, Hexenfinger? S10 - Katakomben: 3. [[Abgetrennte Finger mit langem Fingernagel]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]]. Nischenwände.\n- Weiblich, ältere Frau, Hexenfinger?\n- S10 - Katakomben: 3. [[Abgetrennte Finger mit langem Fingernagel]] (+).\n"
 }

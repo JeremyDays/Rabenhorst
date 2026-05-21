@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Heinard in Haus Alkir. Nischenwände KI Zusammenfassung Stück getrockneter Haut mit Mond Tätowierung ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Noti",
+  "excerpt": "Gefunden: Heinard in Haus Alkir. Nischenwände KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Heinard. Eine genauere Funktion ist bislang nicht gesichert. Beschreibu",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Stück getrockneter Haut mit Mond-Tätowierung",
+      "label": "Stück getrockneter Haut mit Mond-Tätowierung",
+      "slug": "stuck-getrockneter-haut-mit-mond-tatowierung"
     }
   ],
-  "markdown": "**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Nischenwände\n\n## KI-Zusammenfassung\n\nStück getrockneter Haut mit Mond-Tätowierung ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard in Haus Alkir. Nischenwände Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Stück getrockneter Haut mit Mond-Tätowierung wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Nischenwände\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Heinard]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nS10 - Katakomben: 5. [[Stück getrockneter Haut mit Mond-Tätowierung]] (+) -> Heinard.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Nischenwände.\n\n### Historie\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Nischenwände.\n- S10 - Katakomben: 5. [[Stück getrockneter Haut mit Mond-Tätowierung]] (+) -> Heinard.\n"
 }

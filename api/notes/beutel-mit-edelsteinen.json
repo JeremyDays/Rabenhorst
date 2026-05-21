@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Kleiner Beutel Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein== Inhalt: 12 Edelsteine Wert: Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf. KI Zusammenfassung Beut",
+  "excerpt": "Kleiner Beutel Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein== Inhalt: 12 Edelsteine Wert: Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf. KI Zusammenfassung Roll",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,15 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Beutel mit Edelsteinen",
+      "label": "Beutel mit Edelsteinen",
+      "slug": "beutel-mit-edelsteinen"
     }
   ],
-  "markdown": "Kleiner Beutel\n**Woher:** ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein==\n\n**Inhalt:** 12 Edelsteine\n**Wert:** Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf.\n\n## KI-Zusammenfassung\n\nBeutel mit Edelsteinen ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kleiner Beutel Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein== Inhalt: 12 Edelsteine Wert: Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf. Beutel mit Edelsteinen wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Kleiner Beutel\n**Woher:** ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein==\n\n**Inhalt:** 12 Edelsteine\n**Wert:** Je 1 Taler, also 12 x 500 Pf. = 6.000 Pf.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nArtefakt, im Besitz der Gruppe, bei [[Malduk]]. Kleiner Beutel.\n\n### Beschreibung\n\nKleiner Beutel. Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein==. Inhalt: 12 Edelsteine. Alle Gegenstände: - **[[Beutel mit Edelsteinen]].** Kleiner Beutel. Mit 12 Edelsteinen (je 1 Taler, 12 x 500 Pf. = 6.000 Pf.).\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Kleiner Beutel.\n- Woher: ==Weiß ich nicht mehr, muss aber nach den Vistani gewesen sein==.\n- Inhalt: 12 Edelsteine.\n- Alle Gegenstände: - **[[Beutel mit Edelsteinen]].** Kleiner Beutel. Mit 12 Edelsteinen (je 1 Taler, 12 x 500 Pf. = 6.000 Pf.).\n"
 }

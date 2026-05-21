@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Liegen nun wieder unter der St. Andrals Kirche. KI Zusammenfassung Knochen des St. Andral ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Liege",
+  "excerpt": "Liegen nun wieder unter der St. Andrals Kirche. KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Liegen nun wieder unter der St. Andrals Kirche.",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,9 +21,9 @@
       "slug": "st-andrals-kirche"
     },
     {
-      "target": "Henrik van der Voort",
-      "label": "Henrik van der Voort",
-      "slug": "henrik-van-der-voort"
+      "target": "Knochen des St. Andral",
+      "label": "Knochen des St. Andral",
+      "slug": "knochen-des-st-andral"
     },
     {
       "target": "Milivoj",
@@ -31,15 +31,15 @@
       "slug": "milivoj"
     },
     {
-      "target": "Jelens Flamme",
-      "label": "Jelens Flamme",
-      "slug": "jelens-flamme"
+      "target": "Morgenfürsten",
+      "label": "Morgenfürsten",
+      "slug": null
     },
     {
-      "target": "Jelens Tropfen",
-      "label": "Jelens Tropfen",
-      "slug": "jelens-tropfen"
+      "target": "Gebeine des Heiligen Andral",
+      "label": "Gebeine des Heiligen Andral",
+      "slug": null
     }
   ],
-  "markdown": "Liegen nun wieder unter der [[St. Andrals Kirche]].\n\n## KI-Zusammenfassung\n\nKnochen des St. Andral ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Liegen nun wieder unter der St. Andrals Kirche. Direkte Bezüge bestehen zu [[St. Andrals Kirche]]. Knochen des St. Andral wird außerdem in [[Henrik van der Voort]], [[Milivoj]], [[St. Andrals Kirche]], [[Jelens Flamme]], [[Jelens Tropfen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Liegen nun wieder unter der [[St. Andrals Kirche]].\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Liegen nun wieder unter der [[St. Andrals Kirche]].\n\n### Beschreibung\n\nLiegen nun wieder unter der [[St. Andrals Kirche]]. Henrik van der Voort: - Er hat wohl die [[Knochen des St. Andral]] von [[Milivoj]] gekauft. St. Andrals Kirche: >Seit Generationen bewahren die Priester des [[Morgenfürsten]] die [[Gebeine des Heiligen Andral]] auf, da sie die Kirche schützen und das Gelände heiligen. Jelens Flamme: - Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]].\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Liegen nun wieder unter der [[St. Andrals Kirche]].\n- Henrik van der Voort: - Er hat wohl die [[Knochen des St. Andral]] von [[Milivoj]] gekauft.\n- St. Andrals Kirche: >Seit Generationen bewahren die Priester des [[Morgenfürsten]] die [[Gebeine des Heiligen Andral]] auf, da sie die Kirche schützen und das Gelände heiligen.\n- Jelens Flamme: - Eine silberne Flamme mit einen Splitter von [[Knochen des St. Andral]].\n- Jelens Tropfen: - Ein silberner Tropfen mit einen Splitter von [[Knochen des St. Andral]].\n"
 }

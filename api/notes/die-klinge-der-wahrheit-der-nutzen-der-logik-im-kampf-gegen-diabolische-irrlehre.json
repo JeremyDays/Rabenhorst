@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Ein Buch von Vater Donavich aus Barovia. KI Zusammenfassung Die Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren ist ein Gegenstand nicht im Besitz de",
+  "excerpt": "Ein Buch von Vater Donavich aus Barovia. KI Zusammenfassung Rolle Buch, nicht im Besitz der Gruppe. Ein Buch von Vater Donavich aus Barovia. Beschreibung Ein Buch von Vater Donavic",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -24,12 +24,7 @@
       "target": "Barovia",
       "label": "Barovia",
       "slug": "barovia"
-    },
-    {
-      "target": "Kirche von Barovia",
-      "label": "Kirche von Barovia",
-      "slug": "kirche-von-barovia"
     }
   ],
-  "markdown": "Ein Buch von [[Vater Donavich]] aus [[Barovia]].\n\n## KI-Zusammenfassung\n\nDie Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Ein Buch von Vater Donavich aus Barovia. Direkte Bezüge bestehen zu [[Vater Donavich]], [[Barovia]]. Die Klinge der Wahrheit. Der Nutzen der Logik im Kampf gegen diabolische Irrlehren wird außerdem in [[Vater Donavich]], [[Kirche von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Ein Buch von [[Vater Donavich]] aus [[Barovia]].\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, nicht im Besitz der Gruppe. Ein Buch von [[Vater Donavich]] aus [[Barovia]].\n\n### Beschreibung\n\nEin Buch von [[Vater Donavich]] aus [[Barovia]].\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- Ein Buch von [[Vater Donavich]] aus [[Barovia]].\n"
 }

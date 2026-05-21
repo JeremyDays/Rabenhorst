@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Jeder einen. Weiler 1/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Heiltrank von Grusha 2 ist ein Gegenstand im Besitz der",
+  "excerpt": "Gefunden: Jeder einen. Weiler 1/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Rolle Trank mit magischem Bezug, im Besitz der Gruppe, ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -20,7 +20,12 @@
       "target": "Weiler",
       "label": "Weiler",
       "slug": "weiler"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     }
   ],
-  "markdown": "**Gefunden:** Jeder einen. [[Weiler]]\n1/1 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\nHeiltrank von Grusha 2 ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Jeder einen. Weiler 1/1 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. Direkte Bezüge bestehen zu [[Weiler]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** Jeder einen. [[Weiler]]\n1/1 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nTrank mit magischem Bezug, im Besitz der Gruppe, bei [[Michal]]. 1/1 Stück übrig!\n\n### Beschreibung\n\n1/1 Stück übrig! Spieltechnisch:. >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: Jeder einen. [[Weiler]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: Jeder einen. [[Weiler]].\n- 1/1 Stück übrig!\n- Spieltechnisch:.\n- >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*.\n"
 }

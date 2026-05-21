@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Inhalt: 0 Pf. KI Zusammenfassung Michals Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Inhalt: 0 Pf. Michals Geldbeutel wird",
+  "excerpt": "Inhalt: 0 Pf. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Inhalt: 0 Pf. Beschreibung Inhalt: 0 Pf. Aufenthaltsort / Besitz Der Gegenstand liegt derzeit b",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,10 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     }
   ],
-  "markdown": "**Inhalt:** 0 Pf.\n\n## KI-Zusammenfassung\n\nMichals Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Inhalt: 0 Pf. Michals Geldbeutel wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Inhalt:** 0 Pf.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Inhalt: 0 Pf.\n\n### Beschreibung\n\nInhalt: 0 Pf.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Inhalt: 0 Pf.\n"
 }

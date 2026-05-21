@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Kerzenwachs viel Spinnenweben viel ... KI Zusammenfassung Zauberkomponenten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kerzenwachs v",
+  "excerpt": "Kerzenwachs viel Spinnenweben viel ... KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Kerzenwachs viel. Beschreibung Kerzenwachs viel. Spinnenweben viel. ..",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,15 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Zauberkomponenten",
+      "label": "Zauberkomponenten",
+      "slug": "zauberkomponenten"
     }
   ],
-  "markdown": "- Kerzenwachs -- viel\n- Spinnenweben -- viel\n- ...\n\n## KI-Zusammenfassung\n\nZauberkomponenten ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Kerzenwachs -- viel Spinnenweben -- viel Zauberkomponenten wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "- Kerzenwachs -- viel\n- Spinnenweben -- viel\n- ...\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Kerzenwachs -- viel.\n\n### Beschreibung\n\nKerzenwachs -- viel. Spinnenweben -- viel. ... Alle Gegenstände: - **[[Zauberkomponenten]].** Kerzenwachs (viel), Spinnenweben (viel).\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Kerzenwachs -- viel.\n- Spinnenweben -- viel.\n- ...\n- Alle Gegenstände: - **[[Zauberkomponenten]].** Kerzenwachs (viel), Spinnenweben (viel).\n"
 }

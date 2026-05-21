@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "KI Zusammenfassung Malduks Messer ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über",
+  "excerpt": "KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Alle Gegenstände: Malduks Messer . Aufenthal",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,15 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Malduks Messer",
+      "label": "Malduks Messer",
+      "slug": "malduks-messer"
     }
   ],
-  "markdown": "\n\n## KI-Zusammenfassung\n\nMalduks Messer ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Malduks Messer wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Malduks Messer]]**.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Alle Gegenstände: - **[[Malduks Messer]]**.\n"
 }

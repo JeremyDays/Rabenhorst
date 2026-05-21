@@ -16,20 +16,25 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     },
     {
-      "target": "S04 - EG",
-      "label": "S04 - EG",
-      "slug": "s04-eg"
+      "target": "Rotes Buch",
+      "label": "Rotes Buch",
+      "slug": "rotes-buch"
     },
     {
-      "target": "S12 - Ankunft Barovia",
-      "label": "S12 - Ankunft Barovia",
-      "slug": "s12-ankunft-barovia"
+      "target": "Schwarzes Buch",
+      "label": "Schwarzes Buch",
+      "slug": "schwarzes-buch"
+    },
+    {
+      "target": "Weißes Buch",
+      "label": "Weißes Buch",
+      "slug": "wei-es-buch"
     }
   ],
-  "markdown": "Dickes Buch. Rötlich.\n\n>***Malduk:** Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer.*\n\n## KI-Zusammenfassung\n\nRotes Buch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Dickes Buch. Rötlich. Malduk: Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer. Rotes Buch wird außerdem in [[Alle Gegenstände]], [[S04 - EG]], [[S12 - Ankunft Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Dickes Buch. Rötlich.\n\n>***Malduk:** Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch mit magischem Bezug, im Besitz der Gruppe, bei [[Malduk]]. Dickes Buch. Rötlich.\n\n### Beschreibung\n\nDickes Buch. Rötlich. >***Malduk:** Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer.*. Alle Gegenstände: - **[[Rotes Buch]].** Dickes Buch. Rötlich. Leer. S04 - EG: - 3 Bücher ([[Schwarzes Buch]], [[Rotes Buch]], [[Weißes Buch]]).\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Dickes Buch. Rötlich.\n- >***Malduk:** Magisch. Arkana: Feuer. Vor irgendetwas geschützt. Das Buch scheint ein Fokus für Feuerrituale zu sein. Es enthält insgesamt 15 Novizen- und Lehrlings-Zauber des Arkanum Feuer.*.\n- Alle Gegenstände: - **[[Rotes Buch]].** Dickes Buch. Rötlich. Leer.\n- S04 - EG: - 3 Bücher ([[Schwarzes Buch]], [[Rotes Buch]], [[Weißes Buch]]).\n- S12 - Ankunft Barovia: - Leeres [[Rotes Buch]].\n"
 }

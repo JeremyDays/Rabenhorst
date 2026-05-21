@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Zerstört Eine verfluchte Kiste, in der ein Spinnen Monster war. KI Zusammenfassung Kiste von Graf Strahd ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten d",
+  "excerpt": "Zerstört Eine verfluchte Kiste, in der ein Spinnen Monster war. KI Zusammenfassung Rolle Behältnis mit magischem Bezug, nicht im Besitz der Gruppe. Zerstört . Beschreibung Zerstört",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,20 +16,10 @@
   },
   "links": [
     {
-      "target": "Henrik van der Voort",
-      "label": "Henrik van der Voort",
-      "slug": "henrik-van-der-voort"
-    },
-    {
-      "target": "Lady Fiona Wachter",
-      "label": "Lady Fiona Wachter",
-      "slug": "lady-fiona-wachter"
-    },
-    {
-      "target": "Spinnendämon",
-      "label": "Spinnendämon",
-      "slug": "spinnendamon"
+      "target": "Kiste von Graf Strahd",
+      "label": "Kiste von Graf Strahd",
+      "slug": "kiste-von-graf-strahd"
     }
   ],
-  "markdown": "**Zerstört**\n\nEine verfluchte Kiste, in der ein Spinnen-Monster war.\n\n## KI-Zusammenfassung\n\nKiste von Graf Strahd ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Zerstört Eine verfluchte Kiste, in der ein Spinnen-Monster war. Kiste von Graf Strahd wird außerdem in [[Henrik van der Voort]], [[Lady Fiona Wachter]], [[Spinnendämon]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Zerstört**\n\nEine verfluchte Kiste, in der ein Spinnen-Monster war.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBehältnis mit magischem Bezug, nicht im Besitz der Gruppe. **Zerstört**.\n\n### Beschreibung\n\n**Zerstört**. Eine verfluchte Kiste, in der ein Spinnen-Monster war. Henrik van der Voort: - Irgendwie waren Vampire bei ihm und die [[Kiste von Graf Strahd]]. Lady Fiona Wachter: - Sie hat die [[Kiste von Graf Strahd]] verzaubert. ===Wie waren noch gleich die Details?===.\n\n### Aufenthaltsort / Besitz\n\n- Der aktuelle Aufenthaltsort ist nicht gesichert.\n\n### Historie\n\n- **Zerstört**.\n- Eine verfluchte Kiste, in der ein Spinnen-Monster war.\n- Henrik van der Voort: - Irgendwie waren Vampire bei ihm und die [[Kiste von Graf Strahd]].\n- Lady Fiona Wachter: - Sie hat die [[Kiste von Graf Strahd]] verzaubert. ===Wie waren noch gleich die Details?===.\n- Spinnendämon: Der Dämon war in der [[Kiste von Graf Strahd]].\n"
 }

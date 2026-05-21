@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Ireenas Rucksack im Haus des Burgomeisters Malduk: Was hatte Ireena vor? KI Zusammenfassung Angespitzte Pfähle ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halt",
+  "excerpt": "Wo: Ireenas Rucksack im Haus des Burgomeisters Malduk: Was hatte Ireena vor? KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Ireena. Malduk: Was hatte Ireena vor? Be",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,10 +26,15 @@
       "slug": "haus-des-burgomeisters"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "Ireena",
+      "label": "Ireena",
+      "slug": "ireena"
+    },
+    {
+      "target": "angespitzten Pfählen",
+      "label": "angespitzten Pfählen",
+      "slug": null
     }
   ],
-  "markdown": "**Wo:** [[Ireenas Rucksack]] im [[Haus des Burgomeisters]]\n\n>**Malduk:** Was hatte Ireena vor?\n\n## KI-Zusammenfassung\n\nAngespitzte Pfähle ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Ireenas Rucksack im Haus des Burgomeisters Malduk: Was hatte Ireena vor? Direkte Bezüge bestehen zu [[Ireenas Rucksack]], [[Haus des Burgomeisters]]. Angespitzte Pfähle wird außerdem in [[Haus des Burgomeisters]], [[Ireenas Rucksack]], [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** [[Ireenas Rucksack]] im [[Haus des Burgomeisters]]\n\n>**Malduk:** Was hatte Ireena vor?\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Ireena]]. >**Malduk:** Was hatte Ireena vor?\n\n### Beschreibung\n\n>**Malduk:** Was hatte Ireena vor? S13 - Haus des Burgomeisters: - Gepackter [[Ireenas Rucksack]] mit [[angespitzten Pfählen]] ==Ireenas?== (+).\n\n### Aufenthaltsort / Besitz\n\n- Wo: [[Ireenas Rucksack]] im [[Haus des Burgomeisters]].\n\n### Historie\n\n- Wo: [[Ireenas Rucksack]] im [[Haus des Burgomeisters]].\n- >**Malduk:** Was hatte Ireena vor?\n- S13 - Haus des Burgomeisters: - Gepackter [[Ireenas Rucksack]] mit [[angespitzten Pfählen]] ==Ireenas?== (+).\n"
 }

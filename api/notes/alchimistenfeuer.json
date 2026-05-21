@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Schwarze Flasche mit Flammensymbol (scharf) Gefunden: Heinard in Haus Alkir. Betraum. KI Zusammenfassung Alchimistenfeuer ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die ",
+  "excerpt": "Schwarze Flasche mit Flammensymbol (scharf) Gefunden: Heinard in Haus Alkir. Betraum. KI Zusammenfassung Rolle Amulett mit magischem Bezug, im Besitz der Gruppe, bei Heinard. Schwa",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S10 - Katakomben",
-      "label": "S10 - Katakomben",
-      "slug": "s10-katakomben"
+      "target": "Alchimistenfeuer",
+      "label": "Alchimistenfeuer",
+      "slug": "alchimistenfeuer"
     }
   ],
-  "markdown": "Schwarze Flasche mit Flammensymbol (scharf)\n\n**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n## KI-Zusammenfassung\n\nAlchimistenfeuer ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Schwarze Flasche mit Flammensymbol (scharf) Gefunden: Heinard in Haus Alkir. Betraum. Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Alchimistenfeuer wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Schwarze Flasche mit Flammensymbol (scharf)\n\n**Gefunden:** [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nAmulett mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. Schwarze Flasche mit Flammensymbol (scharf).\n\n### Beschreibung\n\nSchwarze Flasche mit Flammensymbol (scharf). Alle Gegenstände: - **~~[[Alchimistenfeuer]].~~** ~~Schwarze Flasche mit Flammensymbol. S10 - Katakomben: - [[Alchimistenfeuer]]. Schwarze Flasche mit Flammensymbol (scharf) (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Betraum.\n\n### Historie\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]]. Betraum.\n- Schwarze Flasche mit Flammensymbol (scharf).\n- Alle Gegenstände: - **~~[[Alchimistenfeuer]].~~** ~~Schwarze Flasche mit Flammensymbol.\n- S10 - Katakomben: - [[Alchimistenfeuer]]. Schwarze Flasche mit Flammensymbol (scharf) (+).\n"
 }

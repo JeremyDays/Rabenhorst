@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Ireenas Zimmer im Haus des Burgomeisters KI Zusammenfassung Handarmbrust ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefund",
+  "excerpt": "Gefunden: Ireenas Zimmer im Haus des Burgomeisters KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Eine genauere Funktion ist bislang nicht gesichert. Beschr",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,15 @@
       "slug": "haus-des-burgomeisters"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "Handarmbrust",
+      "label": "Handarmbrust",
+      "slug": "handarmbrust"
     }
   ],
-  "markdown": "**Gefunden:** [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\nHandarmbrust ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Gefunden: Ireenas Zimmer im Haus des Burgomeisters Direkte Bezüge bestehen zu [[Ireena]], [[Haus des Burgomeisters]]. Handarmbrust wird außerdem in [[Alle Gegenstände]], [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Handarmbrust]].** Mit 10 Bolzen. S13 - Haus des Burgomeisters: - [[Handarmbrust]] (+) ==Das gleiche wie die Jagdarmbrust?==.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Ireena]]s Zimmer im [[Haus des Burgomeisters]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Ireena]]s Zimmer im [[Haus des Burgomeisters]].\n- Alle Gegenstände: - **[[Handarmbrust]].** Mit 10 Bolzen.\n- S13 - Haus des Burgomeisters: - [[Handarmbrust]] (+) ==Das gleiche wie die Jagdarmbrust?==.\n"
 }

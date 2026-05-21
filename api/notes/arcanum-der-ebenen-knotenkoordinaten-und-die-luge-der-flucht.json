@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Auf dem Dachboden bei Victor Vallakovich Ein in Silber eingeschlagenes Buch KI Zusammenfassung Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht ist ein Gegenstand ",
+  "excerpt": "Wo: Auf dem Dachboden bei Victor Vallakovich Ein in Silber eingeschlagenes Buch KI Zusammenfassung Rolle Buch mit magischem Bezug, im Besitz der Gruppe, bei Malduk. Ein in Silber e",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,10 @@
       "slug": "victor-vallakovich"
     },
     {
-      "target": "S70 - Izek",
-      "label": "S70 - Izek",
-      "slug": "s70-izek"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     }
   ],
-  "markdown": "**Wo:** Auf dem Dachboden bei [[Victor Vallakovich]]\n\nEin in Silber eingeschlagenes Buch\n\n## KI-Zusammenfassung\n\nArcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Wo: Auf dem Dachboden bei Victor Vallakovich Ein in Silber eingeschlagenes Buch Direkte Bezüge bestehen zu [[Victor Vallakovich]]. Arcanum der Ebenen, Knotenkoordinaten und die Lüge der Flucht wird außerdem in [[Victor Vallakovich]], [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Auf dem Dachboden bei [[Victor Vallakovich]]\n\nEin in Silber eingeschlagenes Buch\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch mit magischem Bezug, im Besitz der Gruppe, bei [[Malduk]]. Ein in Silber eingeschlagenes Buch.\n\n### Beschreibung\n\nEin in Silber eingeschlagenes Buch.\n\n### Aufenthaltsort / Besitz\n\n- Wo: Auf dem Dachboden bei [[Victor Vallakovich]].\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Wo: Auf dem Dachboden bei [[Victor Vallakovich]].\n- Ein in Silber eingeschlagenes Buch.\n"
 }

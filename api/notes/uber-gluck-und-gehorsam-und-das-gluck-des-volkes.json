@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich KI Zusammenfassung Über Glück und Gehorsam und das Glück des Volkes ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen hal",
+  "excerpt": "Wo: Im Salon von Baron Vargas Vallakovich KI Zusammenfassung Rolle Buch, nicht im Besitz der Gruppe. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Eine äußere Be",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -19,12 +19,7 @@
       "target": "Baron Vargas Vallakovich",
       "label": "Baron Vargas Vallakovich",
       "slug": "baron-vargas-vallakovich"
-    },
-    {
-      "target": "S70 - Izek",
-      "label": "S70 - Izek",
-      "slug": "s70-izek"
     }
   ],
-  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\n## KI-Zusammenfassung\n\nÜber Glück und Gehorsam und das Glück des Volkes ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Im Salon von Baron Vargas Vallakovich Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]]. Über Glück und Gehorsam und das Glück des Volkes wird außerdem in [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** Im Salon von [[Baron Vargas Vallakovich]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, nicht im Besitz der Gruppe. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nEine äußere Beschreibung des Buchs ist bislang nicht festgehalten.\n\n### Aufenthaltsort / Besitz\n\n- Wo: Im Salon von [[Baron Vargas Vallakovich]].\n\n### Historie\n\n- Wo: Im Salon von [[Baron Vargas Vallakovich]].\n"
 }

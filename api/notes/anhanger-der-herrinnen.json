@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins Gefunden: Haus Alkir bei Sergeant Zorovich Von Heinard erhalten KI Zusammenfassung Anhänger der Herrinnen ist ",
+  "excerpt": "Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins Gefunden: Haus Alkir bei Sergeant Zorovich Von Heinard erhalten KI Zusammenfassung Rolle Gegenstand, im Besitz",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -31,15 +31,15 @@
       "slug": "heinard"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
     },
     {
-      "target": "S08 - Grüfte",
-      "label": "S08 - Grüfte",
-      "slug": "s08-grufte"
+      "target": "Anhänger der Herrinnen",
+      "label": "Anhänger der Herrinnen",
+      "slug": "anhanger-der-herrinnen"
     }
   ],
-  "markdown": "Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins\n\n**Gefunden:** [[Haus Alkir]] bei [[Sergeant Zorovich]]\n\n- Von [[Heinard]] erhalten\n\n## KI-Zusammenfassung\n\nAnhänger der Herrinnen ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins Gefunden: Haus Alkir bei Sergeant Zorovich Von Heinard erhalten Direkte Bezüge bestehen zu [[Haus Alkir]], [[Sergeant Zorovich]], [[Heinard]]. Anhänger der Herrinnen wird außerdem in [[Sergeant Zorovich]], [[Alle Gegenstände]], [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins\n\n**Gefunden:** [[Haus Alkir]] bei [[Sergeant Zorovich]]\n\n- Von [[Heinard]] erhalten\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins.\n\n### Beschreibung\n\nEin kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins. Von [[Heinard]] erhalten. Alle Gegenstände: - **~~[[Anhänger der Herrinnen]].~~** ~~Klein und silbern.~~. Alle Gegenstände: - [[Anhänger der Herrinnen]] (von [[Heinard]]).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]] bei [[Sergeant Zorovich]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]] bei [[Sergeant Zorovich]].\n- Ein kleiner silberner Anhänger der Herrinnen in Form eines Füchsleins.\n- Von [[Heinard]] erhalten.\n- Alle Gegenstände: - **~~[[Anhänger der Herrinnen]].~~** ~~Klein und silbern.~~.\n- Alle Gegenstände: - [[Anhänger der Herrinnen]] (von [[Heinard]]).\n- S08 - Grüfte: - Ein kleiner silberner [[Anhänger der Herrinnen]] (Füchslein) (+).\n"
 }

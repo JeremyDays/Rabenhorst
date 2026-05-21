@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Inhalt: 515 Pf. KI Zusammenfassung Malduks Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Inhalt: 515 Pf. Malduks Geldbeutel ",
+  "excerpt": "Inhalt: 515 Pf. KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Inhalt: 515 Pf. Beschreibung Inhalt: 515 Pf. Alle Gegenstände: Malduks Geldbeutel. Silberpfen",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -16,10 +16,15 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Malduks Geldbeutel",
+      "label": "Malduks Geldbeutel",
+      "slug": "malduks-geldbeutel"
     }
   ],
-  "markdown": "**Inhalt:** 515 Pf.\n\n## KI-Zusammenfassung\n\nMalduks Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Inhalt: 515 Pf. Malduks Geldbeutel wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Inhalt:** 515 Pf.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Inhalt: 515 Pf.\n\n### Beschreibung\n\nInhalt: 515 Pf. Alle Gegenstände: - **[[Malduks Geldbeutel]].** Silberpfennige: 515.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Inhalt: 515 Pf.\n- Alle Gegenstände: - **[[Malduks Geldbeutel]].** Silberpfennige: 515.\n"
 }

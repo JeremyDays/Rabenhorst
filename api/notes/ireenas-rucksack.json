@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Wo: Ireenas Zimmer im Haus des Burgomeisters KI Zusammenfassung Ireenas Rucksack ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Ireenas Zimmer i",
+  "excerpt": "Wo: Ireenas Zimmer im Haus des Burgomeisters KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Ireena. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,15 @@
       "slug": "haus-des-burgomeisters"
     },
     {
-      "target": "Angespitzte Pfähle",
-      "label": "Angespitzte Pfähle",
-      "slug": "angespitzte-pfahle"
+      "target": "Ireenas Rucksack",
+      "label": "Ireenas Rucksack",
+      "slug": "ireenas-rucksack"
     },
     {
-      "target": "S13 - Haus des Burgomeisters",
-      "label": "S13 - Haus des Burgomeisters",
-      "slug": "s13-haus-des-burgomeisters"
+      "target": "angespitzten Pfählen",
+      "label": "angespitzten Pfählen",
+      "slug": null
     }
   ],
-  "markdown": "**Wo:** [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\nIreenas Rucksack ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Wo: Ireenas Zimmer im Haus des Burgomeisters Direkte Bezüge bestehen zu [[Ireena]], [[Haus des Burgomeisters]]. Ireenas Rucksack wird außerdem in [[Angespitzte Pfähle]], [[S13 - Haus des Burgomeisters]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Wo:** [[Ireena]]s Zimmer im [[Haus des Burgomeisters]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Ireena]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAngespitzte Pfähle: **Wo:** [[Ireenas Rucksack]] im [[Haus des Burgomeisters]]. S13 - Haus des Burgomeisters: - Gepackter [[Ireenas Rucksack]] mit [[angespitzten Pfählen]] ==Ireenas?== (+).\n\n### Aufenthaltsort / Besitz\n\n- Wo: [[Ireena]]s Zimmer im [[Haus des Burgomeisters]].\n\n### Historie\n\n- Wo: [[Ireena]]s Zimmer im [[Haus des Burgomeisters]].\n- Angespitzte Pfähle: **Wo:** [[Ireenas Rucksack]] im [[Haus des Burgomeisters]].\n- S13 - Haus des Burgomeisters: - Gepackter [[Ireenas Rucksack]] mit [[angespitzten Pfählen]] ==Ireenas?== (+).\n"
 }

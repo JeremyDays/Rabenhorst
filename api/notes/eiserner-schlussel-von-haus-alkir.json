@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Malduk in Haus Alkir KI Zusammenfassung Eiserner Schlüssel von Haus Alkir ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefun",
+  "excerpt": "Gefunden: Malduk in Haus Alkir KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Alle Gegenstä",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,15 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Eiserner Schlüssel von Haus Alkir",
+      "label": "Eiserner Schlüssel von Haus Alkir",
+      "slug": "eiserner-schlussel-von-haus-alkir"
     },
     {
-      "target": "S06 - 2.OG",
-      "label": "S06 - 2.OG",
-      "slug": "s06-2-og"
+      "target": "Eisernen Schlüssel",
+      "label": "Eisernen Schlüssel",
+      "slug": null
     }
   ],
-  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nEiserner Schlüssel von Haus Alkir ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Eiserner Schlüssel von Haus Alkir wird außerdem in [[Alle Gegenstände]], [[S06 - 2.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Eiserner Schlüssel von Haus Alkir]].**. S06 - 2.OG: ==Haben wir das Schloss mit dem [[Eisernen Schlüssel]] geöffnet?==.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]].\n\n### Historie\n\n- Gefunden: [[Malduk]] in [[Haus Alkir]].\n- Alle Gegenstände: - **[[Eiserner Schlüssel von Haus Alkir]].**.\n- S06 - 2.OG: ==Haben wir das Schloss mit dem [[Eisernen Schlüssel]] geöffnet?==.\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Heinard. Haus Alkir Spieltechnisch: Malduk: Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde. KI Zusammenfassung Feuerschutztrank ist ein Gegenstand im Besitz der Gruppe, b",
+  "excerpt": "Gefunden: Heinard. Haus Alkir Spieltechnisch: Malduk: Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde. KI Zusammenfassung Rolle Trank mit magischem Bezug, im Besitz der Gruppe, bei ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S31 - Die Opfer der Hexen",
-      "label": "S31 - Die Opfer der Hexen",
-      "slug": "s31-die-opfer-der-hexen"
+      "target": "Feuerschutztrank",
+      "label": "Feuerschutztrank",
+      "slug": "feuerschutztrank"
     }
   ],
-  "markdown": "**Gefunden:** [[Heinard]]. [[Haus Alkir]]\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.*\n\n## KI-Zusammenfassung\n\nFeuerschutztrank ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard. Haus Alkir Spieltechnisch: Malduk: Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde. Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Feuerschutztrank wird außerdem in [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Heinard]]. [[Haus Alkir]]\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nTrank mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. Spieltechnisch:.\n\n### Beschreibung\n\nSpieltechnisch:. >***Malduk:** Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.*. Alle Gegenstände: - **[[Feuerschutztrank]].**. S31 - Die Opfer der Hexen: - 1 [[Feuerschutztrank]], der 1h hält.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]]. [[Haus Alkir]].\n\n### Historie\n\n- Gefunden: [[Heinard]]. [[Haus Alkir]].\n- Spieltechnisch:.\n- >***Malduk:** Magisch. Schutz gegen Feuer. Wirkung: 1 Stunde.*.\n- Alle Gegenstände: - **[[Feuerschutztrank]].**.\n- S31 - Die Opfer der Hexen: - 1 [[Feuerschutztrank]], der 1h hält.\n"
 }

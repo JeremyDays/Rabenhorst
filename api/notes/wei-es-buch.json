@@ -16,30 +16,25 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     },
     {
-      "target": "S04 - EG",
-      "label": "S04 - EG",
-      "slug": "s04-eg"
+      "target": "Weißes Buch",
+      "label": "Weißes Buch",
+      "slug": "wei-es-buch"
     },
     {
-      "target": "S12 - Ankunft Barovia",
-      "label": "S12 - Ankunft Barovia",
-      "slug": "s12-ankunft-barovia"
+      "target": "Schwarzes Buch",
+      "label": "Schwarzes Buch",
+      "slug": "schwarzes-buch"
     },
     {
-      "target": "S39 - Brans Wut",
-      "label": "S39 - Brans Wut",
-      "slug": "s39-brans-wut"
-    },
-    {
-      "target": "S40 - Ritual, 1. Versuch",
-      "label": "S40 - Ritual, 1. Versuch",
-      "slug": "s40-ritual-1-versuch"
+      "target": "Rotes Buch",
+      "label": "Rotes Buch",
+      "slug": "rotes-buch"
     }
   ],
-  "markdown": "Dickes Buch. Weißlicher Einband mit Silber.\n\n>***Malduk:** Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:\n\n1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber]\n2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK]\n3. Mananetz [SG-0, Macht 0, Hauszauber, keine MK]\n4. Magie verhüllen\n5. Flüssigkeit gefrieren [SG-2, Macht 2, Hauszauber, keine MK]\n6. Eissplittergeschosse [SG-1, Macht 1, Persönlicher Zauber]\n7. Eisspeer [SG-1, Macht 2, Hauszauber]\n8. Eislauf [SG-1, Macht 1, Anfangsstadium]\n9. Eisgefängnis [SG-1, Macht 2, Hauszauber]\n10. Eislabyrinth [SG-2, Macht 4, Hauszauber]\n11. Wettermeisterschaft [SG-2, Macht 2, Hauszauber, keine MK]\n12. Nebelform [SG-1, Macht 2, Hauszauber, keine MK]\n13. Flüssigkeit weben [SG-2, Macht 2, Persönlicher Zauber, keine MK]\n14. Flüssigkeit erhitzen [SG-1, Macht 1, Formel, keine MK]\n15. Isolationsschicht [SG-1, Macht 1, Formel, keine MK]\n16. Flüssigkeiten spüren [SG-1, Macht 1, Persönlicher Zauber, keine MK]\n17. Verfall stoppen [SG-0, Macht 0, Formel, keine MK] \n18. Lebenskraft entziehen [SG-1, Macht 2, Anfangsstadium, MK notwendig]\n19. Gruushas Ritual zur Erstellung des Hirsch-Medaillons\n\n- Spezialisierung noch nicht berücksichtigt.*\n\n## KI-Zusammenfassung\n\nWeißes Buch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Dickes Buch. Weißlicher Einband mit Silber. *Malduk: Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden... Astralsicht [SG-1, Macht 1, Persönlicher Zauber] Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK] Weißes Buch wird außerdem in [[Alle Gegenstände]], [[S04 - EG]], [[S12 - Ankunft Barovia]], [[S39 - Brans Wut]], [[S40 - Ritual, 1. Versuch]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Dickes Buch. Weißlicher Einband mit Silber.\n\n>***Malduk:** Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:\n\n1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber]\n2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK]\n3. Mananetz [SG-0, Macht 0, Hauszauber, keine MK]\n4. Magie verhüllen\n5. Flüssigkeit gefrieren [SG-2, Macht 2, Hauszauber, keine MK]\n6. Eissplittergeschosse [SG-1, Macht 1, Persönlicher Zauber]\n7. Eisspeer [SG-1, Macht 2, Hauszauber]\n8. Eislauf [SG-1, Macht 1, Anfangsstadium]\n9. Eisgefängnis [SG-1, Macht 2, Hauszauber]\n10. Eislabyrinth [SG-2, Macht 4, Hauszauber]\n11. Wettermeisterschaft [SG-2, Macht 2, Hauszauber, keine MK]\n12. Nebelform [SG-1, Macht 2, Hauszauber, keine MK]\n13. Flüssigkeit weben [SG-2, Macht 2, Persönlicher Zauber, keine MK]\n14. Flüssigkeit erhitzen [SG-1, Macht 1, Formel, keine MK]\n15. Isolationsschicht [SG-1, Macht 1, Formel, keine MK]\n16. Flüssigkeiten spüren [SG-1, Macht 1, Persönlicher Zauber, keine MK]\n17. Verfall stoppen [SG-0, Macht 0, Formel, keine MK] \n18. Lebenskraft entziehen [SG-1, Macht 2, Anfangsstadium, MK notwendig]\n19. Gruushas Ritual zur Erstellung des Hirsch-Medaillons\n\n- Spezialisierung noch nicht berücksichtigt.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch mit magischem Bezug, im Besitz der Gruppe, bei [[Malduk]]. Dickes Buch. Weißlicher Einband mit Silber.\n\n### Beschreibung\n\nDickes Buch. Weißlicher Einband mit Silber. >***Malduk:** Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:. 1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber]. 2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK].\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Dickes Buch. Weißlicher Einband mit Silber.\n- >***Malduk:** Magisch. Arkana: Elementarmagie & Metamagie. Das Buch selbst ist gegen Elementarmagie geschützt (Feuer, Wasser, ...). Zur Anwendung muss das Buch aber in Händen gehalten werden. Es ist ein potenter Fokus und potentiert Zauber, die mit Blut in es hinein geschrieben werden. [Zeitaufwand 2-5min./Spruch]. Zudem verbessert sich der Forschungsrang dieser Zauber um einen Rang und verbreitete Materialkomponenten [unter 5Pf.] bei Novizen und Lehrlingszaubern, sowie ungewöhnliche oder seltene Materialkomponenten [unter 50Pf.] bei persönlichen Zaubern sind für diese Sprüche nicht notwendig. Dadurch verändern sich die Sprüche selbst:.\n- 1. Astralsicht [SG-1, Macht 1, Persönlicher Zauber].\n- 2. Mana entziehen [SG-0, Macht 0, Persönlicher Zauber, keine MK].\n- 3. Mananetz [SG-0, Macht 0, Hauszauber, keine MK].\n- Alle Gegenstände: - **[[Weißes Buch]]** Dickes Buch. Weißlicher Einband mit Silber.\n- S04 - EG: - 3 Bücher ([[Schwarzes Buch]], [[Rotes Buch]], [[Weißes Buch]]).\n"
 }

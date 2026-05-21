@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Eine alte Feldflasche Gefunden: Haus Alkir KI Zusammenfassung Feldflasche von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu",
+  "excerpt": "Eine alte Feldflasche Gefunden: Haus Alkir KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Michal. Eine alte Feldflasche. Beschreibung Eine alte Feldflasche. S08 Grü",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,45 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "S08 - Grüfte",
-      "label": "S08 - Grüfte",
-      "slug": "s08-grufte"
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Tasche von Sergeant Zorovich",
+      "label": "Tasche von Sergeant Zorovich",
+      "slug": "tasche-von-sergeant-zorovich"
+    },
+    {
+      "target": "Notizbuch von Sergeant Zorovich",
+      "label": "Notizbuch von Sergeant Zorovich",
+      "slug": "notizbuch-von-sergeant-zorovich"
+    },
+    {
+      "target": "Messer von Sergeant Zorovich",
+      "label": "Messer von Sergeant Zorovich",
+      "slug": "messer-von-sergeant-zorovich"
+    },
+    {
+      "target": "Tabaksbeutel von Sergeant Zorovich",
+      "label": "Tabaksbeutel von Sergeant Zorovich",
+      "slug": "tabaksbeutel-von-sergeant-zorovich"
+    },
+    {
+      "target": "Feuerstein und Stahl von Sergeant Zorovich",
+      "label": "Feuerstein und Stahl von Sergeant Zorovich",
+      "slug": "feuerstein-und-stahl-von-sergeant-zorovich"
+    },
+    {
+      "target": "Flöte von Sergeant Zorovich",
+      "label": "Flöte von Sergeant Zorovich",
+      "slug": "flote-von-sergeant-zorovich"
+    },
+    {
+      "target": "Feldflasche von Sergeant Zorovich",
+      "label": "Feldflasche von Sergeant Zorovich",
+      "slug": "feldflasche-von-sergeant-zorovich"
     }
   ],
-  "markdown": "Eine alte Feldflasche\n\n**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nFeldflasche von Sergeant Zorovich ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Eine alte Feldflasche Gefunden: Haus Alkir Direkte Bezüge bestehen zu [[Haus Alkir]]. Feldflasche von Sergeant Zorovich wird außerdem in [[S08 - Grüfte]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Eine alte Feldflasche\n\n**Gefunden:** [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Michal]]. Eine alte Feldflasche.\n\n### Beschreibung\n\nEine alte Feldflasche. S08 - Grüfte: - [[Tasche von Sergeant Zorovich]], [[Notizbuch von Sergeant Zorovich]], [[Messer von Sergeant Zorovich]], [[Tabaksbeutel von Sergeant Zorovich]], [[Feuerstein und Stahl von Sergeant Zorovich]], [[Flöte von Sergeant Zorovich]], [[Feldflasche von Sergeant Zorovich]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Haus Alkir]].\n- Der Gegenstand liegt derzeit bei [[Michal]].\n\n### Historie\n\n- Gefunden: [[Haus Alkir]].\n- Eine alte Feldflasche.\n- S08 - Grüfte: - [[Tasche von Sergeant Zorovich]], [[Notizbuch von Sergeant Zorovich]], [[Messer von Sergeant Zorovich]], [[Tabaksbeutel von Sergeant Zorovich]], [[Feuerstein und Stahl von Sergeant Zorovich]], [[Flöte von Sergeant Zorovich]], [[Feldflasche von Sergeant Zorovich]] (+).\n"
 }

@@ -16,25 +16,25 @@
   },
   "links": [
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
     },
     {
-      "target": "S04 - EG",
-      "label": "S04 - EG",
-      "slug": "s04-eg"
+      "target": "Schwarzes Buch",
+      "label": "Schwarzes Buch",
+      "slug": "schwarzes-buch"
     },
     {
-      "target": "S12 - Ankunft Barovia",
-      "label": "S12 - Ankunft Barovia",
-      "slug": "s12-ankunft-barovia"
+      "target": "Rotes Buch",
+      "label": "Rotes Buch",
+      "slug": "rotes-buch"
     },
     {
-      "target": "S31 - Die Opfer der Hexen",
-      "label": "S31 - Die Opfer der Hexen",
-      "slug": "s31-die-opfer-der-hexen"
+      "target": "Weißes Buch",
+      "label": "Weißes Buch",
+      "slug": "wei-es-buch"
     }
   ],
-  "markdown": "Dickes Buch. Schwarz. Leer.  \n\n>***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*\n\n## KI-Zusammenfassung\n\nSchwarzes Buch ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Dickes Buch. Schwarz. Leer. Malduk: Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual. Schwarzes Buch wird außerdem in [[Alle Gegenstände]], [[S04 - EG]], [[S12 - Ankunft Barovia]], [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "Dickes Buch. Schwarz. Leer.  \n\n>***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch mit magischem Bezug, im Besitz der Gruppe, bei [[Malduk]]. Dickes Buch. Schwarz. Leer.\n\n### Beschreibung\n\nDickes Buch. Schwarz. Leer. >***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*. Alle Gegenstände: - **[[Schwarzes Buch]].** Dickes Buch. Schwarz. Leer. S04 - EG: - 3 Bücher ([[Schwarzes Buch]], [[Rotes Buch]], [[Weißes Buch]]).\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Dickes Buch. Schwarz. Leer.\n- >***Malduk:** Magisch. Arkana: Nekromantie (stark). Vor irgendetwas geschützt. Dieses Buch wird mit einem Ritual oder Opfer aktiviert. Nicht mit einem inaktiven, abgeschlossenen Ritual.*.\n- Alle Gegenstände: - **[[Schwarzes Buch]].** Dickes Buch. Schwarz. Leer.\n- S04 - EG: - 3 Bücher ([[Schwarzes Buch]], [[Rotes Buch]], [[Weißes Buch]]).\n- S12 - Ankunft Barovia: - Leeres [[Schwarzes Buch]].\n- S31 - Die Opfer der Hexen: - Ein dickes [[Schwarzes Buch]] (+). Das Buch löst Zauber aus. Es tastet sich weiter.\n"
 }

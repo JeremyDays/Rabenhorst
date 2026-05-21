@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Bei Szlata. Er kann Stärke und Mana entziehen. KI Zusammenfassung Stab der Entropie ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: G",
+  "excerpt": "Gefunden: Bei Szlata. Er kann Stärke und Mana entziehen. KI Zusammenfassung Rolle Gegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Er kann Stärke und Mana entziehen. Bes",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,10 +21,10 @@
       "slug": "szlata"
     },
     {
-      "target": "S34 - Werwolfshöhle",
-      "label": "S34 - Werwolfshöhle",
-      "slug": "s34-werwolfshohle"
+      "target": "Stab der Entropie",
+      "label": "Stab der Entropie",
+      "slug": "stab-der-entropie"
     }
   ],
-  "markdown": "**Gefunden:** Bei [[Szlata]].\n- Er kann Stärke und Mana entziehen.\n\n## KI-Zusammenfassung\n\nStab der Entropie ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Gefunden: Bei Szlata. Er kann Stärke und Mana entziehen. Direkte Bezüge bestehen zu [[Szlata]]. Stab der Entropie wird außerdem in [[Szlata]], [[S34 - Werwolfshöhle]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** Bei [[Szlata]].\n- Er kann Stärke und Mana entziehen.\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand mit magischem Bezug, nicht im Besitz der Gruppe. Er kann Stärke und Mana entziehen.\n\n### Beschreibung\n\nEr kann Stärke und Mana entziehen. S34 - Werwolfshöhle: - Sie kann mit Entropie Stärke entziehen ([[Stab der Entropie]]).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: Bei [[Szlata]].\n\n### Historie\n\n- Gefunden: Bei [[Szlata]].\n- Er kann Stärke und Mana entziehen.\n- S34 - Werwolfshöhle: - Sie kann mit Entropie Stärke entziehen ([[Stab der Entropie]]).\n"
 }

@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Heinard in Haus Alkir KI Zusammenfassung Heilige Schrift von Jelen und Luna ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Ge",
+  "excerpt": "Gefunden: Heinard in Haus Alkir KI Zusammenfassung Rolle Buch, im Besitz der Gruppe, bei Heinard. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Alle Gegenstände:",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,15 +26,10 @@
       "slug": "haus-alkir"
     },
     {
-      "target": "Alle Gegenstände",
-      "label": "Alle Gegenstände",
-      "slug": "alle-gegenstande"
-    },
-    {
-      "target": "S06 - 2.OG",
-      "label": "S06 - 2.OG",
-      "slug": "s06-2-og"
+      "target": "Heilige Schrift von Jelen und Luna",
+      "label": "Heilige Schrift von Jelen und Luna",
+      "slug": "heilige-schrift-von-jelen-und-luna"
     }
   ],
-  "markdown": "**Gefunden:** [[Heinard]] in [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\nHeilige Schrift von Jelen und Luna ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard in Haus Alkir Direkte Bezüge bestehen zu [[Heinard]], [[Haus Alkir]]. Heilige Schrift von Jelen und Luna wird außerdem in [[Alle Gegenstände]], [[S06 - 2.OG]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Heinard]] in [[Haus Alkir]]\n\n## KI-Zusammenfassung\n\n### Rolle\n\nBuch, im Besitz der Gruppe, bei [[Heinard]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nAlle Gegenstände: - **[[Heilige Schrift von Jelen und Luna]]**. S06 - 2.OG: - [[Heilige Schrift von Jelen und Luna]] (+).\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]].\n\n### Historie\n\n- Gefunden: [[Heinard]] in [[Haus Alkir]].\n- Alle Gegenstände: - **[[Heilige Schrift von Jelen und Luna]]**.\n- S06 - 2.OG: - [[Heilige Schrift von Jelen und Luna]] (+).\n"
 }

@@ -8,12 +8,18 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "KI Zusammenfassung Malduks vornehme Kleidung ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Eino",
+  "excerpt": "KI Zusammenfassung Rolle Gegenstand, im Besitz der Gruppe, bei Malduk. Eine genauere Funktion ist bislang nicht gesichert. Beschreibung Eine äußere Beschreibung des Gegenstands ist",
   "frontmatter": {
     "tags": [
       "Gegenstand"
     ]
   },
-  "links": [],
-  "markdown": "\n\n## KI-Zusammenfassung\n\nMalduks vornehme Kleidung ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die vorhandenen lokalen Notizen sind dazu bislang knapp und liefern vor allem Einordnung über Ablageort, Verweise und Erwähnungen in anderen Seiten. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    }
+  ],
+  "markdown": "\n\n## KI-Zusammenfassung\n\n### Rolle\n\nGegenstand, im Besitz der Gruppe, bei [[Malduk]]. Eine genauere Funktion ist bislang nicht gesichert.\n\n### Beschreibung\n\nEine äußere Beschreibung des Gegenstands ist bislang nicht festgehalten.\n\n### Aufenthaltsort / Besitz\n\n- Der Gegenstand liegt derzeit bei [[Malduk]].\n\n### Historie\n\n- Bisher ist keine konkrete Geschichte des Gegenstands festgehalten.\n"
 }

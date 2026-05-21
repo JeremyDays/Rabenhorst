@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Gefunden: Heinard. Hexenmühle 2/2 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Heiltrank der Hexen ist ein Gegenstand im Besitz der Gr",
+  "excerpt": "Gefunden: Heinard. Hexenmühle 2/2 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. KI Zusammenfassung Rolle Trank mit magischem Bezug, im Besitz der Gruppe, ",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -27,10 +27,10 @@
       "slug": "hexenmuhle"
     },
     {
-      "target": "S31 - Die Opfer der Hexen",
-      "label": "S31 - Die Opfer der Hexen",
-      "slug": "s31-die-opfer-der-hexen"
+      "target": "Heiltränke",
+      "label": "Heiltränke",
+      "slug": null
     }
   ],
-  "markdown": "**Gefunden:** [[Heinard]]. [[Hexenmühle]]\n2/2 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\nHeiltrank der Hexen ist ein Gegenstand im Besitz der Gruppe, bei Heinard. Die lokalen Notizen halten dazu fest: Gefunden: Heinard. Hexenmühle 2/2 Stück übrig! Spieltechnisch: Malduk: Magisch. Heiltränke [je 2W6+4 TP]. Direkte Bezüge bestehen zu [[Heinard]], [[Hexenmühle]]. Heiltrank der Hexen wird außerdem in [[S31 - Die Opfer der Hexen]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+  "markdown": "**Gefunden:** [[Heinard]]. [[Hexenmühle]]\n2/2 Stück übrig!\n\n**Spieltechnisch:**\n\n>***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*\n\n## KI-Zusammenfassung\n\n### Rolle\n\nTrank mit magischem Bezug, im Besitz der Gruppe, bei [[Heinard]]. 2/2 Stück übrig!\n\n### Beschreibung\n\n2/2 Stück übrig! Spieltechnisch:. >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*. S31 - Die Opfer der Hexen: - 2 magische [[Heiltränke]]. Je 2W6+4 TP.\n\n### Aufenthaltsort / Besitz\n\n- Gefunden: [[Heinard]]. [[Hexenmühle]].\n\n### Historie\n\n- Gefunden: [[Heinard]]. [[Hexenmühle]].\n- 2/2 Stück übrig!\n- Spieltechnisch:.\n- >***Malduk:** Magisch. Heiltränke [je 2W6+4 TP].*.\n- S31 - Die Opfer der Hexen: - 2 magische [[Heiltränke]]. Je 2W6+4 TP.\n"
 }
