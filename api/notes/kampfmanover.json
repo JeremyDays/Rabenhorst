@@ -1,0 +1,13 @@
+{
+  "title": "Kampfmanöver",
+  "slug": "kampfmanover",
+  "category": "rules",
+  "relativePath": "Shared/Rabenhorst/6 - Regeln/Kampfmanöver.md",
+  "url": "notes/kampfmanover.html",
+  "apiUrl": "api/notes/kampfmanover.json",
+  "tags": [],
+  "excerpt": "Nahkampf: | Manöver | Aktion | ANW | VEW | Effekt | | | | | | | | Blocken | 1 | +0 | +0 | Blocken | | Entwaffnen | 1 | 2 | +0 | Entwaffne STR gg. STR | | Ausweichen | 1 | | +3 | +3",
+  "frontmatter": {},
+  "links": [],
+  "markdown": "\n**Nahkampf:**\n\n| Manöver           | Aktion | ANW  | VEW | Effekt                          |\n| ----------------- | ------ | ---- | --- | ------------------------------- |\n| Blocken           | 1      | +0   | +0  | Blocken                         |\n| Entwaffnen        | 1      | -2   | +0  | Entwaffne STR gg. STR           |\n| Ausweichen        | 1      | -    | +3  | +3 VEW gg. alle Angriffe        |\n| Ergreifen         | 1      | -1   | -2  | Zwei Extremitäten ergreifen     |\n| Ergreifen im Lauf | 1      | -3   | -4  | Bewegen und Ergreifen           |\n| Massiver Angriff  | 1      | +0   | -5  | +4 SK Schaden                   |\n| Sturmangriff      | 1      | -1   | -2  | STR+Entfernung/Bewegung Schaden |\n| Umrennen          | 1      | -/5  | -3  |                                 |\n| Angriff           | 1      | +0   | +0  | HGM oder Waffe                  |\n| Mehrfachangriff   | 1      | var. | 1/2 | Bewegung n. mit weiterer Aktion |\n| Zu Boden stoßen   | 1      | -1   | -2  | Ziel umwerfen                   |\n\n\n\n**Fernkampf:**\n\n| Manöver             | Aktion | ANW  | VEW | RW  | Effekt                          |\n| ------------------- | ------ | ---- | --- | --- | ------------------------------- |\n| Schuss              | 1      | +0   | +0  | +0  | Waffenschaden                   |\n| Fernschuss          | 1      | -2   | +0  | +2  | +2 RWM                          |\n| Schnellschuss       | 1      | -2   | +0  | +0  | Initiative +2                   |\n| Waffe abstützen     | 0      | +2   | 1/2 | +2  | +2 RWM                          |\n| Werfen              | 1      | +0   | +0  | +0  |                                 |\n| Zielen              | 1      | +1   | +0  | +0  | Kombination mit Waffe abstützen |\n| Schuss aus Deckung  | 1      | -1   | +0  | +0  | Wieder Deckung                  |\n| Schuss aus Bewegung | 1      | -m/6 | -2  | +0  | Aus Bewegung                    |\n\n"
+}

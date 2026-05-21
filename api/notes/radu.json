@@ -1,0 +1,19 @@
+{
+  "title": "Radu",
+  "slug": "radu",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Radu.md",
+  "url": "notes/radu.html",
+  "apiUrl": "api/notes/radu.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Schneider.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\nEin Schneider.\n\n"
+}

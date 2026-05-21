@@ -1,0 +1,25 @@
+{
+  "title": "Michals Geldbeutel",
+  "slug": "michals-geldbeutel",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Michal/Sonstiges/Michals Geldbeutel.md",
+  "url": "notes/michals-geldbeutel.html",
+  "apiUrl": "api/notes/michals-geldbeutel.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Inhalt: 0 Pf. KI Zusammenfassung Michals Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Inhalt: 0 Pf. Michals Geldbeutel wird",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    }
+  ],
+  "markdown": "**Inhalt:** 0 Pf.\n\n## KI-Zusammenfassung\n\nMichals Geldbeutel ist ein Gegenstand im Besitz der Gruppe, bei Michal. Die lokalen Notizen halten dazu fest: Inhalt: 0 Pf. Michals Geldbeutel wird außerdem in [[Alle Gegenstände]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

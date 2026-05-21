@@ -1,0 +1,40 @@
+{
+  "title": "Klaue eines Raben",
+  "slug": "klaue-eines-raben",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Malduk/Paraphernalia/Klaue eines Raben.md",
+  "url": "notes/klaue-eines-raben.html",
+  "apiUrl": "api/notes/klaue-eines-raben.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Gefunden: Malduk in Haus Alkir. Nischenwände KI Zusammenfassung Klaue eines Raben ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunde",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Malduk",
+      "label": "Malduk",
+      "slug": "malduk"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S10 - Katakomben",
+      "label": "S10 - Katakomben",
+      "slug": "s10-katakomben"
+    }
+  ],
+  "markdown": "**Gefunden:** [[Malduk]] in [[Haus Alkir]]. Nischenwände\n\n## KI-Zusammenfassung\n\nKlaue eines Raben ist ein Gegenstand im Besitz der Gruppe, bei Malduk. Die lokalen Notizen halten dazu fest: Gefunden: Malduk in Haus Alkir. Nischenwände Direkte Bezüge bestehen zu [[Malduk]], [[Haus Alkir]]. Klaue eines Raben wird außerdem in [[Alle Gegenstände]], [[S10 - Katakomben]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

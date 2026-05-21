@@ -1,0 +1,35 @@
+{
+  "title": "Kiste von Graf Strahd",
+  "slug": "kiste-von-graf-strahd",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Nicht im Besitz der Gruppe/Magische Gegenstände/Kiste von Graf Strahd.md",
+  "url": "notes/kiste-von-graf-strahd.html",
+  "apiUrl": "api/notes/kiste-von-graf-strahd.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Zerstört Eine verfluchte Kiste, in der ein Spinnen Monster war. KI Zusammenfassung Kiste von Graf Strahd ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten d",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Henrik van der Voort",
+      "label": "Henrik van der Voort",
+      "slug": "henrik-van-der-voort"
+    },
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Fiona Wachter",
+      "slug": "lady-fiona-wachter"
+    },
+    {
+      "target": "Spinnendämon",
+      "label": "Spinnendämon",
+      "slug": "spinnendamon"
+    }
+  ],
+  "markdown": "**Zerstört**\n\nEine verfluchte Kiste, in der ein Spinnen-Monster war.\n\n## KI-Zusammenfassung\n\nKiste von Graf Strahd ist ein Gegenstand nicht im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Zerstört Eine verfluchte Kiste, in der ein Spinnen-Monster war. Kiste von Graf Strahd wird außerdem in [[Henrik van der Voort]], [[Lady Fiona Wachter]], [[Spinnendämon]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

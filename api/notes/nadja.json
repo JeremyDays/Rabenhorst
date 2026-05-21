@@ -1,0 +1,45 @@
+{
+  "title": "Nadja",
+  "slug": "nadja",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Burgomeister/Nadja.md",
+  "url": "notes/nadja.html",
+  "apiUrl": "api/notes/nadja.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan KI Zusammenfassung Nadja ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten ",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Udo",
+      "label": "Udo",
+      "slug": "udo"
+    },
+    {
+      "target": "Iljan",
+      "label": "Iljan",
+      "slug": "iljan"
+    },
+    {
+      "target": "S67 - Victor, Nadja und Iljan",
+      "label": "S67 - Victor, Nadja und Iljan",
+      "slug": "s67-victor-nadja-und-iljan"
+    },
+    {
+      "target": "S68 - Die Beschwörung",
+      "label": "S68 - Die Beschwörung",
+      "slug": "s68-die-beschworung"
+    }
+  ],
+  "markdown": "- Dienerin von [[Baron Vargas Vallakovich]]\n- Verlobte von [[Udo]]\n- Tochter von [[Iljan]]\n\n## KI-Zusammenfassung\n\nNadja ist eine Figur aus dem Bereich Vallaki / Burgomeister. Die lokalen Notizen halten dazu fest: Dienerin von Baron Vargas Vallakovich Verlobte von Udo Tochter von Iljan Direkte Bezüge bestehen zu [[Baron Vargas Vallakovich]], [[Udo]], [[Iljan]]. Nadja wird außerdem in [[Baron Vargas Vallakovich]], [[Iljan]], [[Udo]], [[S67 - Victor, Nadja und Iljan]], [[S68 - Die Beschwörung]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

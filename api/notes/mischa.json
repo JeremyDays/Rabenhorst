@@ -1,0 +1,30 @@
+{
+  "title": "Mischa",
+  "slug": "mischa",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/St. Andrals Waisenhaus/Waisenkinder/Mischa.md",
+  "url": "notes/mischa.html",
+  "apiUrl": "api/notes/mischa.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Waisenkind aus dem St. Andrals Waisenhaus Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind KI Zusammenfassung Mischa ist eine Figur aus dem Bereich Vallaki / St. Andrals W",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "St. Andrals Waisenhaus",
+      "label": "St. Andrals Waisenhaus",
+      "slug": "st-andrals-waisenhaus"
+    },
+    {
+      "target": "Izek Strazni",
+      "label": "Izek Strazni",
+      "slug": "izek-strazni"
+    }
+  ],
+  "markdown": "Waisenkind aus dem [[St. Andrals Waisenhaus]]\n\n- Ihre Eltern wurden von [[Izek Strazni]] verbrannt. Waisenkind\n\n## KI-Zusammenfassung\n\nMischa ist eine Figur aus dem Bereich Vallaki / St. Andrals Waisenhaus / Waisenkinder. Die lokalen Notizen halten dazu fest: Waisenkind aus dem St. Andrals Waisenhaus Ihre Eltern wurden von Izek Strazni verbrannt. Waisenkind Direkte Bezüge bestehen zu [[St. Andrals Waisenhaus]], [[Izek Strazni]]. Mischa wird außerdem in [[St. Andrals Waisenhaus]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Olaf",
+  "slug": "olaf",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Olaf.md",
+  "url": "notes/olaf.html",
+  "apiUrl": "api/notes/olaf.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vater von Raik.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Raik",
+      "label": "Raik",
+      "slug": "raik"
+    }
+  ],
+  "markdown": "\nVater von [[Raik]].\n\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Kradorf",
+  "slug": "kradorf",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Kradorf.md",
+  "url": "notes/kradorf.html",
+  "apiUrl": "api/notes/kradorf.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In: Velarisches Imperium Herkunftsort von Michal. Weit von Eichenfurt",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarisches Imperium",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "Eichenfurt",
+      "label": "Eichenfurt",
+      "slug": "eichenfurt"
+    }
+  ],
+  "markdown": "\nIn: [[Velarisches Imperium]]\n\nHerkunftsort von [[Michal]].\nWeit von [[Eichenfurt]]\n\n\n"
+}

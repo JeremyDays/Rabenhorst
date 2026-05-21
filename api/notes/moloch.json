@@ -1,0 +1,29 @@
+{
+  "title": "Moloch",
+  "slug": "moloch",
+  "category": "creature",
+  "relativePath": "Shared/Rabenhorst/8 - Kreaturen/Moloch.md",
+  "url": "notes/moloch.html",
+  "apiUrl": "api/notes/moloch.json",
+  "tags": [],
+  "excerpt": "Ein großer Frosch, der in Wahrheit die Wasserfey ist. Sie hat den Blauen EdelsteinEdelstein (Blau) verschlungen. Man findet sie beim Fluss Luna.",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Wasserfey",
+      "label": "Wasserfey",
+      "slug": "wasserfey"
+    },
+    {
+      "target": "Edelstein (Blau)",
+      "label": "Blauen Edelstein",
+      "slug": "edelstein-blau"
+    },
+    {
+      "target": "Fluss Luna",
+      "label": "Fluss Luna",
+      "slug": "fluss-luna"
+    }
+  ],
+  "markdown": "Ein großer Frosch, der in Wahrheit die [[Wasserfey]] ist.\nSie hat den [[Edelstein (Blau)|Blauen Edelstein]] verschlungen. Man findet sie beim [[Fluss Luna]].\n\n"
+}

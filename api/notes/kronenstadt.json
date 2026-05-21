@@ -1,0 +1,53 @@
+{
+  "title": "Kronenstadt",
+  "slug": "kronenstadt",
+  "category": "location",
+  "relativePath": "Shared/Valerisches Imperium/3 - Orte/Kronenstadt/Kronenstadt.md",
+  "url": "notes/kronenstadt.html",
+  "apiUrl": "api/notes/kronenstadt.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Im: Velarischen ReichVelarisches Imperium Sitz des Grafen von KronstadtGraf von Kronstadt Größte Stadt in der Grafschaft, aber nicht die Hauptstadt. Die Uniform von Sergeant Zorovi",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Kronstadt"
+    ]
+  },
+  "links": [
+    {
+      "target": "Velarisches Imperium",
+      "label": "Velarischen Reich",
+      "slug": "velarisches-imperium"
+    },
+    {
+      "target": "Graf von Kronstadt",
+      "label": "Grafen von Kronstadt",
+      "slug": "graf-von-kronstadt"
+    },
+    {
+      "target": "Sergeant Zorovich",
+      "label": "Sergeant Zorovich",
+      "slug": "sergeant-zorovich"
+    },
+    {
+      "target": "Kronenstadt",
+      "label": "Kronenstadt",
+      "slug": "kronenstadt"
+    },
+    {
+      "target": "Akademie von Kronenstadt",
+      "label": "Akademie von Kronenstadt",
+      "slug": "akademie-von-kronenstadt"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    }
+  ],
+  "markdown": "\nIm: [[Velarisches Imperium|Velarischen Reich]]\n\nSitz des [[Graf von Kronstadt|Grafen von Kronstadt]]\n- Größte Stadt in der Grafschaft, aber nicht die Hauptstadt.\n- Die Uniform von [[Sergeant Zorovich]] war im übrigen auch aus [[Kronenstadt]].\n\n\n- Dort gibt es die [[Akademie von Kronenstadt]]\n- Kommt [[Graf Strahd]] von dort?\n\n>***Malduk:** Wo ist das?*\n\n"
+}

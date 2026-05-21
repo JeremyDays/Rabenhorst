@@ -1,0 +1,60 @@
+{
+  "title": "Myrtle",
+  "slug": "myrtle",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Hexenmühle/Myrtle.md",
+  "url": "notes/myrtle.html",
+  "apiUrl": "api/notes/myrtle.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Kind aus der Hexenmühle Sie ist bei Acht Eichen von den Werwölfen getötet worden. Michal hat wütend und schmerzerfüllt geschrien. KI Zusammenfassung Myrtle ist eine Figur aus dem B",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hexenmühle",
+      "label": "Hexenmühle",
+      "slug": "hexenmuhle"
+    },
+    {
+      "target": "Acht Eichen",
+      "label": "Acht Eichen",
+      "slug": "acht-eichen"
+    },
+    {
+      "target": "Werwölfe",
+      "label": "Werwölfe",
+      "slug": "werwolfe"
+    },
+    {
+      "target": "Michal",
+      "label": "Michal",
+      "slug": "michal"
+    },
+    {
+      "target": "S26 - Engelstod",
+      "label": "S26 - Engelstod",
+      "slug": "s26-engelstod"
+    },
+    {
+      "target": "S28 - Im Heiligtum",
+      "label": "S28 - Im Heiligtum",
+      "slug": "s28-im-heiligtum"
+    },
+    {
+      "target": "S29 - Höllenhunde",
+      "label": "S29 - Höllenhunde",
+      "slug": "s29-hollenhunde"
+    },
+    {
+      "target": "S30 - Verrat an Strahd",
+      "label": "S30 - Verrat an Strahd",
+      "slug": "s30-verrat-an-strahd"
+    }
+  ],
+  "markdown": "Kind aus der [[Hexenmühle]]\n\n![[Myrtle.png]]\n\n- Sie ist bei [[Acht Eichen]] von den [[Werwölfe]]n getötet worden. \n- [[Michal]] hat wütend und schmerzerfüllt geschrien.\n\n## KI-Zusammenfassung\n\nMyrtle ist eine Figur aus dem Bereich Hexenmühle. Die lokalen Notizen halten dazu fest: Kind aus der Hexenmühle Sie ist bei Acht Eichen von den Werwölfen getötet worden. Michal hat wütend und schmerzerfüllt geschrien. Direkte Bezüge bestehen zu [[Hexenmühle]], [[Acht Eichen]], [[Werwölfe]], [[Michal]]. Myrtle wird außerdem in [[Acht Eichen]], [[S26 - Engelstod]], [[S28 - Im Heiligtum]], [[S29 - Höllenhunde]], [[S30 - Verrat an Strahd]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

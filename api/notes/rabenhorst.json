@@ -1,0 +1,19 @@
+{
+  "title": "Rabenhorst",
+  "slug": "rabenhorst",
+  "category": "lore",
+  "relativePath": "Shared/Rabenhorst/5 - Welt/Rabenhorst.md",
+  "url": "notes/rabenhorst.html",
+  "apiUrl": "api/notes/rabenhorst.json",
+  "tags": [],
+  "excerpt": "Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere Land Rabenhorst wie ein unheilvolles Mahnmal. Der Mond scheint blass und bl",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Schloss Rabenhorst",
+      "label": "Schloss Rabenhorst",
+      "slug": "schloss-rabenhorst"
+    }
+  ],
+  "markdown": "Durch Nebelschwaden, die wie fahle Finger die Seelen der Lebenden zu sich rufen, erhebt sich das düstere Land Rabenhorst wie ein unheilvolles Mahnmal. Der Mond scheint blass und blutig, ein unheiliges Licht, das die verfallenen Zinnen von [[Schloss Rabenhorst]] streift, während dunkle Wolken die Sterne verschlingen. Hier ist jeder Atemzug schwer von der Fäulnis vergangener Hoffnungen, und die Schatten flüstern die Schreie derer, die einst wagten, das Land zu durchqueren.\n\nDies ist eine Welt, in der die Dunkelheit allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht. Die Menschen von Barovia leben in ständiger Angst, während ihr geflüstertes Gebet gegen die eisige Umarmung des Vampirfürsten Strahd von Zarovich verhallt. Er thront über allem, ein Schatten unter Schatten, der die Zeit selbst in Fesseln legt, um sich an endlosem Leid zu laben.\n\nDies ist eine Welt, in der die Dunkelheit allgegenwärtig ist, wo selbst der Wind wie das Flüstern eines verlorenen Liebhabers durch die verkrümmten Bäume streicht. Die Menschen von Barovia leben in ständiger Angst, während ihr geflüstertes Gebet gegen die eisige Umarmung des Vampirfürsten Strahd von Zarovich verhallt. Er thront über allem, ein Schatten unter Schatten, der die Zeit selbst in Fesseln legt, um sich an endlosem Leid zu laben."
+}

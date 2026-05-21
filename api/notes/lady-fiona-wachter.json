@@ -1,0 +1,104 @@
+{
+  "title": "Lady Fiona Wachter",
+  "slug": "lady-fiona-wachter",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Wachter/Lady Fiona Wachter.md",
+  "url": "notes/lady-fiona-wachter.html",
+  "apiUrl": "api/notes/lady-fiona-wachter.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Gegenspielerin des Burgomeisters Baron VargasBaron Vargas Vallakovich in Vallaki ![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos battlemaps universe/beneos assets/",
+  "frontmatter": {
+    "aliases": [
+      "Lady Wachter",
+      "Fiona Wachter"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Familie Wachter",
+      "label": "Familie Wachter",
+      "slug": "familie-wachter"
+    },
+    {
+      "target": "Nikolai Wachter Jr.",
+      "label": "Nikolai Wachter Jr.",
+      "slug": "nikolai-wachter-jr"
+    },
+    {
+      "target": "Karl Wachter",
+      "label": "Karl Wachter",
+      "slug": "karl-wachter"
+    },
+    {
+      "target": "Vater Lucian Petrovich",
+      "label": "Vater Lucian Petrovich",
+      "slug": "vater-lucian-petrovich"
+    },
+    {
+      "target": "Kiste von Graf Strahd",
+      "label": "Kiste von Graf Strahd",
+      "slug": "kiste-von-graf-strahd"
+    },
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Burgomeister",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Fiona Wachter",
+      "slug": "lady-fiona-wachter"
+    },
+    {
+      "target": "verrückte Tochter Wachter",
+      "label": "verrückte Tochter Wachter",
+      "slug": "verruckte-tochter-wachter"
+    },
+    {
+      "target": "Baron Vargas Vallakovich",
+      "label": "Baron Vargas Vallakovich",
+      "slug": "baron-vargas-vallakovich"
+    },
+    {
+      "target": "Lady Fiona Wachter",
+      "label": "Lady Wachter",
+      "slug": "lady-fiona-wachter"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Baron Vargas",
+      "label": "Baron Vargas",
+      "slug": null
+    },
+    {
+      "target": "Zauberer",
+      "label": "Zauberer",
+      "slug": "zauberer"
+    },
+    {
+      "target": "Udo",
+      "label": "Udo",
+      "slug": "udo"
+    }
+  ],
+  "markdown": "_Gegenspielerin des Burgomeisters [[Baron Vargas Vallakovich|Baron Vargas]] in [[Vallaki]]_\n\n![|250](https://vtt2.eichenfurt.org/moulinette/adventures/beneos-battlemaps-universe/beneos_assets/beneos_battlemaps/map_assets/tokens/cos_tokens/fiona_wachter.webp)\n\n[[Familie Wachter]]\nMutter von [[Nikolai Wachter Jr.]] und [[Karl Wachter]].\n\n- Laut [[Vater Lucian Petrovich]] hat sie einen mächtigen Gläubigen von seiner Heiligkeit befreit.\n- Sie hat die [[Kiste von Graf Strahd]] verzaubert. ===Wie waren noch gleich die Details?===\n\n**Gerüchte:**\n- Niemand hasst den [[Baron Vargas Vallakovich|Burgomeister]] mehr als [[Lady Fiona Wachter]], die oft mit den Worten zitiert wird: ***\"Lieber diene ich dem Teufel als einem Wahnsinnigen.\"*** Sie besitzt ein altes Haus in der Stadt, verlässt ihr Anwesen aber nur selten. Ihre beiden erwachsenen Söhne, [[Nikolai Wachter Jr.]] und [[Karl Wachter]], sind lokale Unruhestifter. Frau Wachter hat auch eine [[verrückte Tochter Wachter]], die sie weggesperrt hält. Der Burgomeister [[Baron Vargas Vallakovich]] stellt [[Lady Fiona Wachter]] und ihre Nachkommen nicht zur Rede, weil er Angst vor [[Lady Fiona Wachter|Lady Wachter]] hat, deren Familie alte Verbindungen zu [[Graf Strahd]] hat.\n\n## KI-Zusammenfassung\n\nLady Fiona Wachter, auch Lady Wachter, Fiona Wachter genannt, ist eine Figur aus dem Bereich Vallaki / Wachter. Die lokalen Notizen halten dazu fest: Gegenspielerin des Burgomeisters Baron Vargas in Vallaki Mutter von Nikolai Wachter Jr. und Karl Wachter. Laut Vater Lucian Petrovich hat sie einen mächtigen Gläubigen von seiner Heiligkeit befreit. Sie hat die Kiste von Graf Strahd verzaubert. ===Wie waren noch gleich die Details?=== Direkte Bezüge bestehen zu [[Baron Vargas]], [[Vallaki]], [[Familie Wachter]], [[Nikolai Wachter Jr.]], [[Karl Wachter]]. Lady Fiona Wachter wird außerdem in [[Zauberer]], [[Vater Lucian Petrovich]], [[Karl Wachter]], [[Nikolai Wachter Jr.]], [[Udo]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ring der Geistabschirmung",
+  "slug": "ring-der-geistabschirmung",
+  "category": "item",
+  "relativePath": "Shared/Rabenhorst/4 - Gegenstände/Im Besitz der Gruppe/Ireena/Magische Gegenstände/Ring der Geistabschirmung.md",
+  "url": "notes/ring-der-geistabschirmung.html",
+  "apiUrl": "api/notes/ring-der-geistabschirmung.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Kleiner Silberring Gefunden: Unklar Spieltechnisch: Malduk: Magisch. Geistabschirmung. KI Zusammenfassung Ring der Geistabschirmung ist ein Gegenstand im Besitz der Gruppe. Die lok",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Alle Gegenstände",
+      "label": "Alle Gegenstände",
+      "slug": "alle-gegenstande"
+    },
+    {
+      "target": "S31 - Die Opfer der Hexen",
+      "label": "S31 - Die Opfer der Hexen",
+      "slug": "s31-die-opfer-der-hexen"
+    },
+    {
+      "target": "S70 - Izek",
+      "label": "S70 - Izek",
+      "slug": "s70-izek"
+    }
+  ],
+  "markdown": "Kleiner Silberring\n\n**Gefunden:** Unklar\n\n**Spieltechnisch:**\n>***Malduk:** Magisch. Geistabschirmung.*\n\n## KI-Zusammenfassung\n\nRing der Geistabschirmung ist ein Gegenstand im Besitz der Gruppe. Die lokalen Notizen halten dazu fest: Kleiner Silberring Gefunden: Unklar Spieltechnisch: Malduk: Magisch. Geistabschirmung. Ring der Geistabschirmung wird außerdem in [[Alle Gegenstände]], [[S31 - Die Opfer der Hexen]], [[S70 - Izek]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

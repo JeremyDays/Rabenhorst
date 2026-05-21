@@ -1,0 +1,35 @@
+{
+  "title": "Pidlwick",
+  "slug": "pidlwick",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Schloss Rabenhorst/Pidlwick.md",
+  "url": "notes/pidlwick.html",
+  "apiUrl": "api/notes/pidlwick.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Narr von Dorfniya Er war der Hofnarr der Zarovich Er unterhielt die Gäste oft mit Musik, Jonglage, Magie und Unfug. Es hieß, dass Graf Strahd, der sich oft amüsierte, durch Pidlwic",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Dorfniya",
+      "label": "Dorfniya",
+      "slug": "dorfniya"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Der Hof von Rabenhorst",
+      "label": "Der Hof von Rabenhorst",
+      "slug": "der-hof-von-rabenhorst"
+    }
+  ],
+  "markdown": "Narr von [[Dorfniya]]\n\n- Er war der Hofnarr der Zarovich\n- Er unterhielt die Gäste oft mit Musik, Jonglage, Magie und Unfug. Es hieß, dass [[Graf Strahd]], der sich oft amüsierte, durch Pidlwicks Unfug auch wütend wurde.\n\n## KI-Zusammenfassung\n\nPidlwick ist eine Figur aus dem Bereich Schloss Rabenhorst. Die lokalen Notizen halten dazu fest: Narr von Dorfniya Er war der Hofnarr der Zarovich Er unterhielt die Gäste oft mit Musik, Jonglage, Magie und Unfug. Es hieß, dass Graf Strahd, der sich oft amüsierte, durch Pidlwicks Unfug auch wütend wurde. Direkte Bezüge bestehen zu [[Dorfniya]], [[Graf Strahd]]. Pidlwick wird außerdem in [[Dorfniya]], [[Der Hof von Rabenhorst]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

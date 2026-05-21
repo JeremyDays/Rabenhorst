@@ -1,0 +1,30 @@
+{
+  "title": "Raik",
+  "slug": "raik",
+  "category": "npc",
+  "relativePath": "Shared/Valerisches Imperium/2 - NSCs/Eichenfurt/Raik.md",
+  "url": "notes/raik.html",
+  "apiUrl": "api/notes/raik.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "9 jähriger Junge und Freund von Sven. Eher ängstlich. Sohn von Olaf.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Olaf",
+      "label": "Olaf",
+      "slug": "olaf"
+    }
+  ],
+  "markdown": "\n9 jähriger Junge und Freund von [[Sven]]. \n\n- Eher ängstlich.\n- Sohn von [[Olaf]].\n\n\n\n"
+}

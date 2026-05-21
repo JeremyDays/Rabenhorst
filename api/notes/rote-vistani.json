@@ -1,0 +1,58 @@
+{
+  "title": "Rote Vistani",
+  "slug": "rote-vistani",
+  "category": "faction",
+  "relativePath": "Shared/Rabenhorst/0 - Fraktionen/Vistani/Rote Vistani.md",
+  "url": "notes/rote-vistani.html",
+  "apiUrl": "api/notes/rote-vistani.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Sie leben im Lager der Roten Vistani westlich von Vallaki. Sie sind die Diener Graf Strahds und können die Lande verlassen. Sie arbeiten auf Augenhöhe mit und für Graf Strahd, aber",
+  "frontmatter": {
+    "aliases": [
+      "Roten Vistani"
+    ],
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Lager der Roten Vistani",
+      "label": "Lager der Roten Vistani",
+      "slug": "lager-der-roten-vistani"
+    },
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    },
+    {
+      "target": "Graf Strahd",
+      "label": "Graf Strahd",
+      "slug": "graf-strahd"
+    },
+    {
+      "target": "Blaue Vistani",
+      "label": "Blauen Vistani",
+      "slug": "blaue-vistani"
+    },
+    {
+      "target": "Yasper",
+      "label": "Yasper",
+      "slug": "yasper"
+    },
+    {
+      "target": "Haus Alkir",
+      "label": "Haus Alkir",
+      "slug": "haus-alkir"
+    },
+    {
+      "target": "Tor von Barovia",
+      "label": "Tor von Barovia",
+      "slug": "tor-von-barovia"
+    }
+  ],
+  "markdown": "- Sie leben im [[Lager der Roten Vistani]] westlich von [[Vallaki]]. \n- Sie sind die Diener [[Graf Strahd]]s und können die Lande verlassen. \n- Sie arbeiten auf Augenhöhe mit und für [[Graf Strahd]], aber würden die [[Blaue Vistani|Blauen Vistani]] nicht verraten. \n- Laut [[Yasper]] sind sie nicht so nett wie die [[Blaue Vistani|Blauen Vistani]].\n\n**Mitglieder:**\n- Arigall\n- Lungari\n- Zenturi\n\n- Sie haben der Gruppe das Geld in der Nacht geklaut, als wir nach dem [[Haus Alkir]] gemeinsam vor dem [[Tor von Barovia]] gerastet hatten.\n"
+}

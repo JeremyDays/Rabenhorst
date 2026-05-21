@@ -1,0 +1,40 @@
+{
+  "title": "Lungari",
+  "slug": "lungari",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Lager der Roten Vistani/Lungari.md",
+  "url": "notes/lungari.html",
+  "apiUrl": "api/notes/lungari.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitglied der Roten VistaniRote Vistani Wo getroffen: Tor von Barovia Redender Zigeuner Hat der Gruppewertvolle Gegenstände unds Geld geraubt. KI Zusammenfassung Lungari ist eine Fi",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Rote Vistani",
+      "label": "Roten Vistani",
+      "slug": "rote-vistani"
+    },
+    {
+      "target": "Tor von Barovia",
+      "label": "Tor von Barovia",
+      "slug": "tor-von-barovia"
+    },
+    {
+      "target": "Roten Vistani",
+      "label": "Roten Vistani",
+      "slug": null
+    },
+    {
+      "target": "S11 - Tor von Barovia",
+      "label": "S11 - Tor von Barovia",
+      "slug": "s11-tor-von-barovia"
+    }
+  ],
+  "markdown": "Mitglied der [[Rote Vistani|Roten Vistani]]\n\n**Wo getroffen:** [[Tor von Barovia]]\n\nRedender Zigeuner\n\n- Hat der Gruppewertvolle Gegenstände unds Geld geraubt.\n\n## KI-Zusammenfassung\n\nLungari ist eine Figur aus dem Bereich Lager der Roten Vistani. Die lokalen Notizen halten dazu fest: Mitglied der Roten Vistani Wo getroffen: Tor von Barovia Redender Zigeuner Hat der Gruppewertvolle Gegenstände unds Geld geraubt. Direkte Bezüge bestehen zu [[Roten Vistani]], [[Tor von Barovia]]. Lungari wird außerdem in [[Tor von Barovia]], [[S11 - Tor von Barovia]] erwähnt. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}

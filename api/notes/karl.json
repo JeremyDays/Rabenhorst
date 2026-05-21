@@ -1,0 +1,25 @@
+{
+  "title": "Karl",
+  "slug": "karl",
+  "category": "npc",
+  "relativePath": "Shared/Rabenhorst/2 - NSCs/Vallaki/Wachen/Karl.md",
+  "url": "notes/karl.html",
+  "apiUrl": "api/notes/karl.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ungebildete Wache am Osttor Wo getroffen: Vallaki KI Zusammenfassung Karl ist eine Figur aus dem Bereich Vallaki / Wachen. Die lokalen Notizen halten dazu fest: Ungebildete Wache a",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vallaki",
+      "label": "Vallaki",
+      "slug": "vallaki"
+    }
+  ],
+  "markdown": "Ungebildete Wache am Osttor\n\n**Wo getroffen:** [[Vallaki]]\n\n## KI-Zusammenfassung\n\nKarl ist eine Figur aus dem Bereich Vallaki / Wachen. Die lokalen Notizen halten dazu fest: Ungebildete Wache am Osttor Wo getroffen: Vallaki Direkte Bezüge bestehen zu [[Vallaki]]. Diese Zusammenfassung folgt ausschließlich den vorhandenen Notizen und ergänzt keine neuen Fakten.\n"
+}
