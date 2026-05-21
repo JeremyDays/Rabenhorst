@@ -48,6 +48,7 @@ input[type="search"] { width: 100%; border: 1px solid rgb(217 210 195 / 58%); bo
 .search-results { background: var(--surface); border: 1px solid rgb(217 210 195); border-radius: 7px; box-shadow: 0 12px 28px rgb(0 0 0 / 16%); display: none; left: 0; max-height: min(90vh, max(140px, calc(var(--search-space-below, 90vh) - 12px))); overflow: auto; padding: 5px 8px; position: absolute; right: 0; top: calc(100% + 7px); }
 .search-shell.has-results .search-results { display: grid; gap: 2px; }
 .search-results a { border-top: 1px solid var(--line); display: block; font-size: 12px; line-height: 1.18; padding: 7px 0 6px; text-decoration: none; }
+.search-results a:focus { background: rgb(6 70 82 / 12%); border-radius: 4px; outline: 2px solid rgb(6 70 82 / 55%); outline-offset: 2px; }
 .search-results a:first-child { border-top: 0; }
 .search-results strong { display: block; font-size: 12px; line-height: 1.18; }
 .search-results span, .muted { color: var(--muted); }

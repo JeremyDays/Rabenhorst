@@ -11,6 +11,21 @@ async function bootSearch() {
     text: [note.title, ...normalizeAliases(note.frontmatter?.aliases || note.frontmatter?.alias || [])].join(" ").toLowerCase()
   }));
 
+  const resultLinks = () => Array.from(results.querySelectorAll("a"));
+  const focusResult = (index) => {
+    const links = resultLinks();
+    if (!links.length) return false;
+    const next = ((index % links.length) + links.length) % links.length;
+    links[next].focus();
+    links[next].scrollIntoView({ block: "nearest" });
+    return true;
+  };
+  const focusSearchInput = () => {
+    input.focus();
+    const end = input.value.length;
+    input.setSelectionRange(end, end);
+  };
+
   input.addEventListener("input", () => {
     const query = input.value.trim().toLowerCase();
     results.innerHTML = "";
@@ -24,6 +39,34 @@ async function bootSearch() {
       : '<p class="muted">Keine Treffer.</p>';
     shell?.classList.add("has-results");
     updateSearchDropdown(shell, results);
+  });
+
+  input.addEventListener("keydown", (event) => {
+    if (event.key === "ArrowDown" && focusResult(0)) {
+      event.preventDefault();
+    } else if (event.key === "ArrowUp" && focusResult(-1)) {
+      event.preventDefault();
+    }
+  });
+
+  results.addEventListener("keydown", (event) => {
+    const links = resultLinks();
+    const index = links.indexOf(document.activeElement);
+    if (index === -1) return;
+
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      focusResult(index + 1);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      focusResult(index - 1);
+    } else if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+      event.preventDefault();
+      focusSearchInput();
+    } else if (event.key === "Enter") {
+      event.preventDefault();
+      window.location.href = links[index].href;
+    }
   });
 
   window.addEventListener("resize", () => updateSearchDropdown(shell, results));
