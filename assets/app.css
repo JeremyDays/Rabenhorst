@@ -181,6 +181,35 @@ input[type="search"] { width: 100%; border: 1px solid rgb(217 210 195 / 58%); bo
 .image-lightbox.is-zoomable img { max-height: none; max-width: none; }
 .content table { border-collapse: collapse; display: block; max-width: 100%; overflow: auto; }
 .content th, .content td { border: 1px solid var(--line); padding: 8px; vertical-align: top; }
+.note-malduk-charakterblatt .note-detail { background: #f7f1e4; box-shadow: inset 0 0 0 3px #d8c39b; }
+.note-malduk-charakterblatt .note-detail header { min-height: 58px; }
+.note-malduk-charakterblatt .content { color: #261c16; font-size: 13px; line-height: 1.35; margin-top: 12px; }
+.note-malduk-charakterblatt .content h1 { display: none; }
+.note-malduk-charakterblatt .content h2 { border-bottom: 2px solid #7d2925; color: #3a2118; font-size: 17px; letter-spacing: 0; margin: 16px 0 7px; padding-bottom: 3px; text-transform: uppercase; }
+.note-malduk-charakterblatt .content h3 { color: #63362c; font-size: 13px; margin: 9px 0 4px; text-transform: uppercase; }
+.note-malduk-charakterblatt .content img.vault-embed { float: right; margin: 0 0 8px 14px; max-height: 190px; max-width: 190px; }
+.note-malduk-charakterblatt .content ul { margin: 4px 0; padding-left: 18px; }
+.note-malduk-charakterblatt .content li { margin: 1px 0; }
+.note-malduk-charakterblatt .content table { background: rgb(255 252 244 / 72%); border-collapse: separate; border-spacing: 0; display: table; font-size: 12px; margin: 5px 0 8px; overflow: visible; width: 100%; }
+.note-malduk-charakterblatt .content th { background: #564334; color: #fff8e8; font-size: 11px; letter-spacing: 0; text-transform: uppercase; }
+.note-malduk-charakterblatt .content th, .note-malduk-charakterblatt .content td { border-color: #c7b28c; padding: 4px 6px; }
+.note-malduk-charakterblatt .content table:nth-of-type(1) th { background: #394c59; text-align: center !important; }
+.note-malduk-charakterblatt .content table:nth-of-type(1) td { font-size: 21px; font-weight: 900; line-height: 1; text-align: center !important; }
+.note-malduk-charakterblatt .content table:nth-of-type(1) td:first-child { color: #766a5a; font-size: 10px; font-weight: 900; text-transform: uppercase; }
+.note-malduk-charakterblatt .content table:nth-of-type(1) tbody tr:nth-child(2) td { color: #766a5a; font-size: 10px; font-weight: 800; }
+.note-malduk-charakterblatt .content table:nth-of-type(2), .note-malduk-charakterblatt .content table:nth-of-type(3), .note-malduk-charakterblatt .content table:nth-of-type(4), .note-malduk-charakterblatt .content table:nth-of-type(5), .note-malduk-charakterblatt .content table:nth-of-type(6), .note-malduk-charakterblatt .content table:nth-of-type(7), .note-malduk-charakterblatt .content table:nth-of-type(8), .note-malduk-charakterblatt .content table:nth-of-type(9), .note-malduk-charakterblatt .content table:nth-of-type(10) { width: auto; }
+.note-malduk-charakterblatt .content > p strong { color: #7d2925; }
+.note-malduk-charakterblatt .content > ul:last-child li { background: #fffaf0; border: 1px solid #d2bc93; border-left: 4px solid #7d2925; border-radius: 4px; margin: 5px 0; padding: 5px 7px; }
+@media print {
+  body.note-malduk-charakterblatt { background: #fff; }
+  .note-malduk-charakterblatt .top-nav, .note-malduk-charakterblatt .relation-panel, .note-malduk-charakterblatt .note-meta { display: none !important; }
+  .note-malduk-charakterblatt .note-detail { border: 0; box-shadow: none; padding: 10mm; }
+  .note-malduk-charakterblatt .content { font-size: 9.5px; line-height: 1.18; }
+  .note-malduk-charakterblatt .content h2 { font-size: 12px; margin-top: 8px; }
+  .note-malduk-charakterblatt .content h3 { font-size: 10px; margin-top: 5px; }
+  .note-malduk-charakterblatt .content th, .note-malduk-charakterblatt .content td { padding: 2px 4px; }
+  .note-malduk-charakterblatt .content img.vault-embed { max-height: 120px; max-width: 120px; }
+}
 .callout, blockquote { border-left: 4px solid var(--accent); background: #f2eee6; border-radius: 6px; margin: 14px 0; padding: 10px 14px; }
 .callout summary { cursor: pointer; font-weight: 800; list-style-position: outside; padding: 2px 0; }
 .callout summary::marker { color: var(--accent-strong); }
