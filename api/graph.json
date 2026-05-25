@@ -241,6 +241,12 @@
       "url": "notes/ireena.html"
     },
     {
+      "id": "malduk-charakterblatt",
+      "title": "Malduk - Charakterblatt",
+      "category": "charakterblatt",
+      "url": "notes/malduk-charakterblatt.html"
+    },
+    {
       "id": "malduk",
       "title": "Malduk",
       "category": "sc",
@@ -3463,10 +3469,10 @@
       "url": "notes/s75-der-tod-des-barons.html"
     },
     {
-      "id": "s76-suche-nach-dem-hirsch-medaillon",
-      "title": "S76 - Suche nach dem Hirsch-Medaillon",
+      "id": "s76-tag-der-selbstaufopferung",
+      "title": "S76 - Tag der Selbstaufopferung",
       "category": "session",
-      "url": "notes/s76-suche-nach-dem-hirsch-medaillon.html"
+      "url": "notes/s76-tag-der-selbstaufopferung.html"
     },
     {
       "id": "alkir-damon",
@@ -25352,44 +25358,184 @@
       "label": "Vasili von Holtz"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "14-mart-755-eb",
       "label": "14. Mart 755 EB"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "ireena",
       "label": "Ireena"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "malduk",
       "label": "Malduk"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "michal",
       "label": "Michal"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "sabelzahntiger",
       "label": "Säbelzahntiger"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "heinard",
       "label": "Heinard"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "karl-wachter",
       "label": "Karl Wachter"
     },
     {
-      "source": "s76-suche-nach-dem-hirsch-medaillon",
+      "source": "s76-tag-der-selbstaufopferung",
       "target": "vasili-von-holtz",
       "label": "Vasili von Holtz"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "baron-vargas-vallakovich",
+      "label": "Baron Vargas Vallakovich"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "izek-strazni",
+      "label": "Izek Strazni"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "vallaki",
+      "label": "Vallaki"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "lydia-vallakovich",
+      "label": "Lydia Vallakovich"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "nikolai-wachter-jr",
+      "label": "Nikolai Wachter Jr."
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "hirsch-medaillon",
+      "label": "Hirsch-Medaillon"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "barovia",
+      "label": "Barovia"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "rictavio",
+      "label": "Rictavio"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "vampire",
+      "label": "Vampire"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "damonen",
+      "label": "Dämonen"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "victor-vallakovich",
+      "label": "Victor Vallakovich"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "jelen",
+      "label": "Jelen"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "jelens-flamme",
+      "label": "Jelens Flamme"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "dunkelheit",
+      "label": "Dunkelheit"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "fest-des-heiligen-andral",
+      "label": "Fest des Heiligen Andral"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "st-andrals-kirche",
+      "label": "St. Andrals Kirche"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "henrik-van-der-voort",
+      "label": "Henrik van der Voort"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "blauwassertaverne",
+      "label": "Blauwassertaverne"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "urwin-martikov",
+      "label": "Urwin Martikov"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "tarokka",
+      "label": "Tarokka"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "umhangetasche",
+      "label": "Umhängetasche"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "silber-medaillon",
+      "label": "Silber-Medaillon"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "vater-lucian-petrovich",
+      "label": "Vater Lucian Petrovich"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "henrik-van-der-voort",
+      "label": "Sargmacher"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "abtei-st-martikov",
+      "label": "Abtei St. Martikov"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "familie-martikov",
+      "label": "Familie Martikov"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "schlussel-zur-blutigen-rebe",
+      "label": "Schlüssel zur blutigen Rebe"
+    },
+    {
+      "source": "s76-tag-der-selbstaufopferung",
+      "target": "madame-eva",
+      "label": "Madame Eva"
     },
     {
       "source": "alkir-damon",
